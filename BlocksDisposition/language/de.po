@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "For item set show"
+msgstr "Zur Artikelset-Show"
+
+msgid "For item show"
+msgstr "Zur Artikelausstellung"
+
+msgid "For media show"
+msgstr "Für Medienshow"
+
+msgid "For item set browse"
+msgstr "Suchen Sie nach Artikelsets"
+
+msgid "For item browse"
+msgstr "Zum Durchsuchen von Artikeln"

@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d menus successfully deleted"
+msgstr "%d Menüs erfolgreich gelöscht"
+
+msgid "[no label]"
+msgstr "[kein Etikett]"
+
+msgid "[Unknown resource]"
+msgstr "[Unbekannte Ressource]"
+
+msgid "[Unknown resource #%d]"
+msgstr "[Unbekannte Ressource #%d]"
+
+msgid "Resource id"
+msgstr "Ressourcen-ID"
+
+msgid "Resource unavailable"
+msgstr "Ressource nicht verfügbar"
+
+msgid "Optional label"
+msgstr "Optionales Etikett"
+
+msgid "Optional html class"
+msgstr "Optionale HTML-Klasse"
+
+msgid "New menu"
+msgstr "Neue Speisekarte"
+
+msgid "Menu"
+msgstr "Speisekarte"
+
+msgid "Menus"
+msgstr "Menüs"
+
+msgid "Add new menu"
+msgstr "Neues Menü hinzufügen"
+
+msgid "Select menu"
+msgstr "Menü auswählen"
+
+msgid "Delete menus"
+msgstr "Menüs löschen"
+
+msgid "Are you sure you would like to delete the selected menus?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Menüs löschen möchten?"
+
+msgid "%1$s: this action will permanently delete %2$s menus and cannot be undone."
+msgstr "%1$s: Diese Aktion löscht die Menüs von %2$s dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Omeka could not find any menus."
+msgstr "Omeka konnte keine Menüs finden."
+
+msgid "Delete menu \"%s\""
+msgstr "Menü „%s“ löschen"
+
+msgid "Tops to menus"
+msgstr "Tops zu Menüs"
+
+msgid "Create a new menu for each top menu"
+msgstr "Erstellen Sie für jedes Hauptmenü ein neues Menü"
+
+msgid "Open all"
+msgstr "Alle öffnen"
+
+msgid "Close all"
+msgstr "Alle schließen"
+
+msgid "The settings for \"Breadcrumbs\" were upgraded."
+msgstr "Die Einstellungen für „Breadcrumbs“ wurden aktualisiert."
+
+msgid "The helper \"PrimaryItemSet\" was moved from module %1$sNext%2$s and a param is added for it in %3$smain settings%2$s."
+msgstr "Der Helfer „PrimaryItemSet“ wurde aus dem Modul %1$sNext%2$s verschoben und in %3$sHaupteinstellungen%2$s wurde ein Parameter dafür hinzugefügt."
+
+msgid "A %1$ssetting%2$s has been added to update related resources when saving menu."
+msgstr "Ein %1$ssetting%2$s wurde hinzugefügt, um zugehörige Ressourcen beim Speichern des Menüs zu aktualisieren."
+
+msgid "Menu: Fill as broader when saving menu"
+msgstr "Menü: Beim Speichern des Menüs breiter ausfüllen"
+
+msgid "Menu: Fill as narrower when saving menu"
+msgstr "Menü: Beim Speichern des Menüs schmaler ausfüllen"
+
+msgid "No menu exists with name \"{menu_name}\" in site #{site_id}."
+msgstr "Auf der Site #{site_id} ist kein Menü mit dem Namen „{menu_name}“ vorhanden."
+
+msgid "The settings does not require to update resources."
+msgstr "Die Einstellungen erfordern keine Aktualisierung der Ressourcen."
+
+msgid "No relations to create: settings \"broader\" and \"narrower\" are no defined."
+msgstr "Es müssen keine Beziehungen erstellt werden: Die Einstellungen „breiter“ und „enger“ sind nicht definiert."
+
+msgid "Settings for \"broader\" or \"narrower\" are not correct."
+msgstr "Einstellungen für „breiter“ oder „schmaler“ sind nicht korrekt."
+
+msgid "Resource #{resource_id} does not exist."
+msgstr "Ressource #{resource_id} existiert nicht."
+
+msgid "Resource #{resource_id} has no template and cannot be updated."
+msgstr "Ressource #{resource_id} hat keine Vorlage und kann nicht aktualisiert werden."
+
+msgid "Resource #%1$d has a template not in the limited list of templates."
+msgstr "Ressource #%1$d verfügt über eine Vorlage, die nicht in der eingeschränkten Liste der Vorlagen enthalten ist."
+
+msgid "The template {template_label} (#{template_id}) has no properties to update."
+msgstr "Die Vorlage {template_label} (#{template_id}) verfügt über keine zu aktualisierenden Eigenschaften."
+
+msgid "End of the job: {total} menu elements, {count} resources, {count_updated}/{count_processed} resources updated, {count_error} errors."
+msgstr "Ende des Auftrags: {total} Menüelemente, {count} Ressourcen, {count_updated}/{count_processed} Ressourcen aktualisiert, {count_error} Fehler."
+
+msgid "Update resources on menu saving"
+msgstr "Aktualisieren Sie die Ressourcen zum Speichern von Menüs"
+
+msgid "Only when properties below exist in resource template"
+msgstr "Nur wenn die folgenden Eigenschaften in der Ressourcenvorlage vorhanden sind"
+
+msgid "According to template property settings (requires module Advanced Resource Template)"
+msgstr "Gemäß den Eigenschafteneinstellungen der Vorlage (erfordert das Modul „Erweiterte Ressourcenvorlage“)"
+
+msgid "Limit update to specific templates"
+msgstr "Beschränken Sie die Aktualisierung auf bestimmte Vorlagen"
+
+msgid "Select templates…"
+msgstr "Vorlagen auswählen…"
+
+msgid "Properties to store a broader linked resource"
+msgstr "Eigenschaften zum Speichern einer umfassenderen verknüpften Ressource"
+
+msgid "Automatically update resources by adding a value to it when the menu uses resources. It may be dcterms:isPartOf or skos:broader or any other property."
+msgstr "Aktualisieren Sie Ressourcen automatisch, indem Sie einen Wert hinzufügen, wenn das Menü Ressourcen verwendet.Es kann sich um dcterms:isPartOf oder skos:broader oder eine beliebige andere Eigenschaft handeln."
+
+msgid "Select properties…"
+msgstr "Eigenschaften auswählen…"
+
+msgid "Properties to store a narrower linked resource"
+msgstr "Eigenschaften zum Speichern einer enger verknüpften Ressource"
+
+msgid "Automatically update resources by adding a value to it when the menu uses resources. It may be dcterms:hasPart or skos:narrower or any other property."
+msgstr "Aktualisieren Sie Ressourcen automatisch, indem Sie einen Wert hinzufügen, wenn das Menü Ressourcen verwendet.Es kann sich um dcterms:hasPart oder skos:narrower oder eine andere Eigenschaft handeln."
+
+msgid "Menu name"
+msgstr "Menüname"
+
+msgid "menu"
+msgstr "Speisekarte"
+
+msgid "Menu \"%s\" successfully deleted"
+msgstr "Menü „%s“ erfolgreich gelöscht"
+
+msgid "You must select at least one menu to batch delete."
+msgstr "Sie müssen mindestens ein Menü zum Stapellöschen auswählen."
+
+msgid "This menu is empty and cannot be divided."
+msgstr "Dieses Menü ist leer und kann nicht geteilt werden."
+
+msgid "Menu \"%s\" successfully created"
+msgstr "Menü „%s“ erfolgreich erstellt"
+
+msgid "Menus \"%s\" successfully created"
+msgstr "Menüs „%s“ erfolgreich erstellt"
+
+msgid "Menu \"%s\" uses an existing name and was renamed \"%s\"."
+msgstr "Menü „%s“ verwendet einen vorhandenen Namen und wurde in „%s“ umbenannt."
+
+msgid "Menu \"%s\" was saved successfully."
+msgstr "Menü „%s“ wurde erfolgreich gespeichert."
+
+msgid "The settings require to update the resources when saving menu, but no properties are defined."
+msgstr "Die Einstellungen erfordern eine Aktualisierung der Ressourcen beim Speichern des Menüs, es sind jedoch keine Eigenschaften definiert."
+
+msgid "Processing update of relations of the resources, if any, in background (job %1$s#%2$d%3$s, %4$slogs%3$s)."
+msgstr "Verarbeitung der Aktualisierung der Beziehungen der Ressourcen, falls vorhanden, im Hintergrund (Job %1$s#%2$d%3$s, %4$slogs%3$s)."
+
+msgid "Menu \"%s\" uses a reserved name and was renamed \"%s\"."
+msgstr "Das Menü „%s“ verwendet einen reservierten Namen und wurde in „%s“ umbenannt."
+
+msgid "Structure"
+msgstr "Struktur"
+
+msgid "Invalid navigation: resource link missing resource ID"
+msgstr "Ungültige Navigation: Ressourcenlink fehlt, Ressourcen-ID"

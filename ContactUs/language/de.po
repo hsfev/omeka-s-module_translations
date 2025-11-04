@@ -1,0 +1,723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+msgid "Remove Contact Us files"
+msgstr "Entfernen Sie die Kontaktdateien"
+
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+msgid "There is no resources or files."
+msgstr "Es sind keine Ressourcen oder Dateien vorhanden."
+
+msgid "An error occurred."
+msgstr "Es ist ein Fehler aufgetreten."
+
+msgid "Not an ajax request"
+msgstr "Keine Ajax-Anfrage"
+
+msgid "The base uri is not set (key [file_store][local][base_uri]) in the config file of Omeka \"config/local.config.php\". It must be set for now (key [file_store][local][base_uri]) in order to process background jobs."
+msgstr "Die Basis-URI ist in der Konfigurationsdatei von Omeka „config/local.config.php“ nicht festgelegt (Schlüssel [file_store][local][base_uri]).Es muss vorerst gesetzt werden (Schlüssel [file_store][local][base_uri]), um Hintergrundjobs verarbeiten zu können."
+
+msgid "Append a form to allow visitors to contact us. Site settings are used when following fields are empty."
+msgstr "Fügen Sie ein Formular hinzu, damit Besucher mit uns Kontakt aufnehmen können.Site-Einstellungen werden verwendet, wenn die folgenden Felder leer sind."
+
+msgid "Append a form to allow visitors to subscribe to a newsletter."
+msgstr "Fügen Sie ein Formular hinzu, um Besuchern das Abonnieren eines Newsletters zu ermöglichen."
+
+msgid "Unsubscribe newsletter"
+msgstr "Newsletter abbestellen"
+
+msgid "[Contact] %s"
+msgstr "[Kontakt] %s"
+
+msgid "newsletter: %s"
+msgstr "Newsletter: %s"
+
+msgid "[No title]"
+msgstr "[Kein Titel]"
+
+msgid "[Unknown resource]"
+msgstr "[Unbekannte Ressource]"
+
+msgid "Add to the selection for contact"
+msgstr "Zur Kontaktauswahl hinzufügen"
+
+msgid "Send a message"
+msgstr "Senden Sie eine Nachricht"
+
+msgid "No media"
+msgstr "Keine Medien"
+
+msgid "%d resource"
+msgstr "%d Ressource"
+
+msgid "%d resources"
+msgstr "%d Ressourcen"
+
+msgid "No resource is selected."
+msgstr "Es ist keine Ressource ausgewählt."
+
+msgid "No resource selected."
+msgstr "Keine Ressource ausgewählt."
+
+msgid "Delete contact messages"
+msgstr "Kontaktnachrichten löschen"
+
+msgid "Are you sure you would like to delete the selected messages?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Nachrichten löschen möchten?"
+
+msgid "Sender name"
+msgstr "Absendername"
+
+msgid "Sender email"
+msgstr "E-Mail des Absenders"
+
+msgid "Date sent"
+msgstr "Datum gesendet"
+
+msgid "Contact messages"
+msgstr "Kontaktnachrichten"
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Set read"
+msgstr "Gelesen einstellen"
+
+msgid "not-read"
+msgstr "Nicht gelesen"
+
+msgid "Set not read"
+msgstr "Satz nicht gelesen"
+
+msgid "Set spam"
+msgstr "Spam festlegen"
+
+msgid "Set not spam"
+msgstr "Kein Spam einstellen"
+
+msgid "There are no messages."
+msgstr "Es liegen keine Nachrichten vor."
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Sender"
+msgstr "Absender"
+
+msgid "Message to author"
+msgstr "Nachricht an den Autor"
+
+msgid "Toggle read"
+msgstr "Lesen umschalten"
+
+msgid "Toggle spam"
+msgstr "Spam umschalten"
+
+msgid "Toggle zip"
+msgstr "Reißverschluss umschalten"
+
+msgid "message #%d"
+msgstr "Nachricht #%d"
+
+msgid "(public)"
+msgstr "(öffentlich)"
+
+msgid "Link to the zipped file when created"
+msgstr "Link zur ZIP-Datei bei der Erstellung"
+
+msgid "Multiple resources"
+msgstr "Mehrere Ressourcen"
+
+msgid "%d items (admin)"
+msgstr "%d Artikel (Administrator)"
+
+msgid "%d items (public)"
+msgstr "%d Elemente (öffentlich)"
+
+msgid "Link to the zipped files when created"
+msgstr "Link zu den gezippten Dateien, wenn diese erstellt wurden"
+
+msgid "Attached resources"
+msgstr "Angehängte Ressourcen"
+
+msgid "Last modified"
+msgstr "Zuletzt geändert"
+
+msgid "Infos"
+msgstr "Infos"
+
+msgid "Message to us"
+msgstr "Nachricht an uns"
+
+msgid "Is read: %s"
+msgstr "Wird gelesen: %s"
+
+msgid "Is spam: %s"
+msgstr "Ist Spam: %s"
+
+msgid "Has zip: %s"
+msgstr "Hat Zip: %s"
+
+msgid "[No subject]"
+msgstr "[Kein Betreff]"
+
+msgid "Attached file"
+msgstr "Angehängte Datei"
+
+msgid "Media type: %s"
+msgstr "Medientyp: %s"
+
+msgid "Warning: content from an anonymous user"
+msgstr "Warnung: Inhalt von einem anonymen Benutzer"
+
+msgid "Warning: content from a guest user"
+msgstr "Warnung: Inhalt von einem Gastbenutzer"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Selection for contact"
+msgstr "Auswahl zur Kontaktaufnahme"
+
+msgid "There is a limit of %d resources by request"
+msgstr "Es gibt ein Limit von %d Ressourcen pro Anfrage"
+
+msgid "Fill the form"
+msgstr "Füllen Sie das Formular aus"
+
+msgid "Complete the request"
+msgstr "Vervollständigen Sie die Anfrage"
+
+msgid "My selection for contact"
+msgstr "Meine Auswahl zur Kontaktaufnahme"
+
+msgid "A checkbox for consent has been added to the user form. You may update the default label in site settings"
+msgstr "Dem Benutzerformular wurde ein Kontrollkästchen zur Einwilligung hinzugefügt.Sie können die Standardbezeichnung in den Site-Einstellungen aktualisieren"
+
+msgid "It’s now possible to set a specific message when contacting author."
+msgstr "Es ist jetzt möglich, bei der Kontaktaufnahme mit dem Autor eine bestimmte Nachricht festzulegen."
+
+msgid "It’s now possible to contact authors of a resource via the view helper contactUs()."
+msgstr "Es ist nun möglich, Autoren einer Ressource über den View-Helfer contactUs() zu kontaktieren."
+
+msgid "It’s now possible to append specific fields to the form."
+msgstr "Es ist jetzt möglich, bestimmte Felder an das Formular anzuhängen."
+
+msgid "It’s now possible to add a contact form in item/show for themes supporting resource blocks."
+msgstr "Es ist jetzt möglich, in Artikel/Show ein Kontaktformular für Themen hinzuzufügen, die Ressourcenblöcke unterstützen."
+
+msgid "It’s now possible to add a contact form in item/browse and to send a list of resource ids (need a line in theme)."
+msgstr "Es ist jetzt möglich, ein Kontaktformular in „item/browse“ hinzuzufügen und eine Liste von Ressourcen-IDs zu senden (benötigt eine Zeile im Theme)."
+
+msgid "It’s now possible to prepare a zip file of asked files to send to a visitor via a link. See {link}settings{link_end}."
+msgstr "Es ist jetzt möglich, eine ZIP-Datei der angeforderten Dateien vorzubereiten, um sie über einen Link an einen Besucher zu senden.Siehe {link}Einstellungen{link_end}."
+
+msgid "A new button allows to create a zip for any contact."
+msgstr "Über eine neue Schaltfläche können Sie für jeden Kontakt eine Zip-Datei erstellen."
+
+msgid "Two new options allow to append the contact form to resource pages. They are disabled by default, so check them if you need them."
+msgstr "Zwei neue Optionen ermöglichen das Anhängen des Kontaktformulars an Ressourcenseiten.Sie sind standardmäßig deaktiviert. Überprüfen Sie sie daher bei Bedarf."
+
+msgid "A new option allows to use the user email to send message. It is not recommended because many emails providers reject them as spam. Use it only if you manage your own domain."
+msgstr "Eine neue Option ermöglicht es, die E-Mail-Adresse des Benutzers zum Senden von Nachrichten zu verwenden.Dies wird nicht empfohlen, da viele E-Mail-Anbieter sie als Spam ablehnen.Verwenden Sie es nur, wenn Sie Ihre eigene Domain verwalten."
+
+msgid "A new block allows to display a form to subscribe to a newsletter."
+msgstr "Ein neuer Block ermöglicht die Anzeige eines Formulars zum Abonnieren eines Newsletters."
+
+msgid "The option \"heading\" was removed from blocks Contact Us and Newsletter and replaced by a block Heading (if module Block Plus is present) or Html. Remove it in the following files before upgrade and automatic conversion: {json}"
+msgstr "Die Option „Überschrift“ wurde aus den Blöcken „Kontakt“ und „Newsletter“ entfernt und durch eine Blocküberschrift (sofern das Modul Block Plus vorhanden ist) oder HTML ersetzt.Entfernen Sie es vor dem Upgrade und der automatischen Konvertierung in den folgenden Dateien: {json}"
+
+msgid "The setting \"template\" was moved to the new block layout settings available since Omeka S v4.1. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Vorlage“ wurde in die neuen Blocklayout-Einstellungen verschoben, die seit Omeka S v4.1 verfügbar sind.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The option \"heading\" was removed from blocks Contact Us and Newsletter. New block \"Heading\" (if module Block Plus is present) or \"Html\" was prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Option „Überschrift“ wurde aus den Blöcken „Kontakt“ und „Newsletter“ entfernt.Neuer Block „Überschrift“ (falls Modul Block Plus vorhanden) oder „Html“ wurde allen Blöcken vorangestellt, die eine gefüllte Überschrift hatten.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "New options were added to set message after posting mail."
+msgstr "Es wurden neue Optionen hinzugefügt, um die Nachricht nach dem Posten einer E-Mail festzulegen."
+
+msgid "It is now possible to unsubscribe to a newsletter."
+msgstr "Ab sofort ist es möglich, sich von einem Newsletter abzumelden."
+
+msgid "A new page allows the user or the visitor to see all the selected resources."
+msgstr "Auf einer neuen Seite kann der Benutzer oder Besucher alle ausgewählten Ressourcen sehen."
+
+msgid "The number of selected items can be set in site settings. It is limited to 25 by default."
+msgstr "Die Anzahl der ausgewählten Elemente kann in den Site-Einstellungen festgelegt werden.Sie ist standardmäßig auf 25 begrenzt."
+
+msgid "It is now possible to define specific fields for the contact us form via the main or site settings."
+msgstr "Es ist nun möglich, über die Haupt- oder Site-Einstellungen bestimmte Felder für das Kontaktformular zu definieren."
+
+msgid "New fields were added for messages."
+msgstr "Für Nachrichten wurden neue Felder hinzugefügt."
+
+msgid "Existing fields for messages were clarified. You may need to check your config."
+msgstr "Bestehende Felder für Nachrichten wurden präzisiert.Möglicherweise müssen Sie Ihre Konfiguration überprüfen."
+
+msgid "A new field allows to set the sender email. The first email of the list of emails for notification is no more used as sender. Check it if needed."
+msgstr "In einem neuen Feld können Sie die E-Mail-Adresse des Absenders festlegen.Die erste E-Mail der Liste der E-Mail-Benachrichtigungen wird nicht mehr als Absender verwendet.Überprüfen Sie es bei Bedarf."
+
+msgid "Warning: there might be an issue with the option \"Send with user email\". So check it and try to send a message. Note that to send with user email is not recommended, unless you have a good smtp server."
+msgstr "Warnung: Möglicherweise liegt ein Problem mit der Option „Mit Benutzer-E-Mail senden“ vor.Überprüfen Sie es also und versuchen Sie, eine Nachricht zu senden.Beachten Sie, dass das Senden mit Benutzer-E-Mail nicht empfohlen wird, es sei denn, Sie verfügen über einen guten SMTP-Server."
+
+msgid "A new site option allows to hide the guest page for selection."
+msgstr "Eine neue Site-Option ermöglicht es, die Gastseite zur Auswahl auszublenden."
+
+msgid "The directory \"{directory}\" is not writeable."
+msgstr "Das Verzeichnis „{directory}“ ist nicht beschreibbar."
+
+msgid "All contact messages and files will be removed (folder \"{folder}\")."
+msgstr "Alle Kontaktnachrichten und Dateien werden entfernt (Ordner „{folder}“)."
+
+msgid "The unsubscription for {email} is confirmed."
+msgstr "Die Abmeldung für {email} ist bestätigt."
+
+msgid "Thank you for subscribing to our newsletter, {name}."
+msgstr "Vielen Dank, dass Sie unseren Newsletter abonniert haben, {Name}."
+
+msgid "Thank you for your message, {name}. It will be sent to the author as soon as possible."
+msgstr "Vielen Dank für Ihre Nachricht, {Name}.Es wird so schnell wie möglich an den Autor gesendet."
+
+msgid "Thank you for your message, {name}. We will answer you as soon as possible."
+msgstr "Vielen Dank für Ihre Nachricht, {Name}.Wir werden Ihnen so schnell wie möglich antworten."
+
+msgid "Subscribe newsletter"
+msgstr "Newsletter abonnieren"
+
+msgid "There is an error: {errors}"
+msgstr "Es liegt ein Fehler vor: {errors}"
+
+msgid "Thank you for your message {name}. Check your confirmation mail. The author will receive it soon."
+msgstr "Vielen Dank für Ihre Nachricht {Name}.Überprüfen Sie Ihre Bestätigungsmail.Der Autor wird es bald erhalten."
+
+msgid "Sorry, we are not able to send the email to the author."
+msgstr "Leider können wir die E-Mail nicht an den Autor senden."
+
+msgid "Sorry, the message is recorded, but we are not able to notify the admin at once. You may come back later if you don’t receive answer."
+msgstr "Leider wird die Nachricht aufgezeichnet, aber wir können den Administrator nicht sofort benachrichtigen.Sie können später wiederkommen, wenn Sie keine Antwort erhalten."
+
+msgid "Sorry, we are not able to send the confirmation email."
+msgstr "Leider können wir die Bestätigungs-E-Mail nicht senden."
+
+msgid "There is an error."
+msgstr "Es liegt ein Fehler vor."
+
+msgid "About resource %s (%s)."
+msgstr "Über Ressource %s (%s)."
+
+msgid "You must select a resource to contact the author."
+msgstr "Sie müssen eine Ressource auswählen, um den Autor zu kontaktieren."
+
+msgid "This resource has no author to contact. Contact administor for more information."
+msgstr "Für diese Ressource gibt es keinen Autor, den Sie kontaktieren können.Für weitere Informationen wenden Sie sich an den Administrator."
+
+msgid "Contact administor for more information."
+msgstr "Für weitere Informationen wenden Sie sich an den Administrator."
+
+msgid "No resource id set."
+msgstr "Keine Ressourcen-ID festgelegt."
+
+msgid "No filename set."
+msgstr "Kein Dateiname festgelegt."
+
+msgid "No basepath set."
+msgstr "Kein Basispfad festgelegt."
+
+msgid "No image type set."
+msgstr "Kein Bildtyp festgelegt."
+
+msgid "The php extension \"php-zip\" must be installed."
+msgstr "Die PHP-Erweiterung „php-zip“ muss installiert sein."
+
+msgid "Resource id is invalid."
+msgstr "Die Ressourcen-ID ist ungültig."
+
+msgid "No valid resource."
+msgstr "Keine gültige Ressource."
+
+msgid "No file attached to selected items."
+msgstr "An die ausgewählten Elemente ist keine Datei angehängt."
+
+msgid "No derivative file of type {type} attached to selected items."
+msgstr "An die ausgewählten Elemente ist keine abgeleitete Datei vom Typ {type} angehängt."
+
+msgid "Zip created successfully and available directly at {url}."
+msgstr "Zip erfolgreich erstellt und direkt unter {url} verfügbar."
+
+msgid "Unable to create directory in \"/files/\"."
+msgstr "Verzeichnis in „/files/“ kann nicht erstellt werden."
+
+msgid "Unable to create the zip file."
+msgstr "Die ZIP-Datei kann nicht erstellt werden."
+
+msgid "An issue occurred during the creation of the zip file: {error}."
+msgstr "Beim Erstellen der ZIP-Datei ist ein Problem aufgetreten: {error}."
+
+msgid "An issue occurred and the zip file was not created: {error}."
+msgstr "Es ist ein Problem aufgetreten und die ZIP-Datei wurde nicht erstellt: {error}."
+
+msgid "Contact Us"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Specific fields to append to form"
+msgstr "Spezifische Felder, die an das Formular angehängt werden sollen"
+
+msgid "Set the name (ascii only and no space) and the label separated by a \"=\", one by line. The elements may be adapted via the theme. If empty, the main settings will be used."
+msgstr "Legen Sie den Namen (nur ASCII und ohne Leerzeichen) und die Beschriftung getrennt durch ein „=\" zeilenweise fest.Die Elemente können über das Theme angepasst werden.Wenn leer, werden die Haupteinstellungen verwendet."
+
+msgid "phone"
+msgstr "Phone = Telefon = Telefon"
+
+msgid "Email of the sender (else no-reply user or administrator)"
+msgstr "E-Mail des Absenders (andernfalls No-Reply-Benutzer oder Administrator)"
+
+msgid "The no-reply email can be set via module EasyAdmin. The administrator email can set above."
+msgstr "Die No-Reply-E-Mail kann über das Modul EasyAdmin eingestellt werden.Die E-Mail-Adresse des Administrators kann oben festgelegt werden."
+
+msgid "Name of the sender when email above is set"
+msgstr "Name des Absenders, wenn oben E-Mail eingestellt ist"
+
+msgid "Emails to notify"
+msgstr "E-Mails zur Benachrichtigung"
+
+msgid "The list of recipients to notify, one by row."
+msgstr "Die Liste der zu benachrichtigenden Empfänger, einzeln nach Zeile."
+
+msgid "contact@example.org\ninfo@example2.org"
+msgstr "contact@example.org\ninfo@example2.org"
+
+msgid "Notification email subject for admin"
+msgstr "Betreff der Benachrichtigungs-E-Mail für den Administrator"
+
+msgid "Notification message for admin"
+msgstr "Benachrichtigungsnachricht für den Administrator"
+
+msgid "Possible placeholders: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {object}, {subject}, {message}, {newsletter}, {ip}, {fields}, {each specific field}, {resource}, {resource_id}, {resource_title}, {resource_url}, {resource_url_admin}, {resource_link}, {property term}, {resources}, {resources_ids}, {resources_url}, {resources_url_admin}, {resources_links}, {resources::property term}."
+msgstr "Possible placeholders: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {object}, {subject}, {message}, {newsletter}, {ip}, {fields}, {each specific field}, {resource}, {resource_id}, {resource_title}, {resource_url}, {resource_url_admin}, {resource_link}, {property term}, {resources}, {resources_ids}, {resources_url}, {resources_url_admin}, {resources_links}, {resources::property term}."
+
+msgid "Send a confirmation email"
+msgstr "Senden Sie eine Bestätigungs-E-Mail"
+
+msgid "Subject of the confirmation email"
+msgstr "Betreff der Bestätigungs-E-Mail"
+
+msgid "Confirmation message"
+msgstr "Bestätigungsnachricht"
+
+msgid "Subject of the confirmation for subscription to newsletter"
+msgstr "Gegenstand der Bestätigung für die Anmeldung zum Newsletter"
+
+msgid "Confirmation message for subscription to newsletter"
+msgstr "Bestätigungsnachricht für die Anmeldung zum Newsletter"
+
+msgid "Possible placeholders: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {object}, {subject}, {ip}."
+msgstr "Mögliche Platzhalter: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {object}, {subject}, {ip}."
+
+msgid "Subject of the email to author"
+msgstr "Betreff der E-Mail an den Autor"
+
+msgid "Message to the author"
+msgstr "Nachricht an den Autor"
+
+msgid "Possible placeholders: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {object}, {subject}, {message}, {newsletter}, {ip}."
+msgstr "Mögliche Platzhalter: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {object}, {subject}, {message}, {newsletter}, {ip}."
+
+msgid "Message displayed on site after post"
+msgstr "Nachricht wird nach dem Post auf der Website angezeigt"
+
+msgid "Possible placeholders: {name}, {email}."
+msgstr "Mögliche Platzhalter: {name}, {email}."
+
+msgid "Message displayed on site after post for newsletter"
+msgstr "Nachricht, die nach dem Posten für den Newsletter auf der Website angezeigt wird"
+
+msgid "Label for the consent checkbox"
+msgstr "Beschriftung für das Kontrollkästchen „Einwilligung“."
+
+msgid "Enable simple antispam for visitors"
+msgstr "Aktivieren Sie einfachen Antispam für Besucher"
+
+msgid "List of antispam questions/answers"
+msgstr "Liste der Antispam-Fragen/Antworten"
+
+msgid "See the block \"Contact us\" for a simple list. Separate questions and answer with a \"=\". Questions may be translated."
+msgstr "Eine einfache Liste finden Sie im Block „Kontaktieren Sie uns“.Trennen Sie Fragen und Antworten mit einem „=“.Fragen können übersetzt werden."
+
+msgid "How many are zero plus 1 (in number)?"
+msgstr "1\nHow many are one plus 1 (in number)? = 2 = Wie viele sind Null plus 1 (in Zahlen)?= 1\nWie viele sind eins plus 1 (in Zahlen)?= 2"
+
+msgid "Append to resource page (deprecated, for themes without resource block)"
+msgstr "An Ressourcenseite anhängen (veraltet, für Themes ohne Ressourcenblock)"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Append to items browse page"
+msgstr "An die Suchseite für Elemente anhängen"
+
+msgid "Add a checkbox to select resources individually in lists (browse and search)"
+msgstr "Fügen Sie ein Kontrollkästchen hinzu, um Ressourcen einzeln in Listen auszuwählen (durchsuchen und suchen)."
+
+msgid "This option is used only with the module Advanced Search for now."
+msgstr "Diese Option wird derzeit nur mit dem Modul Erweiterte Suche verwendet."
+
+msgid "Disable the selection in guest view"
+msgstr "Deaktivieren Sie die Auswahl in der Gastansicht"
+
+msgid "Maximum number of items to store in selection"
+msgstr "Maximale Anzahl der in der Auswahl zu speichernden Elemente"
+
+msgid "Label for the page Selection for contact"
+msgstr "Beschriftung für die Seite Auswahl für Kontakt"
+
+msgid "Label for the link in guest account"
+msgstr "Beschriftung für den Link im Gastkonto"
+
+msgid "Include resources in response"
+msgstr "Beziehen Sie Ressourcen als Antwort ein"
+
+msgid "Some themes may require resources to be included in response when selecting a resource. This option avoids an api request via js on public side, but slow response."
+msgstr "Bei einigen Themen ist es möglicherweise erforderlich, dass bei der Auswahl einer Ressource Ressourcen als Antwort angegeben werden.Diese Option vermeidet eine API-Anfrage über js auf der öffentlichen Seite, aber eine langsame Antwort."
+
+msgid "Include matching resource ids from module Selection in response"
+msgstr "Fügen Sie als Antwort passende Ressourcen-IDs aus der Modulauswahl hinzu"
+
+msgid "Set the name (ascii only and no space) and the label separated by a \"=\", one by line. The elements may be adapted via the theme. This setting may be overridden by site or block settings."
+msgstr "Legen Sie den Namen (nur ASCII und ohne Leerzeichen) und die Beschriftung getrennt durch ein „=\" zeilenweise fest.Die Elemente können über das Theme angepasst werden.Diese Einstellung kann durch Site- oder Blockeinstellungen überschrieben werden."
+
+msgid "Property where email of the author is stored"
+msgstr "Eigenschaft, in der die E-Mail-Adresse des Autors gespeichert ist"
+
+msgid "Allows visitors to contact authors via an email."
+msgstr "Ermöglicht Besuchern die Kontaktaufnahme mit Autoren per E-Mail."
+
+msgid "Disable feature"
+msgstr "Funktion deaktivieren"
+
+msgid "Owner of the resource"
+msgstr "Besitzer der Ressource"
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Send email to author only, not admins (hidden)"
+msgstr "E-Mail nur an den Autor senden, nicht an Administratoren (versteckt)"
+
+msgid "Use the user email to send message to author (warning: many email providers reject them as spam)"
+msgstr "Verwenden Sie die E-Mail-Adresse des Benutzers, um eine Nachricht an den Autor zu senden (Warnung: Viele E-Mail-Anbieter lehnen sie als Spam ab)"
+
+msgid "This option is not recommended, unless you have a good smtp server. If not set, the user email will be set as reply-to."
+msgstr "Diese Option wird nicht empfohlen, es sei denn, Sie verfügen über einen guten SMTP-Server.Wenn nicht festgelegt, wird die E-Mail-Adresse des Benutzers als Antwortadresse festgelegt."
+
+msgid "Zipped files to send"
+msgstr "ZIP-Dateien zum Versenden"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Square"
+msgstr "Quadrat"
+
+msgid "Remove zip files after some days"
+msgstr "Entfernen Sie die Zip-Dateien nach einigen Tagen"
+
+msgid "Attach a file"
+msgstr "Hängen Sie eine Datei an"
+
+msgid "Send message"
+msgstr "Nachricht senden"
+
+msgid "Allow to attach a file"
+msgstr "Erlauben Sie das Anhängen einer Datei"
+
+msgid "Add a checkbox for a newsletter"
+msgstr "Add a checkbox for a newsletter"
+
+msgid "Label for the newsletter"
+msgstr "Etikett für den Newsletter"
+
+msgid "Other fields to append to form"
+msgstr "Andere Felder, die an das Formular angehängt werden sollen"
+
+msgid "Set the name (ascii only and no space) and the label separated by a \"=\", one by line. The elements may be adapted via the theme. If empty, the site settings or the main settings will be used."
+msgstr "Legen Sie den Namen (nur ASCII und ohne Leerzeichen) und die Beschriftung getrennt durch ein „=\" zeilenweise fest.Die Elemente können über das Theme angepasst werden.Wenn leer, werden die Site-Einstellungen oder die Haupteinstellungen verwendet."
+
+msgid "Enable Google Recaptcha antispam for visitors"
+msgstr "Aktivieren Sie Google Recaptcha Antispam für Besucher"
+
+msgid "Checkbox to unsubscribe"
+msgstr "Kontrollkästchen zum Abbestellen"
+
+msgid "Label for the unsubscribe checkbox"
+msgstr "Beschriftung für das Kontrollkästchen zum Abbestellen"
+
+msgid "See the block \"Newsletter\" for a simple list. Separate questions and answer with a \"=\". Questions may be translated."
+msgstr "Eine einfache Liste finden Sie im Block „Newsletter“.Trennen Sie Fragen und Antworten mit einem „=“.Fragen können übersetzt werden."
+
+msgid "Error loading or saving base64 file."
+msgstr "Fehler beim Laden oder Speichern der Base64-Datei."
+
+msgid "The body cannot be empty."
+msgstr "Der Körper kann nicht leer sein."
+
+msgid "The ip cannot be empty."
+msgstr "Die IP darf nicht leer sein."
+
+msgid "Contact message successfully deleted."
+msgstr "Kontaktnachricht erfolgreich gelöscht."
+
+msgid "You must select at least one contact message to batch delete."
+msgstr "Sie müssen mindestens eine Kontaktnachricht zum Massenlöschen auswählen."
+
+msgid "Contact messages successfully deleted."
+msgstr "Kontaktnachrichten erfolgreich gelöscht."
+
+msgid "Delete of all contact messages is not supported currently."
+msgstr "Das Löschen aller Kontaktnachrichten wird derzeit nicht unterstützt."
+
+msgid "No contact messages submitted."
+msgstr "Keine Kontaktnachrichten übermittelt."
+
+msgid "An internal error occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "Unknown key."
+msgstr "Unbekannter Schlüssel."
+
+msgid "success"
+msgstr "Erfolg"
+
+msgid "Warning: It is not possible to select more than {total} resources."
+msgstr "Warnung: Es ist nicht möglich, mehr als {total} Ressourcen auszuwählen."
+
+msgid "Not ajax."
+msgstr "Nicht Ajax."
+
+msgid "No resource set."
+msgstr "Keine Ressource festgelegt."
+
+msgid "Resource is invalid."
+msgstr "Die Ressource ist ungültig."
+
+msgid "No message found."
+msgstr "Keine Nachricht gefunden."
+
+msgid "Resource does not exist."
+msgstr "Ressource existiert nicht."
+
+msgid "Resource has no file."
+msgstr "Ressource hat keine Datei."
+
+msgid "No zip found: too much old."
+msgstr "Keine Postleitzahl gefunden: zu alt."
+
+msgid "No zip found."
+msgstr "Keine Postleitzahl gefunden."
+
+msgid "Contact Us: Basket"
+msgstr "Kontaktieren Sie uns: Korb"
+
+msgid "Basket"
+msgstr "Korb"
+
+msgid "Contact Us: Selector"
+msgstr "Kontaktieren Sie uns: Selektor"
+
+msgid "Contact Us: Form as button"
+msgstr "Kontaktieren Sie uns: Formular als Schaltfläche"
+
+msgid "Contact Us: Form"
+msgstr "Kontaktieren Sie uns: Formular"
+
+msgid "To create antispam, each question must be separated from the answer by a \"=\"."
+msgstr "Um Antispam zu erstellen, muss jede Frage durch ein „=\" von der Antwort getrennt werden."
+
+msgid "To append fields, each row must contain a name and a label separated by a \"=\"."
+msgstr "Um Felder anzuhängen, muss jede Zeile einen Namen und eine Beschriftung enthalten, die durch ein „=\" getrennt sind."
+
+msgid "The contact message doesn’t exist."
+msgstr "Die Kontaktnachricht existiert nicht."
+
+msgid "A user has contacted you.\n\nemail: {email}\nname: {name}\nip: {ip}\n\n{newsletter}\nsubject: {subject}\nmessage:\n\n{message}\n\n{fields}"
+msgstr "Ein Benutzer hat Sie kontaktiert.\n\nE-Mail: {email}\nName: {Name}\nIP: {ip}\n\n{Newsletter}\nBetreff: {Betreff}\nNachricht:\n\n{Nachricht}\n\n{Felder}"
+
+msgid "Confirmation contact"
+msgstr "Bestätigungskontakt"
+
+msgid "Hi {name},\n\nThanks to contact us!\n\nWe will answer you as soon as possible.\n\nSincerely,\n\n{main_title}\n{main_url}\n\n--\n\n{newsletter}\nYour message:\nSubject: {subject}\n\n{message}\n\n{fields}"
+msgstr "Hallo {Name},\n\nVielen Dank, dass Sie uns kontaktieren!\n\nWir werden Ihnen so schnell wie möglich antworten.\n\nAufrichtig,\n\n{main_title}\n{main_url}\n\n--\n\n{Newsletter}\nIhre Nachricht:\nBetreff: {Betreff}\n\n{Nachricht}\n\n{Felder}"
+
+msgid "Subscription to newsletter of {main_title}"
+msgstr "Abonnement des Newsletters von {main_title}"
+
+msgid "Hi,\n\nThank you for subscribing to our newsletter.\n\nSincerely,"
+msgstr "Hallo,\n\nVielen Dank, dass Sie sich für unseren Newsletter angemeldet haben.\n\nAufrichtig,"
+
+msgid "Hi {user_name},\n\nThe visitor {name} ({email} made the following request about a resource on {main_title}:\n\nThanks to reply directly to the email above and do not use \"reply\".\n\nSincerely,\n\n--\n\nFrom: {name} <{email}>\nSubject: {subject}\n\n{message}\n\n{fields}"
+msgstr "Hallo {Benutzername},\n\nDer Besucher {name} ({email} hat die folgende Anfrage zu einer Ressource auf {main_title} gestellt:\n\nVielen Dank, dass Sie direkt auf die obige E-Mail antworten und nicht „Antworten“ verwenden.\n\nAufrichtig,\n\n--\n\nVon: {name} <{email}>\nBetreff: {Betreff}\n\n{Nachricht}\n\n{Felder}"
+
+msgid "Thank you for your message. Check your confirmation email sent to {email}. We will answer you soon."
+msgstr "Vielen Dank für Ihre Nachricht.Überprüfen Sie Ihre Bestätigungs-E-Mail an {email}.Wir werden Ihnen bald antworten."
+
+msgid "Thank you for subscribing to our newsletter. Check the confirmation email sent to {email}."
+msgstr "Vielen Dank, dass Sie sich für unseren Newsletter angemeldet haben.Überprüfen Sie die an {email} gesendete Bestätigungs-E-Mail."
+
+msgid "I allow the site owner to store my name and my email to answer to this message."
+msgstr "Ich erlaube dem Seitenbetreiber, meinen Namen und meine E-Mail-Adresse zu speichern, um auf diese Nachricht antworten zu können."
+
+msgid "It is not possible to select more than {total} resources."
+msgstr "Es ist nicht möglich, mehr als {total} Ressourcen auszuwählen."
+
+msgid "How many are zero plus 1 (in number)?"
+msgstr "Wie viele sind Null plus 1 (in Zahlen)?"
+
+msgid "How many are one plus 1 (in number)?"
+msgstr "Wie viele sind eins plus 1 (in Zahlen)?"
+
+msgid "How many are one plus 2 (in number)?"
+msgstr "Wie viele sind eins plus 2 (in Zahlen)?"
+
+msgid "How many are one plus 3 (in number)?"
+msgstr "Wie viele sind eins plus 3 (an der Zahl)?"
+
+msgid "How many are two plus 1 (in number)?"
+msgstr "Wie viele sind zwei plus 1 (in Zahlen)?"
+
+msgid "How many are two plus 2 (in number)?"
+msgstr "Wie viele sind zwei plus 2 (an der Zahl)?"
+
+msgid "How many are two plus 3 (in number)?"
+msgstr "Wie viele sind zwei plus 3 (an der Zahl)?"
+
+msgid "How many are three plus 1 (in number)?"
+msgstr "Wie viele sind drei plus 1 (an der Zahl)?"
+
+msgid "How many are three plus 2 (in number)?"
+msgstr "Wie viele sind drei plus 2 (an der Zahl)?"
+
+msgid "How many are three plus 3 (in number)?"
+msgstr "Wie viele sind drei plus 3 (an der Zahl)?"
+
+msgid "Subscribe to the newsletter"
+msgstr "Abonnieren Sie den Newsletter"
+
+msgid "Unsubscribe"
+msgstr "Abbestellen"

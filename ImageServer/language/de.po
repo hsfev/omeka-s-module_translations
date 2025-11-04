@@ -1,0 +1,636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "This module requires the module \"%s\", version %s or above."
+msgstr "Dieses Modul erfordert das Modul „%s“, Version %s oder höher."
+
+msgid "Error directory non writable: \"%s\"."
+msgstr "Fehlerverzeichnis nicht beschreibbar: „%s“."
+
+msgid "Failed to create folder \"%s\": a file with the same name exists…"
+msgstr "Fehler beim Erstellen des Ordners „%s“: Es existiert eine Datei mit demselben Namen…"
+
+msgid "Error making directory: \"%s\"."
+msgstr "Fehler beim Erstellen des Verzeichnisses: „%s“."
+
+msgid "OpenSeadragon is not available unless JavaScript is enabled."
+msgstr "OpenSeadragon ist nur verfügbar, wenn JavaScript aktiviert ist."
+
+msgid "Now, all images can be automatically converted into tiles and an option in settings and site settings allows to specify the default display.\nIt can be selected directly in the theme too (thumbnail \"tile\").\nThe conversion of the renderer from \"tile\" to the standard \"file\" can be done with the job in the config form."
+msgstr "Jetzt können alle Bilder automatisch in Kacheln umgewandelt werden und eine Option in den Einstellungen und Site-Einstellungen ermöglicht es, die Standardanzeige festzulegen.\nEs kann auch direkt im Theme ausgewählt werden (Miniaturansicht „Kachel“).\nDie Konvertierung des Renderers von „Kachel“ in die Standard-Datei „Datei“ kann mit dem Job im Konfigurationsformular erfolgen."
+
+msgid "Storing tile info for images in background (%1$sjob #%2$d%3$s, %4$slogs%3$s). This process will take a while."
+msgstr "Kachelinformationen für Bilder im Hintergrund speichern (%1$job #%2$d%3$s, %4$slots%3s).Dieser Vorgang wird eine Weile dauern."
+
+msgid "The routes to the image server have been renamed from \"iiif-img/\" and \"ixif-media/\" to the more standard \"iiif/\"."
+msgstr "Die Routen zum Bildserver wurden von „iiif-img/“ und „ixif-media/“ in das standardmäßigere „iiif/“ umbenannt."
+
+msgid "Check the config of the module."
+msgstr "Überprüfen Sie die Konfiguration des Moduls."
+
+msgid "The tile dir is not defined."
+msgstr "Das Kachelverzeichnis ist nicht definiert."
+
+msgid "The directory \"{directory}\" is not writeable."
+msgstr "Das Verzeichnis „{directory}“ ist nicht beschreibbar."
+
+msgid "The tiles will be saved in the directory \"{dir}\"."
+msgstr "Die Kacheln werden im Verzeichnis „{dir}“ gespeichert."
+
+msgid "The tile dir is not defined and was not removed."
+msgstr "Das Kachelverzeichnis ist nicht definiert und wurde nicht entfernt."
+
+msgid "The tile dir \"{dir}\" is not a real path and was not removed."
+msgstr "Das Kachelverzeichnis „{dir}“ ist kein echter Pfad und wurde nicht entfernt."
+
+msgid "The tile dir is not defined and won’t be removed."
+msgstr "Das Kachelverzeichnis ist nicht definiert und wird nicht entfernt."
+
+msgid "All tiles will be removed!"
+msgstr "Alle Kacheln werden entfernt!"
+
+msgid "The tile dir \"{dir}\" is not a real path and cannot be removed."
+msgstr "Das Kachelverzeichnis „{dir}“ ist kein echter Pfad und kann nicht entfernt werden."
+
+msgid "WARNING"
+msgstr "WARNUNG"
+
+msgid "To keep the tiles, rename the dir \"{dir}\" before and after uninstall."
+msgstr "Um die Kacheln beizubehalten, benennen Sie das Verzeichnis vor und nach der Deinstallation in „{dir}“ um."
+
+msgid "All media rendered as \"tile\" will be rendered as \"file\"."
+msgstr "Alle als „Kachel“ gerenderten Medien werden als „Datei“ gerendert."
+
+msgid "Creating tiles and/or dimensions for images attached to specified items, in background ({link}job #{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Erstellen von Kacheln und/oder Abmessungen für Bilder, die an bestimmte Elemente angehängt sind, im Hintergrund ({link}Job #{job_id}{link_end}, {link_log}Protokolle{link_end})."
+
+msgid "The option \"auto-tiling\" is not set: it is recommended to enable it once all existing images have been tiled to avoid to tile new images manually."
+msgstr "Die Option „Automatisches Kacheln“ ist nicht eingestellt: Es wird empfohlen, sie zu aktivieren, sobald alle vorhandenen Bilder gekachelt wurden, um zu vermeiden, dass neue Bilder manuell gekachelt werden müssen."
+
+msgid "Media #{media_id}: The file \"{filename}\" is missing."
+msgstr "Medien #{media_id}: Die Datei „{filename}“ fehlt."
+
+msgid "Media #{media_id}: The tiler failed: {exception}"
+msgstr "Medien #{media_id}: Der Kacheler ist fehlgeschlagen: {Ausnahme}"
+
+msgid "Php extension php-xml is not installed"
+msgstr "Die PHP-Erweiterung php-xml ist nicht installiert"
+
+msgid "Source is empty."
+msgstr "Quelle ist leer."
+
+msgid "Source file \"{file}\" is not readable."
+msgstr "Die Quelldatei „{file}“ ist nicht lesbar."
+
+msgid "Destination is empty."
+msgstr "Das Ziel ist leer."
+
+msgid "The type of tiling \"{type}\" is not supported by the tile builder."
+msgstr "Der Kacheltyp „{type}“ wird vom Kachel-Builder nicht unterstützt."
+
+msgid "No media selected. You may check your query."
+msgstr "Kein Medium ausgewählt.Sie können Ihre Anfrage überprüfen."
+
+msgid "The job ended: no tasks (tile or size) defined."
+msgstr "Der Job wurde beendet: Keine Aufgaben (Kachel oder Größe) definiert."
+
+msgid "Media #{media_id}: Start tiling ({type})"
+msgstr "Medien #{media_id}: Kacheln starten ({type})"
+
+msgid "Media #{media_id}: Skipped because already tiled."
+msgstr "Medien #{media_id}: Übersprungen, da bereits gekachelt."
+
+msgid "Media #{media_id}: Renderer \"{renderer}\" updated to \"{renderer_new}\"."
+msgstr "Medien #{media_id}: Renderer „{renderer}“ wurde auf „{renderer_new}“ aktualisiert."
+
+msgid "Media #{media_id}: End tiling"
+msgstr "Medien #{media_id}: Kachelung beenden"
+
+msgid "Media #{media_id}: Error during tiling"
+msgstr "Medien #{media_id}: Fehler beim Kacheln"
+
+msgid "No item selected. You may check your query."
+msgstr "Kein Artikel ausgewählt.Sie können Ihre Anfrage überprüfen."
+
+msgid "Starting bulk tile info for {total} items."
+msgstr "Beginnende Bulk-Kachelinformationen für {total} Artikel."
+
+msgid "The job \"Bulk Tile Info\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Bulk Tile Info“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "End of bulk prepare tile info: {count}/{total} items processed, {total_succeed} files sized, {total_failed} errors, {total_skipped} skipped on a total of {total_images} images."
+msgstr "Informationen zur Kachel zum Ende der Massenvorbereitung: {count}/{total} Elemente verarbeitet, {total_succeed} Dateien groß, {total_failed} Fehler, {total_skipped} übersprungen bei insgesamt {total_images} Bildern."
+
+msgid "The media to tile cannot be identified."
+msgstr "Das zu kachelnde Medium kann nicht identifiziert werden."
+
+msgid "The media file to tile cannot be found."
+msgstr "Die zu kachelnde Mediendatei kann nicht gefunden werden."
+
+msgid "An error occurred during the tiling of media #{media_id}."
+msgstr "Beim Kacheln des Mediums #{media_id} ist ein Fehler aufgetreten."
+
+msgid "Starting bulk sizing for {total} items ({filter} media)."
+msgstr "Beginn der Massengrößenbestimmung für {total} Artikel ({filter} Medien)."
+
+msgid "The job \"Bulk Sizer\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Bulk Sizer“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "End of bulk sizing: {count}/{total} items processed, {total_succeed} files sized, {total_failed} errors, {total_skipped} skipped on a total of {total_images} images."
+msgstr "Ende der Massengrößenbestimmung: {count}/{total} Elemente verarbeitet, {total_succeed} Dateien groß, {total_failed} Fehler, {total_skipped} übersprungen bei insgesamt {total_images} Bildern."
+
+msgid "Starting bulk tiling for %d items."
+msgstr "Massenkachelung für %d Elemente wird gestartet."
+
+msgid "The job \"Bulk Tiler\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Bulk Tiler“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "End of bulk tiling: {count}/{total} items processed, {total_succeed} files tiled, {total_failed} errors, {total_skipped} skipped on a total of {total_images} images."
+msgstr "Ende der Massenkachelung: {count}/{total} Elemente verarbeitet, {total_succeed} Dateien gekachelt, {total_failed} Fehler, {total_skipped} übersprungen bei insgesamt {total_images} Bildern."
+
+msgid "Starting bulk tiling or sizing for {total} items."
+msgstr "Beginnen Sie mit der Massenkachelung oder Größenanpassung für {total} Artikel."
+
+msgid "The job \"Bulk Tiler and Sizer\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Bulk Tiler and Sizer“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "Media #{media_id}: Store tile info"
+msgstr "Medien #{media_id}: Kachelinformationen speichern"
+
+msgid "Media #{media_id}: Sizing"
+msgstr "Medien #{media_id}: Größe"
+
+msgid "Media #{media_id}: Error getting dimensions for types \"{types}\"."
+msgstr "Medien #{media_id}: Fehler beim Abrufen der Abmessungen für die Typen „{types}“."
+
+msgid "Image Server"
+msgstr "Bildserver"
+
+msgid "Image server"
+msgstr "Bildserver"
+
+msgid "Default display of images"
+msgstr "Standardanzeige von Bildern"
+
+msgid "To use the original file is not recommended when files are bigger than 1-10 MB."
+msgstr "Die Verwendung der Originaldatei wird nicht empfohlen, wenn die Dateien größer als 1-10 MB sind."
+
+msgid "Tile"
+msgstr "Fliese"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Fallback when there is no tile"
+msgstr "Fallback, wenn keine Kachel vorhanden ist"
+
+msgid "Tile with large thumbnail"
+msgstr "Kachel mit großem Miniaturbild"
+
+msgid "Large thumbnail"
+msgstr "Großes Miniaturbild"
+
+msgid "Tile with original file"
+msgstr "Kachel mit Originaldatei"
+
+msgid "Default IIIF image api version"
+msgstr "Standardversion der IIIF-Bild-API"
+
+msgid "Set the version of the iiif info.json to provide. The image server should support it."
+msgstr "Legen Sie die Version der bereitzustellenden iiif info.json fest.Der Bildserver sollte dies unterstützen."
+
+msgid "No image server"
+msgstr "Kein Bildserver"
+
+msgid "Image Api 1"
+msgstr "Bild-API 1"
+
+msgid "Image Api 2"
+msgstr "Bild-API 2"
+
+msgid "Image Api 3"
+msgstr "Bild-API 3"
+
+msgid "Supported IIIF image api versions and max compliance level"
+msgstr "Unterstützte IIIF-Image-API-Versionen und maximale Konformitätsstufe"
+
+msgid "Image Api 1 level 0"
+msgstr "Bild-API 1 Level 0"
+
+msgid "Image Api 1 level 1"
+msgstr "Bild-API 1 Ebene 1"
+
+msgid "Image Api 1 level 2"
+msgstr "Bild-API 1 Ebene 2"
+
+msgid "Image Api 2 level 0"
+msgstr "Bild-API 2 Level 0"
+
+msgid "Image Api 2 level 1"
+msgstr "Bild-API 2 Level 1"
+
+msgid "Image Api 2 level 2"
+msgstr "Bild-API 2 Level 2"
+
+msgid "Image Api 3 level 0"
+msgstr "Bild-API 3 Level 0"
+
+msgid "Image Api 3 level 1"
+msgstr "Bild-API 3 Level 1"
+
+msgid "Image Api 3 level 2"
+msgstr "Bild-API 3 Level 2"
+
+msgid "Append the version to the url (to be set inside module.config.php currently)"
+msgstr "Hängen Sie die Version an die URL an (muss derzeit in module.config.php festgelegt werden)"
+
+msgid "If set, the version will be appended to the url of the server: \"iiif/3\"."
+msgstr "Wenn festgelegt, wird die Version an die URL des Servers angehängt: „iiif/3“."
+
+msgid "Media identifier"
+msgstr "Medienkennung"
+
+msgid "Using the full filename allows to use an image server like Cantaloupe sharing the Omeka original files directory."
+msgstr "Die Verwendung des vollständigen Dateinamens ermöglicht die Verwendung eines Bildservers wie Cantaloupe, der das Omeka-Originaldateiverzeichnis gemeinsam nutzt."
+
+msgid "Media id"
+msgstr "Medien-ID"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Filename with extension"
+msgstr "Dateiname mit Erweiterung"
+
+msgid "Content of media info.json"
+msgstr "Inhalt von media info.json"
+
+msgid "Rights (license)"
+msgstr "Rechte (Lizenz)"
+
+msgid "No mention"
+msgstr "Keine Erwähnung"
+
+msgid "Specified text below (only for iiif 2.0)"
+msgstr "Angegebener Text unten (nur für iiif 2.0)"
+
+msgid "Specified license url below"
+msgstr "Unten angegebene Lizenz-URL"
+
+msgid "Specified property below"
+msgstr "Unten angegebene Eigenschaft"
+
+msgid "Property if any, else specified license text (only for iiif 2.0)"
+msgstr "Eigentum, falls vorhanden, sonst angegebener Lizenztext (nur für iiif 2.0)"
+
+msgid "Property if any, else specified license"
+msgstr "Eigentum, falls vorhanden, sonst angegebene Lizenz"
+
+msgid "Url specified by the iiif server for the item"
+msgstr "Vom iiif-Server für das Element angegebene URL"
+
+msgid "Item rights url if any, else specified license"
+msgstr "URL der Artikelrechte, falls vorhanden, ansonsten angegebene Lizenz"
+
+msgid "Property to use for rights (license)"
+msgstr "Eigentum zur Nutzung von Rechten (Lizenz)"
+
+msgid "Select a media property…"
+msgstr "Wählen Sie eine Medieneigenschaft aus…"
+
+msgid "Uri of the license or rights"
+msgstr "Uri der Lizenz oder Rechte"
+
+msgid "Uri below"
+msgstr "Uri unten"
+
+msgid "Creative Commons 0"
+msgstr "Creative Commons 0"
+
+msgid "Creative Commons CC0 Universal Public Domain Dedication"
+msgstr "Creative Commons CC0 Universal Public Domain Widmung"
+
+msgid "Creative Commons 3.0 International"
+msgstr "Creative Commons 3.0 International"
+
+msgid "Creative Commons Attribution 3.0 International"
+msgstr "Creative Commons Namensnennung 3.0 International"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 International"
+msgstr "Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International"
+msgstr "Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell – keine Bearbeitung 3.0 International"
+
+msgid "Creative Commons Attribution-NoDerivatives 3.0 International"
+msgstr "Creative Commons Namensnennung – Keine Bearbeitung 3.0 International"
+
+msgid "Creative Commons 4.0 International"
+msgstr "Creative Commons 4.0 International"
+
+msgid "Creative Commons Attribution 4.0 International"
+msgstr "Creative Commons Namensnennung 4.0 International"
+
+msgid "Creative Commons Attribution-ShareAlike 4.0 International"
+msgstr "Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial 4.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+msgstr "Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell – keine Bearbeitungen 4.0 International"
+
+msgid "Creative Commons Attribution-NoDerivatives 4.0 International"
+msgstr "Creative Commons Namensnennung – Keine Bearbeitung 4.0 International"
+
+msgid "Rigths Statements"
+msgstr "Rechteerklärungen"
+
+msgid "In Copyright"
+msgstr "Im Urheberrecht"
+
+msgid "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"
+msgstr "Im Urheberrecht – Rechteinhaber nicht auffindbar oder nicht identifizierbar"
+
+msgid "In Copyright - Non-Commercial Use Permitted"
+msgstr "Im Urheberrecht – Nichtkommerzielle Nutzung erlaubt"
+
+msgid "In Copyright - Educational Use Permitted"
+msgstr "Im Urheberrecht – Nutzung zu Bildungszwecken gestattet"
+
+msgid "In Copyright - EU Orphan Work"
+msgstr "Im Urheberrecht – verwaistes Werk der EU"
+
+msgid "No Copyright - Other Known Legal Restrictions"
+msgstr "Kein Urheberrecht – andere bekannte rechtliche Einschränkungen"
+
+msgid "No Copyright - Contractual Restrictions"
+msgstr "Kein Urheberrecht – vertragliche Einschränkungen"
+
+msgid "No Copyright - Non-Commercial Use Only"
+msgstr "Kein Urheberrecht – nur nichtkommerzielle Nutzung"
+
+msgid "No Copyright - United States"
+msgstr "Kein Urheberrecht – Vereinigte Staaten"
+
+msgid "No Known Copyright"
+msgstr "Kein bekanntes Urheberrecht"
+
+msgid "Copyright Undetermined"
+msgstr "Urheberrecht Unbestimmt"
+
+msgid "Copyright Not Evaluated"
+msgstr "Urheberrecht nicht geprüft"
+
+msgid "Uri of the rights/license of the media when unselected above"
+msgstr "Uri der Rechte/Lizenz der Medien, wenn oben nicht ausgewählt"
+
+msgid "For IIIF v3, the license of the item must be an url from https://creativecommons.org or https://rightsstatements.org."
+msgstr "Für IIIF v3 muss die Lizenz des Artikels eine URL von https://creativecommons.org oder https://rightsstatements.org sein."
+
+msgid "Default license text (only for iiif 2.0)"
+msgstr "Standard-Lizenztext (nur für iiif 2.0)"
+
+msgid "Tiling service"
+msgstr "Fliesenlegerservice"
+
+msgid "Tile images manually and not automatically on save"
+msgstr "Ordnen Sie Bilder manuell und nicht automatisch beim Speichern an"
+
+msgid "If unset, to run the task below will be required to create tiles. It is recommended to set automatic tiling once all existing items are tiled to avoid to overload the server. So bulk tile all items first below."
+msgstr "Wenn diese Option nicht festgelegt ist, müssen Sie die folgende Aufgabe ausführen, um Kacheln zu erstellen.Es wird empfohlen, die automatische Kachelung einzustellen, sobald alle vorhandenen Elemente gekachelt sind, um eine Überlastung des Servers zu vermeiden.Kacheln Sie daher zunächst alle unten aufgeführten Elemente in großen Mengen."
+
+msgid "Image processor"
+msgstr "Bildprozessor"
+
+msgid "Vips is the quickest in all cases, then GD is a little faster than ImageMagick, but ImageMagick manages more formats.\nNevertheless, the performance depends on your installation and your server."
+msgstr "Vips ist in allen Fällen am schnellsten, dann ist GD etwas schneller als ImageMagick, aber ImageMagick verwaltet mehr Formate.\nDennoch hängt die Leistung von Ihrer Installation und Ihrem Server ab."
+
+msgid "Max dynamic size for images"
+msgstr "Maximale dynamische Größe für Bilder"
+
+msgid "Set the maximum size in bytes for the dynamic processing of images.\nBeyond this limit, the plugin will require a tiled image.\nLet empty to allow processing of any image.\nWith vips, this option is bypassed."
+msgstr "Legen Sie die maximale Größe in Bytes für die dynamische Verarbeitung von Bildern fest.\nÜber diese Grenze hinaus benötigt das Plugin ein gekacheltes Bild.\nLassen Sie es leer, um die Verarbeitung eines beliebigen Bildes zu ermöglichen.\nBei VIPs wird diese Option umgangen."
+
+msgid "Tiling type"
+msgstr "Fliesentyp"
+
+msgid "If vips is available, the recommended processor strategy is \"Tiled tiff\". If jpeg2000 is available, use \"Jpeg 2000\". Else, use Deepzoom or Zoomify.\nDeep Zoom Image is a free proprietary format from Microsoft largely supported.\nZoomify is an old format that was largely supported by proprietary softwares and free viewers.\nAll formats are served as native by default, but may be served as IIIF too when a viewer request it."
+msgstr "Wenn VIPs verfügbar sind, ist die empfohlene Prozessorstrategie „Tiled TIFF“.Wenn JPEG2000 verfügbar ist, verwenden Sie „Jpeg 2000“.Andernfalls verwenden Sie Deepzoom oder Zoomify.\nDeep Zoom Image ist ein kostenloses proprietäres Format von Microsoft, das weitgehend unterstützt wird.\nZoomify ist ein altes Format, das größtenteils von proprietären Softwareprogrammen und kostenlosen Viewern unterstützt wurde.\nAlle Formate werden standardmäßig als nativ bereitgestellt, können aber auch als IIIF bereitgestellt werden, wenn ein Zuschauer dies wünscht."
+
+msgid "Deep Zoom Image"
+msgstr "Bild mit tiefem Zoom"
+
+msgid "Zoomify"
+msgstr "Zoomen"
+
+msgid "Jpeg 2000"
+msgstr "JPEG 2000"
+
+msgid "Jpeg 2000 (not supported)"
+msgstr "JPEG 2000 (nicht unterstützt)"
+
+msgid "Tiled tiff"
+msgstr "Gekacheltes Tiff"
+
+msgid "Tiled tiff (not supported)"
+msgstr "Gekacheltes TIFF (nicht unterstützt)"
+
+msgid "Bulk prepare tiles and sizes"
+msgstr "Bereiten Sie Fliesen und Größen in großen Mengen vor"
+
+msgid "This process builds tiles and and saves dimensions of existing files via a background job.\nTo save the height and the width of all images and derivatives allows to speed up creation of the iiif \"info.json\" of medias."
+msgstr "Dieser Prozess erstellt Kacheln und speichert die Abmessungen vorhandener Dateien über einen Hintergrundjob.\nDurch das Speichern der Höhe und Breite aller Bilder und Derivate kann die Erstellung der iiif „info.json“ von Medien beschleunigt werden."
+
+msgid "This query will be used to select all items whose attached images will be prepared in the background."
+msgstr "Mit dieser Abfrage werden alle Elemente ausgewählt, deren angehängte Bilder im Hintergrund vorbereitet werden."
+
+msgid "Tasks"
+msgstr "Aufgaben"
+
+msgid "Tiling"
+msgstr "Fliesen"
+
+msgid "Sizing"
+msgstr "Größenbestimmung"
+
+msgid "Limit process to prepare tiles"
+msgstr "Beschränken Sie den Prozess zur Vorbereitung der Fliesen"
+
+msgid "Keep existing"
+msgstr "Bleiben Sie bestehen"
+
+msgid "Remove existing tiles for the specified format"
+msgstr "Entfernen Sie vorhandene Kacheln für das angegebene Format"
+
+msgid "Remove all existing tiles"
+msgstr "Entfernen Sie alle vorhandenen Kacheln"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "Limit process to get sizes"
+msgstr "Begrenzen Sie den Prozess, um Größen zu erhalten"
+
+msgid "Only already sized"
+msgstr "Nur bereits dimensioniert"
+
+msgid "Run in background"
+msgstr "Im Hintergrund ausführen"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "Argument \"wrap\" of method %1$s must be a null or alphanumeric string, received unstringable object \"%2$s\"."
+msgstr "Das Argument „wrap“ der Methode %1$s muss eine Null- oder alphanumerische Zeichenfolge sein, das empfangene, nicht stringfähige Objekt „%2$s“."
+
+msgid "Argument \"wrap\" of method %1$s must be a null or alphanumeric string, received \"%2$s\"."
+msgstr "Das Argument „wrap“ der Methode %1$s muss eine Null- oder alphanumerische Zeichenfolge sein, empfangen „%2$s“."
+
+msgid "Image Server failed to open the file \"{file}\". Details:\n{message}"
+msgstr "Image Server konnte die Datei „{file}“ nicht öffnen.Einzelheiten:\n{Nachricht}"
+
+msgid "Unable to save the file in the directory \"{dir}\"."
+msgstr "Die Datei konnte nicht im Verzeichnis „{dir}“ gespeichert werden."
+
+msgid "Unable to save the file \"{dir}\": directory is not writeable."
+msgstr "Die Datei „{dir}“ kann nicht gespeichert werden: Das Verzeichnis ist nicht beschreibbar."
+
+msgid "Imagick failed to open the file \"{file}\". Details:\n{message}"
+msgstr "Imagick konnte die Datei „{file}“ nicht öffnen.Einzelheiten:\n{Nachricht}"
+
+msgid "GD failed to open the file \\"{file}\\". Details:\n{message}"
+msgstr "GD konnte die Datei „{file}“ nicht öffnen.Details:\n{Nachricht}"
+
+msgid "The imager \"{class}\" is not supported."
+msgstr "Der Imager „{class}“ wird nicht unterstützt."
+
+msgid "Resource #{resource_id}: A media is required to build a Tile."
+msgstr "Ressource #{resource_id}: Zum Erstellen einer Kachel ist ein Medium erforderlich."
+
+msgid "No tile or no properties for media #%d."
+msgstr "Keine Kachel oder keine Eigenschaften für Medium #%d."
+
+msgid "Invalid data for media #%d."
+msgstr "Ungültige Daten für Medium #%d."
+
+msgid "Tiler"
+msgstr "Fliesenleger"
+
+msgid "No url and no file was submitted for tiling"
+msgstr "Es wurde keine URL und keine Datei zum Kacheln übermittelt"
+
+msgid "Invalid ingest URL %s"
+msgstr "Ungültige Aufnahme-URL %s"
+
+msgid "The local file should be in a configured directory"
+msgstr "Die lokale Datei sollte sich in einem konfigurierten Verzeichnis befinden"
+
+msgid "Cannot sideload file \"%s\". File does not exist or does not have sufficient permissions"
+msgstr "Die Datei „%s“ kann nicht seitlich geladen werden.Die Datei existiert nicht oder verfügt nicht über ausreichende Berechtigungen"
+
+msgid "No tiling index was specified"
+msgstr "Es wurde kein Kachelindex angegeben"
+
+msgid "No file uploaded for tiling for the specified index"
+msgstr "Für den angegebenen Index wurde keine Datei zum Kacheln hochgeladen"
+
+msgid "Unable to create the temp dir \"tiletmp\", required to create tiles on Amazon S3. Check rights in the local directory files/."
+msgstr "Das zum Erstellen von Kacheln auf Amazon S3 erforderliche temporäre Verzeichnis „tiletmp“ kann nicht erstellt werden.Überprüfen Sie die Rechte im lokalen Verzeichnis files/."
+
+msgid "Unable to copy the file in the temp dir \"tiletmp\", required to create tiles on Amazon S3. Check rights in the local directory files/."
+msgstr "Die Datei im temporären Verzeichnis „tiletmp“, das zum Erstellen von Kacheln auf Amazon S3 erforderlich ist, konnte nicht kopiert werden.Überprüfen Sie die Rechte im lokalen Verzeichnis files/."
+
+msgid "Either a URL"
+msgstr "Entweder eine URL"
+
+msgid "A URL to the image. Prefix it with \"file://\" for a local file managed via module Sideload"
+msgstr "Eine URL zum Bild.Stellen Sie ihm „file://“ voran, wenn es sich um eine lokale Datei handelt, die über das Modul Sideload verwaltet wird"
+
+msgid "Or a file"
+msgstr "Oder eine Datei"
+
+msgid "Error validating \"%s\". The file to tile should be an image, not \"%s\"."
+msgstr "Fehler beim Validieren von „%s“.Die zu kachelnde Datei sollte ein Bild sein, nicht „%s“."
+
+msgid "Media \"{media_id}\" not found."
+msgstr "Medien „{media_id}“ nicht gefunden."
+
+msgid "The media \"{media_id}\" is not an image"
+msgstr "Das Medium „{media_id}“ ist kein Bild"
+
+msgid "The Image server encountered an unexpected error that prevented it from fulfilling the request: the file is not tiled for dynamic processing."
+msgstr "Beim Bildserver ist ein unerwarteter Fehler aufgetreten, der die Ausführung der Anforderung verhindert hat: Die Datei ist nicht für die dynamische Verarbeitung vorgesehen."
+
+msgid "The Image server encountered an unexpected error that prevented it from fulfilling the request: the resulting file is not found or empty."
+msgstr "Beim Bildserver ist ein unerwarteter Fehler aufgetreten, der die Ausführung der Anforderung verhindert hat: Die resultierende Datei wurde nicht gefunden oder ist leer."
+
+msgid "The Image server encountered an unexpected error that prevented it from fulfilling the request: the resulting file is empty or not found."
+msgstr "Beim Bildserver ist ein unerwarteter Fehler aufgetreten, der die Ausführung der Anforderung verhindert hat: Die resultierende Datei ist leer oder wurde nicht gefunden."
+
+msgid "The Image server cannot fulfill the request: the region \"{region}\" is incorrect."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Region „{region}“ ist falsch."
+
+msgid "The Image server cannot fulfill the request: the region \"{region}\" is  outside the source."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Region „{region}“ liegt außerhalb der Quelle."
+
+msgid "The Image server cannot fulfill the request: the region \"{region}\" is invalid."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Region „{region}“ ist ungültig."
+
+msgid "The Image server cannot fulfill the request: the size \"{size}\" is incorrect for API version {version}."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Größe „{size}“ ist für die API-Version {version} falsch."
+
+msgid "The Image server cannot fulfill the request: the size \"{size}\" is incorrect."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Größe „{size}“ ist falsch."
+
+msgid "The Image server cannot fulfill the request: the size \"%s\" is incorrect."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Größe „%s“ ist falsch."
+
+msgid "The Image server cannot fulfill the request: the size \"{size}\" is not supported."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Größe „{size}“ wird nicht unterstützt."
+
+msgid "The Image server cannot fulfill the request: the size \"{size}\" is invalid."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Größe „{size}“ ist ungültig."
+
+msgid "The Image server cannot fulfill the request: the region \"{region}\" or size \"{size}\" is incorrect for api version {version}."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Region „{region}“ oder die Größe „{size}“ ist für die API-Version {version} falsch."
+
+msgid "The Image server cannot fulfill the request: the format \"{format}\" is not supported."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Das Format „{format}“ wird nicht unterstützt."
+
+msgid "Automatic (Vips when possible, else GD, else Imagick, else ImageMagick)"
+msgstr "Automatisch (Vips wenn möglich, sonst GD, sonst Imagick, sonst ImageMagick)"
+
+msgid "Vips (command line)"
+msgstr "Vips (Befehlszeile)"
+
+msgid "GD (php extension)"
+msgstr "GD (PHP-Erweiterung)"
+
+msgid "Imagick (php extension)"
+msgstr "Imagick (PHP-Erweiterung)"
+
+msgid "ImageMagick (command line)"
+msgstr "ImageMagick (Befehlszeile)"

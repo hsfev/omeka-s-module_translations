@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Contributions"
+msgstr "Beiträge"
+
+msgid "Create contribution token"
+msgstr "Beitragstoken erstellen"
+
+msgid "Contribute"
+msgstr "Beitragen"
+
+msgid "Please input optional email…"
+msgstr "Bitte geben Sie eine optionale E-Mail-Adresse ein..."
+
+msgid "Create token"
+msgstr "Token erstellen"
+
+msgid "Method not allowed."
+msgstr "Methode nicht zulässig."
+
+msgid "Resource not found."
+msgstr "Ressource nicht gefunden."
+
+msgid "Unreviewed"
+msgstr "Nicht rezensiert"
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "An internal error occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "Reviewed"
+msgstr "Bewertet"
+
+msgid "No token"
+msgstr "Kein Token"
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Contribution is not valid: check template."
+msgstr "Beitrag ist ungültig: Vorlage prüfen."
+
+msgid "Contribution cannot be created: some values are not valid."
+msgstr "Beitrag kann nicht erstellt werden: Einige Werte sind ungültig."
+
+msgid "The user has no right to update the contribution."
+msgstr "Der Nutzer hat kein Recht, den Beitrag zu aktualisieren."
+
+msgid "The contribution is already validated and status cannot be changed."
+msgstr "Der Beitrag ist bereits validiert und der Status kann nicht geändert werden."
+
+msgid "Empty message."
+msgstr "Leere Nachricht."
+
+msgid "Too long message."
+msgstr "Zu lange Nachricht."
+
+msgid "Too long subject."
+msgstr "Zu langes Thema."
+
+msgid "No email defined for this contribution."
+msgstr "Für diesen Beitrag ist keine E-Mail-Adresse definiert."
+
+msgid "Sorry, the message cannot be sent. Contact the administrator."
+msgstr "Die Nachricht kann leider nicht gesendet werden.Kontaktieren Sie den Administrator."
+
+msgid "Contribution is not valid."
+msgstr "Der Beitrag ist ungültig."
+
+msgid "Contribution is not valid: check its values."
+msgstr "Der Beitrag ist ungültig: Überprüfen Sie seine Werte."
+
+msgid "Validated"
+msgstr "Validiert"
+
+msgid "Missing term or key."
+msgstr "Fehlender Begriff oder Schlüssel."
+
+msgid "Contribution is not valid: check values."
+msgstr "Der Beitrag ist ungültig: Überprüfen Sie die Werte."
+
+msgid "Validated value"
+msgstr "Validierter Wert"
+
+msgid "prepare"
+msgstr "vorbereiten"
+
+msgid "update"
+msgstr "aktualisieren"
+
+msgid "submit"
+msgstr "einreichen"
+
+msgid "[Omeka] Contribution %s"
+msgstr "[Omeka] Beitrag %s"
+
+msgid "[Omeka] Contribution"
+msgstr "[Omeka] Beitrag"
+
+msgid "[Unknown resource]"
+msgstr "[Unbekannte Ressource]"
+
+msgid "[Anonymous]"
+msgstr "[Anonym]"
+
+msgid "File successfuly uploaded."
+msgstr "Datei erfolgreich hochgeladen."
+
+msgid "The total of file sizes exceeds the the server limit directive."
+msgstr "Die Gesamtgröße der Dateien überschreitet die Servergrenzanweisung."
+
+msgid "The file size exceeds the specified limit."
+msgstr "Die Dateigröße überschreitet den angegebenen Grenzwert."
+
+msgid "The file was only partially uploaded."
+msgstr "Die Datei wurde nur teilweise hochgeladen."
+
+msgid "No file was uploaded."
+msgstr "Es wurde keine Datei hochgeladen."
+
+msgid "The temporary folder to store the file is missing."
+msgstr "Der temporäre Ordner zum Speichern der Datei fehlt."
+
+msgid "Failed to write file to disk."
+msgstr "Die Datei konnte nicht auf die Festplatte geschrieben werden."
+
+msgid "A PHP extension stopped the file upload."
+msgstr "Eine PHP-Erweiterung hat den Datei-Upload gestoppt."
+
+msgid "Used only for internal contribution process."
+msgstr "Wird nur für den internen Beitragsprozess verwendet."
+
+msgid "Type of contribution"
+msgstr "Art des Beitrags"
+
+msgid "Correction"
+msgstr "Korrektur"
+
+msgid "Full contribution"
+msgstr "Vollständiger Beitrag"
+
+msgid "Is submitted"
+msgstr "Wird eingereicht"
+
+msgid "Is reviewed"
+msgstr "Wird überprüft"
+
+msgid "Media %s"
+msgstr "Medien %s"
+
+msgid "No resource template"
+msgstr "Keine Ressourcenvorlage"
+
+msgid "Not validable"
+msgstr "Nicht gültig"
+
+msgid "No right to write"
+msgstr "Kein Recht zu schreiben"
+
+msgid "Validate this value (%s)"
+msgstr "Validieren Sie diesen Wert (%s)"
+
+msgid "There are no tokens for this resource or contribution mode doesn’t use token."
+msgstr "Für diese Ressource sind keine Token vorhanden oder im Beitragsmodus werden keine Token verwendet."
+
+msgid "There are %d tokens for this resource (%d expired)."
+msgstr "Es gibt %d Token für diese Ressource (%d abgelaufen)."
+
+msgid "Expire all tokens"
+msgstr "Alle Token verfallen lassen"
+
+msgid "There are no contributions for this resource."
+msgstr "Für diese Ressource liegen keine Beiträge vor."
+
+msgid "Contribution"
+msgstr "Beitrag"
+
+msgid "(modified)"
+msgstr "(geändert)"
+
+msgid "Validate all values"
+msgstr "Validieren Sie alle Werte"
+
+msgid "Toggle status reviewed/unreviewed"
+msgstr "Schalten Sie den Status überprüft/ungeprüft um"
+
+msgid "Expired token"
+msgstr "Abgelaufenes Token"
+
+msgid "Expire token"
+msgstr "Ablauftoken"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Unused tokens"
+msgstr "Unbenutzte Token"
+
+msgid "There are no tokens for this resource."
+msgstr "Für diese Ressource sind keine Token vorhanden."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "[no email]"
+msgstr "[keine E-Mail]"
+
+msgid "Unused token"
+msgstr "Unbenutzter Token"
+
+msgid "Edit this record"
+msgstr "Bearbeiten Sie diesen Datensatz"
+
+msgid "Click your token link to edit this record."
+msgstr "Klicken Sie auf Ihren Token-Link, um diesen Datensatz zu bearbeiten."
+
+msgid "%1$sLogin%2$s or click your token link to edit this record."
+msgstr "%1$sAnmelden%2$s oder klicken Sie auf Ihren Token-Link, um diesen Datensatz zu bearbeiten."
+
+msgid "Add a new record"
+msgstr "Fügen Sie einen neuen Datensatz hinzu"
+
+msgid "Click your token link to add a new record."
+msgstr "Klicken Sie auf Ihren Token-Link, um einen neuen Datensatz hinzuzufügen."
+
+msgid "%1$sLogin%2$s or click your token link to add a new record."
+msgstr "%1$sAnmelden%2$s oder klicken Sie auf Ihren Token-Link, um einen neuen Datensatz hinzuzufügen."
+
+msgid "A template with fields is required to edit this resource. Ask the administrator for more information."
+msgstr "Zum Bearbeiten dieser Ressource ist eine Vorlage mit Feldern erforderlich.Bitten Sie den Administrator um weitere Informationen."
+
+msgid "File #%s"
+msgstr "Datei #%s"
+
+msgid "Media #%s"
+msgstr "Medien #%s"
+
+msgid "%s [unavailable]"
+msgstr "%s [nicht verfügbar]"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Quick search / Filter"
+msgstr "Schnellsuche / Filter"
+
+msgid "Set status checked"
+msgstr "Set-Status aktiviert"
+
+msgid "Set status checked all"
+msgstr "Set-Status auf alle überprüft"
+
+msgid "Set status unchecked"
+msgstr "Setzen Sie den Status deaktiviert"
+
+msgid "Set status unchecked all"
+msgstr "Setzen Sie den Status auf alle deaktiviert"
+
+msgid "Validate selected"
+msgstr "Ausgewählte bestätigen"
+
+msgid "Validate all"
+msgstr "Alles validieren"
+
+msgid "[no owner]"
+msgstr "[kein Besitzer]"
+
+msgid "Select contribution"
+msgstr "Beitrag auswählen"
+
+msgid "Is not submitted"
+msgstr "Wird nicht übermittelt"
+
+msgid "Send a message to the author"
+msgstr "Senden Sie eine Nachricht an den Autor"
+
+msgid "Create resource to be validated"
+msgstr "Erstellen Sie eine zu validierende Ressource"
+
+msgid "Delete contributions"
+msgstr "Beiträge löschen"
+
+msgid "Are you sure you would like to delete the selected contributions?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Beiträge löschen möchten?"
+
+msgid "%1$s: this action will permanently delete %2$s contributions and cannot be undone."
+msgstr "%1$s: Diese Aktion löscht %2$s Beiträge dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all contributions on all pages of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Beiträge auf allen Seiten dieses Ergebnisses löschen möchten?"
+
+msgid "Omeka could not find any contributions."
+msgstr "Omeka konnte keine Beiträge finden."
+
+msgid "Search contribution"
+msgstr "Suchbeitrag"
+
+msgid "No resource"
+msgstr "Keine Ressource"
+
+msgid "Is not reviewed"
+msgstr "Wird nicht überprüft"
+
+msgid "Proposal"
+msgstr "Vorschlag"
+
+msgid "Add %s"
+msgstr "%s hinzufügen"
+
+msgid "Edit %s"
+msgstr "Bearbeiten Sie %s"
+
+msgid "New %s"
+msgstr "Nachricht"
+
+msgid "A template with fields is required to submit a document. Ask the administrator for more information."
+msgstr "Zum Einreichen eines Dokuments ist eine Vorlage mit Feldern erforderlich.Bitten Sie den Administrator um weitere Informationen."
+
+msgid "Select a value…"
+msgstr "Wählen Sie einen Wert aus…"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "private"
+msgstr "Privat"
+
+msgid "Select a resource…"
+msgstr "Wählen Sie eine Ressource aus…"
+
+msgid "Add number"
+msgstr "Nummer hinzufügen"
+
+msgid "Add date"
+msgstr "Datum hinzufügen"
+
+msgid "Add linked resource"
+msgstr "Verknüpfte Ressource hinzufügen"
+
+msgid "Add URI"
+msgstr "URI hinzufügen"
+
+msgid "Add linked data"
+msgstr "Verknüpfte Daten hinzufügen"
+
+msgid "File %s"
+msgstr "Datei %s"
+
+msgid "Remove file"
+msgstr "Datei entfernen"
+
+msgid "Add file"
+msgstr "Datei hinzufügen"
+
+msgid "Are you sure to remove this contribution?"
+msgstr "Möchten Sie diesen Beitrag wirklich entfernen?"
+
+msgid "%d contributions"
+msgstr "%d Beiträge"
+
+msgid "There are no contributions."
+msgstr "Es gibt keine Beiträge."
+
+msgid "See contributions"
+msgstr "Siehe Beiträge"
+
+msgid "The module {module} should be upgraded to version {version} or later."
+msgstr "Das Modul {module} sollte auf die Version {version} oder höher aktualisiert werden."
+
+msgid "This module requires the module \"{module}\", version {version} or above."
+msgstr "Dieses Modul erfordert das Modul „{module}“, Version {version} oder höher."
+
+msgid "At least one configured template is required to contribute. Default options were removed. Edit the resource template directly."
+msgstr "Für den Beitrag ist mindestens eine konfigurierte Vorlage erforderlich.Standardoptionen wurden entfernt.Bearbeiten Sie die Ressourcenvorlage direkt."
+
+msgid "For information, the removed options to reuse in a template, eventually with module Advanced Resource Template, are: {json}."
+msgstr "Zur Information: Die entfernten Optionen zur Wiederverwendung in einer Vorlage, eventuell mit dem Modul „Erweiterte Ressourcenvorlage“, sind: {json}."
+
+msgid "The directory \"{directory}\" is not writeable."
+msgstr "Das Verzeichnis „{directory}“ ist nicht beschreibbar."
+
+msgid "It’s now possible for the user to select a resource template."
+msgstr "Der Benutzer kann jetzt eine Ressourcenvorlage auswählen."
+
+msgid "It’s now possible to create a template with a sub-template for one or more media."
+msgstr "Es ist jetzt möglich, eine Vorlage mit einer Untervorlage für ein oder mehrere Medien zu erstellen."
+
+msgid "It’s now possible to create a template with file, custom vocab, value suggest or numeric fields."
+msgstr "Es ist jetzt möglich, eine Vorlage mit Datei-, benutzerdefinierten Vokabel-, Wertvorschlags- oder numerischen Feldern zu erstellen."
+
+msgid "It’s now possible to edit a contribution until it is submitted."
+msgstr "Es ist nun möglich, einen Beitrag zu bearbeiten, bis er eingereicht wird."
+
+msgid "This version does not allow to correct resources. The feature will be reincluded in version 3.3.0.18."
+msgstr "Diese Version erlaubt keine Korrektur von Ressourcen.Die Funktion wird in Version 3.3.0.18 wieder enthalten sein."
+
+msgid "It’s now possible for admin to search contributions."
+msgstr "Es ist dem Administrator jetzt möglich, nach Beiträgen zu suchen."
+
+msgid "It’s now possible to correct and fill existing resources."
+msgstr "Es ist nun möglich, vorhandene Ressourcen zu korrigieren und aufzufüllen."
+
+msgid "A new option was added to allow to update a contribution until validation."
+msgstr "Es wurde eine neue Option hinzugefügt, die es ermöglicht, einen Beitrag bis zur Validierung zu aktualisieren."
+
+msgid "The events \"view.add.before/after\" are used in place of \"view.edit.before/after\" in template contribution/add."
+msgstr "Die Ereignisse „view.add.before/after“ werden anstelle von „view.edit.before/after“ in der Vorlage „Contribution/Add“ verwendet."
+
+msgid "Warning: the variable \"$resource\" is now the edited resource in the theme and no more the contribution. Check your theme if you edited templates, mainly \"show\" and \"edit\"."
+msgstr "Achtung: Die Variable „$resource“ ist jetzt die bearbeitete Ressource im Theme und nicht mehr der Beitrag.Überprüfen Sie Ihr Theme, wenn Sie Vorlagen bearbeitet haben, hauptsächlich „Anzeigen“ und „Bearbeiten“."
+
+msgid "It’s now possible to submit a contribution in one step."
+msgstr "Es ist nun möglich, einen Beitrag in einem Schritt einzureichen."
+
+msgid "It’s now possible to allow contribution only for selected authenticated users or via a regex on email."
+msgstr "Es ist jetzt möglich, Beiträge nur für ausgewählte authentifizierte Benutzer oder über einen regulären Ausdruck per E-Mail zuzulassen."
+
+msgid "It’s now possible to set a minimum number of files."
+msgstr "Es ist jetzt möglich, eine Mindestanzahl an Dateien festzulegen."
+
+msgid "It’s now possible to allow contribution based on a user setting, for example an attribute set by an IdP."
+msgstr "Es ist jetzt möglich, einen Beitrag basierend auf einer Benutzereinstellung zuzulassen, beispielsweise einem von einem IdP festgelegten Attribut."
+
+msgid "It’s now possible to allow contribution based on different modes."
+msgstr "Es ist jetzt möglich, Beiträge basierend auf verschiedenen Modi zuzulassen."
+
+msgid "New navigation links are available to add resources and to list them."
+msgstr "Es stehen neue Navigationslinks zum Hinzufügen und Auflisten von Ressourcen zur Verfügung."
+
+msgid "It’s now possible to define multiple emails to check."
+msgstr "Es ist jetzt möglich, mehrere zu prüfende E-Mails zu definieren."
+
+msgid "{total} contributions ({count} not reviewed)"
+msgstr "{total} Beiträge ({count} nicht überprüft)"
+
+msgid "No contribution"
+msgstr "Kein Beitrag"
+
+msgid "Media templates for contribution"
+msgstr "Medienvorlagen für Beiträge"
+
+msgid "If any, the templates should be in the list of allowed templates for contribution of a media. Warning: to use multiple media is supported only with specific themes for now."
+msgstr "Falls vorhanden, sollten die Vorlagen in der Liste der zulässigen Vorlagen für den Beitrag eines Mediums enthalten sein.Warnung: Die Verwendung mehrerer Medien wird derzeit nur bei bestimmten Themen unterstützt."
+
+msgid "Select resource templates for media…"
+msgstr "Ressourcenvorlagen für Medien auswählen…"
+
+msgid "Specific confirmation subject to the contributor"
+msgstr "Spezifische Bestätigung unterliegt dem Beitragenden"
+
+msgid "Specific confirmation message to the contributor"
+msgstr "Spezifische Bestätigungsnachricht an den Mitwirkenden"
+
+msgid "Placeholders: wrap properties with \"{}\", for example \"{dcterms:title}\"."
+msgstr "Platzhalter: Eigenschaften mit „{}“ umschließen, zum Beispiel „{dcterms:title}“."
+
+msgid "Specific confirmation subject to the reviewer"
+msgstr "Spezifische Bestätigung unterliegt dem Prüfer"
+
+msgid "Specific confirmation message to the reviewer"
+msgstr "Spezifische Bestätigungsnachricht an den Prüfer"
+
+msgid "Contribute: Editable by contributor"
+msgstr "Mitwirken: Kann vom Mitwirkenden bearbeitet werden"
+
+msgid "Contribute: Fillable by contributor"
+msgstr "Mitwirken: Vom Mitwirkenden ausfüllbar"
+
+msgid "The resource template #{template_id} is not in the list of allowed contribution templates for media."
+msgstr "Die Ressourcenvorlage #{template_id} ist nicht in der Liste der zulässigen Beitragsvorlagen für Medien enthalten."
+
+msgid "The resource template #{template_id} is not in the list of allowed contribution templates."
+msgstr "Die Ressourcenvorlage #{template_id} befindet sich nicht in der Liste der zulässigen Beitragsvorlagen."
+
+msgid "A resource template must be set to allow to contribute"
+msgstr "Um einen Beitrag zu ermöglichen, muss eine Ressourcenvorlage festgelegt werden"
+
+msgid "The module Advanced Resource Template is not available."
+msgstr "Das Modul Advanced Resource Template ist nicht verfügbar."
+
+msgid "The resource template #{template_id} used for media in template {template} is not available."
+msgstr "Die für Medien in der Vorlage {template} verwendete Ressourcenvorlage #{template_id} ist nicht verfügbar."
+
+msgid "The template #{template_id} does not exist and cannot be used for contribution."
+msgstr "Die Vorlage #{template_id} existiert nicht und kann nicht für Beiträge verwendet werden."
+
+msgid "The template \"{template}\" does not exist and cannot be used for contribution."
+msgstr "Die Vorlage „{template}“ existiert nicht und kann nicht für Beiträge verwendet werden."
+
+msgid "Contribution modes"
+msgstr "Beitragsmodi"
+
+msgid "Open to any visitor"
+msgstr "Offen für jeden Besucher"
+
+msgid "With token"
+msgstr "Mit Wertmarke"
+
+msgid "Authenticated users"
+msgstr "Authentifizierte Benutzer"
+
+msgid "Authenticated users with a token"
+msgstr "Authentifizierte Benutzer mit einem Token"
+
+msgid "Authenticated users from cas"
+msgstr "Authentifizierte Benutzer von cas"
+
+msgid "Authenticated users from ldap"
+msgstr "Authentifizierte Benutzer von LDAP"
+
+msgid "Authenticated users from sso"
+msgstr "Authentifizierte Benutzer von SSO"
+
+msgid "Roles"
+msgstr "Rollen"
+
+msgid "Authenticated users with defined emails below"
+msgstr "Authentifizierte Benutzer mit definierten E-Mails unten"
+
+msgid "Users filtered on their settings, in particular IdP attributes mapped via Single Sign-On"
+msgstr "Benutzer haben nach ihren Einstellungen gefiltert, insbesondere nach IdP-Attributen, die über Single Sign-On zugeordnet wurden"
+
+msgid "Roles allowed to contribute (option \"Roles\" above)"
+msgstr "Rollen, die Beiträge leisten dürfen (Option „Rollen“ oben)"
+
+msgid "Select roles…"
+msgstr "Rollen auswählen…"
+
+msgid "Filter on emails of users allowed to contribute (option above)"
+msgstr "Nach E-Mails von Benutzern filtern, die Beiträge leisten dürfen (Option oben)"
+
+msgid "The filters may be a raw email or a regex wrapped with \"~\". They are independant: a single rule should be true to allow contribution."
+msgstr "Bei den Filtern kann es sich um eine Roh-E-Mail oder einen mit „~“ umschlossenen regulären Ausdruck handeln.Sie sind unabhängig: Um einen Beitrag zu ermöglichen, muss eine einzige Regel gelten."
+
+msgid "Filters on settings of users allowed to contribute (option above)"
+msgstr "Filter für die Einstellungen der Benutzer, die Beiträge leisten dürfen (Option oben)"
+
+msgid "The filters may be a raw string or a regex wrapped with \"~\". They are cumulative: all filters should be true."
+msgstr "Die Filter können eine Rohzeichenfolge oder ein mit „~“ umschlossener regulärer Ausdruck sein.Sie sind kumulativ: Alle Filter sollten wahr sein."
+
+msgid "Resource templates allowed for contribution"
+msgstr "Für den Beitrag zulässige Ressourcenvorlagen"
+
+msgid "Select resources templates…"
+msgstr "Ressourcenvorlagen auswählen…"
+
+msgid "Resource templates allowed for media (linked contribution)"
+msgstr "Für Medien zulässige Ressourcenvorlagen (verlinkter Beitrag)"
+
+msgid "Days for token to expire"
+msgstr "Tage, bis das Token abläuft"
+
+msgid "Allow to set the default expiration date of a token. Let empty to remove expiration."
+msgstr "Ermöglicht das Festlegen des Standardablaufdatums eines Tokens.Entleeren lassen, um das Ablaufdatum zu beseitigen."
+
+msgid "90"
+msgstr "90"
+
+msgid "No (directly submitted)"
+msgstr "Nein (direkt eingereicht)"
+
+msgid "Until submission"
+msgstr "Bis zur Abgabe"
+
+msgid "Until validation"
+msgstr "Bis zur Validierung"
+
+msgid "Email of the sender (else no-reply user or administrator)"
+msgstr "E-Mail des Absenders (andernfalls No-Reply-Benutzer oder Administrator)"
+
+msgid "The no-reply email can be set via module EasyAdmin. The administrator email can be set above."
+msgstr "Die No-Reply-E-Mail kann über das Modul EasyAdmin eingestellt werden.Die Administrator-E-Mail kann oben eingestellt werden."
+
+msgid "Name of the sender when email above is set"
+msgstr "Name des Absenders, wenn oben E-Mail eingestellt ist"
+
+msgid "Emails to notify contributions"
+msgstr "E-Mails zur Benachrichtigung über Beiträge"
+
+msgid "A query can be appended to limit notifications to specific contributions."
+msgstr "Eine Abfrage kann angehängt werden, um Benachrichtigungen auf bestimmte Beiträge zu beschränken."
+
+msgid "Emails of the author"
+msgstr "E-Mails des Autors"
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Confirmations to author"
+msgstr "Bestätigungen an den Autor"
+
+msgid "value_options"
+msgstr "value_options"
+
+msgid "On submit"
+msgstr "Beim Absenden"
+
+msgid "Message displayed when a contribution is added"
+msgstr "Meldung, die angezeigt wird, wenn ein Beitrag hinzugefügt wird"
+
+msgid "Message displayed when a contribution is edited"
+msgstr "Meldung, die angezeigt wird, wenn ein Beitrag bearbeitet wird"
+
+msgid "Redirection after submission"
+msgstr "Weiterleitung nach Einreichung"
+
+msgid "Default is the page of contributions for guest users. Set \"home\" for home page (admin or public), \"site\" for the current site home, \"top\" for main public page, \"me\" for guest account, or any path starting with \"/\", including \"/\" itself for main home page."
+msgstr "Standard ist die Beitragsseite für Gastbenutzer.Legen Sie „home“ für die Startseite (admin oder öffentlich), „site“ für die Startseite der aktuellen Website, „top“ für die öffentliche Hauptseite, „me“ für das Gastkonto oder einen beliebigen Pfad fest, der mit „/“ beginnt, einschließlich „/“ selbst für die Haupthomepage."
+
+msgid "Subject of the email of confirmation to the author"
+msgstr "Betreff der Bestätigungs-E-Mail an den Autor"
+
+msgid "May be overridden by a specific subject set in the resource template"
+msgstr "Kann durch einen bestimmten Themensatz in der Ressourcenvorlage überschrieben werden"
+
+msgid "Message of confirmation to the author"
+msgstr "Bestätigungsnachricht an den Autor"
+
+msgid "Subject of the email of confirmation to the reviewers"
+msgstr "Betreff der Bestätigungs-E-Mail an die Prüfer"
+
+msgid "Message of confirmation to the reviewers"
+msgstr "Bestätigungsnachricht an die Gutachter"
+
+msgid "Subject of the default email to the author"
+msgstr "Betreff der Standard-E-Mail an den Autor"
+
+msgid "Default message to the author"
+msgstr "Standardnachricht an den Autor"
+
+msgid "Placeholders: {main_title}, {main_url}."
+msgstr "Platzhalter: {main_title}, {main_url}."
+
+msgid "Select a template…"
+msgstr "Wählen Sie eine Vorlage aus…"
+
+msgid "Set a date with optional comparator…"
+msgstr "Legen Sie ein Datum mit optionalem Komparator fest ..."
+
+msgid "Any"
+msgstr "Beliebig"
+
+msgid "Submitted"
+msgstr "Eingereicht"
+
+msgid "User by id"
+msgstr "Benutzer nach ID"
+
+msgid "User by email"
+msgstr "Benutzer per E-Mail"
+
+msgid "Type of item"
+msgstr "Art des Artikels"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Mark unsubmitted"
+msgstr "Als nicht übermittelt markieren"
+
+msgid "Add myself as bcc"
+msgstr "Fügen Sie mich als bcc hinzu"
+
+msgid "Add myself as reply-to"
+msgstr "Fügen Sie mich als Antwort hinzu"
+
+msgid "Send message"
+msgstr "Nachricht senden"
+
+msgid "Invalid or empty file for key {key}."
+msgstr "Ungültige oder leere Datei für Schlüssel {key}."
+
+msgid "Invalid file type for key {key}."
+msgstr "Ungültiger Dateityp für Schlüssel {key}."
+
+msgid "A site is required to create a public token."
+msgstr "Zum Erstellen eines öffentlichen Tokens ist eine Site erforderlich."
+
+msgid "The filename set in store is empty."
+msgstr "Der im Speicher festgelegte Dateiname ist leer."
+
+msgid "The filename is not a real path."
+msgstr "Der Dateiname ist kein echter Pfad."
+
+msgid "The filename is not in the base directory."
+msgstr "Der Dateiname befindet sich nicht im Basisverzeichnis."
+
+msgid "The file is not writeable."
+msgstr "Die Datei ist nicht beschreibbar."
+
+msgid "The file is not a real file."
+msgstr "Die Datei ist keine echte Datei."
+
+msgid "The file is not readable."
+msgstr "Die Datei ist nicht lesbar."
+
+msgid "The store for file is not set."
+msgstr "Der Speicher für die Datei ist nicht festgelegt."
+
+msgid "This contribution is a new resource or has no more resource."
+msgstr "Dieser Beitrag ist eine neue Ressource oder hat keine weitere Ressource."
+
+msgid "contribution"
+msgstr "Beitrag"
+
+msgid "Contribution successfully deleted"
+msgstr "Beitrag erfolgreich gelöscht"
+
+msgid "You must select at least one contribution to batch delete."
+msgstr "Sie müssen mindestens einen Beitrag zum Batch-Löschen auswählen."
+
+msgid "Contributions successfully deleted"
+msgstr "Beiträge erfolgreich gelöscht"
+
+msgid "Deleting contributions. This may take a while."
+msgstr "Beiträge löschen.Dies kann eine Weile dauern."
+
+msgid "You can create token only for items, media and item sets."
+msgstr "Sie können Token nur für Artikel, Medien und Artikelsets erstellen."
+
+msgid "You must select at least one resource to create a token."
+msgstr "Sie müssen mindestens eine Ressource auswählen, um ein Token zu erstellen."
+
+msgid "You set the optional email \"{email}\" to create a contribution token, but it is not well-formed."
+msgstr "Sie haben die optionale E-Mail-Adresse „{email}“ festgelegt, um ein Beitragstoken zu erstellen, diese ist jedoch nicht wohlgeformt."
+
+msgid "Created {total} contribution tokens (email: {email}, duration: {duration}): {urls}"
+msgstr "{total} Beitragstoken erstellt (E-Mail: {email}, Dauer: {duration}): {urls}"
+
+msgid "none"
+msgstr "keiner"
+
+msgid "{days} days"
+msgstr "{Tage} Tage"
+
+msgid "unlimited"
+msgstr "unbegrenzt"
+
+msgid "Resource #{resource_id} has no tokens to expire."
+msgstr "Für die Ressource #{resource_id} sind keine ablaufenden Token vorhanden."
+
+msgid "All tokens of the resource were expired."
+msgstr "Alle Token der Ressource waren abgelaufen."
+
+msgid "Message successfully sent to {email}."
+msgstr "Nachricht erfolgreich an {email} gesendet."
+
+msgid "Unable to store the resource of the contribution: {message}"
+msgstr "Die Ressource des Beitrags kann nicht gespeichert werden: {message}"
+
+msgid "A template is required to add a resource. Ask the administrator for more information."
+msgstr "Zum Hinzufügen einer Ressource ist eine Vorlage erforderlich.Bitten Sie den Administrator um weitere Informationen."
+
+msgid "Contribution successfully saved!"
+msgstr "Beitrag erfolgreich gespeichert!"
+
+msgid "Review it before its submission."
+msgstr "Überprüfen Sie es, bevor Sie es einreichen."
+
+msgid "An error occurred: check your input."
+msgstr "Es ist ein Fehler aufgetreten: Überprüfen Sie Ihre Eingabe."
+
+msgid "This resource cannot be edited: no resource template, no fields, or not allowed."
+msgstr "Diese Ressource kann nicht bearbeitet werden: keine Ressourcenvorlage, keine Felder oder nicht zulässig."
+
+msgid "This contribution has been submitted and cannot be edited."
+msgstr "Dieser Beitrag wurde eingereicht und kann nicht bearbeitet werden."
+
+msgid "Contribution successfully submitted!"
+msgstr "Beitrag erfolgreich eingereicht!"
+
+msgid "This contribution is already submitted and cannot be updated."
+msgstr "Dieser Beitrag ist bereits eingereicht und kann nicht aktualisiert werden."
+
+msgid "No change."
+msgstr "Keine Änderung."
+
+msgid "Contribution successfully updated!"
+msgstr "Beitrag erfolgreich aktualisiert!"
+
+msgid "The delete confirm action is currently unavailable"
+msgstr "Die Löschbestätigungsaktion ist derzeit nicht verfügbar"
+
+msgid "Deletion can be processed only with a post."
+msgstr "Die Löschung kann nur mit einem Post erfolgen."
+
+msgid "A contribution cannot be updated or deleted."
+msgstr "Ein Beitrag kann nicht aktualisiert oder gelöscht werden."
+
+msgid "This contribution has been submitted and cannot be deleted."
+msgstr "Dieser Beitrag wurde eingereicht und kann nicht gelöscht werden."
+
+msgid "This contribution has been reviewed and cannot be deleted."
+msgstr "Dieser Beitrag wurde überprüft und kann nicht gelöscht werden."
+
+msgid "Contribution successfully deleted."
+msgstr "Beitrag erfolgreich gelöscht."
+
+msgid "An issue occurred and the contribution was not deleted."
+msgstr "Es ist ein Problem aufgetreten und der Beitrag wurde nicht gelöscht."
+
+msgid "Only a whole contribution can be submitted."
+msgstr "Es kann nur ein ganzer Beitrag eingereicht werden."
+
+msgid "Only the contributor can update a contribution."
+msgstr "Nur der Mitwirkende kann einen Beitrag aktualisieren."
+
+msgid "This contribution has already been submitted."
+msgstr "Dieser Beitrag wurde bereits eingereicht."
+
+msgid "This contribution has already been reviewed."
+msgstr "Dieser Beitrag wurde bereits rezensiert."
+
+msgid "An error occurred: check your submission or ask an administrator."
+msgstr "Es ist ein Fehler aufgetreten: Überprüfen Sie Ihre Einreichung oder fragen Sie einen Administrator."
+
+msgid "User {user} has made a contribution for resource #{resource} ({title}) (action: {action})."
+msgstr "Benutzer {user} hat einen Beitrag für Ressource #{resource} ({title}) geleistet (Aktion: {action})."
+
+msgid "An anonymous user has made a contribution for resource {resource} ({title}) (action: {action})."
+msgstr "Ein anonymer Benutzer hat einen Beitrag für die Ressource {resource} ({title}) geleistet (Aktion: {action})."
+
+msgid "User {user} has made a contribution (action: {action})."
+msgstr "Benutzer {user} hat einen Beitrag geleistet (Aktion: {action})."
+
+msgid "An anonymous user has made a contribution (action: {action})."
+msgstr "Ein anonymer Benutzer hat einen Beitrag geleistet (Aktion: {action})."
+
+msgid "The author of this contribution has no valid email. Check it or check the config."
+msgstr "Der Autor dieses Beitrags hat keine gültige E-Mail-Adresse.Überprüfen Sie es oder überprüfen Sie die Konfiguration."
+
+msgid "Hi,\nThanks for your contribution.\n\nThe administrators will validate it as soon as possible.\n\nSincerely,"
+msgstr "Hallo,\nVielen Dank für Ihren Beitrag.\n\nDie Administratoren werden es so schnell wie möglich validieren.\n\nAufrichtig,"
+
+msgid "File {key}: {error}"
+msgstr "Datei {Schlüssel}: {Fehler}"
+
+msgid "Empty file for key {key}"
+msgstr "Leere Datei für Schlüssel {key}"
+
+msgid "Invalid file type for key {key}"
+msgstr "Ungültiger Dateityp für Schlüssel {key}"
+
+msgid "Forbidden access."
+msgstr "Zugriff verboten."
+
+msgid "Contribute templates"
+msgstr "Vorlagen beisteuern"
+
+msgid "Other templates"
+msgstr "Andere Vorlagen"
+
+msgid "Contribution: new"
+msgstr "Beitrag: neu"
+
+msgid "Contribute: Edit link"
+msgstr "Mitmachen: Link bearbeiten"
+
+msgid "Prepare tokens to edit selected"
+msgstr "Bereiten Sie Token zum Bearbeiten der ausgewählten vor"
+
+msgid "Prepare tokens to edit all"
+msgstr "Bereiten Sie Token vor, um alle zu bearbeiten"
+
+msgid "Your contribution on {main_title}"
+msgstr "Ihr Beitrag zu {main_title}"

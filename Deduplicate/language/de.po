@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Deduplicate"
+msgstr "Deduplizieren"
+
+msgid "The process is done on a selection of %1$sresources%2$s."
+msgstr "Der Vorgang wird für eine Auswahl von %1$sresources%2$s durchgeführt."
+
+msgid "Select a property: all resources with the same value, case insensitively or not, will be removed, except the first."
+msgstr "Wählen Sie eine Eigenschaft aus: Alle Ressourcen mit demselben Wert, unabhängig von der Groß-/Kleinschreibung, werden entfernt, mit Ausnahme der ersten."
+
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+msgid "It is strongly recommended to backup the database and files before processing."
+msgstr "Es wird dringend empfohlen, die Datenbank und Dateien vor der Verarbeitung zu sichern."
+
+msgid "It is recommended to process on a selected list of resources too."
+msgstr "Es wird empfohlen, auch eine ausgewählte Liste von Ressourcen zu verarbeiten."
+
+msgid "The search returned %1$d values with duplicated resources for property %2$s."
+msgstr "Die Suche ergab %1$d Werte mit doppelten Ressourcen für die Eigenschaft %2$s."
+
+msgid "[kept]"
+msgstr "[behalten]"
+
+msgid "[skipped]"
+msgstr "[übersprungen]"
+
+msgid "To refine the list, select a property and a value or select %sresources%s directly."
+msgstr "Um die Liste zu verfeinern, wählen Sie eine Eigenschaft und einen Wert aus oder wählen Sie direkt %sresources%s aus."
+
+msgid "To get a list of resources to merge, select a property and a value or go to %sresources%s to filter them."
+msgstr "Um eine Liste der zusammenzuführenden Ressourcen zu erhalten, wählen Sie eine Eigenschaft und einen Wert aus oder gehen Sie zu %sresources%s, um sie zu filtern."
+
+msgid "The query returned a single result."
+msgstr "Die Abfrage hat ein einzelnes Ergebnis zurückgegeben."
+
+msgid "The search returned %1$d resources. Only %2$d first ones are displayed. Other ones won’t be processed."
+msgstr "Die Suche ergab %1$d Ressourcen.Es werden nur %2$d erste angezeigt.Andere werden nicht verarbeitet."
+
+msgid "Select the resource to keep and the ones to merge."
+msgstr "Wählen Sie die Ressource aus, die Sie behalten möchten, und die Ressourcen, die Sie zusammenführen möchten."
+
+msgid "Merge mode: remove all duplicate resources and update all linked resources to the one kept."
+msgstr "Zusammenführungsmodus: Entfernen Sie alle doppelten Ressourcen und aktualisieren Sie alle verknüpften Ressourcen auf die beibehaltene."
+
+msgid "Select resource to keep"
+msgstr "Wählen Sie die Ressource aus, die Sie behalten möchten"
+
+msgid "Keep"
+msgstr "Halten"
+
+msgid "Select resource to merge"
+msgstr "Wählen Sie die Ressource zum Zusammenführen aus"
+
+msgid "Merge"
+msgstr "Verschmelzen"
+
+msgid "It is now possible to delete duplicates automatically."
+msgstr "Es ist nun möglich, Duplikate automatisch zu löschen."
+
+msgid "There is no resource to merge."
+msgstr "Es gibt keine Ressource zum Zusammenführen."
+
+msgid "There is no resource #{resource_id} to merge."
+msgstr "Es gibt keine Ressource #{resource_id} zum Zusammenführen."
+
+msgid "{count} resources have been merged inside resource #{resource_id}."
+msgstr "{count} Ressourcen wurden in Ressource #{resource_id} zusammengeführt."
+
+msgid "Property to deduplicate on"
+msgstr "Eigenschaft, auf der dedupliziert werden soll"
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Heuristic to find similar values"
+msgstr "Heuristik zum Finden ähnlicher Werte"
+
+msgid "Equal (exactly)"
+msgstr "Gleich (genau)"
+
+msgid "Equal (case insensitive)"
+msgstr "Gleich (ohne Berücksichtigung der Groß- und Kleinschreibung)"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "Different algorithms can be used to detect \"similar\" values."
+msgstr "Zur Erkennung „ähnlicher“ Werte können unterschiedliche Algorithmen eingesetzt werden."
+
+msgid "Equal"
+msgstr "Gleich"
+
+msgid "Similar text"
+msgstr "Ähnlicher Text"
+
+msgid "Levenshtein distance"
+msgstr "Levenshtein-Distanz"
+
+msgid "Metaphone"
+msgstr "Metaphon"
+
+msgid "Soundex"
+msgstr "Soundex"
+
+msgid "A property to deduplicate on is required."
+msgstr "Es ist eine Eigenschaft für die Deduplizierung erforderlich."
+
+msgid "There are no duplicates for the property {property}."
+msgstr "Für die Eigenschaft {property} gibt es keine Duplikate."
+
+msgid "There are {count} duplicates for the property {property}."
+msgstr "Es gibt {count} Duplikate für die Eigenschaft {property}."
+
+msgid "{count} resources are duplicated with several values and are kept: {resource_ids}"
+msgstr "{count} Ressourcen werden mit mehreren Werten dupliziert und behalten: {resource_ids}"
+
+msgid "Confirm removing duplicates, except the first, by checking the checkbox."
+msgstr "Bestätigen Sie das Entfernen von Duplikaten, mit Ausnahme des ersten, indem Sie das Kontrollkästchen aktivieren."
+
+msgid "You cannot change property when submitting form."
+msgstr "Sie können die Eigenschaft beim Absenden des Formulars nicht ändern."
+
+msgid "No duplicates were removed, because duplicated resources have multiple duplicate values."
+msgstr "Es wurden keine Duplikate entfernt, da duplizierte Ressourcen mehrere doppelte Werte haben."
+
+msgid "An error occurred when deleting duplicates: {msg}."
+msgstr "Beim Löschen von Duplikaten ist ein Fehler aufgetreten: {msg}."
+
+msgid "Processing deduplication in background (job {link}#{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Deduplizierung wird im Hintergrund verarbeitet (Job {link}#{job_id}{link_end}, {link_log}Protokolle{link_end})."
+
+msgid "{count} duplicates were removed."
+msgstr "{count} Duplikate wurden entfernt."
+
+msgid "The property {property} does not exist."
+msgstr "Die Eigenschaft {property} existiert nicht."
+
+msgid "A value to deduplicate on is required."
+msgstr "Es ist ein Wert für die Deduplizierung erforderlich."
+
+msgid "A property is required to search on."
+msgstr "Für die Suche ist eine Eigenschaft erforderlich."
+
+msgid "The string is too long (more than {length} characters)."
+msgstr "Die Zeichenfolge ist zu lang (mehr als {length} Zeichen)."
+
+msgid "The query does not find selected resource ids."
+msgstr "Die Abfrage findet keine ausgewählten Ressourcen-IDs."
+
+msgid "The query returned no resource."
+msgstr "Die Abfrage hat keine Ressource zurückgegeben."
+
+msgid "There are too many similar values near \"{value}\". You may filter resources first."
+msgstr "Es gibt zu viele ähnliche Werte in der Nähe von „{value}“.Sie können zunächst die Ressourcen filtern."
+
+msgid "There is no existing value for property {property} near \"{value}\"."
+msgstr "Für die Eigenschaft {property} ist in der Nähe von „{value}“ kein Wert vorhanden."
+
+msgid "The resource #{resource_id} does not exist."
+msgstr "Die Ressource #{resource_id} existiert nicht."
+
+msgid "Some merged resources do not exist."
+msgstr "Einige zusammengeführte Ressourcen sind nicht vorhanden."
+
+msgid "The value {value} has too much duplicates and will requires a second deduplication."
+msgstr "Der Wert {value} weist zu viele Duplikate auf und erfordert eine zweite Deduplizierung."
+
+msgid "Deduplicate all resources"
+msgstr "Deduplizieren Sie alle Ressourcen"
+
+msgid "Deduplicate all resources automatically"
+msgstr "Deduplizieren Sie alle Ressourcen automatisch"
+
+msgid "Deduplicate selected resources"
+msgstr "Ausgewählte Ressourcen deduplizieren"
+
+msgid "Deduplicate selected resources automatically"
+msgstr "Ausgewählte Ressourcen automatisch deduplizieren"

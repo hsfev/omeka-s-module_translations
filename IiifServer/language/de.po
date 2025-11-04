@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "This version requires Archive Repertory 3.15.4 or greater (used for some 3D views)."
+msgstr "Diese Version erfordert Archive Repertory 3.15.4 oder höher (wird für einige 3D-Ansichten verwendet)."
+
+msgid "The module creates manifests with the properties from each resource (item set, item and media)."
+msgstr "Das Modul erstellt Manifeste mit den Eigenschaften jeder Ressource (Artikelsatz, Artikel und Medien)."
+
+msgid "The properties below are used when some metadata are missing."
+msgstr "Die folgenden Eigenschaften werden verwendet, wenn einige Metadaten fehlen."
+
+msgid "In all cases, empty properties are not set."
+msgstr "In allen Fällen werden keine leeren Eigenschaften festgelegt."
+
+msgid "Futhermore, the event \"iiifserver.manifest\" is available to change any data."
+msgstr "Darüber hinaus steht das Event „iiif server.manifest“ zur Verfügung, um beliebige Daten zu ändern."
+
+msgid "[View %s]"
+msgstr "[%s anzeigen]"
+
+msgid "[Content]"
+msgstr "[Inhalt]"
+
+msgid "Dynamic list"
+msgstr "Dynamische Liste"
+
+msgid "Download as PDF"
+msgstr "Als PDF herunterladen"
+
+msgid "Download as XML"
+msgstr "Als XML herunterladen"
+
+msgid "Download as ALTO XML"
+msgstr "Als ALTO XML herunterladen"
+
+msgid "Download as text"
+msgstr "Als Text herunterladen"
+
+msgid "Placeholder image"
+msgstr "Platzhalterbild"
+
+msgid "Unsupported extension. This manifest is being used as a wrapper for non-IIIF v2 content (e.g., audio, video) and is unfortunately incompatible with IIIF v2 viewers."
+msgstr "Nicht unterstützte Erweiterung.Dieses Manifest wird als Wrapper für Nicht-IIIF v2-Inhalte (z. B. Audio, Video) verwendet und ist leider nicht mit IIIF v2-Viewern kompatibel."
+
+msgid "Text of current page"
+msgstr "Text der aktuellen Seite"
+
+msgid "Copy IIIF manifest url in clipboard to use in any IIIF viewer."
+msgstr "Kopieren Sie die IIIF-Manifest-URL in die Zwischenablage, um sie in einem beliebigen IIIF-Viewer zu verwenden."
+
+msgid "IIIF manifest url copied in clipboard!"
+msgstr "IIIF-Manifest-URL in Zwischenablage kopiert!"
+
+msgid "Unable to copy url in clipboard!"
+msgstr "URL kann nicht in die Zwischenablage kopiert werden!"
+
+msgid "The module IIIF Server was split into two modules: {link_url}IIIF Server{link_end}, that creates iiif manifest, and {link_url_2}Image Server{link_end}, that provides the tiled images. In that way, it is simpler to use an external image server via core media \"IIIF Image\". The upgrade is automatic, but you need to install the two modules."
+msgstr "Das Modul IIIF Server wurde in zwei Module aufgeteilt: {link_url}IIIF Server{link_end}, der das iiif-Manifest erstellt, und {link_url_2}Image Server{link_end}, der die gekachelten Bilder bereitstellt.Auf diese Weise ist es einfacher, einen externen Bildserver über das Kernmedium „IIIF Image“ zu verwenden.Das Upgrade erfolgt automatisch, Sie müssen jedoch die beiden Module installieren."
+
+msgid "The module IIIF Server is now totally independant from the module Image Server and any other external image server can be used."
+msgstr "Das Modul IIIF Server ist nun völlig unabhängig vom Modul Image Server und jeder andere externe Imageserver kann verwendet werden."
+
+msgid "Check the config of the image server, if any, in the config of this module."
+msgstr "Überprüfen Sie die Konfiguration des Bildservers, falls vorhanden, in der Konfiguration dieses Moduls."
+
+msgid "The module IIIF Server supports creation of structures through a table-of-contents-like value: see {link_url}readme{link_end}."
+msgstr "Das Modul IIIF Server unterstützt die Erstellung von Strukturen durch einen inhaltsverzeichnisähnlichen Wert: siehe {link_url}readme{link_end}."
+
+msgid "XML Alto is supported natively and it can be displayed as an overlay layer if your viewer supports it."
+msgstr "XML Alto wird nativ unterstützt und kann als Overlay-Ebene angezeigt werden, wenn Ihr Viewer dies unterstützt."
+
+msgid "The xml media-type should be a precise one: \"application/alto+xml\", not \"text/xml\" or \"application/xml\"."
+msgstr "Der XML-Medientyp sollte präzise sein: „application/alto+xml“, nicht „text/xml“ oder „application/xml“."
+
+msgid "New files are automatically managed, but you may need modules Bulk Edit or Easy Admin to fix old ones, if any."
+msgstr "Neue Dateien werden automatisch verwaltet, aber möglicherweise benötigen Sie die Module Bulk Edit oder Easy Admin, um ggf. alte Dateien zu reparieren."
+
+msgid "Badly formatted xml files may be fixed dynamically, but it will affect performance. See {link_url}readme{link_end}."
+msgstr "Schlecht formatierte XML-Dateien werden möglicherweise dynamisch korrigiert, beeinträchtigen jedoch die Leistung.Siehe {link_url}readme{link_end}."
+
+msgid "An option allows to skip the rights managed by module Access Resource."
+msgstr "Eine Option ermöglicht das Überspringen der vom Modul Access Resource verwalteten Rechte."
+
+msgid "A new option allows to fix bad xml and invalid utf-8 characters."
+msgstr "Eine neue Option ermöglicht die Korrektur fehlerhafter XML- und ungültiger UTF-8-Zeichen."
+
+msgid "A new option allows to cache manifests in order to delivrate them instantly."
+msgstr "Eine neue Option ermöglicht das Zwischenspeichern von Manifesten, um sie sofort bereitzustellen."
+
+msgid "A new resource block allows to display the iiif manifest link to copy in clipboard."
+msgstr "Ein neuer Ressourcenblock ermöglicht die Anzeige des iiif-Manifest-Links zum Kopieren in die Zwischenablage."
+
+msgid "A new option allows to set the provider."
+msgstr "Eine neue Option ermöglicht die Einstellung des Anbieters."
+
+msgid "A new option allows to limit the files types to download."
+msgstr "Eine neue Option ermöglicht es, die herunterzuladenden Dateitypen einzuschränken."
+
+msgid "A new option allows to cache the manifests on save. It is set on, but may be disabled in settings."
+msgstr "Eine neue Option ermöglicht das Zwischenspeichern der Manifeste beim Speichern.Es ist aktiviert, kann aber in den Einstellungen deaktiviert werden."
+
+msgid "A new option allows to fix playing mp3 with Universal Viewer v4."
+msgstr "Eine neue Option ermöglicht die Korrektur der MP3-Wiedergabe mit Universal Viewer v4."
+
+msgid "The creation of manifests is now a lot quicker and can be done in real time in most of the cases. The cache is still available for big manifests and for instant access."
+msgstr "Die Erstellung von Manifesten geht jetzt viel schneller und kann in den meisten Fällen in Echtzeit erfolgen.Der Cache steht weiterhin für große Manifeste und für den sofortigen Zugriff zur Verfügung."
+
+msgid "If you use the feature \"table of contents\", a new format was integrated. Management of the old ones will be removed in version 3.6.20. A job is added in module EasyAdmin (version 3.4.17) to do the conversion."
+msgstr "Wenn Sie die Funktion „Inhaltsverzeichnis“ nutzen, wurde ein neues Format integriert.Die Verwaltung der alten wird in Version 3.6.20 entfernt.Für die Konvertierung wurde im Modul EasyAdmin (Version 3.4.17) ein Job hinzugefügt."
+
+msgid "A job was launched to upgrade the format of \"table of contents\". Replaced tocs will be stored in logs ({link}job #{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Es wurde ein Auftrag zur Aktualisierung des Formats „Inhaltsverzeichnis“ gestartet.Ersetzte Inhaltsverzeichnisse werden in Protokollen gespeichert ({link}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})."
+
+msgid "The directory \"{directory}\" is not writeable."
+msgstr "Das Verzeichnis „{directory}“ ist nicht beschreibbar."
+
+msgid "Caching manifests ({link}job #{job_id}{link_end}, {link_log}logs{link_end})"
+msgstr "Caching-Manifeste ({link}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})"
+
+msgid "Storing dimensions of images, audio and video ({link}job #{job_id}{link_end}, {link_log}logs{link_end})"
+msgstr "Speichern der Abmessungen von Bildern, Audio und Video ({link}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})"
+
+msgid "Iiif Server: Cache manifests"
+msgstr "Iiif-Server: Cache-Manifeste"
+
+msgid "Iiif Server: Store dimensions of medias"
+msgstr "Iiif-Server: Speichern Sie die Abmessungen der Medien"
+
+msgid "Iiif Server: Upgrade old tables of contents to new format with four columns (to do only one time for old external manifests)"
+msgstr "Iiif Server: Aktualisieren Sie alte Inhaltsverzeichnisse auf das neue Format mit vier Spalten (nur einmal für alte externe Manifeste erforderlich)."
+
+msgid "Options to cache manifests"
+msgstr "Optionen zum Zwischenspeichern von Manifesten"
+
+msgid "Limit cache of manifests to specific items"
+msgstr "Beschränken Sie den Manifest-Cache auf bestimmte Elemente"
+
+msgid "Options to store dimensions"
+msgstr "Optionen zum Speichern von Abmessungen"
+
+msgid "Limit storage of dimensions to specific items"
+msgstr "Beschränken Sie die Speicherung von Dimensionen auf bestimmte Elemente"
+
+msgid "Options to upgrade table of contents"
+msgstr "Optionen zum Aktualisieren des Inhaltsverzeichnisses"
+
+msgid "Limit upgrade of tables of contents to specific items"
+msgstr "Beschränken Sie die Aktualisierung von Inhaltsverzeichnissen auf bestimmte Elemente"
+
+msgid "The cors headers are disabled. You shall enable them to allow other libraries to access to your manifests."
+msgstr "Die Cors-Header sind deaktiviert.Sie müssen es ihnen ermöglichen, anderen Bibliotheken den Zugriff auf Ihre Manifeste zu ermöglichen."
+
+msgid "The cors headers are enabled multiple times in the config of the module and in the config of Apache or in the file .htaccess. Duplicating the cors headers makes them disabled. You should disable the option in the config of the module, in the Apache config or in the file .htaccess."
+msgstr "Die Cors-Header sind mehrfach in der Konfiguration des Moduls und in der Konfiguration von Apache oder in der Datei .htaccess aktiviert.Durch das Duplizieren der Cors-Header werden diese deaktiviert.Sie sollten die Option in der Konfiguration des Moduls, in der Apache-Konfiguration oder in der Datei .htaccess deaktivieren."
+
+msgid "When cache is enabled, you should recreate it each time the config is updated."
+msgstr "Wenn der Cache aktiviert ist, sollten Sie ihn jedes Mal neu erstellen, wenn die Konfiguration aktualisiert wird."
+
+msgid "Item #{item_id} / media #{media_id}: Error getting dimensions for types \"{types}\"."
+msgstr "Artikel #{item_id} / Medien #{media_id}: Fehler beim Abrufen der Abmessungen für die Typen „{types}“."
+
+msgid "Warning: some files contain invalid unicode characters and cannot be processed quickly."
+msgstr "Warnung: Einige Dateien enthalten ungültige Unicode-Zeichen und können nicht schnell verarbeitet werden."
+
+msgid "elements"
+msgstr "Elemente"
+
+msgid "No items selected."
+msgstr "Keine Elemente ausgewählt."
+
+msgid "Unable to create directory \"{dir}\"."
+msgstr "Das Verzeichnis „{dir}“ kann nicht erstellt werden."
+
+msgid "The job was stopped."
+msgstr "Der Job wurde gestoppt."
+
+msgid "Item #{item_id}: Unable to remove existing file \"{file}\". Manifest version {version} skipped."
+msgstr "Element #{item_id}: Vorhandene Datei „{file}“ konnte nicht entfernt werden.Manifestversion {version} übersprungen."
+
+msgid "Item #{item_id}: Unable to create manifest {version}."
+msgstr "Element #{item_id}: Manifest {Version} konnte nicht erstellt werden."
+
+msgid "Item #{item_id}: Unable to store the manifest version {version}."
+msgstr "Element #{item_id}: Die Manifestversion {version} kann nicht gespeichert werden."
+
+msgid "Item #{item_id}: iiif manifests created successfully."
+msgstr "Element #{item_id}: iiif-Manifeste wurden erfolgreich erstellt."
+
+msgid "No item selected. You may check your query."
+msgstr "Kein Artikel ausgewählt.Sie können Ihre Anfrage überprüfen."
+
+msgid "Starting bulk sizing for {total} items ({mode} media)."
+msgstr "Massengrößenanpassung für {total} Artikel ({mode} Medien) wird gestartet."
+
+msgid "The job \"Media Dimensions\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Media Dimensions“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "End of bulk sizing: {count}/{total} items processed, {count_succeed} audio, video and images files sized, {count_failed} errors, {count_skipped} skipped on a total of {count_medias} images."
+msgstr "Ende der Massengrößenbestimmung: {count}/{total} Elemente verarbeitet, {count_succeed} Audio-, Video- und Bilddateien in der Größe, {count_failed} Fehler, {count_skipped} übersprungen bei insgesamt {count_medias} Bildern."
+
+msgid "Media #{media_id}: Sizing"
+msgstr "Medien #{media_id}: Größe"
+
+msgid "Media #{media_id}: Error getting dimensions for types \"{types}\"."
+msgstr "Medien #{media_id}: Fehler beim Abrufen der Abmessungen für die Typen „{types}“."
+
+msgid "No property defined for structure."
+msgstr "Für die Struktur ist keine Eigenschaft definiert."
+
+msgid "A query was set but invalid or empty."
+msgstr "Eine Abfrage wurde gesetzt, aber ungültig oder leer."
+
+msgid "A query was set but returned no items."
+msgstr "Eine Abfrage wurde gestellt, es wurden jedoch keine Elemente zurückgegeben."
+
+msgid "No structure to process."
+msgstr "Keine Struktur zum Verarbeiten."
+
+msgid "Old structure for item #{item_id}:\n{toc}\nConverted to:\n{toc_2}"
+msgstr "Alte Struktur für Artikel #{item_id}:\n{Inhaltsverzeichnis}\nKonvertiert in:\n{toc_2}"
+
+msgid "A total of {count}/{total} values in property {term} were converted. {count_2} were not old table of contents and were skipped."
+msgstr "Insgesamt wurden {count}/{total} Werte in der Eigenschaft {term} konvertiert.{count_2} waren kein altes Inhaltsverzeichnis und wurden übersprungen."
+
+msgid "A total of {total} tables of contents (values in property {term}) were converted."
+msgstr "Insgesamt wurden {total} Inhaltsverzeichnisse (Werte in der Eigenschaft {term}) konvertiert."
+
+msgid "Default IIIF api version of the manifest"
+msgstr "Standard-IIIF-API-Version des Manifests"
+
+msgid "Set the version of the manifest to provide. Note that the version is automatically selected when a request specifies it in headers, or via the specific url (iiif/2/ or iiif/3/)."
+msgstr "Legen Sie die Version des bereitzustellenden Manifests fest.Beachten Sie, dass die Version automatisch ausgewählt wird, wenn eine Anfrage sie in Headern oder über die spezifische URL (iiif/2/ oder iiif/3/) angibt."
+
+msgid "2"
+msgstr "2"
+
+msgid "3"
+msgstr "3"
+
+msgid "Property supplying an external manifest"
+msgstr "Eigenschaft, die ein externes Manifest bereitstellt"
+
+msgid "External or static manifests can be more customized and may be quicker to be loaded. Usually, the property is \"dcterms:hasFormat\" or \"dcterms:isFormatOf\"."
+msgstr "Externe oder statische Manifeste können individueller angepasst werden und können möglicherweise schneller geladen werden.Normalerweise ist die Eigenschaft „dcterms:hasFormat“ oder „dcterms:isFormatOf“."
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Append CORS headers to web server response"
+msgstr "Hängen Sie CORS-Header an die Antwort des Webservers an"
+
+msgid "CORS (\"Cross Origin Resource Sharing\") headers are required to share manifests and media. They are generally managed by the web server, but, if not, they can be added here. They must not be appended multiple times, else they are disabled."
+msgstr "Für die gemeinsame Nutzung von Manifesten und Medien sind CORS-Header („Cross Origin Resource Sharing“) erforderlich.Sie werden im Allgemeinen vom Webserver verwaltet, andernfalls können sie hier hinzugefügt werden.Sie dürfen nicht mehrfach angehängt werden, sonst werden sie deaktiviert."
+
+msgid "https://gitlab.com/Daniel-KM/Omeka-S-module-IiifServer#CORS-Cross-Origin-Resource-Sharing)"
+msgstr "https://gitlab.com/Daniel-KM/Omeka-S-module-IiifServer#CORS-Cross-Origin-Resource-Sharing)"
+
+msgid "Output pretty indented json"
+msgstr "Ausgabe ziemlich eingerückter JSON"
+
+msgid "Recommended only if your server zip json automatically."
+msgstr "Nur empfohlen, wenn Ihr Server JSON automatisch komprimiert."
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "A cache may be required when there are more than 100 to 1000 media, depending on server, or when there are many visitors."
+msgstr "Ein Cache kann erforderlich sein, wenn je nach Server mehr als 100 bis 1000 Medien vorhanden sind oder wenn viele Besucher anwesend sind."
+
+msgid "Cache manifest for instant access"
+msgstr "Cache-Manifest für sofortigen Zugriff"
+
+msgid "Create manifest in real time"
+msgstr "Erstellen Sie ein Manifest in Echtzeit"
+
+msgid "Content of the manifest"
+msgstr "Inhalt des Manifests"
+
+msgid "Property to use for summary or description"
+msgstr "Eigenschaft, die für eine Zusammenfassung oder Beschreibung verwendet werden soll"
+
+msgid "If any, the first metadata of the record will be added in all manifests and viewers for main description. It’s recommended to use \"Dublin Core:Bibliographic Citation\"."
+msgstr "Falls vorhanden, werden die ersten Metadaten des Datensatzes in allen Manifesten und Viewern zur Hauptbeschreibung hinzugefügt.Es wird empfohlen, „Dublin Core:Bibliographic Citation“ zu verwenden."
+
+msgid "Template description"
+msgstr "Beschreibung der Vorlage"
+
+msgid "Property to use for Attribution"
+msgstr "Eigenschaft, die für die Namensnennung verwendet werden soll"
+
+msgid "If any, the first metadata of the resource will be added in all manifests and viewers to indicate the attribution."
+msgstr "Falls vorhanden, werden die ersten Metadaten der Ressource in allen Manifesten und Viewern hinzugefügt, um die Zuordnung anzuzeigen."
+
+msgid "Default attribution"
+msgstr "Standard-Attribution"
+
+msgid "If any, and if there is no metadata for the property above, this text will be added in all manifests and viewers. It will be used as pop up in the Universal Viewer too, if enabled."
+msgstr "Falls vorhanden und wenn für die oben genannte Eigenschaft keine Metadaten vorhanden sind, wird dieser Text in allen Manifesten und Viewern hinzugefügt.Es wird auch als Popup im Universal Viewer verwendet, sofern aktiviert."
+
+msgid "Provided by Example Organization"
+msgstr "Bereitgestellt von der Beispielorganisation"
+
+msgid "Rights (license)"
+msgstr "Rechte (Lizenz)"
+
+msgid "No mention"
+msgstr "Keine Erwähnung"
+
+msgid "Specified text below (only for iiif 2.0)"
+msgstr "Angegebener Text unten (nur für iiif 2.0)"
+
+msgid "Specified license below"
+msgstr "Unten angegebene Lizenz"
+
+msgid "Property specified below"
+msgstr "Unten angegebenes Eigentum"
+
+msgid "Property if any, else specified license text (only for iiif 2.0)"
+msgstr "Eigentum, falls vorhanden, sonst angegebener Lizenztext (nur für iiif 2.0)"
+
+msgid "Property if any, else specified license"
+msgstr "Eigentum, falls vorhanden, sonst angegebene Lizenz"
+
+msgid "Property to use for rights"
+msgstr "Eigentum zur Nutzung für Rechte"
+
+msgid "Uri of the license or rights"
+msgstr "Uri der Lizenz oder Rechte"
+
+msgid "Uri below"
+msgstr "Uri unten"
+
+msgid "Creative Commons 0"
+msgstr "Creative Commons 0"
+
+msgid "Creative Commons CC0 Universal Public Domain Dedication"
+msgstr "Creative Commons CC0 Universal Public Domain Widmung"
+
+msgid "Creative Commons 3.0 International"
+msgstr "Creative Commons 3.0 International"
+
+msgid "Creative Commons Attribution 3.0 International"
+msgstr "Creative Commons Namensnennung 3.0 International"
+
+msgid "Creative Commons Attribution-ShareAlike 3.0 International"
+msgstr "Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial 3.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International"
+msgstr "Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 3.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell – keine Bearbeitung 3.0 International"
+
+msgid "Creative Commons Attribution-NoDerivatives 3.0 International"
+msgstr "Creative Commons Namensnennung – Keine Bearbeitung 3.0 International"
+
+msgid "Creative Commons 4.0 International"
+msgstr "Creative Commons 4.0 International"
+
+msgid "Creative Commons Attribution 4.0 International"
+msgstr "Creative Commons Namensnennung 4.0 International"
+
+msgid "Creative Commons Attribution-ShareAlike 4.0 International"
+msgstr "Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial 4.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+msgstr "Creative Commons Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International"
+
+msgid "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International"
+msgstr "Creative Commons Namensnennung – nicht kommerziell – keine Bearbeitungen 4.0 International"
+
+msgid "Creative Commons Attribution-NoDerivatives 4.0 International"
+msgstr "Creative Commons Namensnennung – Keine Bearbeitung 4.0 International"
+
+msgid "Rigths Statements"
+msgstr "Rechteerklärungen"
+
+msgid "In Copyright"
+msgstr "Im Urheberrecht"
+
+msgid "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"
+msgstr "Im Urheberrecht – Rechteinhaber nicht auffindbar oder nicht identifizierbar"
+
+msgid "In Copyright - Non-Commercial Use Permitted"
+msgstr "Im Urheberrecht – Nichtkommerzielle Nutzung erlaubt"
+
+msgid "In Copyright - Educational Use Permitted"
+msgstr "Im Urheberrecht – Nutzung zu Bildungszwecken gestattet"
+
+msgid "In Copyright - EU Orphan Work"
+msgstr "Im Urheberrecht – verwaistes Werk der EU"
+
+msgid "No Copyright - Other Known Legal Restrictions"
+msgstr "Kein Urheberrecht – andere bekannte rechtliche Einschränkungen"
+
+msgid "No Copyright - Contractual Restrictions"
+msgstr "Kein Urheberrecht – vertragliche Einschränkungen"
+
+msgid "No Copyright - Non-Commercial Use Only"
+msgstr "Kein Urheberrecht – nur nichtkommerzielle Nutzung"
+
+msgid "No Copyright - United States"
+msgstr "Kein Urheberrecht – Vereinigte Staaten"
+
+msgid "No Known Copyright"
+msgstr "Kein bekanntes Urheberrecht"
+
+msgid "Copyright Undetermined"
+msgstr "Urheberrecht Unbestimmt"
+
+msgid "Copyright Not Evaluated"
+msgstr "Urheberrecht nicht geprüft"
+
+msgid "Uri of the rights/license when unselected above"
+msgstr "Uri der Rechte/Lizenz, wenn oben nicht ausgewählt"
+
+msgid "For IIIF v3, the license of the item must be an url from https://creativecommons.org or https://rightsstatements.org."
+msgstr "Für IIIF v3 muss die Lizenz des Artikels eine URL von https://creativecommons.org oder https://rightsstatements.org sein."
+
+msgid "Default license text (only for iiif 2.0)"
+msgstr "Standard-Lizenztext (nur für iiif 2.0)"
+
+msgid "Resource page"
+msgstr "Ressourcenseite"
+
+msgid "In some cases, the resources are external and the link to it may be specific."
+msgstr "In einigen Fällen sind die Ressourcen extern und der Link dazu kann spezifisch sein."
+
+msgid "No link"
+msgstr "Kein Link"
+
+msgid "Resource page (default site)"
+msgstr "Ressourcenseite (Standardseite)"
+
+msgid "Resource pages (all sites)"
+msgstr "Ressourcenseiten (alle Websites)"
+
+msgid "Property if any, else resource page (defaut site)"
+msgstr "Eigenschaft, falls vorhanden, sonst Ressourcenseite (Standardseite)"
+
+msgid "Property if any, else resource pages (all sites)"
+msgstr "Eigentum, falls vorhanden, sonst Ressourcenseiten (alle Websites)"
+
+msgid "Default site home page (not recommended)"
+msgstr "Standard-Homepage der Website (nicht empfohlen)"
+
+msgid "Site home pages (not recommended)"
+msgstr "Homepages der Website (nicht empfohlen)"
+
+msgid "Api (not recommended)"
+msgstr "API (nicht empfohlen)"
+
+msgid "Property for resource link"
+msgstr "Eigenschaft für Ressourcenlink"
+
+msgid "Provider"
+msgstr "Provider"
+
+msgid "An organization or person that contributed to providing the content of the resource. The address, web site, logo, etc. can be appended."
+msgstr "Eine Organisation oder Person, die zur Bereitstellung des Inhalts der Ressource beigetragen hat.Adresse, Website, Logo etc. können angehängt werden."
+
+msgid "Agent specified below"
+msgstr "Unten angegebener Agent"
+
+msgid "Simple data from main parameters"
+msgstr "Einfache Daten aus Hauptparametern"
+
+msgid "Property if any, else agent"
+msgstr "Eigentum, falls vorhanden, sonst Makler"
+
+msgid "Property if any, else simple"
+msgstr "Eigentum, falls vorhanden, sonst einfach"
+
+msgid "Property for provider"
+msgstr "Eigentum für Anbieter"
+
+msgid "Provider (as json)"
+msgstr "Anbieter (als JSON)"
+
+msgid "Property for machine-readable \"See also\" links"
+msgstr "Eigenschaft für maschinenlesbare „Siehe auch“-Links"
+
+msgid "Media types of files to include in download"
+msgstr "Medientypen von Dateien, die in den Download einbezogen werden sollen"
+
+msgid "Select media-types to download"
+msgstr "Wählen Sie die Medientypen zum Herunterladen aus"
+
+msgid "Property to set the start page (may be an index, a media or a time)"
+msgstr "Eigenschaft zum Festlegen der Startseite (kann ein Index, ein Medium oder eine Zeit sein)"
+
+msgid "Use the primary media as start page, except when property above is filled"
+msgstr "Verwenden Sie das primäre Medium als Startseite, es sei denn, die obige Eigenschaft ist ausgefüllt"
+
+msgid "Property for structures"
+msgstr "Eigentum für Bauwerke"
+
+msgid "Refer to the following URL for the input format."
+msgstr "Das Eingabeformat finden Sie unter der folgenden URL."
+
+msgid "Skip the flat structure appended when no structure is set"
+msgstr "Überspringen Sie die angehängte flache Struktur, wenn keine Struktur festgelegt ist"
+
+msgid "This flat structure can fix some issues on old versions of viewers."
+msgstr "Diese flache Struktur kann einige Probleme bei alten Viewer-Versionen beheben."
+
+msgid "Property to use for viewing direction"
+msgstr "Eigenschaft, die für die Blickrichtung verwendet werden soll"
+
+msgid "If any, the first value will be added to indicate the viewing direction of the manifest."
+msgstr "Falls vorhanden, wird der erste Wert hinzugefügt, um die Blickrichtung des Manifests anzugeben."
+
+msgid "Default viewing direction"
+msgstr "Standard-Blickrichtung"
+
+msgid "If any, and if there is no metadata for the property above, this value will be added in all manifests."
+msgstr "Falls vorhanden und keine Metadaten für die oben genannte Eigenschaft vorhanden sind, wird dieser Wert in allen Manifesten hinzugefügt."
+
+msgid "Left to right"
+msgstr "Von links nach rechts"
+
+msgid "Right to left"
+msgstr "Von rechts nach links"
+
+msgid "Top to bottom"
+msgstr "Von oben nach unten"
+
+msgid "Bottom to top"
+msgstr "Von unten nach oben"
+
+msgid "Property to use in item or media to set a placeholder canvas for waiting or warning"
+msgstr "Eigenschaft, die in einem Element oder Medium verwendet werden soll, um einen Platzhalter-Canvas zum Warten oder Warnen festzulegen"
+
+msgid "May be a url to a placeholder file, a list of media to protect, a string with the value below, or a boolean value, in which case the default placeholder canvas is used."
+msgstr "Dies kann eine URL zu einer Platzhalterdatei, eine Liste der zu schützenden Medien, eine Zeichenfolge mit dem folgenden Wert oder ein boolescher Wert sein. In diesem Fall wird der Standard-Platzhalter-Canvas verwendet."
+
+msgid "Value to match to display the placeholder canvas"
+msgstr "Wert, der zum Anzeigen der Platzhalter-Leinwand abgeglichen werden soll"
+
+msgid "This option is used only when the property above is a string, for example \"Informed public\". The warning with the url below will be displayed when the property has this value."
+msgstr "Diese Option wird nur verwendet, wenn die obige Eigenschaft eine Zeichenfolge ist, beispielsweise „Informierte Öffentlichkeit“.Die Warnung mit der unten stehenden URL wird angezeigt, wenn die Eigenschaft diesen Wert hat."
+
+msgid "Url to use as a default placeholder canvas"
+msgstr "URL, die als Standard-Platzhalter-Canvas verwendet werden soll"
+
+msgid "Property to use for behavior (viewing hint)"
+msgstr "Für das Verhalten zu verwendende Eigenschaft (Anzeigehinweis)"
+
+msgid "If any, the first value will be added to indicate the viewing hint of the manifest and the canvas."
+msgstr "Falls vorhanden, wird der erste Wert hinzugefügt, um den Anzeigehinweis des Manifests und der Leinwand anzugeben."
+
+msgid "Default behavior (viewing hint)"
+msgstr "Standardverhalten (Anzeigehinweis)"
+
+msgid "If any, and if there is no metadata for the property above, these values will be added in all manifests and canvases."
+msgstr "Falls vorhanden und wenn für die oben genannte Eigenschaft keine Metadaten vorhanden sind, werden diese Werte in allen Manifesten und Canvases hinzugefügt."
+
+msgid "Auto-advance"
+msgstr "Automatischer Vorlauf"
+
+msgid "No auto-advance"
+msgstr "Kein automatischer Vorlauf"
+
+msgid "Repeat"
+msgstr "Wiederholen"
+
+msgid "No repeat"
+msgstr "Keine Wiederholung"
+
+msgid "Unordered"
+msgstr "Ungeordnet"
+
+msgid "Individuals"
+msgstr "Einzelpersonen"
+
+msgid "Continuous"
+msgstr "Kontinuierlich"
+
+msgid "Paged"
+msgstr "Ausgelagert"
+
+msgid "Facing pages"
+msgstr "Gegenüberliegende Seiten"
+
+msgid "Non-paged"
+msgstr "Nicht ausgelagert"
+
+msgid "Label for each file"
+msgstr "Beschriftung für jede Datei"
+
+msgid "This value can be used to indicate the page number in multi-paged documents. The position is used when there is no value."
+msgstr "Dieser Wert kann zur Angabe der Seitenzahl in mehrseitigen Dokumenten verwendet werden.Die Position wird verwendet, wenn kein Wert vorhanden ist."
+
+msgid "Position in sequence"
+msgstr "Der Reihe nach positionieren"
+
+msgid "Template title"
+msgstr "Vorlagentitel"
+
+msgid "File name"
+msgstr "Dateiname"
+
+msgid "Template title, else file name"
+msgstr "Vorlagentitel, sonst Dateiname"
+
+msgid "Property if any, else file name"
+msgstr "Eigenschaft, falls vorhanden, sonst Dateiname"
+
+msgid "Select an option…"
+msgstr "Wählen Sie eine Option…"
+
+msgid "Property for files label"
+msgstr "Eigenschaft für Dateibezeichnung"
+
+msgid "Logo of the institution"
+msgstr "Logo der Institution"
+
+msgid "Link for descriptive metadata"
+msgstr "Link für beschreibende Metadaten"
+
+msgid "Some viewers display urls (for resources and uris) as plain text. This option presents them as a html link."
+msgstr "Einige Betrachter zeigen URLs (für Ressourcen und URIS) als Klartext an.Diese Option stellt sie als HTML-Link dar."
+
+msgid "Limit properties for collection in manifest"
+msgstr "Beschränken Sie die Eigenschaften für die Sammlung im Manifest"
+
+msgid "If empty, all public values will be output."
+msgstr "Wenn leer, werden alle öffentlichen Werte ausgegeben."
+
+msgid "Select one or more properties…"
+msgstr "Wählen Sie eine oder mehrere Eigenschaften aus…"
+
+msgid "Limit properties for item in manifest"
+msgstr "Beschränken Sie die Eigenschaften für Elemente im Manifest"
+
+msgid "Limit properties for media in manifest"
+msgstr "Beschränken Sie die Eigenschaften für Medien im Manifest"
+
+msgid "Skip properties for collection in manifest"
+msgstr "Eigenschaften für die Sammlung im Manifest überspringen"
+
+msgid "Skip properties for item in manifest"
+msgstr "Eigenschaften für Element im Manifest überspringen"
+
+msgid "Skip properties for media in manifest"
+msgstr "Eigenschaften für Medien im Manifest überspringen"
+
+msgid "Match images and xmls when they are multiple"
+msgstr "Ordnen Sie Bilder und XML-Dateien zu, wenn es mehrere davon gibt"
+
+msgid "Media order (page_001.jpg, alto_001.xml, page_002.jpg, alto_002.xml, …)"
+msgstr "Medienreihenfolge (page_001.jpg, alto_001.xml, page_002.jpg, alto_002.xml, …)"
+
+msgid "Media source base filename (page_001.jpg, page_002.jpg, page_002.xml, page_001.xml…)"
+msgstr "Name der Basisdatei der Medienquelle (page_001.jpg, page_002.jpg, page_002.xml, page_001.xml…)"
+
+msgid "Fix bad xml and invalid utf-8 characters"
+msgstr "Korrigieren Sie fehlerhafte XML- und ungültige UTF-8-Zeichen"
+
+msgid "Via DOM (quick)"
+msgstr "Über DOM (schnell)"
+
+msgid "Via regex (slow)"
+msgstr "Über Regex (langsam)"
+
+msgid "Skip check of access rights to files for module Access"
+msgstr "Prüfung der Zugriffsrechte auf Dateien für Modul Access überspringen"
+
+msgid "If set, all public and restricted files will be displayed."
+msgstr "Wenn festgelegt, werden alle öffentlichen und eingeschränkten Dateien angezeigt."
+
+msgid "Hide OCR for reserved resources for module Access"
+msgstr "OCR für reservierte Ressourcen für Modulzugriff ausblenden"
+
+msgid "Advanced options for urls"
+msgstr "Erweiterte Optionen für URLs"
+
+msgid "Append version to url (to be set inside module.config.php currently)"
+msgstr "Version an URL anhängen (muss derzeit in module.config.php festgelegt werden)"
+
+msgid "If set, the version will be appended to the url of the server: \"iiif/3\"."
+msgstr "Wenn festgelegt, wird die Version an die URL des Servers angehängt: „iiif/3“."
+
+msgid "Use the identifiers from Clean Url"
+msgstr "Verwenden Sie die Bezeichner von Clean URL"
+
+msgid "Use the identifiers from Clean Url (unavailable)"
+msgstr "Verwenden Sie die Bezeichner von Clean URL (nicht verfügbar)."
+
+msgid "Prefix to use for identifier (to be set inside module.config.php currently)"
+msgstr "Präfix zur Verwendung für die Kennung (muss derzeit in module.config.php festgelegt werden)"
+
+msgid "Allows to check identifiers that contains \"/\" from \"ark:/12345/xxx\" and \"ark:%2F12345%2Fxxx\" (example: \"ark:/12345/\")."
+msgstr "Ermöglicht die Überprüfung von Bezeichnern, die „/“ aus „ark:/12345/xxx“ und „ark:%2F12345%2Fxxx“ enthalten (Beispiel: „ark:/12345/“)."
+
+msgid "Allow raw identifier"
+msgstr "Rohkennung zulassen"
+
+msgid "So an ark identifier will be available as \"ark:/12345/betz\" and \"ark:%2F12345%2Fbetz\"."
+msgstr "Daher wird eine Ark-ID als „ark:/12345/betz“ und „ark:%2F12345%2Fbetz“ verfügbar sein."
+
+msgid "Force base of url (from)"
+msgstr "Basis der URL erzwingen (von)"
+
+msgid "When a proxy or a firewall is used, or when the config is specific, it may be needed to change the base url. For example, when the server is secured, the \"http:\" urls may be replaced by \"https:\"."
+msgstr "Wenn ein Proxy oder eine Firewall verwendet wird oder die Konfiguration spezifisch ist, kann es erforderlich sein, die Basis-URL zu ändern.Wenn der Server beispielsweise gesichert ist, können die „http:“-URLs durch „https:“ ersetzt werden."
+
+msgid "Force base of url (to)"
+msgstr "Basis der URL erzwingen (zu)"
+
+msgid "External image server"
+msgstr "Externer Bildserver"
+
+msgid "External image server base url"
+msgstr "Basis-URL des externen Bildservers"
+
+msgid "This url may be used by external modules when the images are provided via an external server."
+msgstr "Diese URL kann von externen Modulen verwendet werden, wenn die Bilder über einen externen Server bereitgestellt werden."
+
+msgid "Default IIIF image api version"
+msgstr "Standardversion der IIIF-Bild-API"
+
+msgid "Set the version of the iiif info.json to provide. The image server should support it."
+msgstr "Legen Sie die Version der bereitzustellenden iiif info.json fest.Der Bildserver sollte dies unterstützen."
+
+msgid "No image server"
+msgstr "Kein Bildserver"
+
+msgid "Image Api 1"
+msgstr "Bild-API 1"
+
+msgid "Image Api 2"
+msgstr "Bild-API 2"
+
+msgid "Image Api 3"
+msgstr "Bild-API 3"
+
+msgid "Supported IIIF image api versions and max compliance level"
+msgstr "Unterstützte IIIF-Image-API-Versionen und maximale Konformitätsstufe"
+
+msgid "Image Api 1 level 0"
+msgstr "Bild-API 1 Level 0"
+
+msgid "Image Api 1 level 1"
+msgstr "Bild-API 1 Ebene 1"
+
+msgid "Image Api 1 level 2"
+msgstr "Bild-API 1 Ebene 2"
+
+msgid "Image Api 2 level 0"
+msgstr "Bild-API 2 Level 0"
+
+msgid "Image Api 2 level 1"
+msgstr "Bild-API 2 Level 1"
+
+msgid "Image Api 2 level 2"
+msgstr "Bild-API 2 Level 2"
+
+msgid "Image Api 3 level 0"
+msgstr "Bild-API 3 Level 0"
+
+msgid "Image Api 3 level 1"
+msgstr "Bild-API 3 Level 1"
+
+msgid "Image Api 3 level 2"
+msgstr "Bild-API 3 Level 2"
+
+msgid "Append the version to the url (to be set inside module.config.php currently)"
+msgstr "Hängen Sie die Version an die URL an (muss derzeit in module.config.php festgelegt werden)"
+
+msgid "Media identifier"
+msgstr "Medienkennung"
+
+msgid "Using the full filename with extension for images allows to use an image server like Cantaloupe sharing the Omeka original files directory. In other cases, this option is not recommended because the identifier should not have an extension."
+msgstr "Die Verwendung des vollständigen Dateinamens mit Erweiterung für Bilder ermöglicht die Verwendung eines Bildservers wie Cantaloupe, der das Omeka-Originaldateiverzeichnis gemeinsam nutzt.In anderen Fällen wird diese Option nicht empfohlen, da der Bezeichner keine Erweiterung haben sollte."
+
+msgid "Media id"
+msgstr "Medien-ID"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Filename with extension (all)"
+msgstr "Dateiname mit Erweiterung (alle)"
+
+msgid "Filename with extension (image only)"
+msgstr "Dateiname mit Erweiterung (nur Bild)"
+
+msgid "Append \"info.json\" to the image iiif identifier"
+msgstr "Hängen Sie „info.json“ an die Bild-iiif-ID an"
+
+msgid "May be required with an external image server that doesn’t manage the url rewriting to /info.json (iiif specification requires a redirection with http 303)."
+msgstr "Kann bei einem externen Bildserver erforderlich sein, der das Umschreiben der URL in /info.json nicht verwaltet (iiif-Spezifikation erfordert eine Umleitung mit http 303)."
+
+msgid "Support non-image files"
+msgstr "Unterstützt Nicht-Bilddateien"
+
+msgid "If unchecked, audio, video, models, pdf, etc. will be served through Omeka."
+msgstr "Wenn diese Option deaktiviert ist, werden Audio, Video, Modelle, PDF usw. über Omeka bereitgestellt."
+
+msgid "Use \"audio/mp4\" instead of \"audio/mpeg\" (fix playing mp3 in Universal Viewer v4)"
+msgstr "Verwenden Sie „audio/mp4“ anstelle von „audio/mpeg“ (Fixierung der MP3-Wiedergabe in Universal Viewer v4)"
+
+msgid "Cache manifests"
+msgstr "Cache-Manifeste"
+
+msgid "Query to filter items to cache"
+msgstr "Abfrage zum Filtern von Elementen zum Zwischenspeichern"
+
+msgid "Cache selected item manifests in background"
+msgstr "Das zwischengespeicherte ausgewählte Element wird im Hintergrund angezeigt"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "Store dimensions"
+msgstr "Abmessungen speichern"
+
+msgid "Query to filter items to process"
+msgstr "Abfrage zum Filtern der zu verarbeitenden Elemente"
+
+msgid "This query will be used to select all items whose attached images, audio and video files will be prepared in the background."
+msgstr "Mit dieser Abfrage werden alle Elemente ausgewählt, deren angehängte Bilder, Audio- und Videodateien im Hintergrund vorbereitet werden."
+
+msgid "Prepare dimensions for images, audio and videos attached to items selected above in background"
+msgstr "Bereiten Sie Abmessungen für Bilder, Audio- und Videodateien vor, die im Hintergrund an die oben ausgewählten Elemente angehängt sind"
+
+msgid "Resource #{resource_id}: A media is required to build a ContentResource."
+msgstr "Ressource #{resource_id}: Zum Erstellen einer ContentResource ist ein Medium erforderlich."
+
+msgid "Error: XML content is incorrect for media #{media_id}."
+msgstr "Fehler: Der XML-Inhalt für Medium #{media_id} ist falsch."
+
+msgid "Error: XML content seems empty for media #{media_id}."
+msgstr "Fehler: XML-Inhalt scheint für Medium #{media_id} leer zu sein."
+
+msgid "{resource} #{resource_id}: Unknown property \"{property}\" for iiif resource type {type}."
+msgstr "{resource} #{resource_id}: Unbekannte Eigenschaft „{property}“ für den iiif-Ressourcentyp {type}."
+
+msgid "Unknow iiif property \"{property}\" for type {type}."
+msgstr "Unbekannte iiif-Eigenschaft „{property}“ für Typ {type}."
+
+msgid "Forbidden iiif properties {properties} for type {type}."
+msgstr "Verbotene iiif-Eigenschaften {properties} für Typ {type}."
+
+msgid "{resource} #{resource_id}: Missing required properties for iiif resource type \"{type}\": {properties}."
+msgstr "{resource} #{resource_id}: Erforderliche Eigenschaften für den iiif-Ressourcentyp „{type}“ fehlen: {properties}."
+
+msgid "Missing required properties for iiif resource type \"{type}\": {properties}."
+msgstr "Erforderliche Eigenschaften für den iiif-Ressourcentyp „{type}“ fehlen: {properties}."
+
+msgid "{resource} #{resource_id}: Forbidden properties for iiif resource type \"{type}\": {properties}"
+msgstr "{resource} #{resource_id}: Verbotene Eigenschaften für iiif-Ressourcentyp „{type}“: {properties}"
+
+msgid "Forbidden properties for iiif resource type \"{type}\": {properties}"
+msgstr "Verbotene Eigenschaften für den iiif-Ressourcentyp „{type}“: {properties}"
+
+msgid "{resource} #{resource_id}: Exception when processing iiif resource type \"{type}\":\n{message}"
+msgstr "{resource} #{resource_id}: Ausnahme bei der Verarbeitung des iiif-Ressourcentyps „{type}“:\n{Nachricht}"
+
+msgid "Exception when processing iiif resource type \"{type}\":\n{message}"
+msgstr "Ausnahme bei der Verarbeitung des iiif-Ressourcentyps „{type}“:\n{Nachricht}"
+
+msgid "Resource in site: {site_title}"
+msgstr "Ressource auf der Website: {site_title}"
+
+msgid "Json-ld api"
+msgstr "Json-ld-API"
+
+msgid "Resource #{resource_id}: A media is required to build a Canvas."
+msgstr "Ressource #{resource_id}: Zum Erstellen eines Canvas ist ein Medium erforderlich."
+
+msgid "Text of the current page"
+msgstr "Text der aktuellen Seite"
+
+msgid "Attribution"
+msgstr "Namensnennung"
+
+msgid "Resource #{resource_id}: A media is required to build a Rendering."
+msgstr "Ressource #{resource_id}: Zum Erstellen eines Renderings ist ein Medium erforderlich."
+
+msgid "Resource #{resource_id}: A media is required to build an ImageService."
+msgstr "Ressource #{resource_id}: Zum Erstellen eines ImageService ist ein Medium erforderlich."
+
+msgid "Media #{media_id} not found."
+msgstr "Medien #{media_id} nicht gefunden."
+
+msgid "The IIIF server encountered an unexpected error that prevented it from fulfilling the request: the requested format is not supported."
+msgstr "Beim IIIF-Server ist ein unerwarteter Fehler aufgetreten, der die Ausführung der Anforderung verhindert hat: Das angeforderte Format wird nicht unterstützt."
+
+msgid "The IIIF server encountered an unexpected error that prevented it from fulfilling the request: the resulting file is not found."
+msgstr "Der IIIF-Server ist auf einen unerwarteten Fehler gestoßen, der die Ausführung der Anforderung verhindert hat: Die resultierende Datei wurde nicht gefunden."
+
+msgid "The type \"{type}\" is currently only managed as uri, not url"
+msgstr "Der Typ „{type}“ wird derzeit nur als URI und nicht als URL verwaltet"
+
+msgid "The image server cannot fulfill the request: the arguments are incorrect."
+msgstr "Der Bildserver kann die Anfrage nicht erfüllen: Die Argumente sind falsch."
+
+msgid "Media #{media_id}\" not found."
+msgstr "Medien #{media_id}“ nicht gefunden."
+
+msgid "The media server is unavailable for resource #\"{resource_id}\"."
+msgstr "Der Medienserver ist für Ressource # „{resource_id}“ nicht verfügbar."
+
+msgid "The media server is unavailable for resource #{resource_id}."
+msgstr "Der Medienserver ist für Ressource #{resource_id} nicht verfügbar."
+
+msgid "IIIF Manifest Link"
+msgstr "Link zum IIIF-Manifest"

@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Map browse"
+msgstr "Durchsuchen der Karte"
+
+msgid "Mapping"
+msgstr "Abbildung"
+
+msgid "Map feature presence"
+msgstr "Präsenz von Kartenfunktionen"
+
+msgid "Has map features"
+msgstr "Verfügt über Kartenfunktionen"
+
+msgid "Has no map features"
+msgstr "Hat keine Kartenfunktionen"
+
+msgid "Geographic location"
+msgstr "Geografischer Standort"
+
+msgid "Enter a marker label"
+msgstr "Geben Sie eine Markierungsbezeichnung ein"
+
+msgid "This block requires MySQL 8.0.24+ or MariaDB 11.7+. Your database version is %s."
+msgstr "Dieser Block erfordert MySQL 8.0.24+ oder MariaDB 11.7+.Ihre Datenbankversion ist %s."
+
+msgid "Search by map feature presence"
+msgstr "Suche nach Vorhandensein von Kartenmerkmalen"
+
+msgid "Select map feature presence…"
+msgstr "Präsenz der Kartenfunktion auswählen…"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Unit"
+msgstr "Einheit"
+
+msgid "Kilometers"
+msgstr "Kilometer"
+
+msgid "Miles"
+msgstr "Meilen"
+
+msgid "Search by geographic location"
+msgstr "Suche nach geografischem Standort"
+
+msgid "Order"
+msgstr "Befehl"
+
+msgid "Delimiter"
+msgstr "Trennzeichen"
+
+msgid "Assign media to marker?"
+msgstr "Medien dem Marker zuweisen?"
+
+msgid "Media image"
+msgstr "Medienbild"
+
+msgid "Label source"
+msgstr "Quelle beschriften"
+
+msgid "Default View"
+msgstr "Standardansicht"
+
+msgid "Set the default view using the in-map controls. The current zoom level is %s."
+msgstr "Legen Sie die Standardansicht mithilfe der In-Map-Steuerelemente fest.Die aktuelle Zoomstufe ist %s."
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "Overlays"
+msgstr "Überlagerungen"
+
+msgid "Add, edit, and delete overlays below. You may check which overlay you want open by default."
+msgstr "Fügen Sie unten Overlays hinzu, bearbeiten und löschen Sie sie.Sie können überprüfen, welches Overlay standardmäßig geöffnet werden soll."
+
+msgid "Save overlay"
+msgstr "Overlay speichern"
+
+msgid "Timeline"
+msgstr "Zeitleiste"
+
+msgid "Return to groups"
+msgstr "Zurück zu den Gruppen"
+
+msgid "Select below"
+msgstr "Wählen Sie unten aus"
+
+msgid "Latitude"
+msgstr "Breite"
+
+msgid "Longitude"
+msgstr "Länge"
+
+msgid "Latitude/Longitude"
+msgstr "Breitengrad/Längengrad"
+
+msgid "Default Bounds (sw_lng,sw_lat,ne_lng,ne_lat)"
+msgstr "Standardgrenzen (sw_lng,sw_lat,ne_lng,ne_lat)"
+
+msgid "Close Me"
+msgstr "Schließe mich"
+
+msgid "Feature image"
+msgstr "Feature-Bild"
+
+msgid "No Image"
+msgstr "Kein Bild"
+
+msgid "Feature label"
+msgstr "Feature-Label"
+
+msgid "Select feature image"
+msgstr "Feature-Bild auswählen"
+
+msgid "%s has any value"
+msgstr "%s hat einen beliebigen Wert"
+
+msgid "%s is exactly"
+msgstr "%s ist genau"
+
+msgid "%s contains"
+msgstr "%s enthält"
+
+msgid "%s is"
+msgstr "%s ist"
+
+msgid "Basemap provider"
+msgstr "Grundkartenanbieter"
+
+msgid "Search Map"
+msgstr "Karte durchsuchen"
+
+msgid "You must select a location on the map."
+msgstr "Sie müssen einen Ort auf der Karte auswählen."
+
+msgid "A mapping zone must have an item."
+msgstr "Eine Zuordnungszone muss über ein Element verfügen."
+
+msgid "Map bounds must contain four numbers separated by commas"
+msgstr "Kartengrenzen müssen vier durch Kommas getrennte Zahlen enthalten"
+
+msgid "Map by query"
+msgstr "Karte nach Abfrage"
+
+msgid "Map by attachments"
+msgstr "Karte nach Anhängen"
+
+msgid "Map by groups"
+msgstr "Karte nach Gruppen"
+
+msgid "Select the basemap provider. The default is OpenStreetMap.Mapnik. These providers are offered AS-IS. There is no guarantee of service or speed."
+msgstr "Wählen Sie den Grundkartenanbieter aus.Der Standardwert ist OpenStreetMap.Mapnik.Diese Anbieter werden wie besehen angeboten.Es gibt keine Garantie für Service oder Geschwindigkeit."
+
+msgid "Minimum zoom level"
+msgstr "Minimale Zoomstufe"
+
+msgid "Set the minimum zoom level down to which the map will be displayed. The default is 0."
+msgstr "Legen Sie die minimale Zoomstufe fest, bis zu der die Karte angezeigt wird.Der Standardwert ist 0."
+
+msgid "Maximum zoom level"
+msgstr "Maximale Zoomstufe"
+
+msgid "Set the maximum zoom level up to which the map will be displayed. The default is 19."
+msgstr "Stellen Sie die maximale Zoomstufe ein, bis zu der die Karte angezeigt wird.Der Standardwert ist 19."
+
+msgid "Scroll wheel zoom"
+msgstr "Scrollrad-Zoom"
+
+msgid "Set whether users can zoom with their mouse wheel when hovering over the map, either automatically upon page load or after clicking inside the map."
+msgstr "Legen Sie fest, ob Benutzer mit dem Mausrad zoomen können, wenn sie mit der Maus über die Karte fahren, entweder automatisch beim Laden der Seite oder nach einem Klick in die Karte."
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Disabled until map click"
+msgstr "Bis zum Klicken auf die Karte deaktiviert"
+
+msgid "Title headline"
+msgstr "Titelüberschrift"
+
+msgid "Title text"
+msgstr "Titeltext"
+
+msgid "Fly to"
+msgstr "Fliegen Sie nach"
+
+msgid "Select the map view to fly to when navigating between events."
+msgstr "Wählen Sie die Kartenansicht aus, zu der Sie fliegen möchten, wenn Sie zwischen Ereignissen navigieren."
+
+msgid "Default view"
+msgstr "Standardansicht"
+
+msgid "Event marker, zoom 0"
+msgstr "Ereignismarkierung, Zoom 0"
+
+msgid "Event marker, zoom 2"
+msgstr "Ereignismarkierung, Zoom 2"
+
+msgid "Event marker, zoom 4"
+msgstr "Ereignismarkierung, Zoom 4"
+
+msgid "Event marker, zoom 6"
+msgstr "Ereignismarkierung, Zoom 6"
+
+msgid "Event marker, zoom 8"
+msgstr "Ereignismarkierung, Zoom 8"
+
+msgid "Event marker, zoom 10"
+msgstr "Ereignismarkierung, Zoom 10"
+
+msgid "Event marker, zoom 12"
+msgstr "Ereignismarkierung, Zoom 12"
+
+msgid "Event marker, zoom 14"
+msgstr "Ereignismarkierung, Zoom 14"
+
+msgid "Event marker, zoom 16"
+msgstr "Ereignismarkierung, Zoom 16"
+
+msgid "Event marker, zoom 18"
+msgstr "Ereignismarkierung, Zoom 18"
+
+msgid "Show contemporaneous events?"
+msgstr "Zeitgleiche Ereignisse anzeigen?"
+
+msgid "Check this if you want to show all events on the map that exist in the same time period as the current event (default view only)."
+msgstr "Aktivieren Sie diese Option, wenn Sie alle Ereignisse auf der Karte anzeigen möchten, die im selben Zeitraum wie das aktuelle Ereignis vorliegen (nur Standardansicht)."
+
+msgid "Timeline navigation position"
+msgstr "Position der Timeline-Navigation"
+
+msgid "Select the position of the timeline navigation."
+msgstr "Wählen Sie die Position der Timeline-Navigation aus."
+
+msgid "Full width, below story slider and map"
+msgstr "Volle Breite, unterhalb des Story-Schiebereglers und der Karte"
+
+msgid "Full width, above story slider and map"
+msgstr "Volle Breite, oberhalb des Story-Schiebereglers und der Karte"
+
+msgid "Select the timestamp or interval property to use when populating the timeline."
+msgstr "Wählen Sie die Zeitstempel- oder Intervalleigenschaft aus, die beim Füllen der Zeitleiste verwendet werden soll."
+
+msgid "Attach items using this query. No query means all items."
+msgstr "Hängen Sie Elemente mit dieser Abfrage an.Keine Abfrage bedeutet alle Artikel."
+
+msgid "Overlay mode"
+msgstr "Overlay-Modus"
+
+msgid "Exclusive"
+msgstr "Exklusiv"
+
+msgid "Inclusive"
+msgstr "Inklusive"
+
+msgid "Overlay"
+msgstr "Überlagerung"
+
+msgid "Select overlay type"
+msgstr "Wählen Sie den Overlay-Typ aus"
+
+msgid "Web Map Service (WMS)"
+msgstr "Webkartendienst (WMS)"
+
+msgid "IIIF Georeference Annotation"
+msgstr "IIIF-Georeferenzanmerkung"
+
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+msgid "Base URL"
+msgstr "Basis-URL"
+
+msgid "Layers"
+msgstr "Schichten"
+
+msgid "The WMS layers, if any (comma-separated)."
+msgstr "Die WMS-Ebenen, falls vorhanden (durch Kommas getrennt)."
+
+msgid "Styles"
+msgstr "Stile"
+
+msgid "The WMS styles, if any (comma-separated)."
+msgstr "Die WMS-Stile, falls vorhanden (durch Kommas getrennt)."
+
+msgid "Label property key"
+msgstr "Eigenschaftsschlüssel beschriften"
+
+msgid "Enter the GeoJSON property key to use for the popup label, if desired."
+msgstr "Geben Sie bei Bedarf den GeoJSON-Eigenschaftsschlüssel ein, der für die Popup-Beschriftung verwendet werden soll."
+
+msgid "Comment property key"
+msgstr "Kommentareigenschaftenschlüssel"
+
+msgid "Enter the GeoJSON property key to use for the popup comment, if desired."
+msgstr "Geben Sie bei Bedarf den GeoJSON-Eigenschaftsschlüssel ein, der für den Popup-Kommentar verwendet werden soll."
+
+msgid "Show GeoJSON property list?"
+msgstr "GeoJSON-Eigenschaftsliste anzeigen?"
+
+msgid "Do you want to show all the available GeoJSON properties in the popup?"
+msgstr "Möchten Sie alle verfügbaren GeoJSON-Eigenschaften im Popup anzeigen?"
+
+msgid "Resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "Property values (is exactly)"
+msgstr "Eigenschaftswerte (ist genau)"
+
+msgid "Property values (contains)"
+msgstr "Eigenschaftswerte (enthält)"
+
+msgid "Property values (is resource with ID)"
+msgstr "Eigenschaftswerte (ist Ressource mit ID)"
+
+msgid "Properties (has any value)"
+msgstr "Eigenschaften (hat einen beliebigen Wert)"
+
+msgid "Select a type…"
+msgstr "Wählen Sie einen Typ aus…"
+
+msgid "Feature type"
+msgstr "Feature-Typ"
+
+msgid "Polygon"
+msgstr "Polygon"
+
+msgid "Point"
+msgstr "Punkt"
+
+msgid "Filter by resource class"
+msgstr "Nach Ressourcenklasse filtern"
+
+msgid "Select resource class"
+msgstr "Wählen Sie eine Ressourcenklasse aus"
+
+msgid "Select resource classes"
+msgstr "Wählen Sie Ressourcenklassen aus"
+
+msgid "\n                <p>Enter the values, separated by new lines. The format of each value depends on the query type:</p>\n                <ul>\n                    <li>\"Is exactly\": enter a value that is an exact match to the property value.</li>\n                    <li>\"Contains\": enter a value that matches any part of the property value.</li>\n                    <li>\"Is resource with ID\": enter the resource ID (item, item set, media).</li>\n                </ul>"
+msgstr "<p>Geben Sie die Werte ein, getrennt durch neue Zeilen.Das Format jedes Werts hängt vom Abfragetyp ab:</p>\n<ul>\n<li>„Ist genau“: Geben Sie einen Wert ein, der genau mit dem Eigenschaftswert übereinstimmt.</li>\n<li>„Enthält“: Geben Sie einen Wert ein, der mit einem beliebigen Teil des Eigenschaftswerts übereinstimmt.</li>\n<li>„Ist Ressource mit ID“: Geben Sie die Ressourcen-ID (Artikel, Artikelset, Medien) ein.</li>\n</ul>"
+
+msgid "[Remove label]"
+msgstr "[Etikett entfernen]"
+
+msgid "Select label property"
+msgstr "Wählen Sie die Beschriftungseigenschaft aus"
+
+msgid "Assigned media"
+msgstr "Zugeordnete Medien"
+
+msgid "[Unassign media]"
+msgstr "[Medienzuweisung aufheben]"
+
+msgid "Copy from one item property containing both latitude and longitude"
+msgstr "Kopieren Sie eine Eigenschaft eines Elements, die sowohl den Breiten- als auch den Längengrad enthält"
+
+msgid "Copy from two item properties, one latitude and the other longitude"
+msgstr "Kopieren Sie zwei Elementeigenschaften, einen Breitengrad und einen Längengrad"
+
+msgid "Copy from one media property containing both latitude and longitude"
+msgstr "Kopieren Sie von einer Medieneigenschaft, die sowohl Breiten- als auch Längengrad enthält"
+
+msgid "Copy from two media properties, one latitude and the other longitude"
+msgstr "Kopieren Sie von zwei Medieneigenschaften, einem Breitengrad und einem Längengrad"
+
+msgid "Select latitude property"
+msgstr "Wählen Sie die Breitengrad-Eigenschaft aus"
+
+msgid "Select longitude property"
+msgstr "Wählen Sie die Längengrad-Eigenschaft aus"
+
+msgid "Latitude Longitude"
+msgstr "Breitengrad Längengrad"
+
+msgid "Longitude Latitude"
+msgstr "Längengrad Breitengrad"
+
+msgid "Comma [,]"
+msgstr "Komma [,]"
+
+msgid "Space [ ]"
+msgstr "Raum [ ]"
+
+msgid "Slash [/]"
+msgstr "Schrägstrich [/]"
+
+msgid "Colon [:]"
+msgstr "Doppelpunkt [:]"
+
+msgid "[Default provider]"
+msgstr "[Standardanbieter]"
+
+msgid "Delete features"
+msgstr "Funktionen löschen"
+
+msgid "Copy coordinates to markers"
+msgstr "Kopieren Sie Koordinaten in Markierungen"
+
+msgid "Update features"
+msgstr "Aktualisieren Sie die Funktionen"
+
+msgid "Add feature presence to advanced search"
+msgstr "Fügen Sie der erweiterten Suche die Funktion „Präsenz“ hinzu"
+
+msgid "Add geographic location to advanced search"
+msgstr "Geografischen Standort zur erweiterten Suche hinzufügen"
+
+msgid "Disable clustering of map features"
+msgstr "Deaktivieren Sie die Clusterbildung von Kartenfunktionen"
+
+msgid "Map features are markers, polygons, polylines, and rectangles. Note that large features may not cluster."
+msgstr "Kartenmerkmale sind Markierungen, Polygone, Polylinien und Rechtecke.Beachten Sie, dass große Features möglicherweise nicht geclustert werden."

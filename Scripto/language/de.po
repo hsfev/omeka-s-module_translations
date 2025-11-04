@@ -1,0 +1,2112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cannot access Scripto. Missing MediaWiki API URL."
+msgstr "Auf Scripto kann nicht zugegriffen werden.Fehlende MediaWiki-API-URL."
+
+msgid "The MediaWiki user does not have the necessary permissions to create the page \"%s\""
+msgstr "Der MediaWiki-Benutzer verfügt nicht über die erforderlichen Berechtigungen zum Erstellen der Seite „%s“"
+
+msgid "The MediaWiki user does not have the necessary permissions to edit the page \"%s\""
+msgstr "Der MediaWiki-Benutzer verfügt nicht über die erforderlichen Berechtigungen zum Bearbeiten der Seite „%s“"
+
+msgid "Set an item set here."
+msgstr "Legen Sie hier einen Artikelsatz fest."
+
+msgid "Set a property here."
+msgstr "Legen Sie hier eine Eigenschaft fest."
+
+msgid "Existing expiration time: %s"
+msgstr "Vorhandene Ablaufzeit: %s"
+
+msgid "See this job for sync progress."
+msgstr "Sehen Sie sich diesen Job für den Synchronisierungsfortschritt an."
+
+msgid "See this job for import progress."
+msgstr "Sehen Sie sich diesen Job für den Importfortschritt an."
+
+msgid "See this job for unimport progress."
+msgstr "Sehen Sie sich diesen Job an, um den Fortschritt beim Deimportieren zu erfahren."
+
+msgid "Successfully logged in to Scripto."
+msgstr "Erfolgreich bei Scripto angemeldet."
+
+msgid "Cannot log in to Scripto. Email or password is invalid."
+msgstr "Anmeldung bei Scripto nicht möglich.E-Mail oder Passwort ist ungültig."
+
+msgid "Successfully logged out of Scripto."
+msgstr "Erfolgreiche Abmeldung von Scripto."
+
+msgid "Scripto"
+msgstr "Scripto"
+
+msgid "Projects"
+msgstr "Projekte"
+
+msgid "Logged in to Scripto as %s"
+msgstr "Bei Scripto angemeldet als %s"
+
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+msgid "Contributions"
+msgstr "Beiträge"
+
+msgid "Watchlist"
+msgstr "Beobachtungsliste"
+
+msgid "Log in to Scripto"
+msgstr "Melden Sie sich bei Scripto an"
+
+msgid "First page"
+msgstr "Erste Seite"
+
+msgid "Next page"
+msgstr "Nächste Seite"
+
+msgid "%s of %s"
+msgstr "%s von %s"
+
+msgid "Older revision"
+msgstr "Ältere Revision"
+
+msgid "Newer revision"
+msgstr "Neuere Revision"
+
+msgid "6 hours"
+msgstr "6 Stunden"
+
+msgid "12 hours"
+msgstr "12 Stunden"
+
+msgid "1 day"
+msgstr "1 Tag"
+
+msgid "3 days"
+msgstr "3 Tage"
+
+msgid "7 days"
+msgstr "7 Tage"
+
+msgid "30 days"
+msgstr "30 Tage"
+
+msgid "90 days"
+msgstr "90 Tage"
+
+msgid "Period of time to display:"
+msgstr "Zeitraum zur Anzeige:"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Bold"
+msgstr "Deutlich"
+
+msgid "Strike out"
+msgstr "Streichen"
+
+msgid "Underline"
+msgstr "Unterstreichen"
+
+msgid "Blockquote"
+msgstr "Blockquote"
+
+msgid "Hidden comment"
+msgstr "Versteckter Kommentar"
+
+msgid "Level 1 heading"
+msgstr "Überschrift der Ebene 1"
+
+msgid "Level 2 heading"
+msgstr "Überschrift der Ebene 2"
+
+msgid "Level 3 heading"
+msgstr "Überschrift der Ebene 3"
+
+msgid "Level 4 heading"
+msgstr "Überschrift der Ebene 4"
+
+msgid "Level 5 heading"
+msgstr "Überschrift der Ebene 5"
+
+msgid "Preformatted"
+msgstr "Vorformatiert"
+
+msgid "Horizontal rule"
+msgstr "Horizontale Regel"
+
+msgid "Signature"
+msgstr "Unterschrift"
+
+msgid "Strikethrough"
+msgstr "Durchgestrichen"
+
+msgid "Unordered list"
+msgstr "Ungeordnete Liste"
+
+msgid "Ordered list"
+msgstr "Geordnete Liste"
+
+msgid "Select one"
+msgstr "Wählen Sie eine aus"
+
+msgid "Add a link to this Scripto project:"
+msgstr "Fügen Sie einen Link zu diesem Scripto-Projekt hinzu:"
+
+msgid "No Scripto projects found."
+msgstr "Keine Scripto-Projekte gefunden."
+
+msgid "The Scripto project is not found."
+msgstr "Das Scripto-Projekt wurde nicht gefunden."
+
+msgid "Browse revision history"
+msgstr "Durchsuchen Sie den Revisionsverlauf"
+
+msgid "View notes"
+msgstr "Notizen anzeigen"
+
+msgid "Zoom in"
+msgstr "Vergrößern"
+
+msgid "Zoom out"
+msgstr "Herauszoomen"
+
+msgid "Rotate right"
+msgstr "Nach rechts drehen"
+
+msgid "Rotate left"
+msgstr "Nach links drehen"
+
+msgid "Toggle menu"
+msgstr "Menü umschalten"
+
+msgid "Create account"
+msgstr "Benutzerkonto erstellen"
+
+msgid "Project guidelines"
+msgstr "Projektrichtlinien"
+
+msgid "Search %s"
+msgstr "Suche %s"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Back to top"
+msgstr "Zurück nach oben"
+
+msgid "Not set"
+msgstr "Nicht festgelegt"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Browse projects"
+msgstr "Durchsuchen Sie Projekte"
+
+msgid "Add new project"
+msgstr "Neues Projekt hinzufügen"
+
+msgid "Browse users"
+msgstr "Benutzer durchsuchen"
+
+msgid "Projects you own"
+msgstr "Projekte, die Ihnen gehören"
+
+msgid "View all projects"
+msgstr "Alle Projekte ansehen"
+
+msgid "You do not own any projects. %s"
+msgstr "Sie besitzen keine Projekte.%S"
+
+msgid "Add a project here."
+msgstr "Fügen Sie hier ein Projekt hinzu."
+
+msgid "You do not own any projects."
+msgstr "Sie besitzen keine Projekte."
+
+msgid "Projects you review"
+msgstr "Projekte, die Sie bewerten"
+
+msgid "You are not reviewing any projects."
+msgstr "Sie überprüfen keine Projekte."
+
+msgid "Your recent contributions"
+msgstr "Ihre letzten Beiträge"
+
+msgid "View your contributions"
+msgstr "Sehen Sie sich Ihre Beiträge an"
+
+msgid "diff"
+msgstr "diff"
+
+msgid "hist"
+msgstr "hist"
+
+msgid "No contributions found."
+msgstr "Keine Beiträge gefunden."
+
+msgid "No contributions found. Do you need to log in to Scripto?"
+msgstr "Keine Beiträge gefunden.Müssen Sie sich bei Scripto anmelden?"
+
+msgid "Your recent watchlist"
+msgstr "Ihre aktuelle Beobachtungsliste"
+
+msgid "View your watchlist"
+msgstr "Sehen Sie sich Ihre Merkliste an"
+
+msgid "No watchlist found."
+msgstr "Keine Merkliste gefunden."
+
+msgid "No watchlist found. Do you need to log in to Scripto?"
+msgstr "Keine Merkliste gefunden.Müssen Sie sich bei Scripto anmelden?"
+
+msgid "Scripto: Project"
+msgstr "Drehbuch: Projekt"
+
+msgid "Edit project"
+msgstr "Projekt bearbeiten"
+
+msgid "Sync project"
+msgstr "Projekt synchronisieren"
+
+msgid "Import content"
+msgstr "Inhalte importieren"
+
+msgid "Unimport content"
+msgstr "Inhalt entfernen"
+
+msgid "Date synced"
+msgstr "Datum synchronisiert"
+
+msgid "Last edited"
+msgstr "Zuletzt bearbeitet"
+
+msgid "Is approved"
+msgstr "Ist genehmigt"
+
+msgid "Is not approved"
+msgstr "Ist nicht genehmigt"
+
+msgid "Is in progress"
+msgstr "Ist in Bearbeitung"
+
+msgid "Is new"
+msgstr "Ist neu"
+
+msgid "Is edited after imported"
+msgstr "Wird nach dem Import bearbeitet"
+
+msgid "Do you need to sync the project? If you have recently synced, the sync job has likely not finished."
+msgstr "Müssen Sie das Projekt synchronisieren?Wenn Sie kürzlich eine Synchronisierung durchgeführt haben, wurde der Synchronisierungsauftrag wahrscheinlich noch nicht abgeschlossen."
+
+msgid "This project has no item set. Set an item set to enable syncing."
+msgstr "Für dieses Projekt ist kein Artikelsatz vorhanden.Legen Sie einen Elementsatz fest, um die Synchronisierung zu aktivieren."
+
+msgid "Synchronize this project with the configured item set. Once synchronized, this project will contain every item in the item set. You should synchronize periodically: any time the configured media types have changed, when items are added or removed from the item set, and when item media have been added, removed, or reordered."
+msgstr "Synchronisieren Sie dieses Projekt mit dem konfigurierten Elementsatz.Nach der Synchronisierung enthält dieses Projekt alle Elemente im Elementsatz.Sie sollten regelmäßig synchronisieren: immer dann, wenn sich die konfigurierten Medientypen geändert haben, wenn Artikel zum Artikelsatz hinzugefügt oder daraus entfernt werden und wenn Artikelmedien hinzugefügt, entfernt oder neu angeordnet wurden."
+
+msgid "This project has no property. Set a property to enable importing."
+msgstr "Dieses Projekt hat kein Eigentum.Legen Sie eine Eigenschaft fest, um den Import zu ermöglichen."
+
+msgid "Import project content into Omeka. Scripto stores content in a wiki before it is imported. Importing will copy approved content from the wiki into Omeka so that it can be viewed and searched."
+msgstr "Importieren Sie Projektinhalte in Omeka.Scripto speichert Inhalte in einem Wiki, bevor sie importiert werden.Durch den Import werden genehmigte Inhalte aus dem Wiki in Omeka kopiert, sodass sie angezeigt und durchsucht werden können."
+
+msgid "%s: All existing values matching the configured import target, property, and language tag will be overwritten or deleted."
+msgstr "%s: Alle vorhandenen Werte, die dem konfigurierten Importziel, der Eigenschaft und dem Sprach-Tag entsprechen, werden überschrieben oder gelöscht."
+
+msgid "This project has no property. Set a property to enable unimporting."
+msgstr "Dieses Projekt hat kein Eigentum.Legen Sie eine Eigenschaft fest, um das Aufheben des Imports zu ermöglichen."
+
+msgid "Unimport project content from Omeka."
+msgstr "Importieren Sie Projektinhalte aus Omeka."
+
+msgid "%s: All existing values matching the configured import target, property, and language tag will be deleted."
+msgstr "%s: Alle vorhandenen Werte, die dem konfigurierten Importziel, der Eigenschaft und dem Sprach-Tag entsprechen, werden gelöscht."
+
+msgid "Omeka item"
+msgstr "Omeka-Artikel"
+
+msgid "No description"
+msgstr "Keine Beschreibung"
+
+msgid "Omeka item metadata"
+msgstr "Omeka-Artikelmetadaten"
+
+msgid "Last synced"
+msgstr "Zuletzt synchronisiert"
+
+msgid "Last completed"
+msgstr "Zuletzt abgeschlossen"
+
+msgid "Last approved"
+msgstr "Zuletzt genehmigt"
+
+msgid "Is edited"
+msgstr "Wird bearbeitet"
+
+msgid "Is not edited"
+msgstr "Wird nicht bearbeitet"
+
+msgid "Is completed"
+msgstr "Ist abgeschlossen"
+
+msgid "Is not completed"
+msgstr "Ist nicht abgeschlossen"
+
+msgid "Is edited after approved"
+msgstr "Wird nach Genehmigung bearbeitet"
+
+msgid "Is synced after imported"
+msgstr "Wird nach dem Import synchronisiert"
+
+msgid "Edit protection"
+msgstr "Bearbeitungsschutz"
+
+msgid "Do you need to sync the project?"
+msgstr "Müssen Sie das Projekt synchronisieren?"
+
+msgid "The Omeka item has no metadata."
+msgstr "Das Omeka-Element hat keine Metadaten."
+
+msgid "%s; expiring %s"
+msgstr "%S;%s läuft ab"
+
+msgid "never"
+msgstr "niemals"
+
+msgid "Not completed"
+msgstr "Nicht abgeschlossen"
+
+msgid "Not approved"
+msgstr "Nicht genehmigt"
+
+msgid "MediaWiki page"
+msgstr "MediaWiki-Seite"
+
+msgid "Omeka media"
+msgstr "Omeka-Medien"
+
+msgid "Notes"
+msgstr "Notizen"
+
+msgid "Revision history"
+msgstr "Revisionshistorie"
+
+msgid "Wikitext"
+msgstr "Wikitext"
+
+msgid "Omeka media metadata"
+msgstr "Omeka-Medienmetadaten"
+
+msgid "No notes yet."
+msgstr "Noch keine Notizen."
+
+msgid "Browse notes history"
+msgstr "Durchsuchen Sie den Notizenverlauf"
+
+msgid "The Omeka media has no metadata."
+msgstr "Die Omeka-Medien verfügen über keine Metadaten."
+
+msgid "Latest revision"
+msgstr "Letzte Überarbeitung"
+
+msgid "This revision"
+msgstr "Diese Überarbeitung"
+
+msgid "%s: %s by %s"
+msgstr "%s: %s von %s"
+
+msgid "Latest"
+msgstr "Letzte"
+
+msgid "Out-of-date"
+msgstr "Veraltet"
+
+msgid "Revert to this revision."
+msgstr "Kehren Sie zu dieser Überarbeitung zurück."
+
+msgid "There are no revisions."
+msgstr "Es gibt keine Revisionen."
+
+msgid "Revert to this revision"
+msgstr "Kehren Sie zu dieser Überarbeitung zurück"
+
+msgid "%s: You are reverting to an out-of-date revision. Any changes made since this revision will be lost, including changes that may be constructive. Note that this revert will not affect which revisions are marked as completed or approved."
+msgstr "%s: Sie kehren zu einer veralteten Revision zurück.Alle seit dieser Überarbeitung vorgenommenen Änderungen gehen verloren, einschließlich Änderungen, die möglicherweise konstruktiv sind.Beachten Sie, dass diese Zurücksetzung keinen Einfluss darauf hat, welche Revisionen als abgeschlossen oder genehmigt markiert werden."
+
+msgid "Verify changes before confirming this reversion."
+msgstr "Überprüfen Sie die Änderungen, bevor Sie diese Rücksetzung bestätigen."
+
+msgid "Go full screen"
+msgstr "Gehen Sie in den Vollbildmodus"
+
+msgid "Exit full screen"
+msgstr "Verlassen Sie den Vollbildmodus"
+
+msgid "Horizontal view"
+msgstr "Horizontale Ansicht"
+
+msgid "Vertical view"
+msgstr "Vertikale Ansicht"
+
+msgid "Review status"
+msgstr "Überprüfungsstatus"
+
+msgid "This revision marked as complete."
+msgstr "Diese Überarbeitung wurde als abgeschlossen markiert."
+
+msgid "Another revision marked as complete. [%s]"
+msgstr "Eine weitere Überarbeitung wurde als abgeschlossen markiert.[%S]"
+
+msgid "view revision"
+msgstr "Revision ansehen"
+
+msgid "Mark this revision as complete"
+msgstr "Markieren Sie diese Überarbeitung als abgeschlossen"
+
+msgid "Approved"
+msgstr "Genehmigt"
+
+msgid "This revision marked as approved."
+msgstr "Diese Überarbeitung wurde als genehmigt markiert."
+
+msgid "Another revision marked as approved. [%s]"
+msgstr "Eine weitere Überarbeitung wurde als genehmigt markiert.[%S]"
+
+msgid "Mark this revision as approved"
+msgstr "Markieren Sie diese Überarbeitung als genehmigt"
+
+msgid "New project"
+msgstr "Neues Projekt"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Reviewers"
+msgstr "Reviewers"
+
+msgid "Date created"
+msgstr "Erstellungsdatum"
+
+msgid "Last imported"
+msgstr "Zuletzt importiert"
+
+msgid "No Scripto projects found. %s"
+msgstr "Keine Scripto-Projekte gefunden.%S"
+
+msgid "Add a new project."
+msgstr "Fügen Sie ein neues Projekt hinzu."
+
+msgid "Click on a user to add them to the project."
+msgstr "Klicken Sie auf einen Benutzer, um ihn dem Projekt hinzuzufügen."
+
+msgid "Project metadata"
+msgstr "Projektmetadaten"
+
+msgid "Media types"
+msgstr "Medientypen"
+
+msgid "Language tag"
+msgstr "Sprach-Tag"
+
+msgid "Import target"
+msgstr "Ziel importieren"
+
+msgid "Item and media"
+msgstr "Artikel und Medien"
+
+msgid "Browse layout"
+msgstr "Layout durchsuchen"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Item type"
+msgstr "Artikeltyp"
+
+msgid "Content type"
+msgstr "Inhaltstyp"
+
+msgid "Not synced"
+msgstr "Nicht synchronisiert"
+
+msgid "Not imported"
+msgstr "Nicht importiert"
+
+msgid "Revisions"
+msgstr "Überarbeitungen"
+
+msgid "Compare selected"
+msgstr "Ausgewählte vergleichen"
+
+msgid "Compare"
+msgstr "Vergleichen"
+
+msgid "cur"
+msgstr "cur"
+
+msgid "prev"
+msgstr "vorh"
+
+msgid "From revision"
+msgstr "Aus Revision"
+
+msgid "To revision"
+msgstr "Zur Überarbeitung"
+
+msgid "%s bytes (%s)"
+msgstr "%s Bytes (%s)"
+
+msgid "Compare revisions"
+msgstr "Revisionen vergleichen"
+
+msgid "Revision as of %s"
+msgstr "Revision vom %s"
+
+msgid "(No difference)"
+msgstr "(Kein Unterschied)"
+
+msgid "This revision marked as completed."
+msgstr "Diese Überarbeitung wurde als abgeschlossen markiert."
+
+msgid "MediaWiki groups"
+msgstr "MediaWiki-Gruppen"
+
+msgid "Edit count"
+msgstr "Anzahl bearbeiten"
+
+msgid "Scripto: User"
+msgstr "Skript: Benutzer"
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Media #"
+msgstr "Medien #"
+
+msgid "new"
+msgstr "neu"
+
+msgid "current"
+msgstr "aktuell"
+
+msgid "n/a"
+msgstr "n / A"
+
+msgid "No user contributions found."
+msgstr "Keine Benutzerbeiträge gefunden."
+
+msgid "No watchlist pages found."
+msgstr "Keine Watchlist-Seiten gefunden."
+
+msgid "Show original titles"
+msgstr "Originaltitel anzeigen"
+
+msgid "Original title: %s"
+msgstr "Originaltitel: %s"
+
+msgid "Notes are a workspace where project participants can keep ideas and observations regarding the %s of the %s. When contributing to the notes, it is encouraged to include the user and timestamp."
+msgstr "Notizen sind ein Arbeitsbereich, in dem Projektteilnehmer Ideen und Beobachtungen zum %s des %s festhalten können.Bei Beiträgen zu den Notizen wird empfohlen, den Benutzer und den Zeitstempel anzugeben."
+
+msgid "Protection:"
+msgstr "Schutz:"
+
+msgid "Expiration:"
+msgstr "Ablauf:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "No Scripto projects found"
+msgstr "Keine Scripto-Projekte gefunden"
+
+msgid "Back to notes"
+msgstr "Zurück zu den Notizen"
+
+msgid "No revisions found"
+msgstr "Keine Revisionen gefunden"
+
+msgid "Compare note revisions: %s"
+msgstr "Notizrevisionen vergleichen: %s"
+
+msgid "Return to revision history"
+msgstr "Zurück zum Revisionsverlauf"
+
+msgid "Compare revisions: %s"
+msgstr "Revisionen vergleichen: %s"
+
+msgid "Notes revision: %s"
+msgstr "Notizenrevision: %s"
+
+msgid "Revision as of %s by %s"
+msgstr "Revision vom %s durch %s"
+
+msgid "No HTML"
+msgstr "Kein HTML"
+
+msgid "Revision: %s"
+msgstr "Revision: %s"
+
+msgid "Contributions by %s"
+msgstr "Beiträge von %s"
+
+msgid "Your watchlist"
+msgstr "Ihre Merkliste"
+
+msgid "Cannot import a project without a property."
+msgstr "Ein Projekt ohne Eigenschaft kann nicht importiert werden."
+
+msgid "Cannot sync a project without an item set."
+msgstr "Ein Projekt ohne Elementsatz kann nicht synchronisiert werden."
+
+msgid "Cannot unimport a project without a property."
+msgstr "Der Import eines Projekts ohne Eigenschaft ist nicht möglich."
+
+msgid "New"
+msgstr "Neu"
+
+msgid "In progress"
+msgstr "Im Gange"
+
+msgid "Confirmed only"
+msgstr "Nur bestätigt"
+
+msgid "Admin only"
+msgstr "Nur Administrator"
+
+msgid "Open to all"
+msgstr "Offen für alle"
+
+msgid "The Scripto\Api\Adapter\ScriptoMediaAdapter adapter does not implement the create operation."
+msgstr "Der Scripto\Api\Adapter\ScriptoMediaAdapter-Adapter implementiert den Erstellungsvorgang nicht."
+
+msgid "A Scripto item must not be null."
+msgstr "Ein Scripto-Element darf nicht null sein."
+
+msgid "A media must not be null."
+msgstr "Ein Medium darf nicht null sein."
+
+msgid "Invalid completed revision ID."
+msgstr "Ungültige abgeschlossene Revisions-ID."
+
+msgid "Invalid approved revision ID."
+msgstr "Ungültige genehmigte Revisions-ID."
+
+msgid "An owner must have an ID"
+msgstr "Ein Besitzer muss einen Ausweis haben"
+
+msgid "An item set must have an ID"
+msgstr "Ein Artikelsatz muss eine ID haben"
+
+msgid "A property must have an ID"
+msgstr "Eine Eigenschaft muss eine ID haben"
+
+msgid "A Scripto project title must not be null"
+msgstr "Der Titel eines Scripto-Projekts darf nicht null sein"
+
+msgid "The Scripto\Api\Adapter\ScriptoItemAdapter adapter does not implement the create operation."
+msgstr "Der Scripto\Api\Adapter\ScriptoItemAdapter-Adapter implementiert den Erstellungsvorgang nicht."
+
+msgid "A Scripto project must not be null"
+msgstr "Ein Scripto-Projekt darf nicht null sein"
+
+msgid "An item must not be null"
+msgstr "Ein Element darf nicht null sein"
+
+msgid "Documents"
+msgstr "Unterlagen"
+
+msgid "Manuscripts"
+msgstr "Manuskripte"
+
+msgid "Books"
+msgstr "Bücher"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Papers"
+msgstr "Papiere"
+
+msgid "Journals"
+msgstr "Zeitschriften"
+
+msgid "Paper"
+msgstr "Papier"
+
+msgid "No Scripto items found"
+msgstr "Keine Scripto-Elemente gefunden"
+
+msgid "No Scripto documents found"
+msgstr "Keine Scripto-Dokumente gefunden"
+
+msgid "No Scripto manuscripts found"
+msgstr "Keine Scripto-Manuskripte gefunden"
+
+msgid "No Scripto books found"
+msgstr "Keine Scripto-Bücher gefunden"
+
+msgid "No Scripto audio found"
+msgstr "Kein Scripto-Audio gefunden"
+
+msgid "No Scripto video found"
+msgstr "Kein Scripto-Video gefunden"
+
+msgid "No Scripto papers found"
+msgstr "Keine Scripto-Papiere gefunden"
+
+msgid "No Scripto journals found"
+msgstr "Keine Scripto-Zeitschriften gefunden"
+
+msgid "%s items"
+msgstr "%s Artikel"
+
+msgid "%s documents"
+msgstr "%s Dokumente"
+
+msgid "%s manuscripts"
+msgstr "%s Manuskripte"
+
+msgid "%s books"
+msgstr "%s Bücher"
+
+msgid "%s audio"
+msgstr "%s Audio"
+
+msgid "%s video"
+msgstr "%s Video"
+
+msgid "%s papers"
+msgstr "%s Papiere"
+
+msgid "%s journals"
+msgstr "%s Tagebücher"
+
+msgid "item: %s"
+msgstr "Artikel"
+
+msgid "document: %s"
+msgstr "Dokument: %s"
+
+msgid "manuscript: %s"
+msgstr "Manuskript: %s"
+
+msgid "book: %s"
+msgstr "Bücher"
+
+msgid "audio: %s"
+msgstr "Audio: %s"
+
+msgid "video: %s"
+msgstr "Video: %s"
+
+msgid "paper: %s"
+msgstr "Papier: %s"
+
+msgid "journal: %s"
+msgstr "Tagebuch: %s"
+
+msgid "Total item count"
+msgstr "Gesamtanzahl der Artikel"
+
+msgid "Total document count"
+msgstr "Gesamtzahl der Dokumente"
+
+msgid "Total manuscript count"
+msgstr "Gesamtzahl der Manuskripte"
+
+msgid "Total book count"
+msgstr "Gesamtzahl der Bücher"
+
+msgid "Total audio count"
+msgstr "Gesamtzahl der Audiodaten"
+
+msgid "Total video count"
+msgstr "Gesamtzahl der Videos"
+
+msgid "Total paper count"
+msgstr "Gesamtpapieranzahl"
+
+msgid "Total journal count"
+msgstr "Gesamtzahl der Journale"
+
+msgid "Is approved item count"
+msgstr "Ist die Anzahl der genehmigten Artikel"
+
+msgid "Is approved document count"
+msgstr "Ist die Anzahl der genehmigten Dokumente"
+
+msgid "Is approved manuscript count"
+msgstr "Ist die Anzahl der genehmigten Manuskripte"
+
+msgid "Is approved book count"
+msgstr "Ist die Buchanzahl genehmigt"
+
+msgid "Is approved audio count"
+msgstr "Ist die genehmigte Audioanzahl"
+
+msgid "Is approved video count"
+msgstr "Ist die Anzahl der genehmigten Videos"
+
+msgid "Is approved paper count"
+msgstr "Ist die genehmigte Papieranzahl"
+
+msgid "Is approved journal count"
+msgstr "Ist die Anzahl der genehmigten Journale"
+
+msgid "Is not approved item count"
+msgstr "Es handelt sich nicht um eine genehmigte Artikelanzahl"
+
+msgid "Is not approved document count"
+msgstr "Anzahl der nicht genehmigten Dokumente"
+
+msgid "Is not approved manuscript count"
+msgstr "Ist keine genehmigte Manuskriptanzahl"
+
+msgid "Is not approved book count"
+msgstr "Ist keine genehmigte Buchanzahl"
+
+msgid "Is not approved audio count"
+msgstr "Ist keine genehmigte Audioanzahl"
+
+msgid "Is not approved video count"
+msgstr "Die Anzahl der Videos wurde nicht genehmigt"
+
+msgid "Is not approved paper count"
+msgstr "Ist keine genehmigte Papieranzahl"
+
+msgid "Is not approved journal count"
+msgstr "Ist keine genehmigte Journalanzahl"
+
+msgid "Scripto item metadata"
+msgstr "Scripto-Elementmetadaten"
+
+msgid "Scripto document metadata"
+msgstr "Scripto-Dokumentmetadaten"
+
+msgid "Scripto manuscript metadata"
+msgstr "Metadaten des Scripto-Manuskripts"
+
+msgid "Scripto book metadata"
+msgstr "Scripto-Buchmetadaten"
+
+msgid "Scripto audio metadata"
+msgstr "Scripto-Audio-Metadaten"
+
+msgid "Scripto video metadata"
+msgstr "Scripto-Videometadaten"
+
+msgid "Scripto paper metadata"
+msgstr "Scripto-Papier-Metadaten"
+
+msgid "Scripto journal metadata"
+msgstr "Metadaten des Scripto-Journals"
+
+msgid "Scripto: Item"
+msgstr "Skript: Artikel"
+
+msgid "Scripto: Document"
+msgstr "Skript: Dokument"
+
+msgid "Scripto: Manuscript"
+msgstr "Drehbuch: Manuskript"
+
+msgid "Scripto: Book"
+msgstr "Drehbuch: Buch"
+
+msgid "Scripto: Audio"
+msgstr "Drehbuch: Audio"
+
+msgid "Scripto: Video"
+msgstr "Drehbuch: Video"
+
+msgid "Scripto: Paper"
+msgstr "Drehbuch: Papier"
+
+msgid "Scripto: Journal"
+msgstr "Drehbuch: Journal"
+
+msgid "Review item"
+msgstr "Überprüfen Sie den Artikel"
+
+msgid "Review document"
+msgstr "Überprüfen Sie das Dokument"
+
+msgid "Review manuscript"
+msgstr "Rezensionsmanuskript"
+
+msgid "Review book"
+msgstr "Rezensionsbuch"
+
+msgid "Review audio"
+msgstr "Audio überprüfen"
+
+msgid "Review video"
+msgstr "Rezensionsvideo"
+
+msgid "Review paper"
+msgstr "Rezensionspapier"
+
+msgid "Review journal"
+msgstr "Rezensionsjournal"
+
+msgid "Browse items"
+msgstr "Artikel durchsuchen"
+
+msgid "Browse documents"
+msgstr "Dokumente durchsuchen"
+
+msgid "Browse manuscripts"
+msgstr "Durchsuchen Sie Manuskripte"
+
+msgid "Browse books"
+msgstr "Durchsuchen Sie Bücher"
+
+msgid "Browse audio"
+msgstr "Audio durchsuchen"
+
+msgid "Browse video"
+msgstr "Video durchsuchen"
+
+msgid "Browse papers"
+msgstr "Durchsuchen Sie Artikel"
+
+msgid "Browse journals"
+msgstr "Durchsuchen Sie Zeitschriften"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Sections"
+msgstr "Abschnitte"
+
+msgid "Segments"
+msgstr "Segmente"
+
+msgid "Folios"
+msgstr "Folios"
+
+msgid "Sheets"
+msgstr "Blätter"
+
+msgid "Entries"
+msgstr "Einträge"
+
+msgid "Section"
+msgstr "Abschnitt"
+
+msgid "Segment"
+msgstr "Segment"
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Sheet"
+msgstr "Blatt"
+
+msgid "Entry"
+msgstr "Eintrag"
+
+msgid "Primary page"
+msgstr "Primärseite"
+
+msgid "Primary image"
+msgstr "Primäres Bild"
+
+msgid "Primary section"
+msgstr "Primärteil"
+
+msgid "Primary segment"
+msgstr "Primäres Segment"
+
+msgid "Primary folio"
+msgstr "Primäres Folio"
+
+msgid "Primary sheet"
+msgstr "Primärblatt"
+
+msgid "Primary entry"
+msgstr "Primärer Eintrag"
+
+msgid "Approved medias"
+msgstr "Zugelassene Medien"
+
+msgid "Approved media"
+msgstr "Zugelassene Medien"
+
+msgid "Approved pages"
+msgstr "Genehmigte Seiten"
+
+msgid "Approved images"
+msgstr "Genehmigte Bilder"
+
+msgid "Approved sections"
+msgstr "Genehmigte Abschnitte"
+
+msgid "Approved segments"
+msgstr "Genehmigte Segmente"
+
+msgid "Approved folios"
+msgstr "Genehmigte Blätter"
+
+msgid "Approved sheets"
+msgstr "Zugelassene Blätter"
+
+msgid "Approved entries"
+msgstr "Genehmigte Einträge"
+
+msgid "Media #%s"
+msgstr "Medien #%s"
+
+msgid "Page #%s"
+msgstr "Seite #%s"
+
+msgid "Image #%s"
+msgstr "Bild #%s"
+
+msgid "Section #%s"
+msgstr "Abschnitt #%s"
+
+msgid "Segment #%s"
+msgstr "Segment #%s"
+
+msgid "Folio #%s"
+msgstr "Folio #%s"
+
+msgid "Sheet #%s"
+msgstr "Blatt #%s"
+
+msgid "Entry #%s"
+msgstr "Eintrag #%s"
+
+msgid "Media #%s notes"
+msgstr "Medien #%s Notizen"
+
+msgid "Page #%s notes"
+msgstr "Seite #%s Notizen"
+
+msgid "Image #%s notes"
+msgstr "Bild #%s Notizen"
+
+msgid "Section #%s notes"
+msgstr "Abschnitt #%s Notizen"
+
+msgid "Segment #%s notes"
+msgstr "Segmentieren Sie #%s Notizen"
+
+msgid "Folio #%s notes"
+msgstr "Folio #%s Notizen"
+
+msgid "Sheet #%s notes"
+msgstr "Blatt #%s Notizen"
+
+msgid "Entry #%s notes"
+msgstr "Eintrag #%s Notizen"
+
+msgid "Media count"
+msgstr "Anzahl der Medien"
+
+msgid "Page count"
+msgstr "Seitenanzahl"
+
+msgid "Image count"
+msgstr "Bildanzahl"
+
+msgid "Section count"
+msgstr "Abschnittsanzahl"
+
+msgid "Segment count"
+msgstr "Segmentanzahl"
+
+msgid "Folio count"
+msgstr "Folioanzahl"
+
+msgid "Sheet count"
+msgstr "Blattzahl"
+
+msgid "Entry count"
+msgstr "Anzahl der Einträge"
+
+msgid "Total media count"
+msgstr "Gesamtanzahl der Medien"
+
+msgid "Total page count"
+msgstr "Gesamtseitenzahl"
+
+msgid "Total image count"
+msgstr "Gesamtzahl der Bilder"
+
+msgid "Total section count"
+msgstr "Gesamtanzahl der Abschnitte"
+
+msgid "Total segment count"
+msgstr "Gesamtanzahl der Segmente"
+
+msgid "Total folio count"
+msgstr "Gesamtzahl der Folios"
+
+msgid "Total sheet count"
+msgstr "Gesamtblattanzahl"
+
+msgid "Total entry count"
+msgstr "Gesamtzahl der Einträge"
+
+msgid "Is approved media count"
+msgstr "Ist die Anzahl der genehmigten Medien"
+
+msgid "Is approved page count"
+msgstr "Ist die genehmigte Seitenzahl"
+
+msgid "Is approved image count"
+msgstr "Ist die Anzahl der genehmigten Bilder"
+
+msgid "Is approved section count"
+msgstr "Ist die genehmigte Abschnittsanzahl"
+
+msgid "Is approved segment count"
+msgstr "Ist die genehmigte Segmentanzahl"
+
+msgid "Is approved folio count"
+msgstr "Ist die genehmigte Folioanzahl"
+
+msgid "Is approved sheet count"
+msgstr "Ist die Blattanzahl genehmigt"
+
+msgid "Is approved entry count"
+msgstr "Ist die Anzahl der genehmigten Einträge"
+
+msgid "Is completed media count"
+msgstr "Ist die Medienzählung abgeschlossen"
+
+msgid "Is completed page count"
+msgstr "Ist die Seitenanzahl abgeschlossen"
+
+msgid "Is completed image count"
+msgstr "Ist die Bildzählung abgeschlossen"
+
+msgid "Is completed section count"
+msgstr "Ist die Abschnittsanzahl abgeschlossen"
+
+msgid "Is completed segment count"
+msgstr "Ist die Anzahl der abgeschlossenen Segmente"
+
+msgid "Is completed folio count"
+msgstr "Die Foliozählung ist abgeschlossen"
+
+msgid "Is completed sheet count"
+msgstr "Ist die Blattzählung abgeschlossen"
+
+msgid "Is completed entry count"
+msgstr "Ist die Eintragszählung abgeschlossen"
+
+msgid "Is in progress media count"
+msgstr "Ist in Bearbeitung Medienzählung"
+
+msgid "Is in progress page count"
+msgstr "Ist in Bearbeitung. Seitenzählung"
+
+msgid "Is in progress image count"
+msgstr "Die Bildzählung läuft"
+
+msgid "Is in progress section count"
+msgstr "Abschnittszählung läuft"
+
+msgid "Is in progress segment count"
+msgstr "Ist in Bearbeitung, Segmentzählung"
+
+msgid "Is in progress folio count"
+msgstr "Folio-Zählung wird durchgeführt"
+
+msgid "Is in progress sheet count"
+msgstr "Blattzählung läuft"
+
+msgid "Is in progress entry count"
+msgstr "Ist in Bearbeitung. Eintragszählung"
+
+msgid "Is edited after approved media count"
+msgstr "Wird nach genehmigter Medienzählung bearbeitet"
+
+msgid "Is edited after approved page count"
+msgstr "Wird nach genehmigter Seitenzahl bearbeitet"
+
+msgid "Is edited after approved image count"
+msgstr "Wird nach genehmigter Bildanzahl bearbeitet"
+
+msgid "Is edited after approved section count"
+msgstr "Wird nach der genehmigten Abschnittszählung bearbeitet"
+
+msgid "Is edited after approved segment count"
+msgstr "Wird nach der genehmigten Segmentzählung bearbeitet"
+
+msgid "Is edited after approved folio count"
+msgstr "Wird nach genehmigter Foliozählung bearbeitet"
+
+msgid "Is edited after approved sheet count"
+msgstr "Wird nach genehmigter Blattanzahl bearbeitet"
+
+msgid "Is edited after approved entry count"
+msgstr "Wird nach der Anzahl der genehmigten Einträge bearbeitet"
+
+msgid "Is edited after imported media count"
+msgstr "Wird nach der Anzahl der importierten Medien bearbeitet"
+
+msgid "Is edited after imported page count"
+msgstr "Wird nach der importierten Seitenzahl bearbeitet"
+
+msgid "Is edited after imported image count"
+msgstr "Wird nach der Anzahl der importierten Bilder bearbeitet"
+
+msgid "Is edited after imported section count"
+msgstr "Wird nach der Anzahl der importierten Abschnitte bearbeitet"
+
+msgid "Is edited after imported segment count"
+msgstr "Wird nach der Anzahl der importierten Segmente bearbeitet"
+
+msgid "Is edited after imported folio count"
+msgstr "Wird nach der Anzahl der importierten Folios bearbeitet"
+
+msgid "Is edited after imported sheet count"
+msgstr "Wird nach der importierten Blattanzahl bearbeitet"
+
+msgid "Is edited after imported entry count"
+msgstr "Wird nach der Anzahl der importierten Einträge bearbeitet"
+
+msgid "Is synced after imported media count"
+msgstr "Wird nach der Anzahl der importierten Medien synchronisiert"
+
+msgid "Is synced after imported page count"
+msgstr "Wird nach der importierten Seitenzahl synchronisiert"
+
+msgid "Is synced after imported image count"
+msgstr "Wird nach der Anzahl der importierten Bilder synchronisiert"
+
+msgid "Is synced after imported section count"
+msgstr "Wird nach der Anzahl der importierten Abschnitte synchronisiert"
+
+msgid "Is synced after imported segment count"
+msgstr "Wird nach der Anzahl der importierten Segmente synchronisiert"
+
+msgid "Is synced after imported folio count"
+msgstr "Wird nach der Anzahl der importierten Folios synchronisiert"
+
+msgid "Is synced after imported sheet count"
+msgstr "Wird nach der importierten Blattanzahl synchronisiert"
+
+msgid "Is synced after imported entry count"
+msgstr "Wird nach der Anzahl der importierten Einträge synchronisiert"
+
+msgid "Select page"
+msgstr "Seite auswählen"
+
+msgid "Select image"
+msgstr "Bild auswählen"
+
+msgid "Select section"
+msgstr "Abschnitt auswählen"
+
+msgid "Select segment"
+msgstr "Segment auswählen"
+
+msgid "Select folio"
+msgstr "Folio auswählen"
+
+msgid "Select sheet"
+msgstr "Blatt auswählen"
+
+msgid "Select entry"
+msgstr "Eintrag auswählen"
+
+msgid "No Scripto media found"
+msgstr "Keine Scripto-Medien gefunden"
+
+msgid "No Scripto pages found"
+msgstr "Keine Scripto-Seiten gefunden"
+
+msgid "No Scripto images found"
+msgstr "Keine Scripto-Bilder gefunden"
+
+msgid "No Scripto sections found"
+msgstr "Keine Scripto-Abschnitte gefunden"
+
+msgid "No Scripto segments found"
+msgstr "Keine Scripto-Segmente gefunden"
+
+msgid "No Scripto folios found"
+msgstr "Keine Scripto-Folios gefunden"
+
+msgid "No Scripto sheets found"
+msgstr "Keine Scripto-Blätter gefunden"
+
+msgid "No Scripto entries found"
+msgstr "Keine Scripto-Einträge gefunden"
+
+msgid "Scripto: Media"
+msgstr "Drehbuch: Medien"
+
+msgid "Scripto: Page"
+msgstr "Skript: Seite"
+
+msgid "Scripto: Image"
+msgstr "Skript: Bild"
+
+msgid "Scripto: Section"
+msgstr "Skript: Abschnitt"
+
+msgid "Scripto: Segment"
+msgstr "Skript: Segment"
+
+msgid "Scripto: Folio"
+msgstr "Drehbuch: Folio"
+
+msgid "Scripto: Sheet"
+msgstr "Skript: Blatt"
+
+msgid "Scripto: Entry"
+msgstr "Skript: Eintrag"
+
+msgid "Mark media as not complete"
+msgstr "Medien als nicht vollständig markieren"
+
+msgid "Mark page as not complete"
+msgstr "Seite als nicht vollständig markieren"
+
+msgid "Mark image as not complete"
+msgstr "Bild als nicht vollständig markieren"
+
+msgid "Mark section as not complete"
+msgstr "Abschnitt als nicht abgeschlossen markieren"
+
+msgid "Mark segment as not complete"
+msgstr "Segment als nicht abgeschlossen markieren"
+
+msgid "Mark folio as not complete"
+msgstr "Folio als nicht vollständig markieren"
+
+msgid "Mark sheet as not complete"
+msgstr "Blatt als nicht vollständig markieren"
+
+msgid "Mark entry as not complete"
+msgstr "Eintrag als nicht abgeschlossen markieren"
+
+msgid "Mark media as complete"
+msgstr "Medien als vollständig markieren"
+
+msgid "Mark page as complete"
+msgstr "Seite als abgeschlossen markieren"
+
+msgid "Mark image as complete"
+msgstr "Bild als vollständig markieren"
+
+msgid "Mark section as complete"
+msgstr "Abschnitt als abgeschlossen markieren"
+
+msgid "Mark segment as complete"
+msgstr "Segment als abgeschlossen markieren"
+
+msgid "Mark folio as complete"
+msgstr "Markieren Sie das Folio als vollständig"
+
+msgid "Mark sheet as complete"
+msgstr "Blatt als vollständig markieren"
+
+msgid "Mark entry as complete"
+msgstr "Eintrag als abgeschlossen markieren"
+
+msgid "Mark media as not approved"
+msgstr "Medien als nicht genehmigt markieren"
+
+msgid "Mark page as not approved"
+msgstr "Seite als nicht genehmigt markieren"
+
+msgid "Mark image as not approved"
+msgstr "Bild als nicht genehmigt markieren"
+
+msgid "Mark section as not approved"
+msgstr "Abschnitt als nicht genehmigt markieren"
+
+msgid "Mark segment as not approved"
+msgstr "Segment als nicht genehmigt markieren"
+
+msgid "Mark folio as not approved"
+msgstr "Folio als nicht genehmigt markieren"
+
+msgid "Mark sheet as not approved"
+msgstr "Blatt als nicht genehmigt markieren"
+
+msgid "Mark entry as not approved"
+msgstr "Eintrag als nicht genehmigt markieren"
+
+msgid "Mark media as approved"
+msgstr "Medien als genehmigt markieren"
+
+msgid "Mark page as approved"
+msgstr "Seite als genehmigt markieren"
+
+msgid "Mark image as approved"
+msgstr "Bild als genehmigt markieren"
+
+msgid "Mark section as approved"
+msgstr "Abschnitt als genehmigt markieren"
+
+msgid "Mark segment as approved"
+msgstr "Segment als genehmigt markieren"
+
+msgid "Mark folio as approved"
+msgstr "Folio als genehmigt markieren"
+
+msgid "Mark sheet as approved"
+msgstr "Blatt als genehmigt markieren"
+
+msgid "Mark entry as approved"
+msgstr "Eintrag als genehmigt markieren"
+
+msgid "Scripto media metadata"
+msgstr "Scripto-Medienmetadaten"
+
+msgid "Scripto page metadata"
+msgstr "Metadaten der Scripto-Seite"
+
+msgid "Scripto image metadata"
+msgstr "Scripto-Bildmetadaten"
+
+msgid "Scripto section metadata"
+msgstr "Metadaten des Scripto-Abschnitts"
+
+msgid "Scripto segment metadata"
+msgstr "Metadaten des Scripto-Segments"
+
+msgid "Scripto folio metadata"
+msgstr "Scripto-Folio-Metadaten"
+
+msgid "Scripto sheet metadata"
+msgstr "Scripto-Blatt-Metadaten"
+
+msgid "Scripto entry metadata"
+msgstr "Scripto-Eintragsmetadaten"
+
+msgid "Batch edit medias"
+msgstr "Medien stapelweise bearbeiten"
+
+msgid "Batch edit pages"
+msgstr "Seiten zur Stapelbearbeitung"
+
+msgid "Batch edit images"
+msgstr "Bilder stapelweise bearbeiten"
+
+msgid "Batch edit sections"
+msgstr "Abschnitte zur Stapelbearbeitung"
+
+msgid "Batch edit segments"
+msgstr "Segmente im Stapel bearbeiten"
+
+msgid "Batch edit folios"
+msgstr "Folios im Stapel bearbeiten"
+
+msgid "Batch edit sheets"
+msgstr "Stapelbearbeitung von Blättern"
+
+msgid "Batch edit entries"
+msgstr "Einträge im Stapel bearbeiten"
+
+msgid "Batch edit all medias"
+msgstr "Bearbeiten Sie alle Medien stapelweise"
+
+msgid "Batch edit all media"
+msgstr "Bearbeiten Sie alle Medien stapelweise"
+
+msgid "Batch edit all pages"
+msgstr "Bearbeiten Sie alle Seiten stapelweise"
+
+msgid "Batch edit all images"
+msgstr "Bearbeiten Sie alle Bilder stapelweise"
+
+msgid "Batch edit all sections"
+msgstr "Bearbeiten Sie alle Abschnitte stapelweise"
+
+msgid "Batch edit all segments"
+msgstr "Bearbeiten Sie alle Segmente im Stapel"
+
+msgid "Batch edit all folios"
+msgstr "Bearbeiten Sie alle Folios stapelweise"
+
+msgid "Batch edit all sheets"
+msgstr "Bearbeiten Sie alle Blätter stapelweise"
+
+msgid "Batch edit all entries"
+msgstr "Bearbeiten Sie alle Einträge im Stapel"
+
+msgid "Affected medias"
+msgstr "Betroffene Medien"
+
+msgid "Affected pages"
+msgstr "Betroffene Seiten"
+
+msgid "Affected images"
+msgstr "Betroffene Bilder"
+
+msgid "Affected sections"
+msgstr "Betroffene Abschnitte"
+
+msgid "Affected segments"
+msgstr "Betroffene Segmente"
+
+msgid "Affected folios"
+msgstr "Betroffene Blätter"
+
+msgid "Affected sheets"
+msgstr "Betroffene Blätter"
+
+msgid "Affected entries"
+msgstr "Betroffene Einträge"
+
+msgid "You are editing the following %s medias"
+msgstr "Sie bearbeiten die folgenden %s Medien"
+
+msgid "You are editing the following %s media"
+msgstr "Sie bearbeiten die folgenden %s Medien"
+
+msgid "You are editing the following %s pages"
+msgstr "Sie bearbeiten die folgenden %s Seiten"
+
+msgid "You are editing the following %s images"
+msgstr "Sie bearbeiten die folgenden %s Bilder"
+
+msgid "You are editing the following %s sections"
+msgstr "Sie bearbeiten die folgenden %s Abschnitte"
+
+msgid "You are editing the following %s segments"
+msgstr "Sie bearbeiten die folgenden %s Segmente"
+
+msgid "You are editing the following %s folios"
+msgstr "Sie bearbeiten die folgenden %s Folios"
+
+msgid "You are editing the following %s sheets"
+msgstr "Sie bearbeiten die folgenden %s Blätter"
+
+msgid "You are editing the following %s entries"
+msgstr "Sie bearbeiten die folgenden %s Einträge"
+
+msgid "You are editing %s medias"
+msgstr "Sie bearbeiten %s Medien"
+
+msgid "You are editing %s media"
+msgstr "Sie bearbeiten %s Medien"
+
+msgid "You are editing %s pages"
+msgstr "Sie bearbeiten %s Seiten"
+
+msgid "You are editing %s images"
+msgstr "Sie bearbeiten %s Bilder"
+
+msgid "You are editing %s sections"
+msgstr "Sie bearbeiten %s Abschnitte"
+
+msgid "You are editing %s segments"
+msgstr "Sie bearbeiten %s Segmente"
+
+msgid "You are editing %s folios"
+msgstr "Sie bearbeiten %s Folios"
+
+msgid "You are editing %s sheets"
+msgstr "Sie bearbeiten %s Blätter"
+
+msgid "You are editing %s entries"
+msgstr "You are editing %s entries"
+
+msgid "This Scripto media has no revisions."
+msgstr "Dieses Scripto-Medium hat keine Revisionen."
+
+msgid "This Scripto page has no revisions."
+msgstr "Diese Scripto-Seite hat keine Revisionen."
+
+msgid "This Scripto image has no revisions."
+msgstr "Dieses Scripto-Bild hat keine Revisionen."
+
+msgid "This Scripto section has no revisions."
+msgstr "Dieser Scripto-Abschnitt hat keine Revisionen."
+
+msgid "This Scripto segment has no revisions."
+msgstr "Dieses Scripto-Segment hat keine Revisionen."
+
+msgid "This Scripto folio has no revisions."
+msgstr "Dieses Scripto-Folio hat keine Revisionen."
+
+msgid "This Scripto sheet has no revisions."
+msgstr "Dieses Scripto-Blatt hat keine Revisionen."
+
+msgid "This Scripto entry has no revisions"
+msgstr "Dieser Scripto-Eintrag hat keine Revisionen"
+
+msgid "Review media"
+msgstr "Überprüfen Sie die Medien"
+
+msgid "Review page"
+msgstr "Rezensionsseite"
+
+msgid "Review section"
+msgstr "Rezensionsbereich"
+
+msgid "Review segment"
+msgstr "Rezensionssegment"
+
+msgid "Review folio"
+msgstr "Rezensionsfolio"
+
+msgid "Review sheet"
+msgstr "Überprüfungsbogen"
+
+msgid "Review entry"
+msgstr "Eintrag überprüfen"
+
+msgid "%s: Media #%s"
+msgstr "%s: Medien #%s"
+
+msgid "%s: Page #%s"
+msgstr "%s: Seite #%s"
+
+msgid "%s: Image #%s"
+msgstr "%s: Bild #%s"
+
+msgid "%s: Section #%s"
+msgstr "%s: Abschnitt #%s"
+
+msgid "%s: Segment #%s"
+msgstr "%s: Segment #%s"
+
+msgid "%s: Folio #%s"
+msgstr "%s: Folio #%s"
+
+msgid "%s: Sheet #%s"
+msgstr "%s: Blatt #%s"
+
+msgid "%s: Entry #%s"
+msgstr "%s: Eintrag #%s"
+
+msgid "Notes for %s: Media #%s"
+msgstr "Hinweise für %s: Medien #%s"
+
+msgid "Notes for %s: Page #%s"
+msgstr "Hinweise für %s: Seite #%s"
+
+msgid "Notes for %s: Image #%s"
+msgstr "Hinweise für %s: Bild #%s"
+
+msgid "Notes for %s: Section #%s"
+msgstr "Hinweise für %s: Abschnitt #%s"
+
+msgid "Notes for %s: Segment #%s"
+msgstr "Hinweise für %s: Segment #%s"
+
+msgid "Notes for %s: Folio #%s"
+msgstr "Hinweise für %s: Folio #%s"
+
+msgid "Notes for %s: Sheet #%s"
+msgstr "Notizen für %s: Blatt #%s"
+
+msgid "Notes for %s: Entry #%s"
+msgstr "Hinweise für %s: Eintrag #%s"
+
+msgid "Stop tracking media"
+msgstr "Hören Sie auf, Medien zu verfolgen"
+
+msgid "Stop tracking page"
+msgstr "Tracking-Seite stoppen"
+
+msgid "Stop tracking image"
+msgstr "Stoppen Sie die Bildverfolgung"
+
+msgid "Stop tracking section"
+msgstr "Abschnitt „Tracking stoppen“."
+
+msgid "Stop tracking segment"
+msgstr "Stoppen Sie das Tracking-Segment"
+
+msgid "Stop tracking folio"
+msgstr "Folio-Tracking beenden"
+
+msgid "Stop tracking sheet"
+msgstr "Stoppen Sie das Tracking-Blatt"
+
+msgid "Stop tracking entry"
+msgstr "Stoppen Sie die Verfolgung des Eintrags"
+
+msgid "Watch media"
+msgstr "Medien ansehen"
+
+msgid "Watch page"
+msgstr "Seite ansehen"
+
+msgid "Watch image"
+msgstr "Bild ansehen"
+
+msgid "Watch section"
+msgstr "Abschnitt ansehen"
+
+msgid "Watch segment"
+msgstr "Segment ansehen"
+
+msgid "Watch folio"
+msgstr "Folio ansehen"
+
+msgid "Watch sheet"
+msgstr "Merkblatt"
+
+msgid "Watch entry"
+msgstr "Eintrag ansehen"
+
+msgid "Now tracking media"
+msgstr "Jetzt Tracking-Medien"
+
+msgid "Now tracking page"
+msgstr "Jetzt Tracking-Seite"
+
+msgid "Now tracking image"
+msgstr "Jetzt wird das Bild verfolgt"
+
+msgid "Now tracking section"
+msgstr "Jetzt Tracking-Bereich"
+
+msgid "Now tracking segment"
+msgstr "Jetzt Tracking-Segment"
+
+msgid "Now tracking folio"
+msgstr "Folio wird jetzt verfolgt"
+
+msgid "Now tracking sheet"
+msgstr "Jetzt Tracking-Blatt"
+
+msgid "Now tracking entry"
+msgstr "Jetzt wird der Eintrag verfolgt"
+
+msgid "Media successfully removed from your watchlist"
+msgstr "Medien erfolgreich aus Ihrer Merkliste entfernt"
+
+msgid "No longer tracking page"
+msgstr "Seite wird nicht mehr verfolgt"
+
+msgid "No longer tracking image"
+msgstr "Das Bild wird nicht mehr verfolgt"
+
+msgid "No longer tracking section"
+msgstr "Kein Tracking-Bereich mehr"
+
+msgid "No longer tracking segment"
+msgstr "Segment wird nicht mehr verfolgt"
+
+msgid "No longer tracking folio"
+msgstr "Folio wird nicht mehr verfolgt"
+
+msgid "No longer tracking sheet"
+msgstr "Kein Tracking-Blatt mehr"
+
+msgid "No longer tracking entry"
+msgstr "Der Eintrag wird nicht mehr verfolgt"
+
+msgid "Transcription"
+msgstr "Transkription"
+
+msgid "Translation"
+msgstr "Übersetzung"
+
+msgid "Last transcribed"
+msgstr "Zuletzt transkribiert"
+
+msgid "Last translated"
+msgstr "Zuletzt übersetzt"
+
+msgid "Last described"
+msgstr "Zuletzt beschrieben"
+
+msgid "Not edited"
+msgstr "Nicht bearbeitet"
+
+msgid "Not transcribed"
+msgstr "Nicht transkribiert"
+
+msgid "Not translated"
+msgstr "Nicht übersetzt"
+
+msgid "Not described"
+msgstr "Nicht beschrieben"
+
+msgid "Transcribe"
+msgstr "Transkribieren"
+
+msgid "Translate"
+msgstr "Übersetzen"
+
+msgid "Describe"
+msgstr "Beschreiben"
+
+msgid "No transcription"
+msgstr "Keine Transkription"
+
+msgid "No translation"
+msgstr "Keine Übersetzung"
+
+msgid "Track media"
+msgstr "Verfolgen Sie Medien"
+
+msgid "No longer tracking media"
+msgstr "Medien werden nicht mehr verfolgt"
+
+msgid "User contributions"
+msgstr "Benutzerbeiträge"
+
+msgid "User watchlist"
+msgstr "Benutzer-Beobachtungsliste"
+
+msgid "Review project"
+msgstr "Rezensionsprojekt"
+
+msgid "Completion status"
+msgstr "Abschlussstatus"
+
+msgid "Complete"
+msgstr "Vollständig"
+
+msgid "Incomplete"
+msgstr "Unvollständig"
+
+msgid "Approval status"
+msgstr "Genehmigungsstatus"
+
+msgid "Protection level"
+msgstr "Schutzniveau"
+
+msgid "Allow all users"
+msgstr "Alle Benutzer zulassen"
+
+msgid "Allow only confirmed users"
+msgstr "Nur bestätigte Benutzer zulassen"
+
+msgid "Allow only administrators"
+msgstr "Nur Administratoren zulassen"
+
+msgid "Protection expiry"
+msgstr "Schutzablauf"
+
+msgid "infinite"
+msgstr "unendlich"
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "1 week"
+msgstr "1 Woche"
+
+msgid "2 weeks"
+msgstr "2 Wochen"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "3 months"
+msgstr "3 Monate"
+
+msgid "6 months"
+msgstr "6 Monate"
+
+msgid "1 year"
+msgstr "1 Jahr"
+
+msgid "Watchlist status"
+msgstr "Status der Beobachtungsliste"
+
+msgid "Watch"
+msgstr "Betrachten"
+
+msgid "Unwatch"
+msgstr "Unwatch"
+
+msgid "Log out"
+msgstr "Abmelden"
+
+msgid "Enter the title of this project."
+msgstr "Geben Sie den Titel dieses Projekts ein."
+
+msgid "Select the item set used to synchronize project items. Once synchronized, this project will contain every item in this item set."
+msgstr "Wählen Sie den Elementsatz aus, der zum Synchronisieren von Projektelementen verwendet wird.Nach der Synchronisierung enthält dieses Projekt alle Elemente in diesem Elementsatz."
+
+msgid "Select an item set"
+msgstr "Wählen Sie einen Artikelsatz aus"
+
+msgid "Select the property used to store imported content."
+msgstr "Wählen Sie die Eigenschaft aus, die zum Speichern importierter Inhalte verwendet wird."
+
+msgid "Select media types to include in the project. If empty, all media will be included."
+msgstr "Wählen Sie Medientypen aus, die in das Projekt einbezogen werden sollen.Wenn leer, werden alle Medien einbezogen."
+
+msgid "[Media without media type]"
+msgstr "[Medien ohne Medientyp]"
+
+msgid "Select media types"
+msgstr "Wählen Sie Medientypen aus"
+
+msgid "Enter the description of this project."
+msgstr "Geben Sie die Beschreibung dieses Projekts ein."
+
+msgid "Guidelines"
+msgstr "Richtlinien"
+
+msgid "Enter guidelines for producing content for this project."
+msgstr "Geben Sie Richtlinien für die Erstellung von Inhalten für dieses Projekt ein."
+
+msgid "Create account text"
+msgstr "Kontotext erstellen"
+
+msgid "Enter text for the create account page of this project."
+msgstr "Geben Sie Text für die Seite „Konto erstellen“ dieses Projekts ein."
+
+msgid "Enter the language of your content using an IETF language tag."
+msgstr "Geben Sie die Sprache Ihres Inhalts mithilfe eines IETF-Sprach-Tags ein."
+
+msgid "Select the default layout for public browse views."
+msgstr "Wählen Sie das Standardlayout für öffentliche Suchansichten aus."
+
+msgid "Filter approved"
+msgstr "Filter zugelassen"
+
+msgid "Filter out approved items from the public browse view."
+msgstr "Filtern Sie genehmigte Elemente aus der öffentlichen Suchansicht heraus."
+
+msgid "Select the type of item covered by this project. This is used to clarify the interface, if needed."
+msgstr "Wählen Sie den Artikeltyp aus, der von diesem Projekt abgedeckt wird.Dies dient bei Bedarf zur Verdeutlichung der Schnittstelle."
+
+msgid "Generic item"
+msgstr "Allgemeiner Artikel"
+
+msgid "Select the type of media covered by this project. This is used to clarify the interface, if needed."
+msgstr "Wählen Sie die Art der Medien aus, die von diesem Projekt abgedeckt werden.Dies dient bei Bedarf zur Verdeutlichung der Schnittstelle."
+
+msgid "Generic media"
+msgstr "Allgemeine Medien"
+
+msgid "Select the type of content covered by this project. This is used to clarify the interface, if needed."
+msgstr "Wählen Sie die Art des Inhalts aus, der von diesem Projekt abgedeckt wird.Dies dient bei Bedarf zur Verdeutlichung der Schnittstelle."
+
+msgid "Generic content"
+msgstr "Allgemeiner Inhalt"
+
+msgid "Unimport project"
+msgstr "Projekt deimportieren"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "MediaWiki API URL"
+msgstr "MediaWiki-API-URL"
+
+msgid "Enter the URL to your MediaWiki API endpoint."
+msgstr "Geben Sie die URL zu Ihrem MediaWiki-API-Endpunkt ein."
+
+msgid "Invalid MediaWiki API. The URL must resolve to a MediaWiki API endpoint and the MediaWiki version must be %s or greater."
+msgstr "Ungültige MediaWiki-API.Die URL muss zu einem MediaWiki-API-Endpunkt aufgelöst werden und die MediaWiki-Version muss %s oder höher sein."
+
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+msgid "Real name"
+msgstr "Echter Name"
+
+msgid "Create your account"
+msgstr "Erstellen Sie Ihr Konto"
+
+msgid "Confirm reversion"
+msgstr "Bestätigen Sie die Umkehrung"
+
+msgid "Toggle complete"
+msgstr "Umschalten abgeschlossen"
+
+msgid "Complete action"
+msgstr "Vollständige Aktion"
+
+msgid "Select action:"
+msgstr "Aktion auswählen:"
+
+msgid "Toggle approved"
+msgstr "Umschalten genehmigt"
+
+msgid "Approved action"
+msgstr "Genehmigte Aktion"
+
+msgid "Import project"
+msgstr "Projekt importieren"
+
+msgid "Change summary"
+msgstr "Zusammenfassung ändern"
+
+msgid "Summarize your changes"
+msgstr "Fassen Sie Ihre Änderungen zusammen"
+
+msgid "Mark complete"
+msgstr "Als abgeschlossen markieren"
+
+msgid "Your Scripto account has been created! Please check your email for a link to activate your account."
+msgstr "Ihr Scripto-Konto wurde erstellt!Bitte überprüfen Sie Ihre E-Mails auf einen Link zur Aktivierung Ihres Kontos."
+
+msgid "Scripto media successfully updated."
+msgstr "Scripto-Medien erfolgreich aktualisiert."
+
+msgid "This project has no item set. %s"
+msgstr "Für dieses Projekt ist kein Elementsatz vorhanden.%S"
+
+msgid "This project has no property. %s"
+msgstr "Dieses Projekt hat kein Eigentum.%S"
+
+msgid "Scripto project successfully created."
+msgstr "Scripto-Projekt erfolgreich erstellt."
+
+msgid "Scripto project successfully edited."
+msgstr "Scripto-Projekt erfolgreich bearbeitet."
+
+msgid "Scripto project successfully deleted"
+msgstr "Scripto-Projekt erfolgreich gelöscht"
+
+msgid "Syncing Scripto project. This may take a while. %s"
+msgstr "Scripto-Projekt wird synchronisiert.Dies kann eine Weile dauern.%S"
+
+msgid "Importing Scripto project text. This may take a while. %s"
+msgstr "Scripto-Projekttext importieren.Dies kann eine Weile dauern.%S"
+
+msgid "Unimporting Scripto project text. This may take a while. %s"
+msgstr "Scripto-Projekttext wird nicht importiert.Dies kann eine Weile dauern.%S"
+
+msgid "Scripto media revision successfully reverted."
+msgstr "Die Überarbeitung der Scripto-Medien wurde erfolgreich zurückgesetzt."
+
+msgid "Scripto media successfully edited"
+msgstr "Scripto-Medien erfolgreich bearbeitet"
+
+msgid "A plain text representation of the content of a resource."
+msgstr "Eine reine Textdarstellung des Inhalts einer Ressource."
+
+msgid "transcription"
+msgstr "Transkription"
+
+msgid "A transcription of a resource."
+msgstr "Eine Transkription einer Ressource."
+
+msgid "translation"
+msgstr "Übersetzung"
+
+msgid "A translation of a resource."
+msgstr "Eine Übersetzung einer Ressource."

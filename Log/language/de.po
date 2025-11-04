@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Logging is not active by default in Omeka. This module overrides option [logger][log]."
+msgstr "Die Protokollierung ist in Omeka standardmäßig nicht aktiv.Dieses Modul überschreibt die Option [logger][log]."
+
+msgid "You may need to update the file config/local.config.php, in particular to set the default level of severity."
+msgstr "Möglicherweise müssen Sie die Datei config/local.config.php aktualisieren, insbesondere um den Standardschweregrad festzulegen."
+
+msgid "See examples of config in the {link}readme{link_end}."
+msgstr "Beispiele für Konfigurationen finden Sie in der {link}Readme-Datei{link_end}."
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Warning: The system state may not be reliable on some servers."
+msgstr "Warnung: Der Systemstatus ist auf einigen Servern möglicherweise nicht zuverlässig."
+
+msgid "Message contains"
+msgstr "Nachricht enthält"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Severity"
+msgstr "Schwere"
+
+msgid "Job"
+msgstr "Arbeit"
+
+msgid "Unknown job"
+msgstr "Unbekannter Job"
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Quick filter"
+msgstr "Schnellfilter"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Full log"
+msgstr "Vollständiges Protokoll"
+
+msgid "Delete logs"
+msgstr "Protokolle löschen"
+
+msgid "Are you sure you would like to delete the selected logs?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Protokolle löschen möchten?"
+
+msgid "%s: this action will permanently delete %s logs and cannot be undone."
+msgstr "%s: Diese Aktion löscht %s Protokolle dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all logs of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Protokolle dieses Ergebnisses löschen möchten?"
+
+msgid "Omeka could not find any logs, or they are saved in another place."
+msgstr "Omeka konnte keine Protokolle finden oder sie sind an einem anderen Ort gespeichert."
+
+msgid "Search logs"
+msgstr "Protokolle durchsuchen"
+
+msgid "Log #%d on %s"
+msgstr "Loggen Sie #%d auf %s ein"
+
+msgid "Job #%d"
+msgstr "Auftrag #%d"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "System state:"
+msgstr "Systemstatus:"
+
+msgid "Started at %s"
+msgstr "Begonnen um %s"
+
+msgid "Ended at %s"
+msgstr "Beendet um %s"
+
+msgid "Id (Params)"
+msgstr "ID (Parameter)"
+
+msgid "System state"
+msgstr "Systemstatus"
+
+msgid "Status (Log)"
+msgstr "Status (Protokoll)"
+
+msgid "[undefined]"
+msgstr "[undefiniert]"
+
+msgid "Progress"
+msgstr "Fortschritt"
+
+msgid "Log (database)"
+msgstr "Protokoll (Datenbank)"
+
+msgid "View log (%d results)"
+msgstr "Protokoll anzeigen (%d Ergebnisse)"
+
+msgid "The library is not compatible with the version of php on the server. Run \"composer upgrade\" on the command line or load a version for php ≥ 8.2."
+msgstr "Die Bibliothek ist nicht mit der PHP-Version auf dem Server kompatibel.Führen Sie „composer upgrade“ in der Befehlszeile aus oder laden Sie eine Version für PHP ≥ 8.2."
+
+msgid "Support of the third party service Sentry was moved to a separate module, {link}Log Sentry{link_end}."
+msgstr "Die Unterstützung des Drittanbieterdienstes Sentry wurde in ein separates Modul, {link}Log Sentry{link_end}, verschoben."
+
+msgid "The libraries are not installed. Run \"composer install\" on the command line or load a version with libraries included."
+msgstr "Die Bibliotheken sind nicht installiert.Führen Sie „composer install“ in der Befehlszeile aus oder laden Sie eine Version mit enthaltenen Bibliotheken."
+
+msgid "emergency"
+msgstr "Notfall"
+
+msgid "alert"
+msgstr "Alarm"
+
+msgid "critical"
+msgstr "kritisch"
+
+msgid "warning"
+msgstr "Warnung"
+
+msgid "notice"
+msgstr "beachten"
+
+msgid "info"
+msgstr "Info"
+
+msgid "debug"
+msgstr "debuggen"
+
+msgid "Fatal error: {message}\nin {file} on line {line}"
+msgstr "Schwerwiegender Fehler: {message}\nin {file} in Zeile {line}"
+
+msgid "Warning: {message}\nin {file} on line {line}"
+msgstr "Warnung: {Nachricht}\nin {file} in Zeile {line}"
+
+msgid "Emergency"
+msgstr "Notfall"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Notice"
+msgstr "Beachten"
+
+msgid "Debug"
+msgstr "Debuggen"
+
+msgid "Minimum severity"
+msgstr "Minimaler Schweregrad"
+
+msgid "Select minimum severity…"
+msgstr "Wählen Sie den Mindestschweregrad aus…"
+
+msgid "Maximum severity"
+msgstr "Maximaler Schweregrad"
+
+msgid "Select maximum severity…"
+msgstr "Maximalen Schweregrad auswählen…"
+
+msgid "Set a date with optional comparator…"
+msgstr "Legen Sie ein Datum mit optionalem Komparator fest ..."
+
+msgid "Set a reference…"
+msgstr "Setzen Sie eine Referenz…"
+
+msgid "Set a job id…"
+msgstr "Legen Sie eine Job-ID fest …"
+
+msgid "User by id"
+msgstr "Benutzer nach ID"
+
+msgid "Untranslated message"
+msgstr "Nicht übersetzte Nachricht"
+
+msgid "Set an untranslated string…"
+msgstr "Legen Sie eine nicht übersetzte Zeichenfolge fest ..."
+
+msgid "Not in untranslated message"
+msgstr "Nicht in unübersetzter Nachricht"
+
+msgid "Id"
+msgstr "Ausweis"
+
+msgid "The logger is currently disabled for database. Check config/local.config.php."
+msgstr "Der Logger ist derzeit für die Datenbank deaktiviert.Überprüfen Sie config/local.config.php."
+
+msgid "log"
+msgstr "Protokoll"
+
+msgid "Log successfully deleted"
+msgstr "Protokoll erfolgreich gelöscht"
+
+msgid "An error occured during deletion of logs"
+msgstr "Beim Löschen der Protokolle ist ein Fehler aufgetreten"
+
+msgid "You must select at least one log to batch delete."
+msgstr "Sie müssen mindestens ein Protokoll zum Stapellöschen auswählen."
+
+msgid "Logs successfully deleted"
+msgstr "Protokolle erfolgreich gelöscht"
+
+msgid "Deleting logs in background (<a href=\"{job_url}\">job #{job_id}</a>). This may take a while."
+msgstr "Protokolle werden im Hintergrund gelöscht (<a href=\"{job_url}\">Job #{job_id}</a>).Dies kann eine Weile dauern."
+
+msgid "[Omeka S] File logging disabled: not writeable."
+msgstr "[Omeka S] Dateiprotokollierung deaktiviert: nicht beschreibbar."
+
+msgid "[Omeka S] Database logging disabled: wrong config."
+msgstr "[Omeka S] Datenbankprotokollierung deaktiviert: falsche Konfiguration."

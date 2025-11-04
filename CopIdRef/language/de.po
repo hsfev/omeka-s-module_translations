@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "This module has resources that cannot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "This module cannot install its tables, because they exist already. Try to remove them first."
+msgstr "Dieses Modul kann seine Tabellen nicht installieren, da sie bereits vorhanden sind.Versuchen Sie zunächst, sie zu entfernen."
+
+msgid "The module removed tables \"%s\" from a previous broken install."
+msgstr "Das Modul hat die Tabellen „%s“ aus einer früheren fehlerhaften Installation entfernt."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "oFrame.contentWindow Failed?"
+msgstr "oFrame.contentWindow fehlgeschlagen?"
+
+msgid "Warning: cross-domain request!"
+msgstr "Achtung: Domainübergreifende Anfrage!"
+
+msgid "Data from endpoint are empty."
+msgstr "Die Daten vom Endpunkt sind leer."
+
+msgid "Unable to determine the resource type."
+msgstr "Der Ressourcentyp kann nicht ermittelt werden."
+
+msgid "Data are missing or incomplete."
+msgstr "Daten fehlen oder sind unvollständig."
+
+msgid "Resource created from api successfully."
+msgstr "Ressource wurde erfolgreich von der API erstellt."
+
+msgid "Failed creating resource from api."
+msgstr "Fehler beim Erstellen der Ressource über die API."
+
+msgid "Failed to load mapping. Creating a default resource."
+msgstr "Die Zuordnung konnte nicht geladen werden.Erstellen einer Standardressource."
+
+msgid "Mapping for resource class is incorrect. Skipped."
+msgstr "Die Zuordnung für die Ressourcenklasse ist falsch.Übersprungen."
+
+msgid "Mapping for resource template  is incorrect. Skipped."
+msgstr "Die Zuordnung für die Ressourcenvorlage ist falsch.Übersprungen."
+
+msgid "Mapping for property is incorrect. Skipped."
+msgstr "Die Zuordnung der Eigenschaft ist falsch.Übersprungen."

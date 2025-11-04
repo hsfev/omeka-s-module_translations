@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Some features require the module {module} to be upgraded to version {version} or later."
+msgstr "Für einige Funktionen muss das Modul {module} auf die Version {version} oder höher aktualisiert werden."
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Search this value"
+msgstr "Suchen Sie nach diesem Wert"
+
+msgid "Show this item"
+msgstr "Diesen Artikel anzeigen"
+
+msgid "Show this media"
+msgstr "Dieses Medium anzeigen"
+
+msgid "Show this item set"
+msgstr "Dieses Artikelset anzeigen"
+
+msgid "Show this resource"
+msgstr "Diese Ressource anzeigen"
+
+msgid "Open this external uri in a new tab"
+msgstr "Öffnen Sie diese externe URL in einem neuen Tab"
+
+msgid "[Result]"
+msgstr "[Ergebnis]"
+
+msgid "Other metadata"
+msgstr "Andere Metadaten"
+
+msgid "Default language?"
+msgstr "Standardsprache?"
+
+msgid "Browse %d items"
+msgstr "Durchsuchen Sie %d Elemente"
+
+msgid "Browse %d item sets"
+msgstr "Durchsuchen Sie %d Artikelsätze"
+
+msgid "Browse %d media"
+msgstr "Durchsuchen Sie %d Medien"
+
+msgid "As csv"
+msgstr "Als CSV"
+
+msgid "As tsv"
+msgstr "Als tsv"
+
+msgid "As json"
+msgstr "Als json"
+
+msgid "Other settings"
+msgstr "Andere Einstellungen"
+
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+msgid "Table of labels"
+msgstr "Etikettentabelle"
+
+msgid "Select resource templates above to compare their labels."
+msgstr "Wählen Sie oben Ressourcenvorlagen aus, um deren Beschriftungen zu vergleichen."
+
+msgid "New settings were added to the resource templates."
+msgstr "Den Ressourcenvorlagen wurden neue Einstellungen hinzugefügt."
+
+msgid "Values are now validated against settings in all cases, included background or direct api process."
+msgstr "Werte werden jetzt in allen Fällen anhand der Einstellungen validiert, einschließlich Hintergrund- oder direktem API-Prozess."
+
+msgid "New settings were added to the template."
+msgstr "Der Vorlage wurden neue Einstellungen hinzugefügt."
+
+msgid "New settings were added to the {link}main settings{link_end} to simplify resource form."
+msgstr "Den {link}Haupteinstellungen{link_end} wurden neue Einstellungen hinzugefügt, um das Ressourcenformular zu vereinfachen."
+
+msgid "It’s now possible to group a long list of template properties."
+msgstr "Es ist jetzt möglich, eine lange Liste von Vorlageneigenschaften zu gruppieren."
+
+msgid "It’s now possible to set a control input for literal values."
+msgstr "Es ist jetzt möglich, einen Steuereingang für Literalwerte festzulegen."
+
+msgid "It’s now possible to set a custom vocab open, so the user can complete the authority list when filiing data for a resource."
+msgstr "Es ist jetzt möglich, ein benutzerdefiniertes Vokabular zu öffnen, sodass der Benutzer die Berechtigungsliste vervollständigen kann, wenn er Daten für eine Ressource einreicht."
+
+msgid "It’s now possible to set resource template for annotations on each property."
+msgstr "Es ist jetzt möglich, für jede Eigenschaft eine Ressourcenvorlage für Anmerkungen festzulegen."
+
+msgid "The format for automatic value and autofilling has changed slightly and upgrade is not automatic. You should check them if you use this feature. See {link}readme{link_end} for more info."
+msgstr "Das Format für den automatischen Wert und das automatische Ausfüllen hat sich geringfügig geändert und das Upgrade erfolgt nicht automatisch.Sie sollten sie überprüfen, wenn Sie diese Funktion verwenden.Weitere Informationen finden Sie in der {link}Readme-Datei{link_end}."
+
+msgid "It’s now possible to order linked resources by another property than title (require Omeka S v4.1)."
+msgstr "Es ist jetzt möglich, verknüpfte Ressourcen nach einer anderen Eigenschaft als dem Titel zu ordnen (erfordert Omeka S v4.1)."
+
+msgid "It’s now possible to limit templates available by resource, for example the template \"Incunable\" for items only and the template \"Folio\" for medias only."
+msgstr "Es ist jetzt möglich, die verfügbaren Vorlagen nach Ressource einzuschränken, zum Beispiel die Vorlage „Incunable“ nur für Artikel und die Vorlage „Folio“ nur für Medien."
+
+msgid "It’s now possible to specify templates by property for value annotations."
+msgstr "Es ist jetzt möglich, Vorlagen nach Eigenschaften für Wertanmerkungen anzugeben."
+
+msgid "All existing templates are made available by items only. Check your templates if you need."
+msgstr "Alle vorhandenen Vorlagen werden nur artikelweise zur Verfügung gestellt.Überprüfen Sie bei Bedarf Ihre Vorlagen."
+
+msgid "If you use specific templates, you may have to check this new parameter."
+msgstr "Wenn Sie bestimmte Vorlagen verwenden, müssen Sie möglicherweise diesen neuen Parameter überprüfen."
+
+msgid "It’s now possible to specify templates for annotations of module Annotate."
+msgstr "Es ist jetzt möglich, Vorlagen für Annotationen des Moduls Annotate anzugeben."
+
+msgid "A new main setting was added to hide private values in public sites."
+msgstr "Es wurde eine neue Haupteinstellung hinzugefügt, um private Werte auf öffentlichen Websites auszublenden."
+
+msgid "Value annotations can now have a resource class and an alternative label or comment."
+msgstr "Wertanmerkungen können jetzt eine Ressourcenklasse und eine alternative Beschriftung oder einen alternativen Kommentar haben."
+
+msgid "A job is added in tasks of the module {link}Easy Admin{link_end} to fill the annotation templates and classes when needed."
+msgstr "In den Aufgaben des Moduls {link}Easy Admin{link_end} wird ein Job hinzugefügt, um die Anmerkungsvorlagen und Klassen bei Bedarf zu füllen."
+
+msgid "The feature to display the property select with all alternative labels of templates was moved to a new module {link}Alternative Label Select{link_end}. You should install it if you need it."
+msgstr "Die Funktion zum Anzeigen der Eigenschaftsauswahl mit allen alternativen Beschriftungen von Vorlagen wurde in ein neues Modul {link}Auswahl alternativer Beschriftungen{link_end} verschoben.Sie sollten es installieren, wenn Sie es benötigen."
+
+msgid "A new option allows to display property values as search links, or to add a search icon to values, compatible with module {link}Advanced search{link_end}."
+msgstr "Eine neue Option ermöglicht die Anzeige von Eigenschaftswerten als Suchlinks oder das Hinzufügen eines Suchsymbols zu Werten, kompatibel mit dem Modul {link}Erweiterte Suche{link_end}."
+
+msgid "A new resource block was added to display selected metadata, for example for a short record."
+msgstr "Ein neuer Ressourcenblock wurde hinzugefügt, um ausgewählte Metadaten anzuzeigen, beispielsweise für einen kurzen Datensatz."
+
+msgid "A new check can be done on the number of attached medias."
+msgstr "Die Anzahl der angeschlossenen Medien kann erneut überprüft werden."
+
+msgid "The feature to create dynamic item sets was moved to a new module {link}Dynamic Item Sets{link_end}. You should install it if you need it."
+msgstr "The feature to create dynamic item sets was moved to a new module {link}Dynamic Item Sets{link_end}.Sie sollten es installieren, wenn Sie es benötigen."
+
+msgid "Currently, the feature is used by {count} item sets: {item_sets}. Upgrade is automatic."
+msgstr "Derzeit wird die Funktion von {count} Artikelsets verwendet: {item_sets}.Das Upgrade erfolgt automatisch."
+
+msgid "Currently, the feature is not used by any item set."
+msgstr "Derzeit wird die Funktion von keinem Gegenstandssatz verwendet."
+
+msgid "It is now possible to set item sets via the template."
+msgstr "Es ist nun möglich, Artikelsets über die Vorlage festzulegen."
+
+msgid "It is now possible to display fake values in record, like \"Unknown author\"."
+msgstr "Es ist jetzt möglich, gefälschte Werte in Datensätzen anzuzeigen, z. B. „Unbekannter Autor“."
+
+msgid "It is now possible to store the date when the the resource is issued for the first time."
+msgstr "Es ist nun möglich, das Datum zu speichern, an dem die Ressource zum ersten Mal ausgegeben wird."
+
+msgid "This template cannot be used for this resource."
+msgstr "Diese Vorlage kann für diese Ressource nicht verwendet werden."
+
+msgid "A class is required."
+msgstr "Eine Klasse ist erforderlich."
+
+msgid "The class should be {resource_class}."
+msgstr "Die Klasse sollte {resource_class} sein."
+
+msgid "The class should be one of {resource_classes}."
+msgstr "Die Klasse sollte eine von {resource_classes} sein."
+
+msgid "The minimum number of files or medias is {min}."
+msgstr "Die Mindestanzahl an Dateien oder Medien beträgt {min}."
+
+msgid "The html input pattern \"{pattern}\" for template {template} cannot be processed."
+msgstr "Das HTML-Eingabemuster „{pattern}“ für die Vorlage {template} kann nicht verarbeitet werden."
+
+msgid "The value \"{value}\" for term {property} does not follow the input pattern \"{pattern}\"."
+msgstr "Der Wert „{value}“ für den Begriff {property} folgt nicht dem Eingabemuster „{pattern}“."
+
+msgid "The value for term {property} is shorter ({length} characters) than the minimal size ({number} characters)."
+msgstr "Der Wert für den Begriff {property} ist kürzer ({length} Zeichen) als die Mindestgröße ({number} Zeichen)."
+
+msgid "The value for term {property} is longer ({length} characters) than the maximal size ({number} characters)."
+msgstr "Der Wert für den Begriff {property} ist länger ({length} Zeichen) als die maximale Größe ({number} Zeichen)."
+
+msgid "The number of values ({count}) for term {property} is lower than the minimal number of {number}."
+msgstr "Die Anzahl der Werte ({count}) für den Begriff {property} ist niedriger als die Mindestanzahl von {number}."
+
+msgid "The number of values ({count}) for term {property} is greater than the maximal number of {number}."
+msgstr "Die Anzahl der Werte ({count}) für den Begriff {property} ist größer als die maximale Anzahl von {number}."
+
+msgid "The value for term {property} should be unique, but already set for resource #{resource_id}."
+msgstr "Der Wert für den Begriff {property} sollte eindeutig sein, aber bereits für die Ressource #{resource_id} festgelegt."
+
+msgid "New descriptor appended to custom vocab \"{custom_vocab}\": {value}."
+msgstr "Neuer Deskriptor an benutzerdefiniertes Vokabular „{custom_vocab}“ angehängt: {value}."
+
+msgid "New descriptors appended to custom vocab \"{custom_vocab}\": {values}."
+msgstr "Neue Deskriptoren an benutzerdefiniertes Vokabular „{custom_vocab}“ angehängt: {values}."
+
+msgid "Unable to append new descriptors to custom vocab \"{custom_vocab}\":  {error}"
+msgstr "Es können keine neuen Deskriptoren an das benutzerdefinierte Vokabular „{custom_vocab}“ angehängt werden: {error}"
+
+msgid "Advanced Resource Template"
+msgstr "Erweiterte Ressourcenvorlage"
+
+msgid "Block Resource metadata"
+msgstr "Blockressourcenmetadaten"
+
+msgid "Resource metadata display"
+msgstr "Anzeige der Ressourcenmetadaten"
+
+msgid "Mode of display of property values"
+msgstr "Art der Anzeige von Eigenschaftswerten"
+
+msgid "Default display"
+msgstr "Standardanzeige"
+
+msgid "Use main settings"
+msgstr "Verwenden Sie die Haupteinstellungen"
+
+msgid "Use site settings below"
+msgstr "Verwenden Sie die unten aufgeführten Website-Einstellungen"
+
+msgid "Metadata for resource block Metadata"
+msgstr "Metadaten für Ressourcenblock-Metadaten"
+
+msgid "This option may be used to display a short record. Each line is the term and the optional alternatif label. A specific label can be set on each line, separated with a \"=\". A division to group a list of properties may be added with \"# div-class\" and an optional label separated with a \"=\"."
+msgstr "Diese Option kann verwendet werden, um einen kurzen Datensatz anzuzeigen.Jede Zeile enthält den Begriff und die optionale Alternativbezeichnung.Für jede Zeile kann eine bestimmte Beschriftung festgelegt werden, getrennt durch ein „=\".Eine Unterteilung zum Gruppieren einer Liste von Eigenschaften kann mit „# div-class“ und einer optionalen Bezeichnung, getrennt durch ein „=\", hinzugefügt werden."
+
+msgid "Element for block Metadata"
+msgstr "Element für Blockmetadaten"
+
+msgid "Metadata label"
+msgstr "Metadaten-Label"
+
+msgid "Property term"
+msgstr "Eigentumsdauer"
+
+msgid "Locale of the value"
+msgstr "Gebietsschema des Werts"
+
+msgid "Resource edition"
+msgstr "Ressourcenausgabe"
+
+msgid "Skip checking advanced template settings to allow to save an invalid record"
+msgstr "Überspringen Sie die Überprüfung der erweiterten Vorlageneinstellungen, um das Speichern eines ungültigen Datensatzes zu ermöglichen"
+
+msgid "For example if a value is longer than the specified length, it will be saved anyway.\nThis option should be used only during a migration process or to simplify a complex batch edition or import.\nIt does not skip core checks, in particular required properties."
+msgstr "Wenn beispielsweise ein Wert länger als die angegebene Länge ist, wird er trotzdem gespeichert.\nDiese Option sollte nur während eines Migrationsprozesses oder zur Vereinfachung einer komplexen Batch-Editierung oder eines komplexen Batch-Imports verwendet werden.\nKernprüfungen, insbesondere erforderliche Eigenschaften, werden nicht übersprungen."
+
+msgid "Elements of resource form to display"
+msgstr "Elemente des anzuzeigenden Ressourcenformulars"
+
+msgid "Collapse Metadata description by default"
+msgstr "Metadatenbeschreibung standardmäßig ausblenden"
+
+msgid "Button Metadata description"
+msgstr "Schaltfläche „Metadatenbeschreibung“."
+
+msgid "Button Language"
+msgstr "Tastensprache"
+
+msgid "Button Visibility"
+msgstr "Sichtbarkeit der Schaltflächen"
+
+msgid "Button Value annotation"
+msgstr "Anmerkung zum Schaltflächenwert"
+
+msgid "Button More actions"
+msgstr "Schaltfläche Weitere Aktionen"
+
+msgid "Append properties to resource form"
+msgstr "Hängen Sie Eigenschaften an das Ressourcenformular an"
+
+msgid "When no template is selected in resource form, the property selector may be available or not to force to select a template.\nWarning: you may have to set each resource template as open/close to addition according to this setting."
+msgstr "Wenn im Ressourcenformular keine Vorlage ausgewählt ist, ist möglicherweise die Eigenschaftsauswahl verfügbar oder nicht, um die Auswahl einer Vorlage zu erzwingen.\nWarnung: Möglicherweise müssen Sie jede Ressourcenvorlage entsprechend dieser Einstellung auf „Öffnen/Schließen zum Hinzufügen“ einstellen."
+
+msgid "Allow"
+msgstr "Erlauben"
+
+msgid "Forbid"
+msgstr "Verbieten"
+
+msgid "Autofillers"
+msgstr "Autofiller"
+
+msgid "The autofillers should be set in selected templates params."
+msgstr "Die Autofiller sollten in ausgewählten Vorlagenparametern festgelegt werden."
+
+msgid "Skip private values on sites, even when user is connected"
+msgstr "Überspringen Sie private Werte auf Websites, auch wenn der Benutzer verbunden ist"
+
+msgid "Use property display settings in admin board"
+msgstr "Verwenden Sie die Anzeigeeinstellungen für Eigenschaften im Admin-Board"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Use for resources"
+msgstr "Verwendung für Ressourcen"
+
+msgid "Require a class"
+msgstr "Erfordert eine Klasse"
+
+msgid "Limit to specified classes"
+msgstr "Auf bestimmte Klassen beschränken"
+
+msgid "Limit to specified properties"
+msgstr "Auf bestimmte Eigenschaften beschränken"
+
+msgid "Allow quick creation of a resource"
+msgstr "Ermöglichen Sie die schnelle Erstellung einer Ressource"
+
+msgid "Autocomplete with existing values"
+msgstr "Automatische Vervollständigung mit vorhandenen Werten"
+
+msgid "Starts with"
+msgstr "Beginnt mit"
+
+msgid "Contains"
+msgstr "Enthält"
+
+msgid "Languages for values"
+msgstr "Sprachen für Werte"
+
+msgid "No language"
+msgstr "Keine Sprache"
+
+msgid "Value Suggest: keep original label"
+msgstr "Wertempfehlung: Originaletikett aufbewahren"
+
+msgid "Value Suggest: require uri"
+msgstr "Wertvorschlag: URI erforderlich"
+
+msgid "Automatic values (on save)"
+msgstr "Automatische Werte (beim Speichern)"
+
+msgid "Select autofillers…"
+msgstr "Autofiller auswählen…"
+
+msgid "No configured autofiller."
+msgstr "Kein konfigurierter Autofiller."
+
+msgid "Manual selection (default)"
+msgstr "Manuelle Auswahl (Standard)"
+
+msgid "No value annotation"
+msgstr "Keine Wertanmerkung"
+
+msgid "Item sets to set for items"
+msgstr "Artikelsätze, die für Artikel festgelegt werden sollen"
+
+msgid "Select item sets…"
+msgstr "Artikelsets auswählen…"
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "Allow to get properties by group for display. This is a list of group names and properties for each of them. May need a specific theme template."
+msgstr "Ermöglicht das Abrufen von Eigenschaften nach Gruppe zur Anzeige.Dies ist eine Liste der Gruppennamen und Eigenschaften für jede von ihnen.Möglicherweise ist eine bestimmte Designvorlage erforderlich."
+
+msgid "Order of linked values (Omeka v4.1)"
+msgstr "Reihenfolge der verknüpften Werte (Omeka v4.1)"
+
+msgid "The default order of the linked resources is the title. Another order can be set for each linking property. For the default order when there is no property, just skip the property term."
+msgstr "Die Standardreihenfolge der verknüpften Ressourcen ist der Titel.Für jede Verknüpfungseigenschaft kann eine andere Reihenfolge festgelegt werden.Für die Standardreihenfolge, wenn keine Eigenschaft vorhanden ist, überspringen Sie einfach den Eigenschaftsbegriff."
+
+msgid "Minimum number of media for each media template"
+msgstr "Mindestanzahl an Medien für jede Medienvorlage"
+
+msgid "Set the template number or label, then \"=\", then the number. Use 0 as number to set the number for other templates."
+msgstr "Legen Sie die Vorlagennummer oder -bezeichnung fest, dann „=\" und dann die Nummer.Verwenden Sie 0 als Zahl, um die Zahl für andere Vorlagen festzulegen."
+
+msgid "More settings"
+msgstr "Weitere Einstellungen"
+
+msgid "Allow to pass some settings, usually for theme and generally via key-value pairs or json."
+msgstr "Ermöglicht die Übergabe einiger Einstellungen, normalerweise für das Thema und im Allgemeinen über Schlüssel-Wert-Paare oder JSON."
+
+msgid "Minimum number of values (when required)"
+msgstr "Mindestanzahl an Werten (falls erforderlich)"
+
+msgid "Maximum number of values"
+msgstr "Maximale Anzahl Werte"
+
+msgid "Minimum length (characters)"
+msgstr "Mindestlänge (Zeichen)"
+
+msgid "Maximum length (characters)"
+msgstr "Maximale Länge (Zeichen)"
+
+msgid "Input control for literal (html pattern)"
+msgstr "Eingabesteuerung für Literal (HTML-Muster)"
+
+msgid "Default value"
+msgstr "Standardwert"
+
+msgid "Automatic value (on save)"
+msgstr "Automatischer Wert (beim Speichern)"
+
+msgid "Automatic date when resource is made public"
+msgstr "Automatisches Datum, an dem die Ressource veröffentlicht wird"
+
+msgid "First time issued"
+msgstr "Zum ersten Mal ausgestellt"
+
+msgid "Fake value to display when empty"
+msgstr "Falscher Wert, der angezeigt wird, wenn er leer ist"
+
+msgid "Unique value among resources"
+msgstr "Einzigartiger Wert unter den Ressourcen"
+
+msgid "Locked value once saved"
+msgstr "Gesperrter Wert nach dem Speichern"
+
+msgid "Property disabled in form (editable only by api/job)"
+msgstr "Eigenschaft im Formular deaktiviert (nur durch API/Job bearbeitbar)"
+
+msgid "Separator to split a literal value"
+msgstr "Trennzeichen zum Teilen eines Literalwerts"
+
+msgid "Order linked resources by properties"
+msgstr "Ordnen Sie verknüpfte Ressourcen nach Eigenschaften"
+
+msgid "Filter linked resources with a query"
+msgstr "Filtern Sie verknüpfte Ressourcen mit einer Abfrage"
+
+msgid "Use url arguments of a standard advanced search query"
+msgstr "Verwenden Sie URL-Argumente einer standardmäßigen erweiterten Suchabfrage"
+
+msgid "Use template setting"
+msgstr "Verwenden Sie die Vorlageneinstellung"
+
+msgid "Suggested languages"
+msgstr "Vorgeschlagene Sprachen"
+
+msgid "Use language"
+msgstr "Benutze Sprache"
+
+msgid "Custom vocab: open authority list"
+msgstr "Benutzerdefiniertes Vokabular: Autoritätsliste öffnen"
+
+msgid "Display of property values"
+msgstr "Anzeige von Eigenschaftswerten"
+
+msgid "Value as search"
+msgstr "Wert als Suche"
+
+msgid "Value as advanced search (module or fallback)"
+msgstr "Wert als erweiterte Suche (Modul oder Fallback)"
+
+msgid "Display linked resource as simple text"
+msgstr "Verlinkte Ressource als einfachen Text anzeigen"
+
+msgid "Display uri as simple text"
+msgstr "Zeigen Sie URI als einfachen Text an"
+
+msgid "Prepend an icon for search link"
+msgstr "Stellen Sie dem Suchlink ein Symbol voran"
+
+msgid "Prepend an icon for advanced search link (module or fallback)"
+msgstr "Fügen Sie dem Link zur erweiterten Suche (Modul oder Fallback) ein Symbol voran."
+
+msgid "Prepend an icon for linked resource"
+msgstr "Stellen Sie der verknüpften Ressource ein Symbol voran"
+
+msgid "Prepend an icon for external uri"
+msgstr "Stellen Sie der externen URL ein Symbol voran"
+
+msgid "Append an icon for search link"
+msgstr "Fügen Sie ein Symbol für den Suchlink hinzu"
+
+msgid "Append an icon for advanced search link (module or fallback)"
+msgstr "Hängen Sie ein Symbol für den Link zur erweiterten Suche an (Modul oder Fallback)."
+
+msgid "Append an icon for linked resource"
+msgstr "Hängen Sie ein Symbol für die verknüpfte Ressource an"
+
+msgid "Append an icon for external uri"
+msgstr "Hängen Sie ein Symbol für die externe URL an"
+
+msgid "Append an icon for search link, only in record"
+msgstr "Fügen Sie ein Symbol für den Suchlink hinzu, nur im Datensatz"
+
+msgid "Append an icon for advanced search link, only in record (module or fallback)"
+msgstr "Hängen Sie ein Symbol für den Link zur erweiterten Suche an, nur im Datensatz (Modul oder Fallback)."
+
+msgid "Append an icon for linked resource, only in record"
+msgstr "Hängen Sie ein Symbol für die verknüpfte Ressource an, nur im Datensatz"
+
+msgid "Append an icon for external uri, only in record"
+msgstr "Hängen Sie ein Symbol für externe URI an, nur im Datensatz"
+
+msgid "Properties to display as search link (whitelist)"
+msgstr "Eigenschaften zur Anzeige als Suchlink (Whitelist)"
+
+msgid "All properties"
+msgstr "Alle Eigenschaften"
+
+msgid "Select properties…"
+msgstr "Eigenschaften auswählen…"
+
+msgid "Properties not to display as search link (blacklist)"
+msgstr "Eigenschaften, die nicht als Suchlink angezeigt werden (Blacklist)"
+
+msgid "Resource template file (json, csv, tsv)"
+msgstr "Ressourcenvorlagendatei (json, csv, tsv)"
+
+msgid "Suggested classes"
+msgstr "Empfohlene Kurse"
+
+msgid "Select classes"
+msgstr "Wählen Sie Klassen aus"
+
+msgid "The data type \"{data_type}\" is not available."
+msgstr "Der Datentyp „{data_type}“ ist nicht verfügbar."
+
+msgid "Generic"
+msgstr "Generisch"
+
+msgid "Geonames"
+msgstr "Geonamen"
+
+msgid "IdRef"
+msgstr "IdRef"
+
+msgid "IdRef: Person names"
+msgstr "IdRef: Personennamen"
+
+msgid "IdRef: Collectivities"
+msgstr "IdRef: Kollektive"
+
+msgid "IdRef: Conferences"
+msgstr "IdRef: Konferenzen"
+
+msgid "IdRef: Subjects"
+msgstr "IdRef: Themen"
+
+msgid "IdRef: Subjects Rameau"
+msgstr "IdRef: Themen Rameau"
+
+msgid "IdRef: Subjects F-MeSH"
+msgstr "IdRef: Probanden F-MeSH"
+
+msgid "IdRef: Geography"
+msgstr "IdRef: Geographie"
+
+msgid "IdRef: Family names"
+msgstr "IdRef: Familiennamen"
+
+msgid "IdRef: Uniform titles"
+msgstr "IdRef: Einheitliche Titel"
+
+msgid "IdRef: Authors-Titles"
+msgstr "IdRef: Autoren-Titel"
+
+msgid "IdRef: Trademarks"
+msgstr "IdRef: Marken"
+
+msgid "IdRef: PPN id"
+msgstr "IdRef: PPN-ID"
+
+msgid "IdRef: Library registry (RCR)"
+msgstr "IdRef: Bibliotheksregister (RCR)"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid "The query is empty."
+msgstr "Die Abfrage ist leer."
+
+msgid "The remote service \"{service}\" seems unavailable."
+msgstr "Der Remote-Dienst „{service}“ scheint nicht verfügbar zu sein."
+
+msgid "The service is empty."
+msgstr "Der Dienst ist leer."
+
+msgid "The template is empty."
+msgstr "Die Vorlage ist leer."
+
+msgid "The template \"{template_id}\" is not available."
+msgstr "Die Vorlage „{template_id}“ ist nicht verfügbar."
+
+msgid "The service \"{service}\" has no mapping."
+msgstr "Der Dienst „{service}“ hat keine Zuordnung."
+
+msgid "The service \"{service}\" is not available."
+msgstr "Der Dienst „{service}“ ist nicht verfügbar."
+
+msgid "Select resource templates"
+msgstr "Wählen Sie Ressourcenvorlagen aus"
+
+msgid "The template has duplicate properties. They are mixed in the form, but will be imported separately."
+msgstr "Die Vorlage verfügt über doppelte Eigenschaften.Sie sind im Formular gemischt, werden aber separat importiert."
+
+msgid "Wrong media type \"{media_type}\" for file."
+msgstr "Falscher Medientyp „{media_type}“ für die Datei."
+
+msgid "The file does not contain any row."
+msgstr "Die Datei enthält keine Zeile."
+
+msgid "There is no valid template properties."
+msgstr "Es sind keine gültigen Vorlageneigenschaften vorhanden."
+
+msgid "The alternative label for a duplicate property (%s) should be unique."
+msgstr "Die alternative Bezeichnung für eine doppelte Eigenschaft (%s) sollte eindeutig sein."
+
+msgid "File cannot be checked or saved."
+msgstr "Die Datei kann nicht überprüft oder gespeichert werden."
+
+msgid "When multiple fields use the same property, only one field can be without data type."
+msgstr "Wenn mehrere Felder dieselbe Eigenschaft verwenden, kann nur ein Feld keinen Datentyp haben."
+
+msgid "When multiple fields use the same property, the data types must be unique among them."
+msgstr "Wenn mehrere Felder dieselbe Eigenschaft verwenden, müssen die Datentypen unter ihnen eindeutig sein."
+
+msgid "Missing autofiller configuration."
+msgstr "Fehlende Autofiller-Konfiguration."
+
+msgid "The block Metadata is appended for {resource_type}, but no metadata are configured."
+msgstr "Die Blockmetadaten werden für {resource_type} angehängt, es sind jedoch keine Metadaten konfiguriert."
+
+msgid "New value"
+msgstr "Neuer Wert"
+
+msgid "No results"
+msgstr "Keine Ergebnisse"
+
+msgid "No %s found."
+msgstr "Kein %s gefunden."

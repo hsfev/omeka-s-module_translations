@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s year"
+msgstr "%s Jahr"
+
+msgid "%s years"
+msgstr "%s Jahre"
+
+msgid "%s month"
+msgstr "%s Monat"
+
+msgid "%s months"
+msgstr "%s Monate"
+
+msgid "%s day"
+msgstr "%s Tag"
+
+msgid "%s days"
+msgstr "%s Tage"
+
+msgid "%s hour"
+msgstr "%s Stunde"
+
+msgid "%s hours"
+msgstr "%s Stunden"
+
+msgid "%s minute"
+msgstr "%s Minute"
+
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgid "%s second"
+msgstr "%s Sekunde"
+
+msgid "%s seconds"
+msgstr "%s Sekunden"
+
+msgid "Show all available values."
+msgstr "Alle verfügbaren Werte anzeigen."
+
+msgid "Date comes on or after"
+msgstr "Das Datum kommt am oder danach"
+
+msgid "Date comes on or before"
+msgstr "Das Datum kommt am oder früher"
+
+msgid "Duration is greater than"
+msgstr "Dauer ist größer als"
+
+msgid "Duration is less than"
+msgstr "Die Dauer beträgt weniger als"
+
+msgid "Date in interval"
+msgstr "Datum im Intervall"
+
+msgid "Value is greater than"
+msgstr "Wert ist größer als"
+
+msgid "Value is less than"
+msgstr "Wert ist kleiner als"
+
+msgid "Invalid value: %s"
+msgstr "Ungültiger Wert: %s"
+
+msgid "Value must be a duration"
+msgstr "Der Wert muss eine Dauer sein"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Value must be an integer"
+msgstr "Der Wert muss eine ganze Zahl sein"
+
+msgid "Value must be an interval"
+msgstr "Der Wert muss ein Intervall sein"
+
+msgid "Start:"
+msgstr "Start:"
+
+msgid "End:"
+msgstr "Ende:"
+
+msgid "Value must be a datetime"
+msgstr "Der Wert muss eine Datums-/Uhrzeitangabe sein"
+
+msgid "Integer"
+msgstr "Ganze Zahl"
+
+msgid "Interval"
+msgstr "Intervall"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "Timestamp"
+msgstr "Zeitstempel"
+
+msgid "Numeric"
+msgstr "Numerisch"
+
+msgid "Select one…"
+msgstr "Wählen Sie eine aus…"
+
+msgid "Enter the date/time values, separated by a new line. For each line, enter the date/time in ISO 8601 format, followed by a space, followed by the human-readable date/time."
+msgstr "Geben Sie die Datums-/Uhrzeitwerte ein, getrennt durch eine neue Zeile.Geben Sie für jede Zeile das Datum/die Uhrzeit im ISO 8601-Format ein, gefolgt von einem Leerzeichen, gefolgt von dem für Menschen lesbaren Datum/der Uhrzeit."
+
+msgid "Select a date…"
+msgstr "Wählen Sie ein Datum aus…"
+
+msgid "Date after"
+msgstr "Datum danach"
+
+msgid "Duration less than"
+msgstr "Dauer kürzer als"
+
+msgid "Enter the duration values, separated by a new line. For each line, enter the duration in ISO 8601 format, followed by a space, followed by the human-readable duration."
+msgstr "Geben Sie die Dauerwerte ein, getrennt durch eine neue Zeile.Geben Sie für jede Zeile die Dauer im ISO 8601-Format ein, gefolgt von einem Leerzeichen und der für Menschen lesbaren Dauer."
+
+msgid "Duration greater than"
+msgstr "Dauer größer als"
+
+msgid "Value less than"
+msgstr "Wert kleiner als"
+
+msgid "Value greater than"
+msgstr "Wert größer als"
+
+msgid "Date before"
+msgstr "Datum vorher"
+
+msgid "Count of items with property values in a time series"
+msgstr "Anzahl der Elemente mit Eigenschaftswerten in einer Zeitreihe"
+
+msgid "Visualize the count of items that have selected values of a selected property over a selected period of time."
+msgstr "Visualisieren Sie die Anzahl der Elemente, die über einen ausgewählten Zeitraum ausgewählte Werte einer ausgewählten Eigenschaft aufweisen."
+
+msgid "Value property"
+msgstr "Wert-Eigenschaft"
+
+msgid "Enter values, separated by new lines."
+msgstr "Geben Sie Werte ein, getrennt durch neue Zeilen."
+
+msgid "Timestamp property"
+msgstr "Timestamp-Eigenschaft"
+
+msgid "Enter the start of the time series in ISO 8601 format: YYYY-MM-DDTHH:MM:SS"
+msgstr "Geben Sie den Beginn der Zeitreihe im ISO 8601-Format ein: JJJJ-MM-TTTHH:MM:SS"
+
+msgid "Enter the end of the time series in ISO 8601 format: YYYY-MM-DDTHH:MM:SS"
+msgstr "Geben Sie das Ende der Zeitreihe im ISO 8601-Format ein: JJJJ-MM-TTTHH:MM:SS"
+
+msgid "Sample rate"
+msgstr "Abtastrate"
+
+msgid "1 second"
+msgstr "1 Sekunde"
+
+msgid "1 minute"
+msgstr "1 Minute"
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "1 day"
+msgstr "1 Tag"
+
+msgid "7 days"
+msgstr "7 Tage"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "6 months"
+msgstr "6 Monate"
+
+msgid "1 year"
+msgstr "1 Jahr"
+
+msgid "5 years"
+msgstr "5 Jahre"
+
+msgid "10 years"
+msgstr "10 Jahre"
+
+msgid "Count of items in a time series"
+msgstr "Anzahl der Elemente in einer Zeitreihe"
+
+msgid "Visualize the count of items over a selected period of time."
+msgstr "Visualisieren Sie die Anzahl der Artikel über einen ausgewählten Zeitraum."
+
+msgid "Histogram (time series)"
+msgstr "Histogramm (Zeitreihe)"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Margin top"
+msgstr "Rand oben"
+
+msgid "Margin right"
+msgstr "Rand rechts"
+
+msgid "Margin bottom"
+msgstr "Rand unten"
+
+msgid "Margin left"
+msgstr "Rand übrig"
+
+msgid "Line chart (time series)"
+msgstr "Liniendiagramm (Zeitreihe)"
+
+msgid "Line (no points)"
+msgstr "Linie (keine Punkte)"
+
+msgid "Points (no line)"
+msgstr "Punkte (keine Linie)"
+
+msgid "Line and points"
+msgstr "Linie und Punkte"
+
+msgid "Line type"
+msgstr "Linientyp"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "MonotoneX"
+msgstr "MonotoneX"
+
+msgid "Natural"
+msgstr "Natürlich"
+
+msgid "Step"
+msgstr "Schritt"
+
+msgid "StepAfter"
+msgstr "StepAfter"
+
+msgid "StepBefore"
+msgstr "SchrittVorher"
+
+msgid "Grouped line chart (time series)"
+msgstr "Gruppiertes Liniendiagramm (Zeitreihe)"
+
+msgid "Plot type"
+msgstr "Grundstückstyp"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Month"
+msgstr "Monat"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "Hour"
+msgstr "Stunde"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Second"
+msgstr "Zweite"
+
+msgid "Offset"
+msgstr "Versatz"
+
+msgid "01 — January"
+msgstr "01 – Januar"
+
+msgid "02 — February"
+msgstr "02 – Februar"
+
+msgid "03 — March"
+msgstr "03 – März"
+
+msgid "04 — April"
+msgstr "04 – April"
+
+msgid "05 — May"
+msgstr "05 – Mai"
+
+msgid "06 — June"
+msgstr "06. Juni"
+
+msgid "07 — July"
+msgstr "07 – Juli"
+
+msgid "08 — August"
+msgstr "08. August"
+
+msgid "09 — September"
+msgstr "09. September"
+
+msgid "10 — October"
+msgstr "10. Oktober"
+
+msgid "11 — November"
+msgstr "11. November"
+
+msgid "12 — December"
+msgstr "12. Dezember"
+
+msgid "00 — 12 am"
+msgstr "00 – 12 Uhr"
+
+msgid "01 — 1 am"
+msgstr "01 – 1 Uhr morgens"
+
+msgid "02 — 2 am"
+msgstr "02 – 2 Uhr morgens"
+
+msgid "03 — 3 am"
+msgstr "03 – 3 Uhr morgens"
+
+msgid "04 — 4 am"
+msgstr "04 – 4 Uhr morgens"
+
+msgid "05 — 5 am"
+msgstr "05 – 5 Uhr"
+
+msgid "06 — 6 am"
+msgstr "06 – 6 Uhr"
+
+msgid "07 — 7 am"
+msgstr "07 – 7 Uhr"
+
+msgid "08 — 8 am"
+msgstr "08 – 8 Uhr"
+
+msgid "09 — 9 am"
+msgstr "09 – 9 Uhr"
+
+msgid "10 — 10 am"
+msgstr "10 – 10 Uhr"
+
+msgid "11 — 11 am"
+msgstr "11 — 11 Uhr"
+
+msgid "12 — 12 pm"
+msgstr "12 — 12 Uhr"
+
+msgid "13 — 1 pm"
+msgstr "13 – 13 Uhr"
+
+msgid "14 — 2 pm"
+msgstr "14 – 14 Uhr"
+
+msgid "15 — 3 pm"
+msgstr "15 – 15 Uhr"
+
+msgid "16 — 4 pm"
+msgstr "16 – 16 Uhr"
+
+msgid "17 — 5 pm"
+msgstr "17 – 17 Uhr"
+
+msgid "18 — 6 pm"
+msgstr "18 – 18 Uhr"
+
+msgid "19 — 7 pm"
+msgstr "19 – 19 Uhr"
+
+msgid "20 — 8 pm"
+msgstr "20 – 20 Uhr"
+
+msgid "21 — 9 pm"
+msgstr "21 – 21 Uhr"
+
+msgid "22 — 10 pm"
+msgstr "22 – 22 Uhr"
+
+msgid "23 — 11 pm"
+msgstr "23 – 23 Uhr"
+
+msgid "Years"
+msgstr "Jahre"
+
+msgid "Months"
+msgstr "Monate"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Hours"
+msgstr "Std"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Seconds"
+msgstr "Sekunden"
+
+msgid "Convert to numeric"
+msgstr "In numerisch umwandeln"
+
+msgid "Convert to timestamp"
+msgstr "In Zeitstempel konvertieren"
+
+msgid "Convert to interval"
+msgstr "In Intervall umrechnen"
+
+msgid "Convert to duration"
+msgstr "In Dauer umrechnen"
+
+msgid "Convert to integer"
+msgstr "In Ganzzahl umwandeln"
+
+msgid "Date/Time (ISO 8601)"
+msgstr "Datum/Uhrzeit (ISO 8601)"
+
+msgid "Interval (ISO 8601)"
+msgstr "Intervall (ISO 8601)"
+
+msgid "Duration (ISO 8601)"
+msgstr "Dauer (ISO 8601)"
+
+msgid "NumericDataTypes - invalid %s value for ID %s - %s"
+msgstr "NumericDataTypes – ungültiger %s-Wert für ID %s – %s"

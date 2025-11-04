@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add mapping:"
+msgstr "Zuordnung hinzufügen:"
+
+msgid "Batch edit column options:"
+msgstr "Optionen für die Stapelbearbeitung von Spalten:"
+
+msgid "Column options:"
+msgstr "Spaltenoptionen:"
+
+msgid "Highlighted options will apply to selected column headers. Reset an option to cancel changes."
+msgstr "Hervorgehobene Optionen gelten für ausgewählte Spaltenüberschriften.Setzen Sie eine Option zurück, um Änderungen abzubrechen."
+
+msgid "Use multivalue separator"
+msgstr "Verwenden Sie ein mehrwertiges Trennzeichen"
+
+msgid "This will override language settings in basic import settings."
+msgstr "Dadurch werden die Spracheinstellungen in den grundlegenden Importeinstellungen überschrieben."
+
+msgid "Import values as private"
+msgstr "Werte als privat importieren"
+
+msgid "Import Settings"
+msgstr "Einstellungen importieren"
+
+msgid "CSV Import"
+msgstr "CSV-Import"
+
+msgid "mixed resources"
+msgstr "gemischte Ressourcen"
+
+msgid "users"
+msgstr "Benutzer"
+
+msgid "Import settings for %s"
+msgstr "Einstellungen für %s importieren"
+
+msgid "Import settings"
+msgstr "Einstellungen importieren"
+
+msgid "Map to Omeka S data"
+msgstr "Karte zu Omeka S-Daten"
+
+msgid "Basic Settings"
+msgstr "Grundeinstellungen"
+
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+msgid "Resource type column"
+msgstr "Spalte „Ressourcentyp“."
+
+msgid "Select below"
+msgstr "Wählen Sie unten aus"
+
+msgid "Batch edit options"
+msgstr "Optionen für die Stapelbearbeitung"
+
+msgid "Column"
+msgstr "Spalte"
+
+msgid "Mappings"
+msgstr "Zuordnungen"
+
+msgid "Select column"
+msgstr "Spalte auswählen"
+
+msgid "Add mapping"
+msgstr "Zuordnung hinzufügen"
+
+msgid "Remove mapping"
+msgstr "Zuordnung entfernen"
+
+msgid "Multivalue"
+msgstr "Mehrwertig"
+
+msgid "Language:"
+msgstr "Sprache:"
+
+msgid "Private values"
+msgstr "Private Werte"
+
+msgid "Past Imports"
+msgstr "Frühere Importe"
+
+msgid "Undo"
+msgstr "Rückgängig machen"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Result"
+msgstr "Ergebnis"
+
+msgid "Job details"
+msgstr "Jobdetails"
+
+msgid "Problems were detected with the import. Check the job's log for details."
+msgstr "Beim Import wurden Probleme festgestellt.Weitere Informationen finden Sie im Protokoll des Jobs."
+
+msgid "Undone %s"
+msgstr "%s rückgängig gemacht"
+
+msgid "Undo in progress"
+msgstr "Rückgängigmachen läuft"
+
+msgid "Item set-specific data"
+msgstr "Artikelsatzspezifische Daten"
+
+msgid "Item-specific data"
+msgstr "Artikelspezifische Daten"
+
+msgid "Item set (by selected property)"
+msgstr "Artikelsatz (nach ausgewählter Eigenschaft)"
+
+msgid "Internal ID"
+msgstr "Interne ID"
+
+msgid "Media source"
+msgstr "Medienquelle"
+
+msgid "Media-specific data"
+msgstr "Medienspezifische Daten"
+
+msgid "Item (by selected property)"
+msgstr "Artikel (nach ausgewählter Eigenschaft)"
+
+msgid "There must be an item identifier to create a media. This is generally \"dcterms:identifier\", but it may be an internal id."
+msgstr "Zum Erstellen eines Mediums muss eine Artikelkennung vorhanden sein.Dies ist im Allgemeinen „dcterms:identifier“, es kann sich jedoch auch um eine interne ID handeln."
+
+msgid "Generic data"
+msgstr "Allgemeine Daten"
+
+msgid "Resource template (by label)"
+msgstr "Ressourcenvorlage (nach Label)"
+
+msgid "Resource class (by term)"
+msgstr "Ressourcenklasse (nach Begriff)"
+
+msgid "Owner (by email address)"
+msgstr "Eigentümer (per E-Mail-Adresse)"
+
+msgid "Visibility public/private"
+msgstr "Sichtbarkeit öffentlich/privat"
+
+msgid "Users info"
+msgstr "Benutzerinformationen"
+
+msgid "comma"
+msgstr "Komma"
+
+msgid "semi-colon"
+msgstr "Semikolon"
+
+msgid "colon"
+msgstr "Doppelpunkt"
+
+msgid "tabulation"
+msgstr "Tabellierung"
+
+msgid "carriage return"
+msgstr "Wagenrücklauf"
+
+msgid "space"
+msgstr "Raum"
+
+msgid "pipe"
+msgstr "Rohr"
+
+msgid "double quote"
+msgstr "doppeltes Anführungszeichen"
+
+msgid "single quote"
+msgstr "einfaches Anführungszeichen"
+
+msgid "hash"
+msgstr "Hash"
+
+msgid "Spreadsheet (csv, tsv or ods)"
+msgstr "Tabellenkalkulation (csv, tsv oder ods)"
+
+msgid "The CSV, TSV or ODS file to upload. LibreOffice is recommended for compliant formats."
+msgstr "Die hochzuladende CSV-, TSV- oder ODS-Datei.Für kompatible Formate wird LibreOffice empfohlen."
+
+msgid "CSV column delimiter"
+msgstr "CSV-Spaltentrennzeichen"
+
+msgid "A single character that will be used to separate columns in the csv file."
+msgstr "Ein einzelnes Zeichen, das zum Trennen von Spalten in der CSV-Datei verwendet wird."
+
+msgid "CSV column enclosure"
+msgstr "CSV-Säulengehäuse"
+
+msgid "A single character that will be used to separate columns in the csv file. The enclosure can be omitted when the content does not contain the delimiter."
+msgstr "Ein einzelnes Zeichen, das zum Trennen von Spalten in der CSV-Datei verwendet wird.Die Einfügung kann weggelassen werden, wenn der Inhalt das Trennzeichen nicht enthält."
+
+msgid "Import type"
+msgstr "Importtyp"
+
+msgid "The type of data being imported"
+msgstr "Der Typ der importierten Daten"
+
+msgid "Mixed resources"
+msgstr "Gemischte Ressourcen"
+
+msgid "Automap with simple labels"
+msgstr "Automap mit einfachen Beschriftungen"
+
+msgid "If checked, column headings that match property labels will be mapped automatically (for example, \"Title\" to dcterms:title)."
+msgstr "Wenn diese Option aktiviert ist, werden Spaltenüberschriften, die mit Eigenschaftsbezeichnungen übereinstimmen, automatisch zugeordnet (z. B. „Titel“ zu dcterms:title)."
+
+msgid "A note about the purpose or source of this import"
+msgstr "Ein Hinweis zum Zweck oder zur Quelle dieses Imports"
+
+msgid "Assign a resource template to all imported resources. Specific mappings can override this setting."
+msgstr "Weisen Sie allen importierten Ressourcen eine Ressourcenvorlage zu.Bestimmte Zuordnungen können diese Einstellung überschreiben."
+
+msgid "Assign a resource class to all imported resources. Specific mappings can override this setting."
+msgstr "Weisen Sie allen importierten Ressourcen eine Ressourcenklasse zu.Bestimmte Zuordnungen können diese Einstellung überschreiben."
+
+msgid "If not set, the default owner for new resources will be the current user."
+msgstr "Wenn dies nicht festgelegt ist, ist der Standardeigentümer für neue Ressourcen der aktuelle Benutzer."
+
+msgid "Select a user"
+msgstr "Wählen Sie einen Benutzer aus"
+
+msgid "Set visibility for all imported resources. Specific mappings can override this setting."
+msgstr "Legen Sie die Sichtbarkeit für alle importierten Ressourcen fest.Bestimmte Zuordnungen können diese Einstellung überschreiben."
+
+msgid "Open/closed to additions"
+msgstr "Offen/geschlossen für Ergänzungen"
+
+msgid "Set whether imported item sets are open to additions. Specific mappings can override this setting."
+msgstr "Legen Sie fest, ob importierte Artikelsätze für Ergänzungen offen sind.Bestimmte Zuordnungen können diese Einstellung überschreiben."
+
+msgid "Closed"
+msgstr "Geschlossen"
+
+msgid "Item sets open/closed to additions"
+msgstr "Artikelsätze sind für Ergänzungen offen/geschlossen"
+
+msgid "Item sets for items"
+msgstr "Artikelsets für Artikel"
+
+msgid "Multivalue separator"
+msgstr "Mehrwerttrennzeichen"
+
+msgid "The separator to use for columns with multiple values"
+msgstr "Das für Spalten mit mehreren Werten zu verwendende Trennzeichen"
+
+msgid "Language setting to apply to all imported literal data. Individual property mappings can override the setting here."
+msgstr "Spracheinstellung, die auf alle importierten Literaldaten angewendet werden soll.Einzelne Eigenschaftszuordnungen können die Einstellung hier überschreiben."
+
+msgid "Create a new resource"
+msgstr "Erstellen Sie eine neue Ressource"
+
+msgid "Append data to the resource"
+msgstr "Hängen Sie Daten an die Ressource an"
+
+msgid "Revise data of the resource"
+msgstr "Daten der Ressource überarbeiten"
+
+msgid "Update data of the resource"
+msgstr "Daten der Ressource aktualisieren"
+
+msgid "Replace all data of the resource"
+msgstr "Ersetzen Sie alle Daten der Ressource"
+
+msgid "Delete the resource"
+msgstr "Löschen Sie die Ressource"
+
+msgid "By default, an import creates new resources. Select from this dropdown to choose an alternate action for the import. For more information on each action, see the documentation."
+msgstr "Standardmäßig erstellt ein Import neue Ressourcen.Wählen Sie aus dieser Dropdown-Liste eine alternative Aktion für den Import aus.Weitere Informationen zu den einzelnen Aktionen finden Sie in der Dokumentation."
+
+msgid "Resource identifier column"
+msgstr "Spalte „Ressourcen-ID“."
+
+msgid "Resource identifier property"
+msgstr "Eigenschaft der Ressourcenkennung"
+
+msgid "Use this property, generally \"dcterms:identifier\", to identify the existing resources, so it will be possible to update them. One column of the file must map the selected property. In all cases, it is strongly recommended to add one ore more unique identifiers to all your resources."
+msgstr "Verwenden Sie diese Eigenschaft, im Allgemeinen „dcterms:identifier“, um die vorhandenen Ressourcen zu identifizieren, damit sie aktualisiert werden können.Eine Spalte der Datei muss die ausgewählte Eigenschaft abbilden.In allen Fällen wird dringend empfohlen, allen Ihren Ressourcen eine oder mehrere eindeutige Kennungen hinzuzufügen."
+
+msgid "Action on unidentified resources"
+msgstr "Aktion für nicht identifizierte Ressourcen"
+
+msgid "This option determines what to do when a resource does not exist but the action applies to an existing resource (\"Append\", \"Update\", or \"Replace\"). This option is not used when the main action is \"Create\", \"Delete\" or \"Skip\"."
+msgstr "Diese Option bestimmt, was zu tun ist, wenn eine Ressource nicht vorhanden ist, die Aktion jedoch auf eine vorhandene Ressource angewendet wird („Anhängen“, „Aktualisieren“ oder „Ersetzen“).Diese Option wird nicht verwendet, wenn die Hauptaktion „Erstellen“, „Löschen“ oder „Überspringen“ ist."
+
+msgid "Skip the row"
+msgstr "Überspringe die Reihe"
+
+msgid "Number of rows to process by batch"
+msgstr "Anzahl der Zeilen, die pro Stapel verarbeitet werden sollen"
+
+msgid "By default, rows are processed by 20. In some cases, to set a value of 1 may avoid issues."
+msgstr "Standardmäßig werden Zeilen mit 20 verarbeitet. In einigen Fällen können Probleme vermieden werden, wenn der Wert 1 festgelegt wird."
+
+msgid "The job \"Undo\" was stopped: %d/%d resources processed."
+msgstr "Der Job „Rückgängig“ wurde gestoppt: %d/%d Ressourcen verarbeitet."
+
+msgid "create"
+msgstr "erstellen"
+
+msgid "append"
+msgstr "anhängen"
+
+msgid "revise"
+msgstr "überarbeiten"
+
+msgid "update"
+msgstr "aktualisieren"
+
+msgid "replace"
+msgstr "ersetzen"
+
+msgid "delete"
+msgstr "löschen"
+
+msgid "skip"
+msgstr "überspringen"
+
+msgid "The file seems empty."
+msgstr "Die Datei scheint leer zu sein."
+
+msgid "The file is not valid."
+msgstr "Die Datei ist ungültig."
+
+msgid "The job \"Import\" was stopped: %d rows processed."
+msgstr "Der Job „Import“ wurde gestoppt: %d Zeilen verarbeitet."
+
+msgid "%d empty lines were skipped."
+msgstr "%d leere Zeilen wurden übersprungen."
+
+msgid "The following identifiers are not associated with a resource and were skipped: \"%s\"."
+msgstr "Die folgenden Bezeichner sind keiner Ressource zugeordnet und wurden übersprungen: „%s“."
+
+msgid "The update mode \"%s\" is unsupported for %s currently."
+msgstr "Der Aktualisierungsmodus „%s“ wird derzeit für %s nicht unterstützt."
+
+msgid "%d %s were updated (%s): %s."
+msgstr "%d %s wurden aktualisiert (%s): %s."
+
+msgid "None of the %d %s were updated (%s)."
+msgstr "Keiner der %d %s wurde aktualisiert (%s)."
+
+msgid "%d %s were removed: %s."
+msgstr "%d %s wurden entfernt: %s."
+
+msgid "A media to create is not attached to an item (%s)."
+msgstr "Ein zu erstellendes Medium ist nicht an ein Element (%s) angehängt."
+
+msgid "unknown ingester"
+msgstr "unbekannter Konsument"
+
+msgid "A resource type is required to import a resource."
+msgstr "Zum Importieren einer Ressource ist ein Ressourcentyp erforderlich."
+
+msgid "Resource type is empty."
+msgstr "Der Ressourcentyp ist leer."
+
+msgid "Resource type \"%s\" is not managed."
+msgstr "Der Ressourcentyp „%s“ wird nicht verwaltet."
+
+msgid "action"
+msgstr "Aktion"
+
+msgid "The action \"%s\" requires a resource identifier property."
+msgstr "Die Aktion „%s“ erfordert eine Ressourcen-ID-Eigenschaft."
+
+msgid "The action \"%s\" is not available for resource type \"%s\" currently."
+msgstr "Die Aktion „%s“ ist derzeit für den Ressourcentyp „%s“ nicht verfügbar."
+
+msgid "The action \"%s\" for unidentified resources is not managed."
+msgstr "Die Aktion „%s“ für nicht identifizierte Ressourcen wird nicht verwaltet."
+
+msgid "The format of the source cannot be detected."
+msgstr "Das Format der Quelle kann nicht erkannt werden."
+
+msgid "The file has no headers."
+msgstr "Die Datei hat keine Header."
+
+msgid "Importing in background (%sjob #%d%s)"
+msgstr "Im Hintergrund importieren (%sjob #%d%s)"
+
+msgid "Invalid settings."
+msgstr "Ungültige Einstellungen."
+
+msgid "Undo in progress in the following jobs: %s"
+msgstr "Rückgängigmachen wird in den folgenden Jobs ausgeführt: %s"
+
+msgid "File is not UTF-8 encoded."
+msgstr "Die Datei ist nicht UTF-8-kodiert."
+
+msgid "The source is undefined."
+msgstr "Die Quelle ist undefiniert."
+
+msgid "The source is empty."
+msgstr "Die Quelle ist leer."
+
+msgid "No file to process."
+msgstr "Keine Datei zum Verarbeiten."
+
+msgid "The rows are not all the same number of columns."
+msgstr "Die Zeilen haben nicht alle die gleiche Anzahl von Spalten."
+
+msgid "To process import of a %s file, the php extensions \"zip\" and \"xml\" are required."
+msgstr "Um den Import einer %s-Datei zu verarbeiten, sind die PHP-Erweiterungen „zip“ und „xml“ erforderlich."
+
+msgid "Resource data"
+msgstr "Ressourcendaten"
+
+msgid "\"%s\" is not a valid resource type."
+msgstr "„%s“ ist kein gültiger Ressourcentyp."
+
+msgid "User info"
+msgstr "Benutzerinformationen"
+
+msgid "Media data"
+msgstr "Mediendaten"
+
+msgid "Item set data"
+msgstr "Artikelsatzdaten"
+
+msgid "\"%s\" (%s) is not a valid item set."
+msgstr "„%s“ (%s) ist kein gültiger Elementsatz."
+
+msgid "An item identifier is required to process action \"%s\"."
+msgstr "Zur Verarbeitung der Aktion „%s“ ist eine Elementkennung erforderlich."
+
+msgid "\"%s\" (%s) is not a valid item identifier."
+msgstr "„%s“ (%s) ist kein gültiger Artikelbezeichner."
+
+msgid "\"%s\" (%s) is not a valid resource identifier."
+msgstr "„%s“ (%s) ist kein gültiger Ressourcenbezeichner."
+
+msgid "\"%s\" is not a valid Resource Template name."
+msgstr "„%s“ ist kein gültiger Ressourcenvorlagenname."
+
+msgid "\"%s\" is not a valid resource class. Resource Classes must be a Class found on the Vocabularies page."
+msgstr "„%s“ ist keine gültige Ressourcenklasse.Ressourcenklassen müssen eine Klasse sein, die auf der Seite „Vokabulare“ zu finden ist."
+
+msgid "\"%s\" is not a valid user email address."
+msgstr "„%s“ ist keine gültige Benutzer-E-Mail-Adresse."
+
+msgid "Item data"
+msgstr "Artikeldaten"
+
+msgid "Omeka resource (by ID)"
+msgstr "Omeka-Ressource (nach ID)"

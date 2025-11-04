@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The libraries of the module should be installed first."
+msgstr "Zuerst sollten die Bibliotheken des Moduls installiert werden."
+
+msgid "See module’s installation documentation."
+msgstr "Siehe Installationsdokumentation des Moduls."
+
+msgid "Upload issue. Check file size and source."
+msgstr "Problem beim Hochladen.Überprüfen Sie Dateigröße und Quelle."
+
+msgid "Unable to upload the file. Check file size and source."
+msgstr "Die Datei kann nicht hochgeladen werden.Überprüfen Sie Dateigröße und Quelle."
+
+msgid "Can’t check empty folder. Check file size and source."
+msgstr "Leerer Ordner kann nicht überprüft werden.Überprüfen Sie Dateigröße und Quelle."
+
+msgid "The folder is not inside the configured Bulk Import directory."
+msgstr "Der Ordner befindet sich nicht im konfigurierten Massenimportverzeichnis."
+
+msgid "The folder is missing."
+msgstr "Der Ordner fehlt."
+
+msgid "All files must have a regular name. Check ended."
+msgstr "Alle Dateien müssen einen regulären Namen haben.Prüfung beendet."
+
+msgid "The folder is empty or files have error."
+msgstr "Der Ordner ist leer oder die Dateien weisen einen Fehler auf."
+
+msgid "The media type \"%s\" is not managed or has no mapping."
+msgstr "Der Medientyp „%s“ wird nicht verwaltet oder hat keine Zuordnung."
+
+msgid "No mapping for this file."
+msgstr "Keine Zuordnung für diese Datei."
+
+msgid "No metadata to import. You may see log for more info."
+msgstr "Keine Metadaten zum Importieren.Weitere Informationen finden Sie im Protokoll."
+
+msgid "No metadata: mapping is empty."
+msgstr "Keine Metadaten: Zuordnung ist leer."
+
+msgid "Request empty."
+msgstr "Anfrage leer."
+
+msgid "Could not save file \"%s\" for writing."
+msgstr "Die Datei „%s“ konnte nicht zum Schreiben gespeichert werden."
+
+msgid "File successfully added!"
+msgstr "Datei erfolgreich hinzugefügt!"
+
+msgid "Filepath string should be longer that zero character."
+msgstr "Die Dateipfadzeichenfolge sollte länger als null Zeichen sein."
+
+msgid "File \"%s\" is not writeable. Check rights."
+msgstr "Datei „%s“ ist nicht beschreibbar.Rechte prüfen."
+
+msgid "Could not delete file \"%s\"."
+msgstr "Die Datei „%s“ konnte nicht gelöscht werden."
+
+msgid "File successfully deleted!"
+msgstr "Datei erfolgreich gelöscht!"
+
+msgid "Folder /modules/BulkImportFiles/data/mapping is not available or not writeable."
+msgstr "Der Ordner /modules/BulkImportFiles/data/mapping ist nicht verfügbar oder nicht beschreibbar."
+
+msgid "Unable to create a new mapping in folder data/mapping."
+msgstr "Im Ordner data/mapping kann keine neue Zuordnung erstellt werden."
+
+msgid "Filepath \"%s\" is not writeable."
+msgstr "Dateipfad „%s“ ist nicht beschreibbar."
+
+msgid "Mapping of properties successfully updated."
+msgstr "Zuordnung der Eigenschaften erfolgreich aktualisiert."
+
+msgid "Can’t update mapping."
+msgstr "Die Zuordnung kann nicht aktualisiert werden."
+
+msgid "Folder not exist"
+msgstr "Ordner existiert nicht"
+
+msgid "Can’t check empty folder"
+msgstr "Leerer Ordner kann nicht überprüft werden"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "This module has resources that cannot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Total files"
+msgstr "Gesamtdateien"
+
+msgid "Importable files"
+msgstr "Importierbare Dateien"
+
+msgid "Origin"
+msgstr "Herkunft"
+
+msgid "Directory on server"
+msgstr "Verzeichnis auf dem Server"
+
+msgid "Uploaded files"
+msgstr "Hochgeladene Dateien"
+
+msgid "Make recognize and add"
+msgstr "Erkennen und hinzufügen"
+
+msgid "File name"
+msgstr "Dateiname"
+
+msgid "Has mapping"
+msgstr "Hat Zuordnung"
+
+msgid "Error during upload."
+msgstr "Fehler beim Hochladen."
+
+msgid "Selected files"
+msgstr "Ausgewählte Dateien"
+
+msgid "%d available fields"
+msgstr "%d verfügbare Felder"
+
+msgid "No available fields"
+msgstr "Keine verfügbaren Felder"
+
+msgid "Show all data"
+msgstr "Alle Daten anzeigen"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Recognized fields"
+msgstr "Anerkannte Felder"
+
+msgid "No recognized fields"
+msgstr "Keine erkannten Felder"
+
+msgid "Make bulk import files"
+msgstr "Erstellen Sie Massenimportdateien"
+
+msgid "Bulk import files"
+msgstr "Massenimportdateien"
+
+msgid "Select folder"
+msgstr "Ordner auswählen"
+
+msgid "You can either select a folder on your computer or on the server."
+msgstr "Sie können entweder einen Ordner auf Ihrem Computer oder auf dem Server auswählen."
+
+msgid "It is recommended to use the server for big import to allow to continue to use the browser and to avoid the server upload limits for total size and number of files."
+msgstr "Es wird empfohlen, den Server für große Importe zu verwenden, um die weitere Verwendung des Browsers zu ermöglichen und die Upload-Beschränkungen des Servers für die Gesamtgröße und Anzahl der Dateien zu umgehen."
+
+msgid "Source directory on server"
+msgstr "Quellverzeichnis auf dem Server"
+
+msgid "Enter the absolute path to the directory where files to be imported will be added."
+msgstr "Geben Sie den absoluten Pfad zu dem Verzeichnis ein, in dem die zu importierenden Dateien hinzugefügt werden."
+
+msgid "The directory can be anywhere on your server. Your root path is: %s"
+msgstr "Das Verzeichnis kann sich an einer beliebigen Stelle auf Ihrem Server befinden.Ihr Root-Pfad ist: %s"
+
+msgid "Check"
+msgstr "Überprüfen"
+
+msgid "Select folder on computer"
+msgstr "Wählen Sie einen Ordner auf dem Computer aus"
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Import unmapped files"
+msgstr "Importieren Sie nicht zugeordnete Dateien"
+
+msgid "Allow to import all files of a folder. Unmapped files will be imported without metadata, except the file name as title."
+msgstr "Ermöglicht den Import aller Dateien eines Ordners.Nicht zugeordnete Dateien werden ohne Metadaten importiert, mit Ausnahme des Dateinamens als Titel."
+
+msgid "Delete original file from the folder on the server"
+msgstr "Originaldatei aus dem Ordner auf dem Server löschen"
+
+msgid "Do you want to delete a file from the source directory after it has been imported? If so, the directory must be server-writeable."
+msgstr "Möchten Sie eine Datei nach dem Import aus dem Quellverzeichnis löschen?Wenn ja, muss das Verzeichnis vom Server beschreibbar sein."
+
+msgid "Please wait, analysis in progress…"
+msgstr "Bitte warten, Analyse läuft…"
+
+msgid "Create/configure mappings"
+msgstr "Zuordnungen erstellen/konfigurieren"
+
+msgid "This helper works only with the formats managed by %sGetId3%s."
+msgstr "Dieser Helfer funktioniert nur mit den von %sGetId3%s verwalteten Formaten."
+
+msgid "For xml metadata like xmp, that may be more complete and precise, you need to write the xpaths yourself."
+msgstr "Für XML-Metadaten wie xmp, die möglicherweise vollständiger und präziser sind, müssen Sie die XPaths selbst schreiben."
+
+msgid "All fields should have the same format: either the object notation (%siptc.IPTCApplication.Headline%s), either the xpaths (%s/x:xmpmeta/rdf:RDF/rdf:Description/@xmp:Label%s). They should not be mixed."
+msgstr "Alle Felder sollten das gleiche Format haben: entweder die Objektnotation (%siptc.IPTCApplication.Headline%s), entweder die XPaths (%s/x:xmpmeta/rdf:RDF/rdf:Description/@xmp:Label%s).Sie sollten nicht gemischt werden."
+
+msgid "You may need to create an item template first, with the media type as title."
+msgstr "Möglicherweise müssen Sie zunächst eine Artikelvorlage mit dem Medientyp als Titel erstellen."
+
+msgid "View mappings"
+msgstr "Zuordnungen anzeigen"
+
+msgid "No available maps for import"
+msgstr "Keine Karten zum Import verfügbar"
+
+msgid "Available maps for import"
+msgstr "Verfügbare Karten zum Import"
+
+msgid "Map file data field (xpath or object notation)"
+msgstr "Datenfeld der Kartendatei (xpath oder Objektnotation)"
+
+msgid "BulkImportFiles requires module BulkImport version 3.0.12 or higher."
+msgstr "BulkImportFiles erfordert das Modul BulkImport Version 3.0.12 oder höher."
+
+msgid "BulkImportFiles requires module BulkImport version 3.3.21 or higher."
+msgstr "BulkImportFiles erfordert das Modul BulkImport Version 3.3.21 oder höher."
+
+msgid "Unable to process import."
+msgstr "Der Import kann nicht verarbeitet werden."
+
+msgid "Index #{index}: Resource id for value \"{value}\" cannot be found: the entry is skipped."
+msgstr "Index #{index}: Ressourcen-ID für Wert „{value}“ kann nicht gefunden werden: Der Eintrag wird übersprungen."
+
+msgid "Make import"
+msgstr "Importieren"
+
+msgid "Create mappings"
+msgstr "Erstellen Sie Zuordnungen"

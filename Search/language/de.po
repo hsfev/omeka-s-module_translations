@@ -1,0 +1,756 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Asc"
+msgstr "Aufstieg"
+
+msgid "Desc"
+msgstr "Beschr"
+
+msgid "[Missing adapter \"%s\"]"
+msgstr "[Fehlender Adapter „%s“]"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "This module has resources that connot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Permission denied for the current user to %s the %s resource."
+msgstr "Dem aktuellen Benutzer wurde die Berechtigung %s für die %s-Ressource verweigert."
+
+msgid "Search manager"
+msgstr "Suchmanager"
+
+msgid "Add new index"
+msgstr "Neuen Index hinzufügen"
+
+msgid "Indexes"
+msgstr "Indizes"
+
+msgid "Adapter"
+msgstr "Adapter"
+
+msgid "Reindex all"
+msgstr "Alle neu indizieren"
+
+msgid "No search indexes created yet."
+msgstr "Es wurden noch keine Suchindizes erstellt."
+
+msgid "Path"
+msgstr "Weg"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Form"
+msgstr "Bilden"
+
+msgid "Configure facets and sort fields"
+msgstr "Konfigurieren Sie Facetten und Sortierfelder"
+
+msgid "No search pages created yet."
+msgstr "Es wurden noch keine Suchseiten erstellt."
+
+msgid "Add search index"
+msgstr "Suchindex hinzufügen"
+
+msgid "Add and configure"
+msgstr "Hinzufügen und konfigurieren"
+
+msgid "Edit search index"
+msgstr "Suchindex bearbeiten"
+
+msgid "Confirm reindex"
+msgstr "Bestätigen Sie die Neuindizierung"
+
+msgid "Reindex \"%s\""
+msgstr "„%s“ neu indizieren"
+
+msgid "Are you sure you would like to reindex this index?"
+msgstr "Sind Sie sicher, dass Sie diesen Index neu indizieren möchten?"
+
+msgid "All the indexes will be cleared first, so the search will be unavailable for a while."
+msgstr "Zunächst werden alle Indizes gelöscht, sodass die Suche für eine Weile nicht verfügbar ist."
+
+msgid "You may redirect the users on a clone of the current index temporary."
+msgstr "Sie können die Benutzer vorübergehend auf einen Klon des aktuellen Index umleiten."
+
+msgid "You may prefer to keep existing indexes and to start the indexing at the following resource id."
+msgstr "Möglicherweise möchten Sie vorhandene Indizes beibehalten und die Indizierung mit der folgenden Ressourcen-ID beginnen."
+
+msgid "Set \"1\" to reindex all resources without clearing the current index."
+msgstr "Legen Sie „1“ fest, um alle Ressourcen neu zu indizieren, ohne den aktuellen Index zu löschen."
+
+msgid "You may want to limit the reindexing to a resource type."
+msgstr "Möglicherweise möchten Sie die Neuindizierung auf einen Ressourcentyp beschränken."
+
+msgid "%d running indexings."
+msgstr "%d führt Indizierungen aus."
+
+msgid "Force indexing"
+msgstr "Indizierung erzwingen"
+
+msgid "No running indexing: process can be launched."
+msgstr "Keine laufende Indizierung: Prozess kann gestartet werden."
+
+msgid "This index has no resource type to index."
+msgstr "Dieser Index hat keinen zu indizierenden Ressourcentyp."
+
+msgid "Add search page"
+msgstr "Suchseite hinzufügen"
+
+msgid "Search page \"%1$s\" (%2$s)"
+msgstr "Suchseite „%1$s“ (%2$s)"
+
+msgid "Save configuration"
+msgstr "Konfiguration speichern"
+
+msgid "Edit search page"
+msgstr "Suchseite bearbeiten"
+
+msgid "Filters"
+msgstr "Filter"
+
+msgid "Active filters"
+msgstr "Aktive Filter"
+
+msgid "No filters."
+msgstr "Keine Filter."
+
+msgid "Apply filters"
+msgstr "Wenden Sie Filter an"
+
+msgid "Fill a query and get results."
+msgstr "Füllen Sie eine Abfrage aus und erhalten Sie Ergebnisse."
+
+msgid "This item set has no items."
+msgstr "Dieses Artikelset enthält keine Artikel."
+
+msgid "Your query returned no results"
+msgstr "Ihre Anfrage hat keine Ergebnisse zurückgegeben"
+
+msgid "An error occured and your query returned no results."
+msgstr "Es ist ein Fehler aufgetreten und Ihre Abfrage hat keine Ergebnisse zurückgegeben."
+
+msgid "No media"
+msgstr "Keine Medien"
+
+msgid "list"
+msgstr "Liste"
+
+msgid "grid"
+msgstr "Netz"
+
+msgid "The default search forms \"Basic\" and \"Advanced\" have been removed and replaced by a \"Main\" form. It is recommended to check it and to rename templates if they are customized in a theme."
+msgstr "Die Standardsuchformulare „Einfach“ und „Erweitert“ wurden entfernt und durch ein „Haupt“-Formular ersetzt.Es wird empfohlen, dies zu überprüfen und Vorlagen umzubenennen, wenn sie in einem Theme angepasst werden."
+
+msgid "The default input type for main search form field \"q\" is now \"search\" instead of \"text\". Check your css or use $this->formText() in your theme."
+msgstr "Der Standardeingabetyp für das Hauptsuchformularfeld „q“ ist jetzt „Suche“ statt „Text“.Überprüfen Sie Ihr CSS oder verwenden Sie $this->formText() in Ihrem Theme."
+
+msgid "The search page form defines new keys and use sub settings, in particular for facets. Check your theme if it was customized."
+msgstr "Das Suchseitenformular definiert neue Schlüssel und verwendet Untereinstellungen, insbesondere für Facetten.Überprüfen Sie Ihr Theme, ob es angepasst wurde."
+
+msgid "You may enable the auto-suggestion in the search page settings."
+msgstr "Sie können den automatischen Vorschlag in den Suchseiteneinstellungen aktivieren."
+
+msgid "The module Reference is required to use the facets with the default internal adapter, but not for the Solr adapter."
+msgstr "Die Modulreferenz ist erforderlich, um die Facetten mit dem standardmäßigen internen Adapter zu verwenden, jedoch nicht für den Solr-Adapter."
+
+msgid "Unable to batch index metadata for search index \"%s\": %s"
+msgstr "Indexmetadaten für Suchindex „%s“ können nicht im Batch erstellt werden: %s"
+
+msgid "Unable to batch update the search index \"%s\": see log."
+msgstr "Der Suchindex „%s“ kann nicht stapelweise aktualisiert werden: siehe Protokoll."
+
+msgid "Unable to delete the search index for resource #%d: %s"
+msgstr "Der Suchindex für Ressource #%d: %s konnte nicht gelöscht werden"
+
+msgid "Unable to delete the search index for the deleted resource #%d: see log."
+msgstr "Der Suchindex für die gelöschte Ressource #%d konnte nicht gelöscht werden: siehe Protokoll."
+
+msgid "Unable to index metadata of resource #%d for search: %s"
+msgstr "Die Metadaten der Ressource #%d können für die Suche nicht indiziert werden: %s"
+
+msgid "Unable to update the search index for resource #%d: see log."
+msgstr "Der Suchindex für Ressource #%d konnte nicht aktualisiert werden: siehe Protokoll."
+
+msgid "The internal search engine (sql) is available. Configure it in the %ssearch manager%s."
+msgstr "Die interne Suchmaschine (SQL) ist verfügbar.Konfigurieren Sie es im %sSuchmanager%s."
+
+msgid "The default search page is available. Configure it in the %ssearch manager%s, in the main settings (for admin) and in site settings (for public)."
+msgstr "Die Standardsuchseite ist verfügbar.Konfigurieren Sie es im %ssearch manager%s, in den Haupteinstellungen (für Administratoren) und in den Site-Einstellungen (für öffentliche)."
+
+msgid "Collections"
+msgstr "Sammlungen"
+
+msgid "Select item sets…"
+msgstr "Artikelsets auswählen…"
+
+msgid "Resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "Select resource classes…"
+msgstr "Ressourcenklassen auswählen…"
+
+msgid "Select resource templates…"
+msgstr "Ressourcenvorlagen auswählen…"
+
+msgid "and"
+msgstr "Und"
+
+msgid "or"
+msgstr "oder"
+
+msgid "Block title"
+msgstr "Blocktitel"
+
+msgid "Heading for the block, if any."
+msgstr "Auf dem Weg zum Block, falls vorhanden."
+
+msgid "Search page"
+msgstr "Suchseite"
+
+msgid "The request below will be checked against the matching form below. Keys unknown by the form will be removed."
+msgstr "Die unten stehende Anfrage wird mit dem passenden Formular unten abgeglichen.Dem Formular unbekannte Schlüssel werden entfernt."
+
+msgid "Display results"
+msgstr "Ergebnisse anzeigen"
+
+msgid "If not set, display only the search form."
+msgstr "Wenn nicht festgelegt, wird nur das Suchformular angezeigt."
+
+msgid "Display resources using this search query. Important: use the query of the engine you use, not the browse preview one."
+msgstr "Zeigen Sie Ressourcen mit dieser Suchabfrage an.Wichtig: Verwenden Sie die Abfrage der Engine, die Sie verwenden, nicht die Suchvorschau."
+
+msgid "Hidden filter query"
+msgstr "Versteckte Filterabfrage"
+
+msgid "Limit the search to a specific subset of the resources. This query is merged with the default block query and with the user one."
+msgstr "Beschränken Sie die Suche auf eine bestimmte Teilmenge der Ressourcen.Diese Abfrage wird mit der Standardblockabfrage und der Benutzerabfrage zusammengeführt."
+
+msgid "Template to display"
+msgstr "Vorlage zur Anzeige"
+
+msgid "Templates are in folder \"common/block-layout\" of the theme and should start with \"searching-form\"."
+msgstr "Vorlagen befinden sich im Ordner „common/block-layout“ des Themes und sollten mit „searching-form“ beginnen."
+
+msgid "Search (admin board)"
+msgstr "Suche (Admin-Board)"
+
+msgid "Default search page (admin)"
+msgstr "Standardsuchseite (Administrator)"
+
+msgid "This search engine is used in the admin bar."
+msgstr "Diese Suchmaschine wird in der Admin-Leiste verwendet."
+
+msgid "Select the search engine for the admin bar…"
+msgstr "Wählen Sie die Suchmaschine für die Admin-Leiste aus…"
+
+msgid "Available search pages"
+msgstr "Verfügbare Suchseiten"
+
+msgid "Page used for quick api search"
+msgstr "Seite, die für die schnelle API-Suche verwendet wird"
+
+msgid "The method apiSearch() allows to do a quick search in some cases. It requires a mapping done with the Omeka api and the selected index."
+msgstr "Die Methode apiSearch() ermöglicht in manchen Fällen eine schnelle Suche.Es erfordert eine Zuordnung mit der Omeka-API und dem ausgewählten Index."
+
+msgid "Select the page for quick api search…"
+msgstr "Wählen Sie die Seite für die schnelle API-Suche aus ..."
+
+msgid "Search batch size for reindexation"
+msgstr "Durchsuchen Sie die Batchgröße für die Neuindizierung"
+
+msgid "Default is 100, but it can be adapted according to your resource average size, your mapping and your architecture."
+msgstr "Der Standardwert ist 100, er kann jedoch entsprechend Ihrer durchschnittlichen Ressourcengröße, Ihrer Zuordnung und Ihrer Architektur angepasst werden."
+
+msgid "Search module"
+msgstr "Suchmodul"
+
+msgid "Default search page"
+msgstr "Standardsuchseite"
+
+msgid "Select the default search engine for the site…"
+msgstr "Wählen Sie die Standardsuchmaschine für die Website aus ..."
+
+msgid "Redirect item set page to search"
+msgstr "Artikelsatzseite zur Suche umleiten"
+
+msgid "By default, item-set/show is redirected to item/browse. This option redirects it to the search page."
+msgstr "Standardmäßig wird item-set/show zu item/browse umgeleitet.Diese Option leitet es zur Suchseite weiter."
+
+msgid "Is public"
+msgstr "Ist öffentlich"
+
+msgid "Item set id (if available in fields)"
+msgstr "Artikelset-ID (falls in den Feldern verfügbar)"
+
+msgid "Resource class id (if available in fields)"
+msgstr "Ressourcenklassen-ID (falls in den Feldern verfügbar)"
+
+msgid "Resource template id (if available in fields)"
+msgstr "Ressourcenvorlagen-ID (falls in den Feldern verfügbar)"
+
+msgid "Search settings"
+msgstr "Sucheinstellungen"
+
+msgid "Default results to display when landing on search page"
+msgstr "Standardergebnisse, die bei der Landung auf der Suchseite angezeigt werden"
+
+msgid "Nothing"
+msgstr "Nichts"
+
+msgid "Results of the query below"
+msgstr "Ergebnisse der folgenden Abfrage"
+
+msgid "Default results of the search engine"
+msgstr "Standardergebnisse der Suchmaschine"
+
+msgid "Default query"
+msgstr "Standardabfrage"
+
+msgid "The format of the query depends on the search form and the search engine."
+msgstr "Das Format der Abfrage hängt vom Suchformular und der Suchmaschine ab."
+
+msgid "Auto-suggestions"
+msgstr "Automatische Vorschläge"
+
+msgid "Enable auto-suggestions"
+msgstr "Aktivieren Sie automatische Vorschläge"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Start with"
+msgstr "Beginnen Sie mit"
+
+msgid "Contains"
+msgstr "Enthält"
+
+msgid "Limit query to specific fields"
+msgstr "Beschränken Sie die Abfrage auf bestimmte Felder"
+
+msgid "Optional endpoint for auto-suggest"
+msgstr "Optionaler Endpunkt für automatische Vorschläge"
+
+msgid "This url allows to use an external endpoint to manage keywords."
+msgstr "Diese URL ermöglicht die Verwendung eines externen Endpunkts zur Verwaltung von Schlüsselwörtern."
+
+msgid "Advanced form"
+msgstr "Erweitertes Formular"
+
+msgid "Display item set filter"
+msgstr "Elementsatzfilter anzeigen"
+
+msgid "As select"
+msgstr "Als auswählen"
+
+msgid "As multi checkbox"
+msgstr "Als Multi-Kontrollkästchen"
+
+msgid "Item set id field"
+msgstr "Feld „Artikelsatz-ID“."
+
+msgid "Display resource class filter"
+msgstr "Ressourcenklassenfilter anzeigen"
+
+msgid "As flat select"
+msgstr "Als flache Auswahl"
+
+msgid "Resource class id field"
+msgstr "Feld für die Ressourcenklassen-ID"
+
+msgid "Display resource template filter"
+msgstr "Ressourcenvorlagenfilter anzeigen"
+
+msgid "Resource template id field"
+msgstr "Feld „Ressourcenvorlagen-ID“."
+
+msgid "Is public field"
+msgstr "Ist öffentliches Feld"
+
+msgid "List of filters that will be displayed in the search form. Format is \"term"
+msgstr "Label\". The field should exist in all resources fields. = Liste der Filter, die im Suchformular angezeigt werden.Das Format ist „Begriff = Label“.Das Feld sollte in allen Ressourcenfeldern vorhanden sein."
+
+msgid "Available filters"
+msgstr "Verfügbare Filter"
+
+msgid "List of all available filters, among which some can be copied above."
+msgstr "Liste aller verfügbaren Filter, von denen einige oben kopiert werden können."
+
+msgid "Number of filter groups to display"
+msgstr "Anzahl der anzuzeigenden Filtergruppen"
+
+msgid "The filters may be managed via js for a better display."
+msgstr "Für eine bessere Darstellung können die Filter per js verwaltet werden."
+
+msgid "Add the joiner (\"and\" or \"or\") to the filters"
+msgstr "Fügen Sie den Filtern den Joiner („und“ oder „oder“) hinzu"
+
+msgid "Add the type (\"equal\", \"in\", etc.) to the filters"
+msgstr "Fügen Sie den Filtern den Typ („gleich“, „in“ usw.) hinzu"
+
+msgid "Order of fields"
+msgstr "Reihenfolge der Felder"
+
+msgid "List of elements that will be displayed in the search form. Only existing fields will be used."
+msgstr "Liste der Elemente, die im Suchformular angezeigt werden.Es werden nur vorhandene Felder verwendet."
+
+msgid "Available fields to order on the form"
+msgstr "Verfügbare Felder zum Bestellen im Formular"
+
+msgid "List of all available elements, among which some can be copied above."
+msgstr "Liste aller verfügbaren Elemente, von denen einige oben kopiert werden können."
+
+msgid "Sorting"
+msgstr "Sortierung"
+
+msgid "Sort fields"
+msgstr "Felder sortieren"
+
+msgid "List of sort fields that will be displayed in the search page. Format is \"term dir"
+msgstr "Label\". = Liste der Sortierfelder, die auf der Suchseite angezeigt werden.Das Format ist „term dir = Label“."
+
+msgid "Available sort fields"
+msgstr "Verfügbare Sortierfelder"
+
+msgid "List of all available sort fields, among which some can be copied above."
+msgstr "Liste aller verfügbaren Sortierfelder, von denen einige oben kopiert werden können."
+
+msgid "Facets"
+msgstr "Facetten"
+
+msgid "List of facets"
+msgstr "Liste der Facetten"
+
+msgid "List of facets that will be displayed in the search page. Format is \"field"
+msgstr "Label\". = Liste der Facetten, die auf der Suchseite angezeigt werden.Das Format ist „field = Label“."
+
+msgid "Available facets"
+msgstr "Verfügbare Facetten"
+
+msgid "List of all available facets, among which some can be copied above."
+msgstr "Liste aller verfügbaren Facetten, von denen einige oben kopiert werden können."
+
+msgid "Maximum number of facet by field"
+msgstr "Maximale Anzahl von Facetten pro Feld"
+
+msgid "The maximum number of values fetched for each facet"
+msgstr "Die maximale Anzahl der für jede Facette abgerufenen Werte"
+
+msgid "Get facets from specific languages"
+msgstr "Erhalten Sie Facetten aus bestimmten Sprachen"
+
+msgid "Generally, facets are translated in the view, but in some cases, facet values may be translated directly in a multivalued property. Use \"|\" to separate multiple languages. Use a trailing \"|\" for values without language. When fields with languages (like subjects) and fields without language (like date) are facets, the empty language must be set to get results."
+msgstr "Im Allgemeinen werden Facetten in der Ansicht übersetzt, in einigen Fällen können Facettenwerte jedoch direkt in eine mehrwertige Eigenschaft übersetzt werden.Verwenden Sie „|“um mehrere Sprachen zu trennen.Verwenden Sie ein abschließendes „|“für Werte ohne Sprache.Wenn Felder mit Sprachen (z. B. Betreffzeilen) und Felder ohne Sprache (z. B. Datum) Facetten sind, muss die leere Sprache festgelegt werden, um Ergebnisse zu erhalten."
+
+msgid "Display the count of each facet"
+msgstr "Zeigen Sie die Anzahl jeder Facette an"
+
+msgid "Facet mode"
+msgstr "Facettenmodus"
+
+msgid "Send request with a button"
+msgstr "Anfrage per Button senden"
+
+msgid "Send request directly"
+msgstr "Anfrage direkt senden"
+
+msgid "Select an adapter below…"
+msgstr "Wählen Sie unten einen Adapter aus ..."
+
+msgid "Resources indexed"
+msgstr "Ressourcen indiziert"
+
+msgid "Select an index below…"
+msgstr "Wählen Sie unten einen Index aus ..."
+
+msgid "Select a form below…"
+msgstr "Wählen Sie unten ein Formular aus ..."
+
+msgid "Set as default search page for sites"
+msgstr "Als Standardsuchseite für Websites festlegen"
+
+msgid "The page will be made available on all selected sites. This param can be set in each site settings too."
+msgstr "Die Seite wird auf allen ausgewählten Websites verfügbar gemacht.Dieser Parameter kann auch in den einzelnen Site-Einstellungen festgelegt werden."
+
+msgid "Availability on sites"
+msgstr "Verfügbarkeit auf Websites"
+
+msgid "The admin settings are not modified."
+msgstr "Die Admin-Einstellungen werden nicht geändert."
+
+msgid "Make unavailable in all sites"
+msgstr "Auf allen Websites nicht verfügbar machen"
+
+msgid "Don’t modify"
+msgstr "Nicht ändern"
+
+msgid "Make available in all sites"
+msgstr "Auf allen Websites verfügbar machen"
+
+msgid "Specific settings"
+msgstr "Spezifische Einstellungen"
+
+msgid "All options should be updated when the search engine is updated"
+msgstr "Alle Optionen sollten aktualisiert werden, wenn die Suchmaschine aktualisiert wird"
+
+msgid "Maximum number of results by response"
+msgstr "Maximale Anzahl von Ergebnissen pro Antwort"
+
+msgid "It is recommended to keep the value low (under 100 or 1000) to avoid overload of the server, or to use a paginator."
+msgstr "Es wird empfohlen, den Wert niedrig zu halten (unter 100 oder 1000), um eine Überlastung des Servers zu vermeiden, oder einen Paginator zu verwenden."
+
+msgid "Mapping metadata to search fields"
+msgstr "Metadaten Suchfeldern zuordnen"
+
+msgid "Internal identifier"
+msgstr "Interner Bezeichner"
+
+msgid "Is Public"
+msgstr "Ist öffentlich"
+
+msgid "Owner id"
+msgstr "Besitzer-ID"
+
+msgid "Resource class label"
+msgstr "Bezeichnung der Ressourcenklasse"
+
+msgid "Resource class id"
+msgstr "Ressourcenklassen-ID"
+
+msgid "Resource template id"
+msgstr "Ressourcenvorlagen-ID"
+
+msgid "Item set id"
+msgstr "Artikelsatz-ID"
+
+msgid "Site id"
+msgstr "Site-ID"
+
+msgid "Is open"
+msgstr "Ist geöffnet"
+
+msgid "Mapping between source (omeka) and destination (search engine)"
+msgstr "Zuordnung zwischen Quelle (Omeka) und Ziel (Suchmaschine)"
+
+msgid "Available source fields for mapping"
+msgstr "Verfügbare Quellfelder für die Zuordnung"
+
+msgid "List of all available properties to use above."
+msgstr "Liste aller verfügbaren Eigenschaften zur Verwendung oben."
+
+msgid "Available destination fields for mapping"
+msgstr "Verfügbare Zielfelder für die Zuordnung"
+
+msgid "List of all available fields to use above."
+msgstr "Liste aller verfügbaren Felder zur Verwendung oben."
+
+msgid "Sort (for internal use only, don’t modify it)"
+msgstr "Sortieren (nur für den internen Gebrauch, nicht ändern)"
+
+msgid "An issue occurred."
+msgstr "Es ist ein Problem aufgetreten."
+
+msgid "This mode is currently not supported with the internal search engine."
+msgstr "Dieser Modus wird derzeit von der internen Suchmaschine nicht unterstützt."
+
+msgid "An internal issue in database occurred."
+msgstr "Es ist ein internes Problem in der Datenbank aufgetreten."
+
+msgid "The query \"%1$s\" uses %2$d properties, that is more than the %3$d supported currently. Excluded fields are removed."
+msgstr "Die Abfrage „%1$s“ verwendet %2$d Eigenschaften, das sind mehr als die derzeit unterstützten %3$d.Ausgeschlossene Felder werden entfernt."
+
+msgid "The query \"%1$s\" uses %2$d properties, that is more than the %3$d supported currently. Request is troncated."
+msgstr "Die Abfrage „%1$s“ verwendet %2$d Eigenschaften, das sind mehr als die derzeit unterstützten %3$d.Die Anfrage ist gekürzt."
+
+msgid "No query."
+msgstr "Keine Abfrage."
+
+msgid "An error occurred."
+msgstr "Es ist ein Fehler aufgetreten."
+
+msgid "This action requires an ajax request."
+msgstr "Diese Aktion erfordert eine Ajax-Anfrage."
+
+msgid "Not a search page for this site."
+msgstr "Keine Suchseite für diese Website."
+
+msgid "The search page has no querier."
+msgstr "Die Suchseite hat keinen Querier."
+
+msgid "Auto-suggestion is not enabled on this server."
+msgstr "Automatische Vorschläge sind auf diesem Server nicht aktiviert."
+
+msgid "Query error: %s\nQuery:%s"
+msgstr "Abfragefehler: %s\nAbfrage:%s"
+
+msgid "Search page \"%s\" created."
+msgstr "Suchseite „%s“ erstellt."
+
+msgid "You can enable this page in your site settings or in admin settings."
+msgstr "Sie können diese Seite in Ihren Site-Einstellungen oder in den Administratoreinstellungen aktivieren."
+
+msgid "The api adapter should be selected in the main settings."
+msgstr "Der API-Adapter sollte in den Haupteinstellungen ausgewählt werden."
+
+msgid "Search page \"%s\" saved."
+msgstr "Suchseite „%s“ gespeichert."
+
+msgid "The index adapter \"%s\" is unavailable."
+msgstr "Der Indexadapter „%s“ ist nicht verfügbar."
+
+msgid "This index adapter \"%s\" has no config form."
+msgstr "Dieser Indexadapter „%s“ hat kein Konfigurationsformular."
+
+msgid "There was an error during validation"
+msgstr "Bei der Validierung ist ein Fehler aufgetreten"
+
+msgid "Note that you didn’t set a trailing \"|\", so all values without language will be removed."
+msgstr "Beachten Sie, dass Sie kein nachgestelltes „|“ festgelegt haben, sodass alle Werte ohne Sprache entfernt werden."
+
+msgid "Configuration saved for page \"%s\"."
+msgstr "Konfiguration für Seite „%s“ gespeichert."
+
+msgid "Search page \"%s\" successfully deleted"
+msgstr "Suchseite „%s“ erfolgreich gelöscht"
+
+msgid "Search page \"%s\" could not be deleted"
+msgstr "Die Suchseite „%s“ konnte nicht gelöscht werden"
+
+msgid "The path should be unique."
+msgstr "Der Pfad sollte eindeutig sein."
+
+msgid "The path should be relative to the root of the site, like \"search\"."
+msgstr "Der Pfad sollte relativ zum Stammverzeichnis der Site sein, z. B. „Suche“."
+
+msgid "The page has been set by default in admin board."
+msgstr "Die Seite wurde standardmäßig im Admin-Board eingestellt."
+
+msgid "The page has been unset in admin board."
+msgstr "Die Seite wurde im Admin-Board deaktiviert."
+
+msgid "The page has been disabled in all specified sites."
+msgstr "Die Seite wurde auf allen angegebenen Websites deaktiviert."
+
+msgid "The page has been made available in all specified sites."
+msgstr "Die Seite wurde auf allen angegebenen Websites verfügbar gemacht."
+
+msgid "The availability of pages of sites was let unmodified."
+msgstr "Die Verfügbarkeit der Seiten der Websites wurde unverändert gelassen."
+
+msgid "Search index \"%s\" created."
+msgstr "Suchindex „%s“ erstellt."
+
+msgid "The adapter \"%s\" is not available."
+msgstr "Der Adapter „%s“ ist nicht verfügbar."
+
+msgid "Adapter settings"
+msgstr "Adaptereinstellungen"
+
+msgid "Search index \"%s\" successfully configured."
+msgstr "Suchindex „%s“ erfolgreich konfiguriert."
+
+msgid "Don’t forget to run the indexation of the core."
+msgstr "Vergessen Sie nicht, die Indexierung des Kerns durchzuführen."
+
+msgid "Indexing of \"%1$s\" started in job %2$s#%3$d%4$s (%5$slogs%4$s)"
+msgstr "Die Indizierung von „%1$s“ wurde im Job %2$s#%3$d%4$s gestartet (%5$slogs%4$s)"
+
+msgid "Search index \"%s\" successfully deleted"
+msgstr "Suchindex „%s“ erfolgreich gelöscht"
+
+msgid "Search index \"%s\" could not be deleted"
+msgstr "Der Suchindex „%s“ konnte nicht gelöscht werden"
+
+msgid "The path \"%s\" is already taken."
+msgstr "Der Pfad „%s“ ist bereits belegt."
+
+msgid "Main"
+msgstr "Hauptsächlich"
+
+msgid "Api"
+msgstr "API"
+
+msgid "Search index #%d (\"%s\"): there is no resource type to index or the indexation is not needed."
+msgstr "Suchindex #%d („%s“): Es gibt keinen zu indizierenden Ressourcentyp oder die Indizierung ist nicht erforderlich."
+
+msgid "Search index #%d (\"%s\"): There are already %d other jobs \"Search Index\" and the current one is not forced."
+msgstr "Suchindex #%d (\"%s\"): Es gibt bereits %d andere Jobs \"Suchindex\" und der aktuelle wird nicht erzwungen."
+
+msgid "There are already %d other jobs \"Indexing\". Slowdowns may occur on the site."
+msgstr "Es gibt bereits %d andere Jobs „Indizierung“.Es kann zu Verzögerungen auf der Website kommen."
+
+msgid "Search index #%d (\"%s\"): start of indexing"
+msgstr "Suchindex #%d (\"%s\"): Beginn der Indizierung"
+
+msgid "Search index is not cleared: reindexing starts at resource #%d."
+msgstr "Der Suchindex wurde nicht gelöscht: Die Neuindizierung beginnt bei Ressource #%d."
+
+msgid "Search index #%d (\"%s\"): the indexing was stopped. Nothing was indexed."
+msgstr "Suchindex #%d („%s“): Die Indizierung wurde gestoppt.Nichts wurde indiziert."
+
+msgid "%s: %d indexed"
+msgstr "%s: %d indiziert"
+
+msgid "Search index #%d (\"%s\"): the indexing was stopped. Last indexed resource: %s #%d; %s. Execution time: %d seconds."
+msgstr "Suchindex #%d („%s“): Die Indizierung wurde gestoppt.Letzte indizierte Ressource: %s #%d;%S.Ausführungszeit: %d Sekunden."
+
+msgid "Search index #%d (\"%s\"): end of indexing. %s. Execution time: %s seconds. Failed indexed resources should be checked manually."
+msgstr "Suchindex #%d (\"%s\"): Ende der Indizierung.%S.Ausführungszeit: %s Sekunden.Fehlgeschlagene indizierte Ressourcen sollten manuell überprüft werden."
+
+msgid "Internal [sql]"
+msgstr "Intern [SQL]"
+
+msgid "Search form (module Search)"
+msgstr "Suchformular (Modul Suche)"
+
+msgid "The search page #%d is not available for the site %s."
+msgstr "Die Suchseite #%d ist für die Website %s nicht verfügbar."
+
+msgid "Invalid navigation: browse link missing label"
+msgstr "Ungültige Navigation: Link zum Durchsuchen fehlt, Beschriftung"
+
+msgid "Invalid navigation: browse link missing search page id"
+msgstr "Ungültige Navigation: Durchsuchen-Link fehlt Suchseiten-ID"
+
+msgid "Form adapter \"%s\" not found."
+msgstr "Formularadapter „%s“ nicht gefunden."
+
+msgid "Automatic mapping of empty values"
+msgstr "Automatische Zuordnung leerer Werte"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Enabled"
+msgstr "Ermöglicht"
+
+msgid "Find"
+msgstr "Finden"
+
+msgid "Find resources…"
+msgstr "Finden Sie Ressourcen…"
+
+msgid "Processing…"
+msgstr "Verarbeitung…"
+
+msgid "Try to map automatically the metadata and the properties that are not mapped yet with the fields of the index"
+msgstr "Versuchen Sie, die Metadaten und Eigenschaften, die noch nicht zugeordnet sind, automatisch den Feldern des Index zuzuordnen"

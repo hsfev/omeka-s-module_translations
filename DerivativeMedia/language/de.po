@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+msgid "Derivative files"
+msgstr "Abgeleitete Dateien"
+
+msgid "This type is not supported."
+msgstr "Dieser Typ wird nicht unterstützt."
+
+msgid "This type is not available."
+msgstr "Dieser Typ ist nicht verfügbar."
+
+msgid "Resource is not an item."
+msgstr "Ressource ist kein Artikel."
+
+msgid "This derivative is ready. Reload the page."
+msgstr "Dieses Derivat ist fertig.Laden Sie die Seite neu."
+
+msgid "This derivative is not ready. Ask the webmaster for it."
+msgstr "Dieses Derivat ist noch nicht fertig.Fragen Sie den Webmaster danach."
+
+msgid "This type of derivative file cannot be prepared for this item."
+msgstr "Diese Art von abgeleiteter Datei kann für dieses Element nicht vorbereitet werden."
+
+msgid "This derivative files of this item cannot be prepared."
+msgstr "Diese abgeleiteten Dateien dieses Artikels können nicht erstellt werden."
+
+msgid "This derivative is being created. Come back later."
+msgstr "Dieses Derivat wird erstellt.Komm später wieder."
+
+msgid "Your browser does not support HTML5 audio, but you can download it: %s."
+msgstr "Ihr Browser unterstützt kein HTML5-Audio, Sie können es jedoch herunterladen: %s."
+
+msgid "Your browser does not support HTML5 video, but you can download it: %s."
+msgstr "Ihr Browser unterstützt kein HTML5-Video, Sie können es jedoch herunterladen: %s."
+
+msgid "Are you sure to download this file?"
+msgstr "Möchten Sie diese Datei wirklich herunterladen?"
+
+msgid "Are you sure to download the file of {size}?"
+msgstr "Sind Sie sicher, dass Sie die Datei mit der Größe {size} herunterladen?"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "The file is in queue. Reload the page later."
+msgstr "Die Datei befindet sich in der Warteschlange.Laden Sie die Seite später erneut."
+
+msgid "[\"Bytes\", \"KB\", \"MB\", \"GB\", \"TB\", \"PB\", \"EB\", \"ZB\", \"YB\"]"
+msgstr "[„Bytes“, „KB“, „MB“, „GB“, „TB“, „PB“, „EB“, „ZB“, „YB“]"
+
+msgid "A new option was added to enable specific converters."
+msgstr "Es wurde eine neue Option hinzugefügt, um bestimmte Konverter zu aktivieren."
+
+msgid "It is now possible to output a zip of all files of an item (format url: https://example.org/derivative/zip/{item_id})."
+msgstr "Es ist nun möglich, eine ZIP-Datei aller Dateien eines Artikels auszugeben (Format-URL: https://example.org/derivative/zip/{item_id})."
+
+msgid "Many new formats have been added: zip, text, alto, iiif, pdf."
+msgstr "Viele neue Formate wurden hinzugefügt: zip, text, alto, iiif, pdf."
+
+msgid "A resource page block allows to display the list of available derivatives of a resource."
+msgstr "Ein Ressourcenseitenblock ermöglicht die Anzeige der Liste der verfügbaren Derivate einer Ressource."
+
+msgid "Check {link_url}new settings{link_end}."
+msgstr "Überprüfen Sie die {link_url}neuen Einstellungen{link_end}."
+
+msgid "The module manages now http requests \"Content Range\" that allow to read files faster."
+msgstr "Das Modul verwaltet jetzt HTTP-Anfragen „Content Range“, die ein schnelleres Lesen von Dateien ermöglichen."
+
+msgid "Helpers \"derivativeMedia\" and \"hasDerivative\" were renamed \"derivatives\" and \"derivativeList\"."
+msgstr "Die Helfer „derivativeMedia“ und „hasDerivative“ wurden in „derivatives“ und „derivativeList“ umbenannt."
+
+msgid "The module manages now pdf files. Check {link_url}new settings{link_end}."
+msgstr "Das Modul verwaltet jetzt PDF-Dateien.Überprüfen Sie die {link_url}neuen Einstellungen{link_end}."
+
+msgid "It is now possible to run the job to create derivative and metadata by items. See {link_url}config form{link_end}."
+msgstr "Es ist jetzt möglich, den Job auszuführen, um abgeleitete Daten und Metadaten nach Elementen zu erstellen.Siehe {link_url}Konfigurationsformular{link_end}."
+
+msgid "Settings were updated. You may check {link_url}them{link_end}."
+msgstr "Die Einstellungen wurden aktualisiert.Sie können sie {link_url}sehen{link_end}."
+
+msgid "The directory \"{path}\" is not writeable."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar."
+
+msgid "The extension \"php-zip\" should be installed on the server to create Zip files."
+msgstr "Um Zip-Dateien zu erstellen, sollte die Erweiterung „php-zip“ auf dem Server installiert sein."
+
+msgid "Before compressing files with config tasks, the settings should be set in {link_url}main settings{link_end}."
+msgstr "Vor dem Komprimieren von Dateien mit Konfigurationsaufgaben sollten die Einstellungen in den {link_url}Haupteinstellungen{link_end} festgelegt werden."
+
+msgid "All derivative files will be kept in the folders specified in the config inside {path}."
+msgstr "Alle abgeleiteten Dateien werden in den Ordnern gespeichert, die in der Konfiguration in {path} angegeben sind."
+
+msgid "This page allows to launch background job to prepare static derivative files according to parameters set in %1$smain settings%2$s."
+msgstr "Auf dieser Seite können Sie einen Hintergrundjob starten, um statische abgeleitete Dateien gemäß den in %1$sHaupteinstellungen%2$s festgelegten Parametern vorzubereiten."
+
+msgid "No job launched."
+msgstr "Kein Job gestartet."
+
+msgid "The command \"ffmpeg\" should be available on the server to convert audio or video."
+msgstr "Zum Konvertieren von Audio oder Video sollte auf dem Server der Befehl „ffmpeg“ verfügbar sein."
+
+msgid "The command \"gs\" (ghostscript) should be available on the server to convert pdf."
+msgstr "Für die PDF-Konvertierung sollte auf dem Server der Befehl „gs“ (Ghostscript) verfügbar sein."
+
+msgid "Creating derivative media by items ({link_url}job #{job_id}{link_end}, {link_log}logs{link_end})"
+msgstr "Erstellen abgeleiteter Medien nach Elementen ({link_url}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})"
+
+msgid "Creating derivative media ({link_url}job #{job_id}{link_end}, {link_log}logs{link_end})"
+msgstr "Erstellen abgeleiteter Medien ({link_url}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})"
+
+msgid "Storing metadata for existing files ({link}job #{job_id}{link_end}, {link_log}logs{link_end})"
+msgstr "Speichern von Metadaten für vorhandene Dateien ({link}Job-Nr.{job_id}{link_end}, {link_log}Protokolle{link_end})"
+
+msgid "[Derivative Media] This module requires a local store currently."
+msgstr "[Derivative Medien] Dieses Modul erfordert derzeit einen lokalen Store."
+
+msgid "The command-line utility \"ffmpeg\" should be installed and should be available in the cli path to make audio and video derivatives."
+msgstr "Das Befehlszeilenprogramm „ffmpeg“ sollte installiert und im CLI-Pfad verfügbar sein, um Audio- und Videoderivate zu erstellen."
+
+msgid "The command-line utility \"gs\" (ghoscript) should be installed and should be available in the cli path to make pdf derivatives."
+msgstr "Das Befehlszeilendienstprogramm „gs“ (ghoscript) sollte installiert und im CLI-Pfad verfügbar sein, um PDF-Derivate zu erstellen."
+
+msgid "Zip of all files"
+msgstr "Zip aller Dateien"
+
+msgid "Zip of media files"
+msgstr "Zip der Mediendateien"
+
+msgid "Zip of other files"
+msgstr "Zip anderer Dateien"
+
+msgid "Pdf"
+msgstr "PDF"
+
+msgid "Extracted text"
+msgstr "Extrahierter Text"
+
+msgid "Ocr Xml Alto"
+msgstr "Ocr XML Alto"
+
+msgid "Iiif manifest v2"
+msgstr "Iiif-Manifest v2"
+
+msgid "Iiif manifest v3"
+msgstr "Iiif-Manifest v3"
+
+msgid "Text from pdf as xml"
+msgstr "Text aus PDF als XML"
+
+msgid "Unable to create directory."
+msgstr "Verzeichnis kann nicht erstellt werden."
+
+msgid "Unable to remove existing file."
+msgstr "Vorhandene Datei konnte nicht entfernt werden."
+
+msgid "The derivative is currently beeing created."
+msgstr "Das Derivat wird derzeit erstellt."
+
+msgid "To create xml alto, the module IiifSearch is required for now."
+msgstr "Um XML Alto zu erstellen, wird zunächst das Modul IiifSearch benötigt."
+
+msgid "To create iiif manifest, the module IiifServer is required for now."
+msgstr "Um ein iiif-Manifest zu erstellen, ist zunächst das Modul IiifServer erforderlich."
+
+msgid "Extraction can be done on a single pdf attached to an item."
+msgstr "Die Extraktion kann anhand einer einzelnen PDF-Datei erfolgen, die an einen Artikel angehängt ist."
+
+msgid "The php extension \"php-zip\" must be installed."
+msgstr "Die PHP-Erweiterung „php-zip“ muss installiert sein."
+
+msgid "Unable to create the zip file."
+msgstr "Die ZIP-Datei kann nicht erstellt werden."
+
+msgid "No item #{item_id}: no derivative media to create."
+msgstr "Kein Element #{item_id}: Es müssen keine abgeleiteten Medien erstellt werden."
+
+msgid "No media #{media_id}: no derivative media to create."
+msgstr "Kein Medium #{media_id}: Es müssen keine abgeleiteten Medien erstellt werden."
+
+msgid "Media #{media_id}: not an audio or video file."
+msgstr "Medien #{media_id}: keine Audio- oder Videodatei."
+
+msgid "The command-line utility \"ffmpeg\" and/or \"gs\" (ghostscript) should be installed and should be available in the cli path to make derivatives."
+msgstr "Das Befehlszeilenprogramm „ffmpeg“ und/oder „gs“ (Ghostscript) sollte installiert und im CLI-Pfad verfügbar sein, um Ableitungen zu erstellen."
+
+msgid "The derivative command \"{command}\" for {type} contains forbidden characters [$<>;&|%\"\..]."
+msgstr "Der abgeleitete Befehl „{command}“ für {type} enthält verbotene Zeichen [$<>;&|%“\..]."
+
+msgid "The derivative pattern \"{pattern}\" for {type} does not create a real path."
+msgstr "Das abgeleitete Muster „{pattern}“ für {type} erstellt keinen echten Pfad."
+
+msgid "A local store is required to derivate media currently."
+msgstr "Für die Ableitung von Medien ist derzeit ein lokaler Store erforderlich."
+
+msgid "The command-line utility \"ffmpeg\" should be installed and should be available in the cli path to make derivatives."
+msgstr "Das Befehlszeilendienstprogramm „ffmpeg“ sollte installiert und im CLI-Pfad verfügbar sein, um Derivate zu erstellen."
+
+msgid "The command-line utility \"gs\" (ghostscript) should be installed and should be available in the cli path to make derivatives."
+msgstr "Das Befehlszeilen-Dienstprogramm „gs“ (Ghostscript) sollte installiert und im CLI-Pfad verfügbar sein, um Derivate zu erstellen."
+
+msgid "Media #{media_id}: the original file does not exist ({filename})"
+msgstr "Medien #{media_id}: Die Originaldatei existiert nicht ({filename})"
+
+msgid "Media #{media_id}: the original file is not readable ({filename})."
+msgstr "Medien #{media_id}: Die Originaldatei ist nicht lesbar ({filename})."
+
+msgid "Media #{media_id}: Process stopped."
+msgstr "Medien #{media_id}: Prozess gestoppt."
+
+msgid "Media #{media_id}: the output cannot be the original folder."
+msgstr "Medien #{media_id}: Die Ausgabe darf nicht der Originalordner sein."
+
+msgid "Media #{media_id}: the derivative pattern \"{pattern}\" does not create a real path."
+msgstr "Medien #{media_id}: Das abgeleitete Muster „{pattern}“ erstellt keinen echten Pfad."
+
+msgid "Media #{media_id}: derivative media is not writeable ({filename})."
+msgstr "Medien #{media_id}: Abgeleitete Medien sind nicht beschreibbar ({filename})."
+
+msgid "Media #{media_id}: existing derivative media removed ({filename})."
+msgstr "Medien #{media_id}: vorhandene abgeleitete Medien entfernt ({filename})."
+
+msgid "Media #{media_id}: creating derivative media \"{filename}\"."
+msgstr "Medien #{media_id}: Abgeleitetes Medium „{filename}“ erstellen."
+
+msgid "Media #{media_id}: derivative media cannot be created ({filename})."
+msgstr "Medien #{media_id}: Abgeleitete Medien können nicht erstellt werden ({filename})."
+
+msgid "Media #{media_id}: Output results for \"{filename}\":\n{output}"
+msgstr "Medien #{media_id}: Ausgabeergebnisse für „{filename}“:\n{Ausgabe}"
+
+msgid "Media #{media_id}: derivative media is empty ({filename})."
+msgstr "Medien #{media_id}: Das abgeleitete Medium ist leer ({filename})."
+
+msgid "Media #{media_id}: derivative media is not audio, video, or pdf, but \"{mediatype}\" ({filename})."
+msgstr "Medien #{media_id}: Abgeleitete Medien sind kein Audio, Video oder PDF, sondern „{mediatype}“ ({filename})."
+
+msgid "Media #{media_id}: derivative media cannot be stored ({filename})."
+msgstr "Medien #{media_id}: Abgeleitete Medien können nicht gespeichert werden ({filename})."
+
+msgid "Media #{media_id}: derivative media created ({filename})."
+msgstr "Medien #{media_id}: abgeleitetes Medium erstellt ({filename})."
+
+msgid "Media #{media_id}: the derivative file is not readable ({filename})."
+msgstr "Medien #{media_id}: Die abgeleitete Datei ist nicht lesbar ({filename})."
+
+msgid "Media #{media_id}: the derivative file is empty ({filename})."
+msgstr "Medien #{media_id}: Die abgeleitete Datei ist leer ({filename})."
+
+msgid "Media #{media_id}: derivative media file metadata stored ({filename})."
+msgstr "Medien #{media_id}: Abgeleitete Metadaten der Mediendatei gespeichert ({filename})."
+
+msgid "No enabled type of derivative to process."
+msgstr "Kein aktivierter Derivattyp zur Verarbeitung."
+
+msgid "No items selected."
+msgstr "Keine Elemente ausgewählt."
+
+msgid "The job was stopped."
+msgstr "Der Job wurde gestoppt."
+
+msgid "Item #{item_id}: derivative files for types {types} created successfully."
+msgstr "Element #{item_id}: Abgeleitete Dateien für die Typen {types} erfolgreich erstellt."
+
+msgid "The query or the list of item sets output no items."
+msgstr "Die Abfrage oder die Liste der Artikelsätze gibt keine Artikel aus."
+
+msgid "No media to process for creation of derivative medias (on a total of {total} medias). You may check your query."
+msgstr "Keine zu verarbeitenden Medien für die Erstellung abgeleiteter Medien (insgesamt {total} Medien).Sie können Ihre Anfrage überprüfen."
+
+msgid "Processing creation of derivative medias of {total_process} medias (on a total of {total} medias)."
+msgstr "Verarbeitung der Erstellung abgeleiteter Medien von {total_process} Medien (auf insgesamt {total} Medien)."
+
+msgid "The job \"Derivative Media\" was stopped: {count}/{total} resources processed."
+msgstr "Der Auftrag „Derivative Medien“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "Media #{media_id} ({count}/{total}): creating derivative files."
+msgstr "Medien #{media_id} ({count}/{total}): Abgeleitete Dateien erstellen."
+
+msgid "Media #{media_id} ({count}/{total}): The media is not an audio, a video or a pdf file."
+msgstr "Medien #{media_id} ({count}/{total}): Das Medium ist keine Audio-, Video- oder PDF-Datei."
+
+msgid "End of the creation of derivative files: {count}/{total} processed, {skipped} skipped, {succeed} succeed, {failed} failed."
+msgstr "Ende der Erstellung abgeleiteter Dateien: {count}/{total} verarbeitet, {skipped} übersprungen, {succeed} erfolgreich, {failed} fehlgeschlagen."
+
+msgid "No media to process for storing metadata of derivative medias (on a total of {total} medias). You may check your query."
+msgstr "Es müssen keine Medien zum Speichern von Metadaten abgeleiteter Medien verarbeitet werden (insgesamt {total} Medien).Sie können Ihre Anfrage überprüfen."
+
+msgid "Processing storing metadata of derivative medias of {total_process} medias (on a total of {total} medias)."
+msgstr "Verarbeitung und Speicherung von Metadaten abgeleiteter Medien von {total_process} Medien (auf insgesamt {total} Medien)."
+
+msgid "The job \"Storing metadata\" was stopped: {count}/{total} resources processed."
+msgstr "Der Job „Speichern von Metadaten“ wurde gestoppt: {count}/{total} Ressourcen verarbeitet."
+
+msgid "Media #{media_id} ({count}/{total}): storing metadata of derivative files."
+msgstr "Medien #{media_id} ({count}/{total}): Speicherung von Metadaten abgeleiteter Dateien."
+
+msgid "Media #{media_id} ({count}/{total}): The media is not an audio or video file."
+msgstr "Medien #{media_id} ({count}/{total}): Das Medium ist keine Audio- oder Videodatei."
+
+msgid "End of the process to store metadata of derivative files: {count}/{total} processed, {skipped} skipped, {succeed} succeed, {failed} failed."
+msgstr "Ende des Prozesses zum Speichern von Metadaten abgeleiteter Dateien: {count}/{total} verarbeitet, {skipped} übersprungen, {succeed} erfolgreich, {failed} fehlgeschlagen."
+
+msgid "Derivative Media"
+msgstr "Derivative Medien"
+
+msgid "Formats to convert"
+msgstr "Zu konvertierende Formate"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Zip item files"
+msgstr "Artikeldateien komprimieren"
+
+msgid "Zip item image/audio/video files"
+msgstr "Bild-/Audio-/Videodateien des Elements komprimieren"
+
+msgid "Zip item other files"
+msgstr "Zip-Element anderer Dateien"
+
+msgid "Pdf from images files"
+msgstr "PDF aus Bilddateien"
+
+msgid "Single text file from by-page txt files"
+msgstr "Einzelne Textdatei aus seitenbezogenen TXT-Dateien"
+
+msgid "Single text file from property \"extracted text\""
+msgstr "Einzelne Textdatei aus der Eigenschaft „extrahierter Text“"
+
+msgid "Single xml Alto from by-page xml Alto (standard ocr format, require Iiif Search)"
+msgstr "Einzelnes XML Alto aus seitenweisem XML Alto (Standard-OCR-Format, erfordert Iiif-Suche)"
+
+msgid "Iiif manifest (version 2, require Iiif Server)"
+msgstr "Iiif-Manifest (Version 2, erfordert Iiif-Server)"
+
+msgid "Iiif manifest (version 3, require Iiif Server)"
+msgstr "Iiif-Manifest (Version 3, erfordert Iiif-Server)"
+
+msgid "Text as xml from a single pdf, mainly for Iiif Search"
+msgstr "Text als XML aus einem einzigen PDF, hauptsächlich für die Iiif-Suche"
+
+msgid "Create or update derivative files on individual save (not batch process)"
+msgstr "Erstellen oder aktualisieren Sie abgeleitete Dateien beim einzelnen Speichern (kein Batch-Prozess)"
+
+msgid "Quick processes can be done during a web request (30 seconds); heavy processes are audio, video, pdf and zip with many big files and require a background job. Audio and video processes are never reprocessed, since the original cannot change."
+msgstr "Schnelle Prozesse können während einer Webanfrage durchgeführt werden (30 Sekunden);Schwerwiegende Prozesse sind Audio, Video, PDF und Zip mit vielen großen Dateien und erfordern einen Hintergrundjob.Audio- und Videoprozesse werden niemals erneut verarbeitet, da sich das Original nicht ändern kann."
+
+msgid "No (may need manual process)"
+msgstr "Nein (möglicherweise ist ein manueller Vorgang erforderlich)"
+
+msgid "Update only existing derivative files (quick processes only)"
+msgstr "Nur vorhandene abgeleitete Dateien aktualisieren (nur schnelle Prozesse)"
+
+msgid "Update only existing derivative files"
+msgstr "Aktualisieren Sie nur vorhandene abgeleitete Dateien"
+
+msgid "Create and update all quick derivatives"
+msgstr "Erstellen und aktualisieren Sie alle schnellen Ableitungen"
+
+msgid "Create and update all derivatives (take care of disk space and server overload)"
+msgstr "Alle Derivate erstellen und aktualisieren (auf Speicherplatz und Serverüberlastung achten)"
+
+msgid "Max total media size in megabytes to prepare a derivative file live"
+msgstr "Maximale Gesamtmediengröße in Megabyte, um eine abgeleitete Datei live vorzubereiten"
+
+msgid "Audio converters"
+msgstr "Audiokonverter"
+
+msgid "Each converter is one row with a filepath pattern, a \"=\", and the ffmpeg command (without file)."
+msgstr "Jeder Konverter besteht aus einer Zeile mit einem Dateipfadmuster, einem „=\" und dem Befehl ffmpeg (ohne Datei)."
+
+msgid "Append original audio"
+msgstr "Originalton anhängen"
+
+msgid "Video converters"
+msgstr "Videokonverter"
+
+msgid "Append original video"
+msgstr "Originalvideo anhängen"
+
+msgid "Pdf converters"
+msgstr "PDF-Konverter"
+
+msgid "Each converter is one row with a filepath pattern, a \"=\", and the gs command (ghostscript, without file)."
+msgstr "Jeder Konverter besteht aus einer Zeile mit einem Dateipfadmuster, einem „=\" und dem gs-Befehl (Ghostscript, ohne Datei)."
+
+msgid "Create derivatives by items"
+msgstr "Erstellen Sie Ableitungen nach Artikeln"
+
+msgid "Query items"
+msgstr "Elemente abfragen"
+
+msgid "Create derivative files by items in background"
+msgstr "Erstellen Sie abgeleitete Dateien nach Elementen im Hintergrund"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "Create derivatives by media"
+msgstr "Erstellen Sie Derivate nach Medien"
+
+msgid "Select item sets…"
+msgstr "Artikelsets auswählen…"
+
+msgid "Ingesters"
+msgstr "Ingester"
+
+msgid "Renderers"
+msgstr "Renderer"
+
+msgid "Media types"
+msgstr "Medientypen"
+
+msgid "Media ids"
+msgstr "Medien-IDs"
+
+msgid "Create derivative files in background"
+msgstr "Erstellen Sie abgeleitete Dateien im Hintergrund"
+
+msgid "Store metadata for existing files in directories"
+msgstr "Speichern Sie Metadaten für vorhandene Dateien in Verzeichnissen"
+
+msgid "When files are created outside of Omeka and copied in the right directories (webm/, mp3/, etc.) with the right names (same as original and extension), Omeka should record some metadata to be able to render them."
+msgstr "Wenn Dateien außerhalb von Omeka erstellt und in die richtigen Verzeichnisse (webm/, mp3/ usw.) mit den richtigen Namen (wie Original und Erweiterung) kopiert werden, sollte Omeka einige Metadaten aufzeichnen, um sie rendern zu können."
+
+msgid "Update metadata"
+msgstr "Metadaten aktualisieren"
+
+msgid "Derivative Media List"
+msgstr "Liste abgeleiteter Medien"

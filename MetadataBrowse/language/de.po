@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "If checked, the properties selected below will be linked on the admin side, overriding all site-specific settings. Each site's own settings will be reflected on the public side. Otherwise, the admin side will reflect the aggregated settings for all sites; anything selected to be a link in any site will be a link on the admin side."
+msgstr "Wenn diese Option aktiviert ist, werden die unten ausgewählten Eigenschaften auf der Administratorseite verknüpft und überschreiben alle standortspezifischen Einstellungen.Die eigenen Einstellungen jeder Site werden auf der öffentlichen Seite widergespiegelt.Andernfalls spiegelt die Administratorseite die aggregierten Einstellungen für alle Websites wider;Alles, was auf einer Website als Link ausgewählt wird, ist ein Link auf der Admin-Seite."
+
+msgid "Choose properties from the sidebar to be searchable on the admin side."
+msgstr "Wählen Sie in der Seitenleiste Eigenschaften aus, die auf der Administratorseite durchsuchbar sind."
+
+msgid "Select properties to be searchable"
+msgstr "Wählen Sie Eigenschaften aus, die durchsuchbar sein sollen"
+
+msgid "See all %s with this value"
+msgstr "Alle %s mit diesem Wert anzeigen"
+
+msgid "Metadata Browse"
+msgstr "Metadaten durchsuchen"
+
+msgid "Choose properties from the sidebar to be searchable"
+msgstr "Wählen Sie in der Seitenleiste Eigenschaften aus, die durchsuchbar sein sollen"
+
+msgid "Property to be removed"
+msgstr "Zu entfernende Eigenschaft"
+
+msgid "Use global configuration on admin side"
+msgstr "Verwenden Sie die globale Konfiguration auf der Administratorseite"
+
+msgid "Direct Links"
+msgstr "Direkte Links"
+
+msgid "Instead of printing a separate link for each value, apply the link to the value itself."
+msgstr "Anstatt für jeden Wert einen separaten Link zu drucken, wenden Sie den Link auf den Wert selbst an."

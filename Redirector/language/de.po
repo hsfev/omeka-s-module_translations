@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Redirector"
+msgstr "Umleiter"
+
+msgid "Redirections from any resource to any page or url"
+msgstr "Weiterleitungen von jeder Ressource zu jeder Seite oder URL"
+
+msgid "Set the resource id, then the sign \"=\", then a page slug or a url, relative or absolute."
+msgstr "Legen Sie die Ressourcen-ID fest, dann das Zeichen „=\", dann einen Seiten-Slug oder eine URL, relativ oder absolut."
+
+msgid "Check rights to view resource before redirection"
+msgstr "Überprüfen Sie vor der Umleitung die Rechte zum Anzeigen der Ressource"

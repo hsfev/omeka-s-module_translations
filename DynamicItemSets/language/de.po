@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "To avoid compatibility issue, the module {module} should be version {version} or greater."
+msgstr "Um Kompatibilitätsprobleme zu vermeiden, sollte das Modul {module} die Version {version} oder höher haben."
+
+msgid "When present, the module requires module {module} version {version} or greater."
+msgstr "Wenn vorhanden, erfordert das Modul die Modul-{Modul}-Version {Version} oder höher."
+
+msgid "Is dynamic"
+msgstr "Ist dynamisch"
+
+msgid "Search dynamic item sets"
+msgstr "Durchsuchen Sie dynamische Artikelsätze"
+
+msgid "The attached items to an item set are no more detached when the query is removed."
+msgstr "Die an einen Elementsatz angehängten Elemente werden nicht mehr getrennt, wenn die Abfrage entfernt wird."
+
+msgid "A new setting allows to set static item sets filled dynamically. When an item is saved, it will be included in item sets matching queries. Unlike dynamic item sets, an item won’t be removed from an item set automatically when the metadata does not match a query any more."
+msgstr "Eine neue Einstellung ermöglicht es, statische Item-Sets festzulegen, die dynamisch gefüllt werden.Wenn ein Artikel gespeichert wird, wird er in Artikelsätze aufgenommen, die Abfragen entsprechen.Im Gegensatz zu dynamischen Elementgruppen wird ein Element nicht automatisch aus einer Elementgruppe entfernt, wenn die Metadaten nicht mehr mit einer Abfrage übereinstimmen."
+
+msgid "The query to attach items cannot contain the item set itself."
+msgstr "Die Abfrage zum Anhängen von Elementen darf nicht den Elementsatz selbst enthalten."
+
+msgid "The query for the item set was changed: a job is run in background to detach and to attach items (job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Die Abfrage für den Elementsatz wurde geändert: Ein Job wird im Hintergrund ausgeführt, um Elemente zu trennen und anzuhängen (Job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+
+msgid "Query to make this item set dynamic in order to include and to exclude items automatically"
+msgstr "Abfrage, um diesen Elementsatz dynamisch zu machen, um Elemente automatisch einzuschließen und auszuschließen"
+
+msgid "Dynamic item sets: Reindex item sets"
+msgstr "Dynamische Elementgruppen: Elementgruppen neu indizieren"
+
+msgid "Options to reindex dynamic item sets"
+msgstr "Optionen zum Neuindizieren dynamischer Elementmengen"
+
+msgid "Run events"
+msgstr "Führen Sie Veranstaltungen durch"
+
+msgid "This option is used to reindex external search engine at the same time, but it is generally simpler to reindex it separately."
+msgstr "Diese Option wird verwendet, um gleichzeitig eine externe Suchmaschine neu zu indizieren. Im Allgemeinen ist es jedoch einfacher, sie separat neu zu indizieren."
+
+msgid "Is dynamic item set"
+msgstr "Ist ein dynamischer Elementsatz"
+
+msgid "Is not dynamic"
+msgstr "Ist nicht dynamisch"
+
+msgid "Any"
+msgstr "Beliebig"
+
+msgid "No item set to process."
+msgstr "Kein zu verarbeitendes Element festgelegt."
+
+msgid "Processing attach/detach items from {total} item sets."
+msgstr "Das Anhängen bzw. Trennen von Elementen aus {total} Elementgruppen wird verarbeitet."
+
+msgid "The following item sets does not exist or you don’t have the right to manage them: #{item_set_ids}."
+msgstr "Die folgenden Elementgruppen sind nicht vorhanden oder Sie haben nicht das Recht, sie zu verwalten: #{item_set_ids}."
+
+msgid "The following item sets have no more query and items attached to it are kept: #{item_set_ids}."
+msgstr "Für die folgenden Elementgruppen gibt es keine Abfrage mehr und die damit verbundenen Elemente werden beibehalten: #{item_set_ids}."
+
+msgid "No more item sets to process."
+msgstr "Es müssen keine weiteren Elementsätze verarbeitet werden."
+
+msgid "Process ended for item set #{item_set_id}: {count} items are attached."
+msgstr "Prozess für Artikelsatz #{item_set_id} beendet: {count} Artikel sind angehängt."
+
+msgid "Process ended for item set #{item_set_id}: {count} items were attached, {count_2} items were detached, {count_3} new items were attached."
+msgstr "Der Prozess für den Artikelsatz #{item_set_id} wurde beendet: {count_} Artikel wurden angehängt, {count_2} Artikel wurden getrennt, {count_3} neue Artikel wurden angehängt."
+
+msgid "Processing attach/detach items from {total} item sets ended."
+msgstr "Die Verarbeitung von Elementen zum Anhängen/Entfernen von {total} Elementsätzen wurde beendet."
+
+msgid "{total} new items attached to item set #{item_set_id}."
+msgstr "{total} neue Artikel an Artikelset #{item_set_id} angehängt."
+
+msgid "{count}/{total} new items attached to item set #{item_set_id}."
+msgstr "{count}/{total} neue Artikel, die an den Artikelsatz #{item_set_id} angehängt sind."
+
+msgid "Dynamic item sets"
+msgstr "Dynamische Artikelsätze"
+
+msgid "Static item sets filled dynamically"
+msgstr "Statische Elementsätze werden dynamisch gefüllt"
+
+msgid "When an item is saved, it will be included in item sets matching queries, separated with a \"=\". Queries are standard Omeka searches. Unlike dynamic item sets, an item won’t be removed from an item set automatically when the metadata does not match a query any more. Dynamic item sets should not be set here."
+msgstr "Wenn ein Element gespeichert wird, wird es in Elementgruppen aufgenommen, die Abfragen entsprechen, getrennt durch ein „=\".Abfragen sind Standard-Omeka-Suchen.Im Gegensatz zu dynamischen Elementgruppen wird ein Element nicht automatisch aus einer Elementgruppe entfernt, wenn die Metadaten nicht mehr mit einer Abfrage übereinstimmen.Dynamische Item-Sets sollten hier nicht eingestellt werden."

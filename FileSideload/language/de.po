@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "No ingest directory specified."
+msgstr "Kein Aufnahmeverzeichnis angegeben."
+
+msgid "Illegal ingest directory specified."
+msgstr "Ungültiges Aufnahmeverzeichnis angegeben."
+
+msgid "Ingest directory \"%s\" is not writeable but the config requires deletion after upload."
+msgstr "Das Aufnahmeverzeichnis „%s“ ist nicht beschreibbar, aber die Konfiguration muss nach dem Hochladen gelöscht werden."
+
+msgid "Invalid ingest directory \"%s\" specified: not a directory"
+msgstr "Ungültiges Aufnahmeverzeichnis „%s“ angegeben: kein Verzeichnis"
+
+msgid "Invalid ingest directory \"%s\" specified: incorrect path or insufficient permissions"
+msgstr "Ungültiges Aufnahmeverzeichnis „%s“ angegeben: falscher Pfad oder unzureichende Berechtigungen"
+
+msgid "Ingest directory \"%s\" is empty."
+msgstr "Das Aufnahmeverzeichnis „%s“ ist leer."
+
+msgid "Sideload directory"
+msgstr "Sideload-Verzeichnis"
+
+msgid "Enter the absolute path to the directory where files to be sideloaded will be added. The directory can be anywhere on your server."
+msgstr "Geben Sie den absoluten Pfad zu dem Verzeichnis ein, in dem die seitlich zu ladenden Dateien hinzugefügt werden.Das Verzeichnis kann sich an einer beliebigen Stelle auf Ihrem Server befinden."
+
+msgid "Delete sideloaded file?"
+msgstr "Seitlich geladene Datei löschen?"
+
+msgid "Do you want to delete a file from the sideload directory after it has been sideloaded? If so, the directory must be server-writable."
+msgstr "Möchten Sie eine Datei aus dem Sideload-Verzeichnis löschen, nachdem sie per Sideload geladen wurde?Wenn ja, muss das Verzeichnis vom Server beschreibbar sein."
+
+msgid "Maximum number of files to list"
+msgstr "Maximale Anzahl aufzulistender Dateien"
+
+msgid "Maximum number of directories to list"
+msgstr "Maximale Anzahl aufzulistender Verzeichnisse"
+
+msgid "The provided sideload directory is not a directory or does not have sufficient permissions."
+msgstr "Das bereitgestellte Sideload-Verzeichnis ist kein Verzeichnis oder verfügt nicht über ausreichende Berechtigungen."
+
+msgid "Sideload"
+msgstr "Seitenladen"
+
+msgid "No ingest filename specified"
+msgstr "Kein Aufnahmedateiname angegeben"
+
+msgid "Cannot sideload file \"%s\". File does not exist or does not have sufficient permissions"
+msgstr "Die Datei „%s“ kann nicht seitlich geladen werden.Die Datei existiert nicht oder verfügt nicht über ausreichende Berechtigungen"
+
+msgid "No file: add files in the directory or check its path"
+msgstr "Keine Datei: Fügen Sie Dateien zum Verzeichnis hinzu oder überprüfen Sie dessen Pfad"
+
+msgid "Select a file to sideload… (only first ones are listed)"
+msgstr "Wählen Sie eine Datei zum Querladen aus … (nur die ersten werden aufgelistet)"
+
+msgid "Select a file to sideload…"
+msgstr "Wählen Sie eine Datei zum Querladen aus …"
+
+msgid "No ingest directory specified"
+msgstr "Kein Aufnahmeverzeichnis angegeben"
+
+msgid "Cannot sideload file \"%s\". File does not exist or is not inside main directory or does not have sufficient permissions"
+msgstr "Die Datei „%s“ kann nicht seitlich geladen werden.Die Datei existiert nicht, befindet sich nicht im Hauptverzeichnis oder verfügt nicht über ausreichende Berechtigungen"
+
+msgid "Cannot sideload file \"%s\": ingestion of directory \"%s\" is not set recursive"
+msgstr "Datei „%s“ kann nicht seitlich geladen werden: Die Aufnahme des Verzeichnisses „%s“ ist nicht rekursiv eingestellt"
+
+msgid "No directory: add directories in the directory or check its path"
+msgstr "Kein Verzeichnis: Fügen Sie Verzeichnisse im Verzeichnis hinzu oder überprüfen Sie seinen Pfad"
+
+msgid "Select a directory to sideload all files inside… (only first ones are listed)"
+msgstr "Wählen Sie ein Verzeichnis aus, um alle darin enthaltenen Dateien seitlich zu laden ... (nur die ersten werden aufgelistet)"
+
+msgid "Select a directory to sideload all files inside…"
+msgstr "Wählen Sie ein Verzeichnis aus, um alle darin enthaltenen Dateien seitlich zu laden ..."
+
+msgid "Directory"
+msgstr "Verzeichnis"
+
+msgid "Directories and files without sufficient permissions are skipped."
+msgstr "Verzeichnisse und Dateien ohne ausreichende Berechtigungen werden übersprungen."
+
+msgid "Ingest directory recursively"
+msgstr "Verzeichnis rekursiv aufnehmen"

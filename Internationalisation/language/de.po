@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "The \"%s\" field is not available in the %s entity class."
+msgstr "Das Feld „%s“ ist in der Entitätsklasse %s nicht verfügbar."
+
+msgid "Choose any page from any site."
+msgstr "Wählen Sie eine beliebige Seite von einer beliebigen Website aus."
+
+msgid "If a page of a private site is selected, it will be hidden on the public side."
+msgstr "Wenn eine Seite einer privaten Website ausgewählt wird, wird sie auf der öffentlichen Seite ausgeblendet."
+
+msgid "The current page and recursive pages are forbidden."
+msgstr "Die aktuelle Seite und rekursive Seiten sind verboten."
+
+msgid "New language"
+msgstr "Neue Sprache"
+
+msgid "Translations"
+msgstr "Übersetzungen"
+
+msgid "Languages for sites"
+msgstr "Sprachen für Websites"
+
+msgid "Add language"
+msgstr "Sprache hinzufügen"
+
+msgid "Reindex"
+msgstr "Neu indizieren"
+
+msgid "Select language"
+msgstr "Sprache auswählen"
+
+msgid "Delete languages"
+msgstr "Sprachen löschen"
+
+msgid "Are you sure you would like to delete the selected languages?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Sprachen löschen möchten?"
+
+msgid "%1$s: this action will permanently delete %2$s languages and cannot be undone."
+msgstr "%1$s: Diese Aktion löscht %2$s Sprachen dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all languages?"
+msgstr "Sind Sie sicher, dass Sie alle Sprachen löschen möchten?"
+
+msgid "Omeka could not find any languages."
+msgstr "Omeka konnte keine Sprachen finden."
+
+msgid "Delete language \"%s\""
+msgstr "Sprache „%s“ löschen"
+
+msgid "Are you sure you would like to delete %d translation for language \"%s\"?"
+msgstr "Sind Sie sicher, dass Sie %d Übersetzung für Sprache „%s“ löschen möchten?"
+
+msgid "Are you sure you would like to delete %d translations for language \"%s\"?"
+msgstr "Sind Sie sicher, dass Sie %d Übersetzungen für die Sprache „%s“ löschen möchten?"
+
+msgid "Delete translations for \"%s\""
+msgstr "Übersetzungen für „%s“ löschen"
+
+msgid "No translated strings."
+msgstr "Keine übersetzten Zeichenfolgen."
+
+msgid "String"
+msgstr "Zeichenfolge"
+
+msgid "Translation"
+msgstr "Übersetzung"
+
+msgid "The module {module} should be upgraded to version {version} or later."
+msgstr "Das Modul {module} sollte auf die Version {version} oder höher aktualisiert werden."
+
+msgid "The language switcher is now available as a page block and as a resource block."
+msgstr "Der Sprachumschalter ist jetzt als Seitenblock und als Ressourcenblock verfügbar."
+
+msgid "The directory \"{path}\" is not writeable."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar."
+
+msgid "It is now possible to translate strings in admin via the {link}page of translations{link_end}."
+msgstr "Es ist jetzt möglich, Zeichenfolgen im Adminbereich über die {link}Übersetzungsseite{link_end} zu übersetzen."
+
+msgid "If you used the module {link}Table{link_end} to manage translations, just copy them manually in the new form, remove tables and update settings. The settings are kept to manage specific translations."
+msgstr "Wenn Sie das Modul {link}Tabelle{link_end} zum Verwalten von Übersetzungen verwendet haben, kopieren Sie diese einfach manuell in das neue Formular, entfernen Sie Tabellen und aktualisieren Sie die Einstellungen.Die Einstellungen werden beibehalten, um bestimmte Übersetzungen zu verwalten."
+
+msgid "The composer vendor is not ready. See module’s installation documentation."
+msgstr "Der Composer-Anbieter ist nicht bereit.Siehe Installationsdokumentation des Moduls."
+
+msgid "The php extension \"intl\" is not available. It is recommended to install it to manage diacritics and non-latin characters and to translate dates, numbers and more."
+msgstr "Die PHP-Erweiterung „intl“ ist nicht verfügbar.Es wird empfohlen, es zu installieren, um diakritische Zeichen und nicht-lateinische Zeichen zu verwalten und Datumsangaben, Zahlen und mehr zu übersetzen."
+
+msgid "Remove all groups"
+msgstr "Alle Gruppen entfernen"
+
+msgid "The selected pages will be translations of the current page within a site group, that must be defined. The language switcher displays only one related page by site."
+msgstr "Bei den ausgewählten Seiten handelt es sich um Übersetzungen der aktuellen Seite innerhalb einer Site-Gruppe, die definiert werden muss.Der Sprachumschalter zeigt nur eine verwandte Seite pro Site an."
+
+msgid "Select translations of this page…"
+msgstr "Wählen Sie Übersetzungen dieser Seite aus…"
+
+msgid "The site #{site_id} cannot be copied. Check your rights."
+msgstr "Die Site #{site_id} kann nicht kopiert werden.Prüfen Sie Ihre Rechte."
+
+msgid "Remove/copy processes have been done for site \"{site_slug}\"."
+msgstr "Für die Site „{site_slug}“ wurden Lösch-/Kopiervorgänge durchgeführt."
+
+msgid "A job was launched in background to copy site data: ({link_job}job #{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Im Hintergrund wurde ein Job gestartet, um Website-Daten zu kopieren: ({link_job}Job #{job_id}{link_end}, {link_log}logs{link_end})."
+
+msgid "The file \"{file}\" is not writeable."
+msgstr "Die Datei „{file}“ ist nicht beschreibbar."
+
+msgid "The tables \"{tables}\" does not exist."
+msgstr "Die Tabellen „{tables}“ existieren nicht."
+
+msgid "The following tables are included for internationalisation in site settings, but have no defined language: {table_slugs}."
+msgstr "Die folgenden Tabellen sind zur Internationalisierung in den Site-Einstellungen enthalten, haben jedoch keine definierte Sprache: {table_slugs}."
+
+msgid "The directory \"{path}\" is not writeable: {error}."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar: {error}."
+
+msgid "The site #{site_id} is not available for copy. Check your rights."
+msgstr "Die Site #{site_id} ist nicht zum Kopieren verfügbar.Prüfen Sie Ihre Rechte."
+
+msgid "Check logs: an error occurred."
+msgstr "Protokolle prüfen: Es ist ein Fehler aufgetreten."
+
+msgid "Site settings of \"{site_slug}\" successfully removed."
+msgstr "Site-Einstellungen von „{site_slug}“ erfolgreich entfernt."
+
+msgid "{total} site permissions removed from \"{site_slug}\"."
+msgstr "{total} Site-Berechtigungen von „{site_slug}“ entfernt."
+
+msgid "{total} site pages removed from \"{site_slug}\"."
+msgstr "{total} Site-Seiten wurden aus „{site_slug}“ entfernt."
+
+msgid "{total} collecting forms removed from \"{site_slug}\"."
+msgstr "{total} Sammelformulare wurden von „{site_slug}“ entfernt."
+
+msgid "Site settings of \"{site_slug}\" successfully copied into \"{site_slug_2}\"."
+msgstr "Site-Einstellungen von „{site_slug}“ erfolgreich nach „{site_slug_2}“ kopiert."
+
+msgid "The page slug \"{page_slug}\" from the source has been renamed \"{slug}\"."
+msgstr "Der Seiten-Slug „{page_slug}“ aus der Quelle wurde in „{slug}“ umbenannt."
+
+msgid "Unable to copy page \"{page_slug}\" of site \"{site_slug}\". The page is skipped."
+msgstr "Die Seite „{page_slug}“ der Website „{site_slug}“ konnte nicht kopiert werden.Die Seite wird übersprungen."
+
+msgid "{total} site pages of \"{site_slug}\" successfully copied into \"{site_slug_2}\" (mode \"{mode}\")."
+msgstr "{total} Site-Seiten von „{site_slug}“ wurden erfolgreich in „{site_slug_2}“ kopiert (Modus „{mode}“)."
+
+msgid "The module Collecting is a new version and is not copiable for now. Copy forms manually if needed."
+msgstr "Das Modul Sammeln ist eine neue Version und derzeit nicht kopierbar.Kopieren Sie Formulare bei Bedarf manuell."
+
+msgid "{total} collecting forms from site \"{site_slug}\" were successfully copied into \"{site_slug_2}\"."
+msgstr "{total} Sammelformulare von der Website „{site_slug}“ wurden erfolgreich in „{site_slug_2}“ kopiert."
+
+msgid "The full text for page {page_slug} was not saved. Run indexation of full text manually in main settings or in tasks of Easy Admin. Exception: {exception}"
+msgstr "Der vollständige Text für Seite {page_slug} wurde nicht gespeichert.Führen Sie die Volltextindizierung manuell in den Haupteinstellungen oder in den Aufgaben von Easy Admin durch.Ausnahme: {Ausnahme}"
+
+msgid "Internationalisation"
+msgstr "Internationalisierung"
+
+msgid "All values"
+msgstr "Alle Werte"
+
+msgid "All values, with language of the site first"
+msgstr "Alle Werte, zuerst die Sprache der Website"
+
+msgid "All values, with language of the site or iso fallback first"
+msgstr "Alle Werte, mit der Sprache der Site oder dem ISO-Fallback zuerst"
+
+msgid "All values, with language of the site or custom fallback first"
+msgstr "Alle Werte, zuerst mit der Sprache der Website oder dem benutzerdefinierten Fallback"
+
+msgid "Only values with the language of the site"
+msgstr "Nur Werte mit der Sprache der Website"
+
+msgid "Only values with the language of the site, with iso fallback"
+msgstr "Nur Werte mit der Sprache der Website, mit ISO-Fallback"
+
+msgid "Only values with the language of the site, with custom fallback"
+msgstr "Nur Werte mit der Sprache der Website, mit benutzerdefiniertem Fallback"
+
+msgid "Display only the values in the specified language. It applies only for properties that contains at least one value with a language. The option can be overridden in the theme."
+msgstr "Zeigt nur die Werte in der angegebenen Sprache an.Dies gilt nur für Eigenschaften, die mindestens einen Wert mit einer Sprache enthalten.Die Option kann im Theme überschrieben werden."
+
+msgid "Display only the values in the specified language. This option is available only when the site has a language."
+msgstr "Zeigt nur die Werte in der angegebenen Sprache an.Diese Option ist nur verfügbar, wenn die Site über eine Sprache verfügt."
+
+msgid "Tables to use for special translations"
+msgstr "Tabellen zur Verwendung für spezielle Übersetzungen"
+
+msgid "The module Table allows to translate strings in admin board. The tables should have a language."
+msgstr "Das Modul Table ermöglicht die Übersetzung von Strings im Admin-Board.Die Tabellen sollten eine Sprache haben."
+
+msgid "The module Table allows to translate strings in admin board. Separate tables slugs with a space. The tables should have a language."
+msgstr "Das Modul Table ermöglicht die Übersetzung von Strings im Admin-Board.Trennen Sie Tabellen-Slugs durch ein Leerzeichen.Die Tabellen sollten eine Sprache haben."
+
+msgid "Select tables…"
+msgstr "Tabellen auswählen…"
+
+msgid "Language of values"
+msgstr "Sprache der Werte"
+
+msgid "Custom language fallbacks"
+msgstr "Benutzerdefinierte Sprach-Fallbacks"
+
+msgid "Specify values to display when a property has no value with the language of the site. Set one language code by line."
+msgstr "Geben Sie Werte an, die angezeigt werden sollen, wenn eine Eigenschaft in der Sprache der Site keinen Wert hat.Legen Sie einen Sprachcode zeilenweise fest."
+
+msgid "Required languages"
+msgstr "Erforderliche Sprachen"
+
+msgid "Specify values to display in all cases. Values without language are displayed in all cases. Set one language code by line."
+msgstr "Geben Sie Werte an, die in allen Fällen angezeigt werden sollen.Werte ohne Sprache werden in jedem Fall angezeigt.Legen Sie einen Sprachcode zeilenweise fest."
+
+msgid "Duplicate site"
+msgstr "Doppelte Website"
+
+msgid "Site navigation"
+msgstr "Site-Navigation"
+
+msgid "Site settings"
+msgstr "Site-Einstellungen"
+
+msgid "Item pool"
+msgstr "Artikelpool"
+
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+msgid "Collecting forms"
+msgstr "Formulare sammeln"
+
+msgid "Data to remove"
+msgstr "Zu entfernende Daten"
+
+msgid "Site to copy"
+msgstr "Website zum Kopieren"
+
+msgid "Data to copy"
+msgstr "Daten zum Kopieren"
+
+msgid "Duplication mode for pages"
+msgstr "Duplizierungsmodus für Seiten"
+
+msgid "Copy each page and block individually"
+msgstr "Kopieren Sie jede Seite und jeden Block einzeln"
+
+msgid "Create linked mirror pages"
+msgstr "Erstellen Sie verlinkte Spiegelseiten"
+
+msgid "Locale/language code"
+msgstr "Gebietsschema-/Sprachcode"
+
+msgid "Leave blank to use the global locale setting."
+msgstr "Lassen Sie das Feld leer, um die globale Gebietsschemaeinstellung zu verwenden."
+
+msgid "List of strings and translations separated by \"=\""
+msgstr "Liste der Zeichenfolgen und Übersetzungen, getrennt durch „=\""
+
+msgid "Tables to use for translation in admin"
+msgstr "Tabellen zur Verwendung für die Übersetzung im Admin"
+
+msgid "Site groups"
+msgstr "Site-Gruppen"
+
+msgid "Group some sites with a different language so they can be managed together as a whole. Set all site slugs by group, one by line, with or without comma separator."
+msgstr "Gruppieren Sie einige Websites mit einer anderen Sprache, damit sie gemeinsam verwaltet werden können.Legen Sie alle Site-Slugs nach Gruppe, einzeln nach Zeile, mit oder ohne Komma-Trennzeichen fest."
+
+msgid "Private sites are marked with a \"*\". If a private page is selected, it will be hidden on the public site. The current page and recursive pages are forbidden."
+msgstr "Private Seiten sind mit einem „*“ gekennzeichnet.Wenn eine private Seite ausgewählt ist, wird diese auf der öffentlichen Website ausgeblendet.Die aktuelle Seite und rekursive Seiten sind verboten."
+
+msgid "Type of display for language"
+msgstr "Art der Anzeige der Sprache"
+
+msgid "Language code"
+msgstr "Sprachcode"
+
+msgid "Language flag"
+msgstr "Sprachflagge"
+
+msgid "A relation between pages must have a page."
+msgstr "Eine Beziehung zwischen Seiten muss eine Seite haben."
+
+msgid "A relation between pages must have a related page."
+msgstr "Eine Beziehung zwischen Seiten muss eine zugehörige Seite haben."
+
+msgid "The page and the related page of a relation between pages must be different."
+msgstr "Die Seite und die zugehörige Seite einer Beziehung zwischen Seiten müssen unterschiedlich sein."
+
+msgid "The language should be a valid string shorter than 8 characters."
+msgstr "Die Sprache sollte eine gültige Zeichenfolge mit weniger als 8 Zeichen sein."
+
+msgid "The language should be a valid locale, so a two character code with an optional localization code separated with a \"-\" or \"_\"."
+msgstr "Die Sprache sollte ein gültiges Gebietsschema sein, also ein zweistelliger Code mit einem optionalen Lokalisierungscode, getrennt durch ein „-“ oder „_“."
+
+msgid "The string to translate is not set."
+msgstr "Die zu übersetzende Zeichenfolge ist nicht festgelegt."
+
+msgid "The translation is not set."
+msgstr "Die Übersetzung ist nicht festgelegt."
+
+msgid "The string \"{string}\" and language \"{language}\" to translate must be unique."
+msgstr "Die zu übersetzende Zeichenfolge „{string}“ und die zu übersetzende Sprache „{Sprache}“ müssen eindeutig sein."
+
+msgid "Language with optional locale"
+msgstr "Sprache mit optionalem Gebietsschema"
+
+msgid "Translations successfully updated."
+msgstr "Übersetzungen erfolgreich aktualisiert."
+
+msgid "An error occurred when saving translations as file."
+msgstr "Beim Speichern der Übersetzungen als Datei ist ein Fehler aufgetreten."
+
+msgid "language"
+msgstr "Sprache"
+
+msgid "You are not allowed to delete translations."
+msgstr "Es ist Ihnen nicht gestattet, Übersetzungen zu löschen."
+
+msgid "You must select at least one language to delete."
+msgstr "Sie müssen mindestens eine Sprache zum Löschen auswählen."
+
+msgid "You are not allowed to delete all translations."
+msgstr "Sie dürfen nicht alle Übersetzungen löschen."
+
+msgid "Translations were reindexed."
+msgstr "Übersetzungen wurden neu indexiert."
+
+msgid "Translations were reindexed, but an issue occurred. Check logs."
+msgstr "Übersetzungen wurden neu indiziert, es ist jedoch ein Problem aufgetreten.Protokolle prüfen."
+
+msgid "%1$s [%2$s]"
+msgstr "%1$s [%2$s]"
+
+msgid "Language switcher"
+msgstr "Sprachumschalter"
+
+msgid "Mirror page"
+msgstr "Spiegelseite"
+
+msgid "A page should be selected to create a mirror page."
+msgstr "Um eine Spiegelseite zu erstellen, sollte eine Seite ausgewählt werden."
+
+msgid "A mirror page cannot be inside itself."
+msgstr "Eine Spiegelseite kann nicht in sich selbst liegen."
+
+msgid "A mirror page cannot use a page that uses it recursively as a block."
+msgstr "Eine Spiegelseite kann eine Seite, die sie rekursiv verwendet, nicht als Block verwenden."
+
+msgid "Mirror page block #{block_id} in site {site_slug} and page {page_slug} should be updated: it refers to a removed page."
+msgstr "Der Spiegelseitenblock #{block_id} in der Site {site_slug} und der Seite {page_slug} sollte aktualisiert werden: Er bezieht sich auf eine entfernte Seite."
+
+msgid "Cannot render this mirror page for now: {exception}."
+msgstr "Diese Spiegelseite kann derzeit nicht gerendert werden: {Exception}."
+
+msgid "Language Switcher"
+msgstr "Sprachumschalter"

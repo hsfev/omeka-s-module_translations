@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Item Sets Tree"
+msgstr "Artikelsatzbaum"
+
+msgid "Parent item set"
+msgstr "Übergeordneter Artikelsatz"
+
+msgid "This item set has no parent item set"
+msgstr "Dieser Artikelsatz hat keinen übergeordneten Artikelsatz"
+
+msgid "All item sets (including ancestors) internal identifiers"
+msgstr "Interne Bezeichner aller Elementgruppen (einschließlich Vorfahren)."
+
+msgid "Item sets include descendants"
+msgstr "Artikelsätze umfassen Nachkommen"
+
+msgid "If enabled, displaying items of an item set will also display items of descendant item sets"
+msgstr "Wenn diese Option aktiviert ist, werden beim Anzeigen von Elementen eines Elementsatzes auch Elemente von untergeordneten Elementsätzen angezeigt"
+
+msgid "Sorting method"
+msgstr "Sortiermethode"
+
+msgid "Method used to sort item sets of the same level"
+msgstr "Methode zum Sortieren von Elementsätzen derselben Ebene"
+
+msgid "Do not sort"
+msgstr "Nicht sortieren"
+
+msgid "Sort by title"
+msgstr "Nach Titel sortieren"
+
+msgid "Display"
+msgstr "Anzeige"
+
+msgid "Choose which item sets to display in the tree"
+msgstr "Wählen Sie aus, welche Elementsätze in der Baumstruktur angezeigt werden sollen"
+
+msgid "Display all item sets without considering what is selected in the Resources tab"
+msgstr "Zeigen Sie alle Artikelsätze an, ohne zu berücksichtigen, was auf der Registerkarte „Ressourcen“ ausgewählt ist"
+
+msgid "Display only item sets selected in the Resources tab"
+msgstr "Zeigt nur die auf der Registerkarte „Ressourcen“ ausgewählten Artikelsätze an"
+
+msgid "Display only item sets selected in the Resources tab and their descendants"
+msgstr "Zeigt nur die auf der Registerkarte „Ressourcen“ ausgewählten Elementgruppen und deren Nachkommen an"
+
+msgid "Block title"
+msgstr "Blocktitel"
+
+msgid "Display items count"
+msgstr "Anzahl der angezeigten Elemente"
+
+msgid "Display description"
+msgstr "Beschreibung anzeigen"
+
+msgid "Link for empty item sets"
+msgstr "Link für leere Artikelsets"
+
+msgid "Item sets tree successfully saved"
+msgstr "Artikelsatzbaum erfolgreich gespeichert"

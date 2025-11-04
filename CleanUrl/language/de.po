@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "\"Clean Url\" module allows to have clean, readable and search engine optimized urls for pages and resources, like https://example.net/item_set_identifier/item_identifier."
+msgstr "Das Modul „Clean Url“ ermöglicht saubere, lesbare und suchmaschinenoptimierte URLs für Seiten und Ressourcen, wie https://example.net/item_set_identifier/item_identifier."
+
+msgid "For identifiers, it is recommended to use a pattern that includes at least one letter to avoid confusion with internal numerical ids."
+msgstr "Für Bezeichner wird empfohlen, ein Muster zu verwenden, das mindestens einen Buchstaben enthält, um Verwechslungen mit internen numerischen Bezeichnern zu vermeiden."
+
+msgid "For a good seo, it’s not recommended to have multiple urls for the same resource."
+msgstr "Für eine gute Suchmaschinenoptimierung ist es nicht empfehlenswert, mehrere URLs für dieselbe Ressource zu verwenden."
+
+msgid "See %s for more information."
+msgstr "Weitere Informationen finden Sie unter %s."
+
+msgid "[none]"
+msgstr "[keiner]"
+
+msgid "Your previous version is too old to do a direct upgrade to the current version. Upgrade to version 3.15.13 first, or uninstall/reinstall the module."
+msgstr "Ihre vorherige Version ist zu alt, um ein direktes Upgrade auf die aktuelle Version durchzuführen.Führen Sie zunächst ein Upgrade auf Version 3.15.13 durch oder deinstallieren/neuinstallieren Sie das Modul."
+
+msgid "Unable to copy config files \"config/clean_url.config.php\" and/or \"config/clean_url.dynamic.php\" in the config directory of Omeka."
+msgstr "Die Konfigurationsdateien „config/clean_url.config.php“ und/oder „config/clean_url.dynamic.php“ können nicht in das Konfigurationsverzeichnis von Omeka kopiert werden."
+
+msgid "The file \"clean_url.config.php\" and/or \"config/clean_url.dynamic.php\" in the config directory of Omeka is not writeable."
+msgstr "Die Datei „clean_url.config.php“ und/oder „config/clean_url.dynamic.php“ im Konfigurationsverzeichnis von Omeka ist nicht beschreibbar."
+
+msgid "Check the new config file \"config/clean_url.config.php\" and remove the old one in the config directory of Omeka."
+msgstr "Überprüfen Sie die neue Konfigurationsdatei „config/clean_url.config.php“ und entfernen Sie die alte im Konfigurationsverzeichnis von Omeka."
+
+msgid "The file \"config/cleanurl.config.php\" at the root of Omeka is not writeable."
+msgstr "Die Datei „config/cleanurl.config.php“ im Stammverzeichnis von Omeka ist nicht beschreibbar."
+
+msgid "The module has been rewritten and the whole configuration has been simplified. You should check your config, because the upgrade of the configuration is not automatic."
+msgstr "Das Modul wurde neu geschrieben und die gesamte Konfiguration wurde vereinfacht.Sie sollten Ihre Konfiguration überprüfen, da die Aktualisierung der Konfiguration nicht automatisch erfolgt."
+
+msgid "This module requires the module \"{module}\", version {version} or above."
+msgstr "Dieses Modul erfordert das Modul „{module}“, Version {version} oder höher."
+
+msgid "The file \"cleanurl.config.php\" in the config directory of Omeka is not writeable."
+msgstr "Die Datei „cleanurl.config.php“ im Konfigurationsverzeichnis von Omeka ist nicht beschreibbar."
+
+msgid "Warning: the config of the module cannot be saved in \"config/cleanurl.config.php\". It is required to skip the site paths."
+msgstr "Warnung: Die Konfiguration des Moduls kann nicht in „config/cleanurl.config.php“ gespeichert werden.Es ist erforderlich, die Site-Pfade zu überspringen."
+
+msgid "The config of the module cannot be saved in \"config/cleanurl.config.php\". It is required to skip the site paths."
+msgstr "Die Konfiguration des Moduls kann nicht in „config/cleanurl.config.php“ gespeichert werden.Es ist erforderlich, die Site-Pfade zu überspringen."
+
+msgid "Set a default site if you want to remove the part \"/s/site-slug\"."
+msgstr "Legen Sie eine Standard-Site fest, wenn Sie den Teil „/s/site-slug“ entfernen möchten."
+
+msgid "The sites \"{site_slugs}\" use a reserved string which prevents \"/s/site-slug\" from being removed. Rename these sites if you want to skip \"/s/site-slug\". See the {link}list of reserved strings{link_end}."
+msgstr "Die Sites „{site_slugs}“ verwenden eine reservierte Zeichenfolge, die verhindert, dass „/s/site-slug“ entfernt wird.Benennen Sie diese Sites um, wenn Sie „/s/site-slug“ überspringen möchten.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The sites pages \"{page_slugs}\" use a reserved string or a site slug which prevents \"/s/site-slug\" from being removed. Rename these pages if you want to skip \"/s/site-slug\". See the {link}list of reserved strings{link_end}."
+msgstr "Die Site-Seiten „{page_slugs}“ verwenden eine reservierte Zeichenfolge oder einen Site-Slug, der verhindert, dass „/s/site-slug“ entfernt wird.Benennen Sie diese Seiten um, wenn Sie „/s/site-slug“ überspringen möchten.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The prefix \"{slug}\" is reserved, which prevents from being used as a prefix. Use another prefix. See the {link}list of reserved strings{link_end}."
+msgstr "Das Präfix „{slug}“ ist reserviert, was die Verwendung als Präfix verhindert.Verwenden Sie ein anderes Präfix.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The prefix \"{slug}\" is already set for a site, which prevents from being used as a prefix. Use another prefix or rename the site. See the {link}list of reserved strings{link_end}."
+msgstr "Das Präfix „{slug}“ ist bereits für eine Site festgelegt, was die Verwendung als Präfix verhindert.Verwenden Sie ein anderes Präfix oder benennen Sie die Site um.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The sites \"{site_slugs}\" use a reserved string which prevents the prefix for site from being removed. Rename these sites if you want to skip the prefix. See the {link}list of reserved strings{link_end}."
+msgstr "Die Sites „{site_slugs}“ verwenden eine reservierte Zeichenfolge, die verhindert, dass das Präfix für die Site entfernt wird.Benennen Sie diese Websites um, wenn Sie das Präfix überspringen möchten.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The prefix \"{slug}\" is reserved, which prevents from being used as a prefix for pages. Use another prefix. See the {link}list of reserved strings{link_end}."
+msgstr "Das Präfix „{slug}“ ist reserviert, was die Verwendung als Präfix für Seiten verhindert.Verwenden Sie ein anderes Präfix.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The prefix \"{slug}\" is already set for a site, which prevents from being used as a prefix for pages. Use another prefix or rename the site. See the {link}list of reserved strings{link_end}."
+msgstr "Das Präfix „{slug}“ ist bereits für eine Site festgelegt, was verhindert, dass es als Präfix für Seiten verwendet wird.Verwenden Sie ein anderes Präfix oder benennen Sie die Site um.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "The sites pages \"{page_slugs}\" use a reserved string which prevents the prefix for pages from being removed. Rename these pages if you want to skip the prefix. See the {link}list of reserved strings{link_end}."
+msgstr "Die Seiten „{page_slugs}“ der Website verwenden eine reservierte Zeichenfolge, die verhindert, dass das Präfix für Seiten entfernt wird.Benennen Sie diese Seiten um, wenn Sie das Präfix überspringen möchten.Sehen Sie sich die {link}Liste der reservierten Zeichenfolgen{link_end} an."
+
+msgid "A pattern for \"{resource_type}\", for example \"[a-zA-Z0-9_-]+\", is required to use the path \"{path}\"."
+msgstr "Ein Muster für „{resource_type}“, zum Beispiel „[a-zA-Z0-9_-]+“, ist erforderlich, um den Pfad „{path}“ zu verwenden."
+
+msgid "The slug \"{slug}\" is used or reserved. A random string has been automatically appended."
+msgstr "Der Slug „{slug}“ wird verwendet oder reserviert.Eine zufällige Zeichenfolge wurde automatisch angehängt."
+
+msgid "The path \"{path}\" for item sets should contain one and only one item set identifier."
+msgstr "Der Pfad „{path}“ für Elementgruppen sollte genau eine Elementgruppenkennung enthalten."
+
+msgid "The path \"{path}\" for item sets should not contain identifier \"{identifier}\"."
+msgstr "Der Pfad „{path}“ für Elementgruppen sollte den Bezeichner „{identifier}“ nicht enthalten."
+
+msgid "The path \"{path}\" for items should contain one and only one item identifier."
+msgstr "Der Pfad „{path}“ für Elemente sollte genau eine Elementkennung enthalten."
+
+msgid "The path \"{path}\" for items should not contain identifier \"{identifier}\"."
+msgstr "Der Pfad „{path}“ für Elemente sollte den Bezeichner „{identifier}“ nicht enthalten."
+
+msgid "The path \"{path}\" for medias should contain one and only one item identifier."
+msgstr "Der Pfad „{path}“ für Medien sollte genau eine Elementkennung enthalten."
+
+msgid "The path \"{path}\" for medias should not contain identifier \"{identifier}\"."
+msgstr "Der Pfad „{path}“ für Medien sollte den Bezeichner „{identifier}“ nicht enthalten."
+
+msgid "The path \"{path}\" for medias should contain an item identifier."
+msgstr "Der Pfad „{path}“ für Medien sollte eine Elementkennung enthalten."
+
+msgid "A short pattern for \"{resource_type}\", for example \"[a-zA-Z0-9_-]+\", is required to use the path \"{path}\"."
+msgstr "Um den Pfad „{path}“ zu verwenden, ist ein kurzes Muster für „{resource_type}“, zum Beispiel „[a-zA-Z0-9_-]+“, erforderlich."
+
+msgid "Item should be an Item, an ItemRepresentation or an integer."
+msgstr "Item sollte ein Item, eine ItemRepresentation oder eine Ganzzahl sein."
+
+msgid "Sites and pages"
+msgstr "Websites und Seiten"
+
+msgid "Skip \"s/site-slug/\" for default site"
+msgstr "Überspringen Sie „s/site-slug/“ für die Standard-Site"
+
+msgid "The main site is defined in the main settings."
+msgstr "Die Hauptseite wird in den Haupteinstellungen definiert."
+
+msgid "Rename or skip prefix /s/"
+msgstr "Präfix /s/ umbenennen oder überspringen"
+
+msgid "s/"
+msgstr "S/"
+
+msgid "Rename or skip prefix /page/"
+msgstr "Präfix /page/ umbenennen oder überspringen"
+
+msgid "page/"
+msgstr "Seite/"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Admin Interface"
+msgstr "Admin-Schnittstelle"
+
+msgid "Use in admin board"
+msgstr "Verwendung im Admin-Board"
+
+msgid "Other reserved routes in admin"
+msgstr "Andere reservierte Routen im Admin"
+
+msgid "This option allows to fix routes for unmanaged modules. Add them in the file cleanurl.config.php or here, one by row."
+msgstr "Mit dieser Option können Routen für nicht verwaltete Module festgelegt werden.Fügen Sie sie einzeln in der Datei cleanurl.config.php oder hier hinzu."
+
+msgid "Default path"
+msgstr "Standardpfad"
+
+msgid "Path with placeholders, without site slug."
+msgstr "Pfad mit Platzhaltern, ohne Site-Slug."
+
+msgid "Short path"
+msgstr "Kurzer Weg"
+
+msgid "Additional paths"
+msgstr "Zusätzliche Pfade"
+
+msgid "Pattern of identifier"
+msgstr "Muster der Kennung"
+
+msgid "Optional pattern for short identifier"
+msgstr "Optionales Muster für die Kurzkennung"
+
+msgid "Property for identifier"
+msgstr "Eigenschaft für den Bezeichner"
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Prefix to select an identifier"
+msgstr "Präfix zur Auswahl einer Kennung"
+
+msgid "This prefix allows to find one identifier when there are multiple values: \"ark:\", \"record:\", or \"doc =\". Include space if needed. Let empty to use the first identifier. If this identifier does not exists, the Omeka resource id will be used."
+msgstr "Dieses Präfix ermöglicht es, einen Bezeichner zu finden, wenn mehrere Werte vorhanden sind: „ark:“, „record:“ oder „doc =“.Fügen Sie bei Bedarf Platz hinzu.Lassen Sie es leer, um den ersten Bezeichner zu verwenden.Wenn dieser Bezeichner nicht vorhanden ist, wird die Omeka-Ressourcen-ID verwendet."
+
+msgid "The prefix is part of the identifier"
+msgstr "Das Präfix ist Teil der Kennung"
+
+msgid "Identifiers have slash, so don’t escape it"
+msgstr "Bezeichner haben einen Schrägstrich, also entkommen Sie ihn nicht"
+
+msgid "Identifiers are case sensitive"
+msgstr "Bei Bezeichnern muss die Groß-/Kleinschreibung beachtet werden"
+
+msgid "Cannot render page: no default site was set."
+msgstr "Seite kann nicht gerendert werden: Es wurde keine Standard-Site festgelegt."

@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "I agree with %sterms of use%s and I accept to free my contribution under the licence %sCC\u{a0}BY-SA%s."
+msgstr "Ich stimme den %Nutzungsbedingungen%s zu und akzeptiere die Freigabe meines Beitrags unter der Lizenz %sCC\u{a0}BY-SA%s."
+
+msgid "Has comments"
+msgstr "Hat Kommentare"
+
+msgid "true"
+msgstr "WAHR"
+
+msgid "Approved"
+msgstr "Genehmigt"
+
+msgid "Flagged"
+msgstr "Gekennzeichnet"
+
+msgid "Is spam"
+msgstr "Ist Spam"
+
+msgid "false"
+msgstr "FALSCH"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "This module has resources that cannot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "This module cannot install its tables, because they exist already. Try to remove them first."
+msgstr "Dieses Modul kann seine Tabellen nicht installieren, da sie bereits vorhanden sind.Versuchen Sie zunächst, sie zu entfernen."
+
+msgid "The module removed tables \"%s\" from a previous broken install."
+msgstr "Das Modul hat die Tabellen „%s“ aus einer früheren fehlerhaften Installation entfernt."
+
+msgid "This module requires the module \"%1$s\", version %2$s or above."
+msgstr "Dieses Modul erfordert das Modul „%1$s“, Version %2$s oder höher."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Delete comments"
+msgstr "Kommentare löschen"
+
+msgid "Are you sure you would like to delete the selected comments?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Kommentare löschen möchten?"
+
+msgid "Commenter"
+msgstr "Commenter"
+
+msgid "Commenter email"
+msgstr "E-Mail des Kommentators"
+
+msgid "Date commented"
+msgstr "Datum kommentiert"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Approve"
+msgstr "Genehmigen"
+
+msgid "Unapprove"
+msgstr "Nicht genehmigen"
+
+msgid "Flag"
+msgstr "Flagge"
+
+msgid "Unflag"
+msgstr "Flagge entfernen"
+
+msgid "Set spam"
+msgstr "Spam festlegen"
+
+msgid "Set not spam"
+msgstr "Kein Spam einstellen"
+
+msgid "There are no comments."
+msgstr "Es gibt keine Kommentare."
+
+msgid "Toggle approbation"
+msgstr "Genehmigung umschalten"
+
+msgid "Toggle flag"
+msgstr "Flagge umschalten"
+
+msgid "Toggle spam"
+msgstr "Spam umschalten"
+
+msgid "Removed"
+msgstr "ENTFERNT"
+
+msgid "Comment #%d"
+msgstr "Kommentar #%d"
+
+msgid "(public)"
+msgstr "(öffentlich)"
+
+msgid "No resource"
+msgstr "Keine Ressource"
+
+msgid "No site"
+msgstr "Keine Website"
+
+msgid "Website: %s"
+msgstr "Website: %s"
+
+msgid "Reply"
+msgstr "Antwort"
+
+msgid "Total: %s"
+msgstr "Gesamt: %s"
+
+msgid "Approved: %s / Unapproved: %s"
+msgstr "Genehmigt: %s / Nicht genehmigt: %s"
+
+msgid "Flagged: %s / Unflagged: %s"
+msgstr "Markiert: %s / Nicht markiert: %s"
+
+msgid "Spam: %s / Not spam: %s"
+msgstr "Spam: %s / Kein Spam: %s"
+
+msgid "No comment yet! Be the first to add one!"
+msgstr "Noch kein Kommentar!Seien Sie der Erste, der einen hinzufügt!"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Flag inappropriate"
+msgstr "Als unangemessen markieren"
+
+msgid "Unflag inappropriate"
+msgstr "Deaktivieren Sie die Markierung als unangemessen"
+
+msgid "I agree with %sterms of use%s and I accept to free my contribution under the licence %sCC BY-SA%s."
+msgstr "Ich stimme den %Nutzungsbedingungen%s zu und akzeptiere die Freigabe meines Beitrags unter der Lizenz %CC BY-SA%s."
+
+msgid "My name…"
+msgstr "Mein Name…"
+
+msgid "My email (it won’t be displayed)…"
+msgstr "Meine E-Mail (wird nicht angezeigt)…"
+
+msgid "My website…"
+msgstr "Meine Website…"
+
+msgid "My comment…"
+msgstr "Mein Kommentar…"
+
+msgid "Proposed comment cannot be empty."
+msgstr "Der vorgeschlagene Kommentar darf nicht leer sein."
+
+msgid "Comment cannot be longer than %d characters."
+msgstr "Der Kommentar darf nicht länger als %d Zeichen sein."
+
+msgid "Terms of service"
+msgstr "Nutzungsbedingungen"
+
+msgid "You must agree to the terms and conditions."
+msgstr "Sie müssen den Allgemeinen Geschäftsbedingungen zustimmen."
+
+msgid "How much is %d plus %d?"
+msgstr "Wie viel ist %d plus %d?"
+
+msgid "To prove you are not a robot, answer this question: %s"
+msgstr "Um zu beweisen, dass Sie kein Roboter sind, beantworten Sie diese Frage: %s"
+
+msgid "You must answer the antispam question."
+msgstr "Sie müssen die Antispam-Frage beantworten."
+
+msgid "Check your anwser to the antispam question."
+msgstr "Überprüfen Sie Ihre Antwort auf die Anti-Spam-Frage."
+
+msgid "String to check"
+msgstr "Zu überprüfende Zeichenfolge"
+
+msgid "Set the string to check"
+msgstr "Legen Sie die zu überprüfende Zeichenfolge fest"
+
+msgid "Comment it!"
+msgstr "Kommentiere es!"
+
+msgid "Resources to comment"
+msgstr "Ressourcen zum Kommentieren"
+
+msgid "The type of resources for which comment is enabled."
+msgstr "Der Typ der Ressourcen, für die Kommentare aktiviert sind."
+
+msgid "Allow public to view comments"
+msgstr "Ermöglichen Sie der Öffentlichkeit, Kommentare anzuzeigen"
+
+msgid "If unchecked, comments will be displayed only in admin pages."
+msgstr "Wenn diese Option deaktiviert ist, werden Kommentare nur auf Admin-Seiten angezeigt."
+
+msgid "Allow public to comment"
+msgstr "Ermöglichen Sie der Öffentlichkeit, Kommentare abzugeben"
+
+msgid "Allows everyone to comment, including non-registered users."
+msgstr "Ermöglicht jedem das Kommentieren, auch nicht registrierten Benutzern."
+
+msgid "Require moderation for public comments"
+msgstr "Fordern Sie Moderation für öffentliche Kommentare"
+
+msgid "If unchecked, comments will appear immediately."
+msgstr "Wenn diese Option deaktiviert ist, werden Kommentare sofort angezeigt."
+
+msgid "Require moderation for non-admin users"
+msgstr "Moderation für Benutzer ohne Administratorrechte erforderlich"
+
+msgid "Notify public comments by email"
+msgstr "Öffentliche Kommentare per E-Mail benachrichtigen"
+
+msgid "The list of emails to notify when a comment is posted or flagged, one by row."
+msgstr "Die Liste der E-Mails, die benachrichtigt werden sollen, wenn ein Kommentar gepostet oder markiert wird, eine nach Zeile."
+
+msgid "Label for comments"
+msgstr "Beschriftung für Kommentare"
+
+msgid "A label to use, for example \"Comments\"."
+msgstr "Eine zu verwendende Bezeichnung, zum Beispiel „Kommentare“."
+
+msgid "Use threaded comments"
+msgstr "Verwenden Sie Thread-Kommentare"
+
+msgid "If checked, the replies will be displayed indented below the comment."
+msgstr "Wenn aktiviert, werden die Antworten eingerückt unterhalb des Kommentars angezeigt."
+
+msgid "Legal agreement"
+msgstr "Rechtliche Vereinbarung"
+
+msgid "This text will be shown beside the legal checkbox. Let empty if you don’t want to use a legal agreement."
+msgstr "Dieser Text wird neben dem rechtlichen Kontrollkästchen angezeigt.Lassen Sie das Feld leer, wenn Sie keine rechtliche Vereinbarung verwenden möchten."
+
+msgid "WordPress API key for Akismet if installed"
+msgstr "WordPress-API-Schlüssel für Akismet, falls installiert"
+
+msgid "Simple antispam"
+msgstr "Einfacher Antispam"
+
+msgid "If checked, a simple antispam (an addition of two digits) will be added for anonymous people if ReCaptcha is not set."
+msgstr "Wenn diese Option aktiviert ist, wird für anonyme Personen ein einfacher Antispam (eine Hinzufügung von zwei Ziffern) hinzugefügt, wenn ReCaptcha nicht festgelegt ist."
+
+msgid "The ip cannot be empty."
+msgstr "Die IP darf nicht leer sein."
+
+msgid "The user agent cannot be empty."
+msgstr "Der Benutzeragent darf nicht leer sein."
+
+msgid "The body cannot be empty."
+msgstr "Der Körper kann nicht leer sein."
+
+msgid "Comment successfully deleted."
+msgstr "Kommentar erfolgreich gelöscht."
+
+msgid "You must select at least one comment to batch delete."
+msgstr "Sie müssen mindestens einen Kommentar zum Stapellöschen auswählen."
+
+msgid "Comments successfully deleted."
+msgstr "Kommentare erfolgreich gelöscht."
+
+msgid "Delete of all comments is not supported currently."
+msgstr "Das Löschen aller Kommentare wird derzeit nicht unterstützt."
+
+msgid "No comments submitted."
+msgstr "Keine Kommentare eingereicht."
+
+msgid "An internal error occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "Are you really a robot?"
+msgstr "Bist du wirklich ein Roboter?"
+
+msgid "Unauthorized access : no user agent."
+msgstr "Unbefugter Zugriff: kein Benutzeragent."
+
+msgid "The url to add comment was accessed without managed resource."
+msgstr "Auf die URL zum Hinzufügen eines Kommentars wurde ohne verwaltete Ressource zugegriffen."
+
+msgid "The url to add comment was accessed without resource id."
+msgstr "Auf die URL zum Hinzufügen eines Kommentars wurde ohne Ressourcen-ID zugegriffen."
+
+msgid "The url to add comment was accessed without resource."
+msgstr "Auf die URL zum Hinzufügen eines Kommentars wurde ohne Ressource zugegriffen."
+
+msgid "The parent comment does not exist."
+msgstr "Der übergeordnete Kommentar existiert nicht."
+
+msgid "The parent comment doesn’t exist."
+msgstr "Der übergeordnete Kommentar existiert nicht."
+
+msgid "You should accept the legal agreement."
+msgstr "Sie sollten die rechtliche Vereinbarung akzeptieren."
+
+msgid "The comment cannot be empty."
+msgstr "Der Kommentar darf nicht leer sein."
+
+msgid "There is issue in your comment."
+msgstr "Ihr Kommentar enthält ein Problem."
+
+msgid "Your comment is online."
+msgstr "Ihr Kommentar ist online."
+
+msgid "Your comment is awaiting moderation"
+msgstr "Ihr Beitrag wartet auf die Moderation"
+
+msgid "Akismet not available: install it."
+msgstr "Akismet nicht verfügbar: Installieren Sie es."
+
+msgid "SERVER_ADDR"
+msgstr "SERVER_ADDR"
+
+msgid "[%s] New public comment"
+msgstr "[%s] Neuer öffentlicher Kommentar"
+
+msgid "A comment was added to resource #%d (%s) by %s <%s>."
+msgstr "Der Ressource #%d (%s) wurde von %s <%s> ein Kommentar hinzugefügt."
+
+msgid "Unable to send an email after commenting."
+msgstr "Nach dem Kommentieren kann keine E-Mail gesendet werden."
+
+msgid "The comment id cannot be identified."
+msgstr "Die Kommentar-ID kann nicht identifiziert werden."
+
+msgid "Comment not found."
+msgstr "Kommentar nicht gefunden."
+
+msgid "The comment #%s cannot be identified."
+msgstr "Der Kommentar #%s kann nicht identifiziert werden."
+
+msgid "The comment #%s cannot be accessed."
+msgstr "Auf den Kommentar #%s kann nicht zugegriffen werden."
+
+msgid "Comment was added to the resource."
+msgstr "Der Ressource wurde ein Kommentar hinzugefügt."
+
+msgid "It will be displayed definitely when approved."
+msgstr "Es wird definitiv angezeigt, wenn es genehmigt wurde."
+
+msgid "Request too long to process."
+msgstr "Die Bearbeitung der Anfrage dauert zu lange."
+
+msgid "The resource doesn’t exist."
+msgstr "Die Ressource existiert nicht."
+
+msgid "The resource or the comment doesn’t exist."
+msgstr "Die Ressource oder der Kommentar existiert nicht."

@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "EU cookie bar"
+msgstr "EU-Cookie-Bar"
+
+msgid "Privacy"
+msgstr "Privatsphäre"
+
+msgid "Message to display for EU cookie bar"
+msgstr "Meldung, die für die EU-Cookie-Leiste angezeigt werden soll"
+
+msgid "Warning: this site uses cookies or other means to steal your personal data and to allow Google or Facebook to fetch them. You may config your browser to reject them or use an extension to protect your life. See terms and conditions. By visiting this site, you accept them."
+msgstr "Achtung: Diese Website verwendet Cookies oder andere Mittel, um Ihre persönlichen Daten zu stehlen und es Google oder Facebook zu ermöglichen, diese abzurufen.Sie können Ihren Browser so konfigurieren, dass er sie ablehnt, oder eine Erweiterung verwenden, um Ihr Leben zu schützen.Siehe Geschäftsbedingungen.Durch den Besuch dieser Website akzeptieren Sie diese."
+
+msgid "Other options (json)"
+msgstr "Andere Optionen (json)"
+
+msgid "Click below for more options about the integrated library."
+msgstr "Klicken Sie unten für weitere Optionen zur integrierten Bibliothek."
+
+msgid "Warning: this site uses cookies or other means to steal your personal data and to allow Google or Facebook to hack them. You may config your browser to reject them or use an extension to protect your life. See terms and conditions. By visiting this site, you accept them."
+msgstr "Warnung: Diese Website verwendet Cookies oder andere Mittel, um Ihre persönlichen Daten zu stehlen und es Google oder Facebook zu ermöglichen, sie zu hacken.Sie können Ihren Browser so konfigurieren, dass er sie ablehnt, oder eine Erweiterung verwenden, um Ihr Leben zu schützen.Siehe Geschäftsbedingungen.Durch den Besuch dieser Website akzeptieren Sie diese."

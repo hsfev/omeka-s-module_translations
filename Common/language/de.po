@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Check your input for invalid data."
+msgstr "Überprüfen Sie Ihre Eingabe auf ungültige Daten."
+
+msgid "An internal error has occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "default"
+msgstr "Standard"
+
+msgid "The php extension \"intl\" is not available. It is recommended to install it to manage diacritics and non-latin characters and to translate dates, numbers and more."
+msgstr "Die PHP-Erweiterung „intl“ ist nicht verfügbar.Es wird empfohlen, es zu installieren, um diakritische Zeichen und nicht-lateinische Zeichen zu verwalten und Datumsangaben, Zahlen und mehr zu übersetzen."
+
+msgid "Some indexes will be added to tables to improve performance: {list}."
+msgstr "Einige Indizes werden den Tabellen hinzugefügt, um die Leistung zu verbessern: {list}."
+
+msgid "Unable to add index \"{index}\" in table \"{table}\" to improve performance: {message}"
+msgstr "Der Index „{index}“ kann nicht in Tabelle „{table}“ hinzugefügt werden, um die Leistung zu verbessern: {message}"
+
+msgid "Some indexes were added to tables to improve performance: {list}."
+msgstr "Einige Indizes wurden zu Tabellen hinzugefügt, um die Leistung zu verbessern: {list}."
+
+msgid "The module Generic is no longer needed and can be removed."
+msgstr "Das Modul Generic wird nicht mehr benötigt und kann entfernt werden."
+
+msgid "Xml parsing error level {level}, code {code}, for file \"{file}\" (media #{media_id}), line {line}, column {column}: {message}"
+msgstr "XML-Parsing-Fehlerstufe {level}, Code {code}, für Datei „{file}“ (Medien #{media_id}), Zeile {line}, Spalte {column}: {message}"
+
+msgid "The file \"{file}\" (media #{media_id}) is not parsable by xml reader neither dom."
+msgstr "Die Datei „{file}“ (Medien #{media_id}) kann weder vom XML-Reader noch vom Dom analysiert werden."
+
+msgid "Warning: some files contain invalid unicode characters and cannot be processed directly."
+msgstr "Warnung: Einige Dateien enthalten ungültige Unicode-Zeichen und können nicht direkt verarbeitet werden."
+
+msgid "The status \"%s\" is not supported by jSend."
+msgstr "Der Status „%s“ wird von jSend nicht unterstützt."
+
+msgid "Email not sent: the content is missing (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Der Inhalt fehlt (Betreff: {subject})."
+
+msgid "Email not sent: there is no recipient (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Es gibt keinen Empfänger (Betreff: {subject})."
+
+msgid "Email not sent: the sender \"{sender}\" is not valid (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Der Absender „{sender}“ ist ungültig (Betreff: {subject})."
+
+msgid "Email not sent: the sender email \"{sender}\" is invalid (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Die Absender-E-Mail „{sender}“ ist ungültig (Betreff: {subject})."
+
+msgid "Email not sent: the cc emails {list} are invalid (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Die CC-E-Mails {list} sind ungültig (Betreff: {subject})."
+
+msgid "Email not sent: the bcc emails {list} are invalid (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Die BCC-E-Mails {list} sind ungültig (Betreff: {subject})."
+
+msgid "Email not sent: the reply-to emails {list} are invalid (subject: {subject})."
+msgstr "E-Mail nicht gesendet: Die Antwort-E-Mails {list} sind ungültig (Betreff: {subject})."
+
+msgid "An email was sent to {recipients} with subject: {subject}"
+msgstr "Eine E-Mail mit dem Betreff: {subject} wurde an {recipients} gesendet."
+
+msgid "Select media type…"
+msgstr "Medientyp auswählen…"
+
+msgid "A message to translate should be stringable."
+msgstr "Eine zu übersetzende Nachricht sollte stringfähig sein."
+
+msgid "The string is not formatted as ini"
+msgstr "Die Zeichenfolge ist nicht als ini formatiert"
+
+msgid "The string is incorrectly formatted"
+msgstr "Die Zeichenfolge ist falsch formatiert"
+
+msgid "The string contains double quotes or invalid characters"
+msgstr "Die Zeichenfolge enthält doppelte Anführungszeichen oder ungültige Zeichen"
+
+msgid "Invalid type given. String expected"
+msgstr "Ungültiger Typ angegeben.Zeichenfolge erwartet"
+
+msgid "The path should not contain double dot or be hidden."
+msgstr "Der Pfad sollte keinen doppelten Punkt enthalten oder ausgeblendet sein."
+
+msgid "The path does not exist."
+msgstr "Der Pfad existiert nicht."
+
+msgid "The path is not a directory"
+msgstr "Der Pfad ist kein Verzeichnis"
+
+msgid "The path is not readable"
+msgstr "Der Pfad ist nicht lesbar"
+
+msgid "The path is not inside the restricted path"
+msgstr "Der Pfad liegt nicht innerhalb des eingeschränkten Pfads"
+
+msgid "[No site]"
+msgstr "[Keine Website]"
+
+msgid "Invalid ini string or values with double quotes"
+msgstr "Ungültige INI-Zeichenfolge oder Werte mit doppelten Anführungszeichen"
+
+msgid "The field {label} has an issue: {msg}"
+msgstr "Das Feld {label} hat ein Problem: {msg}"
+
+msgid "Error validating \"{filename}\". Cannot store files with the media type \"{mediatype}\"."
+msgstr "Fehler beim Validieren von „{filename}“.Dateien mit dem Medientyp „{mediatype}“ können nicht gespeichert werden."
+
+msgid "Error validating \"{filename}\". Cannot store files with the resolved extension \"{extension}\"."
+msgstr "Fehler beim Validieren von „{filename}“.Dateien mit der aufgelösten Erweiterung „{extension}“ können nicht gespeichert werden."
+
+msgid "Select media ingesters…"
+msgstr "Medien-Ingester auswählen…"
+
+msgid "Select media renderers…"
+msgstr "Medienrenderer auswählen…"
+
+msgid "annotation"
+msgstr "Anmerkung"
+
+msgid "resource"
+msgstr "Ressource"
+
+msgid "property"
+msgstr "Eigentum"
+
+msgid "resource class"
+msgstr "Ressourcenklasse"
+
+msgid "annotations"
+msgstr "Anmerkungen"
+
+msgid "assets"
+msgstr "Vermögenswerte"
+
+msgid "items"
+msgstr "Artikel"
+
+msgid "item sets"
+msgstr "Gegenstandssätze"
+
+msgid "resources"
+msgstr "Ressourcen"
+
+msgid "properties"
+msgstr "Eigenschaften"
+
+msgid "resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "resource templates"
+msgstr "Ressourcenvorlagen"
+
+msgid "vocabularies"
+msgstr "Vokabeln"
+
+msgid "sites"
+msgstr "Websites"
+
+msgid "An error occured when loading vocabulary \"{vocabulary}\": file has no json content."
+msgstr "Beim Laden des Vokabulars „{vocabulary}“ ist ein Fehler aufgetreten: Die Datei hat keinen JSON-Inhalt."
+
+msgid "An error occured when adding the prefix \"{prefix}\": another vocabulary exists. Resolve the conflict before installing this module."
+msgstr "Beim Hinzufügen des Präfixes „{prefix}“ ist ein Fehler aufgetreten: Es ist ein anderes Vokabular vorhanden.Lösen Sie den Konflikt, bevor Sie dieses Modul installieren."
+
+msgid "A custom vocab exists for \"{name}\". Remove it or rename it before installing this module."
+msgstr "Für „{name}“ existiert ein benutzerdefiniertes Vokabular.Entfernen Sie es oder benennen Sie es um, bevor Sie dieses Modul installieren."
+
+msgid "A resource template exists for {template}. Rename it or remove it before installing this module."
+msgstr "Für {template} ist eine Ressourcenvorlage vorhanden.Benennen Sie es um oder entfernen Sie es, bevor Sie dieses Modul installieren."
+
+msgid "The vocabulary \"{vocabulary}\" was already installed and was kept."
+msgstr "Das Vokabular „{vocabulary}“ war bereits installiert und wurde beibehalten."
+
+msgid "An error occured when adding the prefix \"{prefix}\": another vocabulary exists with the same prefix. Resolve the conflict before installing this module."
+msgstr "Beim Hinzufügen des Präfixes „{prefix}“ ist ein Fehler aufgetreten: Es existiert ein anderes Vokabular mit demselben Präfix.Lösen Sie den Konflikt, bevor Sie dieses Modul installieren."
+
+msgid "An error occured when adding the prefix \"{prefix}\" and the associated properties: {message}"
+msgstr "Beim Hinzufügen des Präfixes „{prefix}“ und der zugehörigen Eigenschaften ist ein Fehler aufgetreten: {message}"
+
+msgid "An error occured when updating vocabulary \"{prefix}\" and the associated properties: {message}"
+msgstr "Beim Aktualisieren des Vokabulars „{prefix}“ und der zugehörigen Eigenschaften ist ein Fehler aufgetreten: {message}"
+
+msgid "The following \"{name}\" of the vocabulary \"{label}\" were replaced: {members}"
+msgstr "Die folgenden „{name}“ des Vokabulars „{label}“ wurden ersetzt: {members}"
+
+msgid "Resources, values and templates were updated, but you may check settings where the old ones were used."
+msgstr "Ressourcen, Werte und Vorlagen wurden aktualisiert, Sie können jedoch die Einstellungen überprüfen, in denen die alten verwendet wurden."
+
+msgid "The resource template named \"{template}\" is already available and is skipped."
+msgstr "Die Ressourcenvorlage mit dem Namen „{template}“ ist bereits verfügbar und wird übersprungen."
+
+msgid "The custom vocab named \"{custom_vocab}\" is not available."
+msgstr "Das benutzerdefinierte Vokabular mit dem Namen „{custom_vocab}“ ist nicht verfügbar."
+
+msgid "No file or url set for the vocabulary."
+msgstr "Für das Vokabular ist keine Datei oder URL festgelegt."
+
+msgid "The file \"{file}\" cannot be read. Check the url."
+msgstr "Die Datei „{file}“ kann nicht gelesen werden.Überprüfen Sie die URL."
+
+msgid "The file \"{file}\" cannot be read. Check the file."
+msgstr "Die Datei „{file}“ kann nicht gelesen werden.Überprüfen Sie die Datei."
+
+msgid "A vocabulary must have a namespace uri and a prefix."
+msgstr "Ein Vokabular muss eine Namespace-URI und ein Präfix haben."
+
+msgid "This module requires the module \"{module}\"."
+msgstr "Dieses Modul erfordert das Modul „{module}“."
+
+msgid "This module requires modules \"{modules}\"."
+msgstr "Für dieses Modul sind die Module „{modules}“ erforderlich."
+
+msgid "This module has resources that cannot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "This module cannot install its tables, because they exist already. Try to remove them first."
+msgstr "Dieses Modul kann seine Tabellen nicht installieren, da sie bereits vorhanden sind.Versuchen Sie zunächst, sie zu entfernen."
+
+msgid "The module removed tables \"{tables}\" from a previous broken install."
+msgstr "Das Modul hat die Tabellen „{tables}“ aus einer früheren fehlerhaften Installation entfernt."
+
+msgid "This module requires the module \"{module}\", version {version} or above."
+msgstr "Dieses Modul erfordert das Modul „{module}“, Version {version} oder höher."
+
+msgid "The module \"{module}\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „{module}“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "The directory \"{path}\" is not writeable."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar."
+
+msgid "The directory \"{path}\" is not writeable: {error}."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar: {error}."

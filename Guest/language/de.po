@@ -1,0 +1,846 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "CAS Login"
+msgstr "CAS-Login"
+
+msgid "[Unknown idp]"
+msgstr "[Unbekannter IDP]"
+
+msgid "Access forbidden."
+msgstr "Zutritt verboten."
+
+msgid "Method Not Allowed"
+msgstr "Methode nicht zulässig"
+
+msgid "User cannot login: already logged."
+msgstr "Benutzer kann sich nicht anmelden: bereits angemeldet."
+
+msgid "Email is required."
+msgstr "E-Mail ist erforderlich."
+
+msgid "Invalid email."
+msgstr "Ungültige E-Mail."
+
+msgid "Password is required."
+msgstr "Passwort ist erforderlich."
+
+msgid "Wrong email or password."
+msgstr "Falsche E-Mail oder Passwort."
+
+msgid "Your account is under moderation for opening."
+msgstr "Ihr Konto wird zur Eröffnung geprüft."
+
+msgid "Check your email to confirm your registration."
+msgstr "Überprüfen Sie Ihre E-Mails, um Ihre Registrierung zu bestätigen."
+
+msgid "User not logged."
+msgstr "Benutzer nicht angemeldet."
+
+msgid "Successfully logged out."
+msgstr "Erfolgreich abgemeldet."
+
+msgid "User cannot register: already logged."
+msgstr "Benutzer kann sich nicht registrieren: bereits angemeldet."
+
+msgid "A site is required to register."
+msgstr "Für die Registrierung ist eine Website erforderlich."
+
+msgid "The site doesn’t exist."
+msgstr "Die Seite existiert nicht."
+
+msgid "Already registered."
+msgstr "Bereits registriert."
+
+msgid "Unknown error before creation of user."
+msgstr "Unbekannter Fehler vor der Erstellung des Benutzers."
+
+msgid "Unknown error during creation of user."
+msgstr "Unbekannter Fehler beim Erstellen des Benutzers."
+
+msgid "An error occurred when the email was sent."
+msgstr "Beim Versenden der E-Mail ist ein Fehler aufgetreten."
+
+msgid "Thank you for registering. You can now log in and use the library."
+msgstr "Vielen Dank für Ihre Registrierung.Sie können sich jetzt anmelden und die Bibliothek nutzen."
+
+msgid "Thank you for registering. Please check your email for a confirmation message. Once you have confirmed your request, you will be able to log in."
+msgstr "Vielen Dank für Ihre Registrierung.Bitte überprüfen Sie Ihre E-Mails auf eine Bestätigungsnachricht.Sobald Sie Ihre Anfrage bestätigt haben, können Sie sich anmelden."
+
+msgid "Thank you for registering. Please check your email for a confirmation message. Once you have confirmed your request, a moderator will confirm registration."
+msgstr "Vielen Dank für Ihre Registrierung.Bitte überprüfen Sie Ihre E-Mails auf eine Bestätigungsnachricht.Sobald Sie Ihre Anfrage bestätigt haben, bestätigt ein Moderator die Registrierung."
+
+msgid "A logged user cannot change the password with this method."
+msgstr "Ein angemeldeter Benutzer kann das Passwort mit dieser Methode nicht ändern."
+
+msgid "User is not active and cannot update password."
+msgstr "Der Benutzer ist nicht aktiv und kann das Passwort nicht aktualisieren."
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "User cannot log in: already logged."
+msgstr "Benutzer kann sich nicht anmelden: bereits angemeldet."
+
+msgid "[Omeka Guest] New registration"
+msgstr "[Omeka Gast] Neue Registrierung"
+
+msgid "Invalid token stop"
+msgstr "Ungültiger Token-Stopp"
+
+msgid "My Account"
+msgstr "Mein Konto"
+
+msgid "My account"
+msgstr "Mein Konto"
+
+msgid "Display the form to recover the password."
+msgstr "Zeigen Sie das Formular zur Wiederherstellung des Passworts an."
+
+msgid "Display the login form."
+msgstr "Anmeldeformular anzeigen."
+
+msgid "Display the register form. The options are set in site settings."
+msgstr "Zeigen Sie das Registrierungsformular an.Die Optionen werden in den Site-Einstellungen festgelegt."
+
+msgid "Search manager"
+msgstr "Suchmanager"
+
+msgid "Search config"
+msgstr "Konfiguration durchsuchen"
+
+msgid "Guest account"
+msgstr "Gastkonto"
+
+msgid "Site: %s"
+msgstr "Website: %s"
+
+msgid "none"
+msgstr "keiner"
+
+msgid "Agreed terms: %s"
+msgstr "Vereinbarte Bedingungen: %s"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Resend a code"
+msgstr "Senden Sie einen Code erneut"
+
+msgid "The two passwords do not match."
+msgstr "Die beiden Passwörter stimmen nicht überein."
+
+msgid "Label Log in"
+msgstr "Etikett Anmelden"
+
+msgid "Label My board"
+msgstr "Beschriften Sie mein Board"
+
+msgid "Use name when connected"
+msgstr "Bei Verbindung den Namen verwenden"
+
+msgid "Display label My board"
+msgstr "Beschriftung „Mein Board“ anzeigen"
+
+msgid "Display user name"
+msgstr "Benutzernamen anzeigen"
+
+msgid "Label log in"
+msgstr "Anmelden mit Label"
+
+msgid "Label log out"
+msgstr "Beschriften Sie Abmelden"
+
+msgid "Guest navigation"
+msgstr "Gastnavigation"
+
+msgid "Breadcrumb"
+msgstr "Semmelbrösel"
+
+msgid "Authentication error"
+msgstr "Authentifizierungsfehler"
+
+msgid "An error occurred during the authentication via a third party authenticator."
+msgstr "Bei der Authentifizierung über einen Drittanbieter-Authentifikator ist ein Fehler aufgetreten."
+
+msgid "Contact your administrator for more information."
+msgstr "Weitere Informationen erhalten Sie von Ihrem Administrator."
+
+msgid "Confirmation of registration"
+msgstr "Anmeldebestätigung"
+
+msgid "Send an email to reset the password"
+msgstr "Senden Sie eine E-Mail, um das Passwort zurückzusetzen"
+
+msgid "Accept terms and conditions"
+msgstr "Akzeptieren Sie die Allgemeinen Geschäftsbedingungen"
+
+msgid "Accept"
+msgstr "Akzeptieren"
+
+msgid "The terms and conditions can be read %shere%s."
+msgstr "Die Allgemeinen Geschäftsbedingungen können %shier%s gelesen werden."
+
+msgid "Log out"
+msgstr "Abmelden"
+
+msgid "My email"
+msgstr "Meine E-Mail"
+
+msgid "Update account info and password"
+msgstr "Kontoinformationen und Passwort aktualisieren"
+
+msgid "Update email"
+msgstr "E-Mail aktualisieren"
+
+msgid "This module integrates the features from module GuestApi, that is no longer needed. The config were merged (texts of messages) so you should check them in {link_url}main settings{link_end}. The module was disabled, but you should uninstall the module once params are checked."
+msgstr "Dieses Modul integriert die Funktionen des Moduls GuestApi, das nicht mehr benötigt wird.Die Konfigurationen wurden zusammengeführt (Nachrichtentexte), daher sollten Sie sie in den {link_url}Haupteinstellungen{link_end} überprüfen.Das Modul wurde deaktiviert, aber Sie sollten das Modul deinstallieren, sobald die Parameter überprüft wurden."
+
+msgid "A new option allows to display the list of external accounts on login page."
+msgstr "Eine neue Option ermöglicht die Anzeige der Liste externer Konten auf der Anmeldeseite."
+
+msgid "The form to reset agreement status was moved to a task of module {link}Easy Admin{link_end}."
+msgstr "Das Formular zum Zurücksetzen des Vertragsstatus wurde in eine Aufgabe des Moduls {link}Easy Admin{link_end} verschoben."
+
+msgid "An option allows to define the type of display for the list of external connection (cas/sso) as a list of links or a select."
+msgstr "Eine Option ermöglicht es, die Art der Anzeige für die Liste der externen Verbindungen (cas/sso) als Linkliste oder Auswahl zu definieren."
+
+msgid "It is now possible to show the register form beside the login form. Page blocks Login and Register are available too."
+msgstr "Es ist nun möglich, neben dem Anmeldeformular auch das Registrierungsformular anzuzeigen.Die Seitenblöcke „Anmelden“ und „Registrieren“ sind ebenfalls verfügbar."
+
+msgid "It is now possible to hide the user bar for guests separately from admins."
+msgstr "Es ist nun möglich, die Benutzerleiste für Gäste getrennt von Admins auszublenden."
+
+msgid "It is now possible to configure a specific navigation and a specific home page for guest via the site sub-menu \"Navigation for guest\" and in site settings."
+msgstr "Es ist jetzt möglich, über das Site-Untermenü „Navigation für Gäste“ und in den Site-Einstellungen eine spezifische Navigation und eine spezifische Homepage für Gäste zu konfigurieren."
+
+msgid "It is now possible to theme the default login page with the default site theme."
+msgstr "Es ist jetzt möglich, die Standard-Anmeldeseite mit dem Standard-Site-Design zu versehen."
+
+msgid "It is now possible to define the role on registering."
+msgstr "Es ist nun möglich, die Rolle bei der Registrierung zu definieren."
+
+msgid "Guest"
+msgstr "Gast"
+
+msgid "Agreed terms"
+msgstr "Vereinbarte Bedingungen"
+
+msgid "Send an email to confirm registration after moderation (user should be activated first)"
+msgstr "Senden Sie nach der Moderation eine E-Mail zur Bestätigung der Registrierung (Benutzer sollte zuerst aktiviert werden)"
+
+msgid "Guest site"
+msgstr "Gastseite"
+
+msgid "This parameter is used to manage some site related features, in particular messages."
+msgstr "Dieser Parameter wird verwendet, um einige Website-bezogene Funktionen, insbesondere Nachrichten, zu verwalten."
+
+msgid "Clear registration token"
+msgstr "Registrierungstoken löschen"
+
+msgid "You cannot send a message to confirm registration: user is not active."
+msgstr "Sie können keine Nachricht zur Bestätigung der Registrierung senden: Der Benutzer ist nicht aktiv."
+
+msgid "A default site should be set or the user should have a site in order to confirm registration."
+msgstr "Es sollte eine Standard-Site festgelegt werden oder der Benutzer sollte über eine Site verfügen, um die Registrierung zu bestätigen."
+
+msgid "The message of confirmation of the registration has been sent."
+msgstr "Die Bestätigungsnachricht der Registrierung wurde gesendet."
+
+msgid "Guest: Reset terms agreement for all guests"
+msgstr "Gast: Konditionenvereinbarung für alle Gäste zurücksetzen"
+
+msgid "Options to reset agreement terms"
+msgstr "Optionen zum Zurücksetzen der Vertragsbedingungen"
+
+msgid "Reset terms agreement for all guests"
+msgstr "Konditionenvereinbarung für alle Gäste zurücksetzen"
+
+msgid "When terms and conditions are updated, you may want guests agree them one more time. Warning: to set false will impact all guests. So warn them some time before."
+msgstr "Wenn die Allgemeinen Geschäftsbedingungen aktualisiert werden, möchten Sie möglicherweise, dass die Gäste ihnen noch einmal zustimmen.Warnung: Die Einstellung „false“ wirkt sich auf alle Gäste aus.Warnen Sie sie also einige Zeit vorher."
+
+msgid "No change"
+msgstr "Keine Änderung"
+
+msgid "Set false"
+msgstr "Auf „false“ setzen"
+
+msgid "Set true"
+msgstr "Auf wahr setzen"
+
+msgid "User name, email, or password is invalid"
+msgstr "Benutzername, E-Mail-Adresse oder Passwort sind ungültig"
+
+msgid "Email or password invalid"
+msgstr "E-Mail oder Passwort ungültig"
+
+msgid "All guests must agreed the terms one more time."
+msgstr "Alle Gäste müssen den Bedingungen noch einmal zustimmen."
+
+msgid "All guests agreed the terms."
+msgstr "Alle Gäste stimmten den Bedingungen zu."
+
+msgid "No process can be done without settings."
+msgstr "Ohne Einstellungen ist kein Vorgang möglich."
+
+msgid "User not found."
+msgstr "Benutzer nicht gefunden."
+
+msgid "Your account has not been confirmed: check your email."
+msgstr "Ihr Konto wurde nicht bestätigt: Überprüfen Sie Ihre E-Mails."
+
+msgid "Invalid password."
+msgstr "Ungültiges Passwort."
+
+msgid "Emails to notify registrations"
+msgstr "E-Mails zur Benachrichtigung über Registrierungen"
+
+msgid "The list of emails to notify when a user registers, one by row."
+msgstr "Die Liste der E-Mails, die bei der Registrierung eines Benutzers benachrichtigt werden sollen, eine nach Zeile."
+
+msgid "Log in Text"
+msgstr "Anmeldetext"
+
+msgid "The text to use for the \"Log in\" link in the user bar"
+msgstr "Der Text, der für den Link „Anmelden“ in der Benutzerleiste verwendet werden soll"
+
+msgid "Register Text"
+msgstr "Text registrieren"
+
+msgid "The text to use for the \"Register\" link in the user bar"
+msgstr "Der Text, der für den Link „Registrieren“ in der Benutzerleiste verwendet werden soll"
+
+msgid "Hide the login form (for sso)"
+msgstr "Anmeldeformular ausblenden (für SSO)"
+
+msgid "This option allows to display only the links for the other modules, like Single Sign-On."
+msgstr "Mit dieser Option können nur die Links für die anderen Module angezeigt werden, z. B. Single Sign-On."
+
+msgid "Display register form on login page"
+msgstr "Anmeldeformular auf der Anmeldeseite anzeigen"
+
+msgid "Html to display before the login form"
+msgstr "HTML, das vor dem Anmeldeformular angezeigt werden soll"
+
+msgid "Text to display after the login form"
+msgstr "Text, der nach dem Anmeldeformular angezeigt wird"
+
+msgid "Html to display before the registration form"
+msgstr "HTML zur Anzeige vor dem Registrierungsformular"
+
+msgid "Text to display after the registration form"
+msgstr "Text, der nach dem Registrierungsformular angezeigt wird"
+
+msgid "Dashboard Label"
+msgstr "Dashboard-Beschriftung"
+
+msgid "The text to use for the label on the user’s dashboard"
+msgstr "Der Text, der für die Beschriftung im Dashboard des Benutzers verwendet werden soll"
+
+msgid "Registration Features"
+msgstr "Registrierungsfunktionen"
+
+msgid "Add some text to the registration screen so people will know what they get for registering. As you enable and configure plugins that make use of the guest, please give them guidance about what they can and cannot do."
+msgstr "Fügen Sie dem Registrierungsbildschirm etwas Text hinzu, damit die Leute wissen, was sie für die Registrierung erhalten.Wenn Sie Plugins aktivieren und konfigurieren, die den Gast nutzen, geben Sie ihm bitte Hinweise darüber, was er tun kann und was nicht."
+
+msgid "guest_capabilities"
+msgstr "Guest_Capabilities"
+
+msgid "Subject of the email sent to administrator to notify about a new user"
+msgstr "Betreff der E-Mail, die an den Administrator gesendet wird, um über einen neuen Benutzer zu informieren"
+
+msgid "[{site_title}] A user is registering"
+msgstr "[{site_title}] Ein Benutzer registriert sich"
+
+msgid "Email sent to administrator to notify about a new user"
+msgstr "E-Mail an den Administrator gesendet, um über einen neuen Benutzer zu informieren"
+
+msgid "Hi,\nA new user, {user_name}, is registering on <a href=\"{site_url}\">{site_title}</a> ({main_title}).\nYou may moderate this email: {user_email}.\nThis is an automatic message."
+msgstr "Hallo,\nEin neuer Benutzer, {user_name}, registriert sich auf <a href=\"{site_url}\">{site_title}</a> ({main_title}).\nSie können diese E-Mail moderieren: {user_email}.\nDies ist eine automatische Nachricht."
+
+msgid "Subject of the email sent to confirm email"
+msgstr "Betreff der zur Bestätigung gesendeten E-Mail"
+
+msgid "[{site_title}] Confirm email"
+msgstr "[{site_title}] E-Mail bestätigen"
+
+msgid "Email sent to confirm registration"
+msgstr "E-Mail zur Bestätigung der Registrierung gesendet"
+
+msgid "The text of the email to confirm the registration and to send the token."
+msgstr "Der Text der E-Mail zur Bestätigung der Registrierung und zum Versenden des Tokens."
+
+msgid "Hi {user_name},\nYou have registered for an account on {main_title} / {site_title} ({site_url}).\nPlease confirm your registration by following this link: {token_url}.\nIf you did not request to join {main_title} please disregard this email."
+msgstr "Hallo {Benutzername},\nSie haben sich für ein Konto bei {main_title} / {site_title} ({site_url}) registriert.\nBitte bestätigen Sie Ihre Registrierung, indem Sie diesem Link folgen: {token_url}.\nWenn Sie keine Beitrittsanfrage für {main_title} gestellt haben, ignorieren Sie diese E-Mail bitte."
+
+msgid "Subject of the email sent to confirm registration after moderation"
+msgstr "Betreff der E-Mail zur Bestätigung der Registrierung nach der Moderation"
+
+msgid "[{site_title}] Account open"
+msgstr "[{site_title}] Konto eröffnet"
+
+msgid "Email sent to confirm registration after moderation"
+msgstr "Nach der Moderation wird eine E-Mail zur Bestätigung der Registrierung gesendet"
+
+msgid "When the moderation is set, the user may be informed automatically when the admin activates account (check box in second user tab)."
+msgstr "Wenn die Moderation eingestellt ist, wird der Benutzer möglicherweise automatisch informiert, wenn der Administrator das Konto aktiviert (Kontrollkästchen im zweiten Benutzerregister)."
+
+msgid "Hi {user_name},\nWe are happy to open your account on {main_title} / {site_title} ({site_url}).\nYou can now log in and discover the site."
+msgstr "Hallo {Benutzername},\nGerne eröffnen wir Ihr Konto unter {main_title} / {site_title} ({site_url}).\nSie können sich jetzt anmelden und die Seite entdecken."
+
+msgid "Subject of email sent to update email"
+msgstr "Betreff der E-Mail, die an die Aktualisierungs-E-Mail gesendet wurde"
+
+msgid "Email sent to update email"
+msgstr "E-Mail zur Aktualisierung der E-Mail gesendet"
+
+msgid "The text of the email sent when the user wants to update it."
+msgstr "Der Text der E-Mail, die gesendet wird, wenn der Benutzer sie aktualisieren möchte."
+
+msgid "Hi {user_name},\nYou have requested to update email on {main_title} / {site_title} ({site_url}).\nPlease confirm your email by following this link: {token_url}.\nIf you did not request to update your email on {main_title}, please disregard this email."
+msgstr "Hallo {Benutzername},\nSie haben eine Aktualisierung der E-Mail-Adresse für {main_title} / {site_title} ({site_url}) beantragt.\nBitte bestätigen Sie Ihre E-Mail, indem Sie diesem Link folgen: {token_url}.\nWenn Sie keine Aktualisierung Ihrer E-Mail-Adresse für {main_title} beantragt haben, ignorieren Sie diese E-Mail bitte."
+
+msgid "Message to confirm email on the page"
+msgstr "Nachricht zur Bestätigung der E-Mail auf der Seite"
+
+msgid "The message to  display after confirmation of a mail."
+msgstr "Die Meldung, die nach der Bestätigung einer E-Mail angezeigt wird."
+
+msgid "Your email \"{user_email}\" is confirmed for {site_title}."
+msgstr "Ihre E-Mail-Adresse „{user_email}“ wurde für {site_title} bestätigt."
+
+msgid "Message to confirm registration on the page"
+msgstr "Nachricht zur Bestätigung der Registrierung auf der Seite"
+
+msgid "Message to confirm registration and moderation on the page"
+msgstr "Nachricht zur Bestätigung der Registrierung und Moderation auf der Seite"
+
+msgid "Thank you for registering. Please check your email for a confirmation message. Once you have confirmed your request and we have confirmed it, you will be able to log in."
+msgstr "Vielen Dank für Ihre Registrierung.Bitte überprüfen Sie Ihre E-Mails auf eine Bestätigungsnachricht.Sobald Sie Ihre Anfrage bestätigt haben und wir diese bestätigt haben, können Sie sich anmelden."
+
+msgid "Text for terms and conditions"
+msgstr "Text für die Allgemeinen Geschäftsbedingungen"
+
+msgid "The text to display to accept condtions."
+msgstr "Der Text, der angezeigt werden soll, um Bedingungen zu akzeptieren."
+
+msgid "Page slug of the terms and conditions"
+msgstr "Seitenausschnitt der Allgemeinen Geschäftsbedingungen"
+
+msgid "If the text is on a specific page, or for other usage."
+msgstr "Wenn sich der Text auf einer bestimmten Seite befindet oder für eine andere Verwendung."
+
+msgid "Redirect page after logging in"
+msgstr "Weiterleitungsseite nach der Anmeldung"
+
+msgid "Set \"home\" for home page (admin or public), \"site\" for the current site home, \"top\" for main public page, \"me\" for guest account, or any path starting with \"/\", including \"/\" itself for main home page."
+msgstr "Legen Sie „home“ für die Startseite (admin oder öffentlich), „site“ für die Startseite der aktuellen Website, „top“ für die öffentliche Hauptseite, „me“ für das Gastkonto oder einen beliebigen Pfad fest, der mit „/“ beginnt, einschließlich „/“ selbst für die Haupthomepage."
+
+msgid "Display user bar only for admin (require Omeka option)"
+msgstr "Benutzerleiste nur für Administratoren anzeigen (Omeka-Option erforderlich)"
+
+msgid "Registration"
+msgstr "Anmeldung"
+
+msgid "Allow guest registration without administrator approval. The link to use is \"/s/my-site/guest/register\"."
+msgstr "Erlauben Sie die Gastregistrierung ohne Genehmigung des Administrators.Der zu verwendende Link lautet „/s/my-site/guest/register“."
+
+msgid "Open to everyone"
+msgstr "Offen für alle"
+
+msgid "Open with moderation"
+msgstr "Öffnen Sie mit Moderation"
+
+msgid "Closed to visitors"
+msgstr "Für Besucher geschlossen"
+
+msgid "Default role on register"
+msgstr "Standardrolle bei der Registrierung"
+
+msgid "This option is useful for modules that create derivative roles for guests."
+msgstr "Diese Option ist für Module nützlich, die abgeleitete Rollen für Gäste erstellen."
+
+msgid "Allowed roles for guest"
+msgstr "Zulässige Rollen für Gast"
+
+msgid "Select roles…"
+msgstr "Rollen auswählen…"
+
+msgid "Pages where the user may select an allowed role"
+msgstr "Seiten, auf denen der Benutzer eine zulässige Rolle auswählen kann"
+
+msgid "Update account"
+msgstr "Konto aktualisieren"
+
+msgid "Default emails to notify registrations"
+msgstr "Standard-E-Mails zur Benachrichtigung über Registrierungen"
+
+msgid "Add new users to sites"
+msgstr "Fügen Sie neue Benutzer zu Websites hinzu"
+
+msgid "Require ReCaptcha"
+msgstr "ReCaptcha erforderlich"
+
+msgid "Check this to require passing a ReCaptcha test when registering"
+msgstr "Aktivieren Sie diese Option, um bei der Registrierung das Bestehen eines ReCaptcha-Tests zu erfordern"
+
+msgid "Skip terms agreement"
+msgstr "Vereinbarung über die Bedingungen überspringen"
+
+msgid "Pages not to redirect"
+msgstr "Seiten, die nicht umgeleitet werden sollen"
+
+msgid "Allows to keep some pages available when terms are not yet agreed. Default pages are included (logout, terms page…). This is a regex, with \"~\" delimiter, checked against the end of the url."
+msgstr "Ermöglicht es, einige Seiten verfügbar zu halten, wenn die Bedingungen noch nicht vereinbart sind.Standardseiten sind enthalten (Abmelden, Seite mit Nutzungsbedingungen usw.).Dies ist ein regulärer Ausdruck mit dem Trennzeichen „~“, der am Ende der URL geprüft wird."
+
+msgid "Force terms agreement"
+msgstr "Konditionenvereinbarung erzwingen"
+
+msgid "If unchecked, the user will be logged out if terms are not accepted."
+msgstr "Wenn diese Option deaktiviert ist, wird der Benutzer abgemeldet, wenn die Bedingungen nicht akzeptiert werden."
+
+msgid "Default log in text"
+msgstr "Standard-Anmeldetext"
+
+msgid "Default register text"
+msgstr "Standardregistertext"
+
+msgid "Default dashboard label"
+msgstr "Standard-Dashboard-Beschriftung"
+
+msgid "Default registration features"
+msgstr "Standardregistrierungsfunktionen"
+
+msgid "Default subject of the email sent to confirm email"
+msgstr "Standardbetreff der E-Mail, die zur Bestätigung der E-Mail gesendet wird"
+
+msgid "Default email sent to confirm registration"
+msgstr "Standard-E-Mail zur Bestätigung der Registrierung"
+
+msgid "Default subject of the email sent to confirm registration after moderation"
+msgstr "Standardbetreff der E-Mail, die zur Bestätigung der Registrierung nach der Moderation gesendet wird"
+
+msgid "Default email sent to confirm registration after moderation"
+msgstr "Standard-E-Mail zur Bestätigung der Registrierung nach der Moderation"
+
+msgid "Default subject of email sent to update email"
+msgstr "Standardbetreff der E-Mail, die an die Aktualisierungs-E-Mail gesendet wird"
+
+msgid "Default email sent to update email"
+msgstr "Standard-E-Mail wird an die Aktualisierungs-E-Mail gesendet"
+
+msgid "Default message to confirm email on the page"
+msgstr "Standardnachricht zur Bestätigung der E-Mail auf der Seite"
+
+msgid "Default message to confirm registration on the page"
+msgstr "Standardnachricht zur Bestätigung der Registrierung auf der Seite"
+
+msgid "Default message to confirm registration and moderation on the page"
+msgstr "Standardnachricht zur Bestätigung der Registrierung und Moderation auf der Seite"
+
+msgid "Default text for terms and conditions"
+msgstr "Standardtext für Geschäftsbedingungen"
+
+msgid "Default page slug of the terms and conditions"
+msgstr "Standardseiten-Slug der Allgemeinen Geschäftsbedingungen"
+
+msgid "Default redirect page after login"
+msgstr "Standard-Weiterleitungsseite nach der Anmeldung"
+
+msgid "Append cas/sso login links to login page"
+msgstr "Cas/SSO-Anmeldelinks an die Anmeldeseite anhängen"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Buttons"
+msgstr "Knöpfe"
+
+msgid "Select"
+msgstr "Wählen"
+
+msgid "Requires a site to register via api"
+msgstr "Erfordert eine Site-Registrierung über API"
+
+msgid "If checked, a site id or slug will be required when registering via api. Note: when this setting is set, all previous users must be added to a site."
+msgstr "Wenn diese Option aktiviert ist, ist bei der Registrierung über die API eine Site-ID oder ein Slug erforderlich.Hinweis: Wenn diese Einstellung festgelegt ist, müssen alle vorherigen Benutzer zu einer Site hinzugefügt werden."
+
+msgid "Skip email validation on register"
+msgstr "Überspringen Sie die E-Mail-Validierung bei der Registrierung"
+
+msgid "If checked, the user won’t have to validate his email, so he will be able to log in directly."
+msgstr "Wenn diese Option aktiviert ist, muss der Benutzer seine E-Mail-Adresse nicht bestätigen, sodass er sich direkt anmelden kann."
+
+msgid "Roles that can log in via api"
+msgstr "Rollen, die sich über API anmelden können"
+
+msgid "To allow full access via api increases risks of intrusion."
+msgstr "Die Ermöglichung des vollständigen Zugriffs über die API erhöht das Risiko eines Einbruchs."
+
+msgid "All roles"
+msgstr "Alle Rollen"
+
+msgid "Create a local session cookie for api"
+msgstr "Erstellen Sie ein lokales Sitzungscookie für die API"
+
+msgid "If checked, a session cookie will be created, so the user will be able to log in in Omeka from an other web app."
+msgstr "Wenn diese Option aktiviert ist, wird ein Sitzungscookie erstellt, sodass sich der Benutzer von einer anderen Web-App aus bei Omeka anmelden kann."
+
+msgid "Limit access to api to these domains (cors)"
+msgstr "Beschränken Sie den API-Zugriff auf diese Domänen (Cors)."
+
+msgid "I agree with terms and conditions."
+msgstr "Ich stimme den Allgemeinen Geschäftsbedingungen zu."
+
+msgid "Default page for account"
+msgstr "Standardseite für Konto"
+
+msgid "Classical board (pages of modules)"
+msgstr "Klassisches Board (Seiten mit Modulen)"
+
+msgid "Guest board (this menu)"
+msgstr "Gästetafel (dieses Menü)"
+
+msgid "The role {role} is not valid. Role \"guest\" is used instead."
+msgstr "Die Rolle {role} ist ungültig.Stattdessen wird die Rolle „Gast“ verwendet."
+
+msgid "The role {role} is an admin role and cannot be used for registering. Role \"guest\" is used instead."
+msgstr "Die Rolle {role} ist eine Admin-Rolle und kann nicht zur Registrierung verwendet werden.Stattdessen wird die Rolle „Gast“ verwendet."
+
+msgid "Missing site."
+msgstr "Fehlende Website."
+
+msgid "It is currently not possible to send a token for a private site. Set option to skip email validation."
+msgstr "Das Versenden eines Tokens für eine private Seite ist derzeit nicht möglich.Legen Sie die Option fest, um die E-Mail-Validierung zu überspringen."
+
+msgid "[No subject]"
+msgstr "[Kein Betreff]"
+
+msgid "[No message]"
+msgstr "[Keine Nachricht]"
+
+msgid "Role \"{role]\" is not allowed to log in via api."
+msgstr "Die Rolle „{role]“ darf sich nicht über die API anmelden."
+
+msgid "An error occurred after creation of the guest user: {exception}"
+msgstr "Nach der Erstellung des Gastbenutzers ist ein Fehler aufgetreten: {Exception}"
+
+msgid "User token for {site_title}"
+msgstr "Benutzertoken für {site_title}"
+
+msgid "Greetings!\n\nTo reset your password on {site_title}, fill this token in the app: {token}.\n\nYour activation link will expire on {date}."
+msgstr "Grüße!\n\nUm Ihr Passwort auf {site_title} zurückzusetzen, füllen Sie dieses Token in der App aus: {token}.\n\nIhr Aktivierungslink läuft am {Datum} ab."
+
+msgid "Invalid token."
+msgstr "Ungültiges Token."
+
+msgid "This token is invalid. Check your email."
+msgstr "Dieses Token ist ungültig.Überprüfen Sie Ihre E-Mails."
+
+msgid "Password token expired."
+msgstr "Passwort-Token abgelaufen."
+
+msgid "New password should have 6 characters or more."
+msgstr "Das neue Passwort sollte mindestens 6 Zeichen lang sein."
+
+msgid "This dialog is not managed."
+msgstr "Dieser Dialog wird nicht verwaltet."
+
+msgid "This dialog requires module Two-Factor Authentication."
+msgstr "Für diesen Dialog ist das Modul Zwei-Faktor-Authentifizierung erforderlich."
+
+msgid "An error occurred when loading dialog."
+msgstr "Beim Laden des Dialogs ist ein Fehler aufgetreten."
+
+msgid "Request is empty."
+msgstr "Die Anfrage ist leer."
+
+msgid "Email cannot be updated: the user is not related to a site."
+msgstr "E-Mail kann nicht aktualisiert werden: Der Benutzer hat keinen Bezug zu einer Website."
+
+msgid "Your request contains metadata that cannot be updated."
+msgstr "Ihre Anfrage enthält Metadaten, die nicht aktualisiert werden können."
+
+msgid "The new name is empty."
+msgstr "Der neue Name ist leer."
+
+msgid "You cannot update password and another data in the same time."
+msgstr "Sie können das Passwort und andere Daten nicht gleichzeitig aktualisieren."
+
+msgid "Existing password empty."
+msgstr "Vorhandenes Passwort leer."
+
+msgid "New password empty."
+msgstr "Neues Passwort leer."
+
+msgid "Wrong password."
+msgstr "Falsches Passwort."
+
+msgid "You cannot update email and another data in the same time."
+msgstr "Sie können E-Mails und andere Daten nicht gleichzeitig aktualisieren."
+
+msgid "New email empty."
+msgstr "Neue E-Mail leer."
+
+msgid "\"{email}\" is not an email."
+msgstr "„{email}“ ist keine E-Mail."
+
+msgid "The new email is the same than the current one."
+msgstr "Die neue E-Mail ist dieselbe wie die aktuelle."
+
+msgid "User #{user_id} wants to change email from \"{email}\" to \"{email_2}\", used by user #{user_id_2}."
+msgstr "Benutzer #{user_id_} möchte die E-Mail-Adresse von „{email}“ in „{email_2}“ ändern, die von Benutzer #{user_id_2} verwendet wird."
+
+msgid "The email \"{email}\" is not yours."
+msgstr "Die E-Mail-Adresse „{email}“ gehört nicht Ihnen."
+
+msgid "User #{user_id} wants to change email from \"{email}\" to \"{email_2}\", used by user #{user_id_2} (second check)."
+msgstr "Benutzer #{user_id_} möchte die E-Mail-Adresse von „{email}“ in „{email_2}“ ändern, die von Benutzer #{user_id_2} verwendet wird (zweite Überprüfung)."
+
+msgid "[GuestApi] An error occurred when the email was sent."
+msgstr "[GuestApi] Beim Senden der E-Mail ist ein Fehler aufgetreten."
+
+msgid "Check your email \"{email}\" to confirm the change."
+msgstr "Überprüfen Sie Ihre E-Mail „{email}“, um die Änderung zu bestätigen."
+
+msgid "[Guest] Site #{site_slug} is not available."
+msgstr "[Gast] Site #{site_slug} ist nicht verfügbar."
+
+msgid "Role \"{role]\" is not allowed to login via api."
+msgstr "Der Rolle „{role]“ ist die Anmeldung über die API nicht gestattet."
+
+msgid "Guest Api: an app uses \"user-settings\" instead of \"o:settings\" when registering a user."
+msgstr "Gast-API: Eine App verwendet bei der Registrierung eines Benutzers „Benutzereinstellungen“ anstelle von „o:settings“."
+
+msgid "A new code was resent."
+msgstr "Ein neuer Code wurde erneut gesendet."
+
+msgid "Unable to send email."
+msgstr "E-Mail kann nicht gesendet werden."
+
+msgid "A password must be set."
+msgstr "Es muss ein Passwort festgelegt werden."
+
+msgid "A new user is registering: {user_email} ({url})."
+msgstr "Ein neuer Benutzer registriert sich: {user_email} ({url})."
+
+msgid "An error occurred when the notification email was sent."
+msgstr "Beim Senden der Benachrichtigungs-E-Mail ist ein Fehler aufgetreten."
+
+msgid "[Guest] An error occurred when the notification email was sent."
+msgstr "[Gast] Beim Senden der Benachrichtigungs-E-Mail ist ein Fehler aufgetreten."
+
+msgid "[Guest] An error occurred when the email was sent."
+msgstr "[Gast] Beim Senden der E-Mail ist ein Fehler aufgetreten."
+
+msgid "Thanks for joining {site_title}! You can now log in using the password you chose."
+msgstr "Vielen Dank für Ihren Beitritt zu {site_title}!Sie können sich nun mit dem von Ihnen gewählten Passwort anmelden."
+
+msgid "Thanks for joining {site_title}! Your registration is under moderation. See you soon!"
+msgstr "Vielen Dank für Ihren Beitritt zu {site_title}!Ihre Registrierung wird moderiert.Bis bald!"
+
+msgid "Invalid token: your email was not confirmed for {site_title}."
+msgstr "Ungültiges Token: Ihre E-Mail-Adresse wurde für {site_title} nicht bestätigt."
+
+msgid "site_title"
+msgstr "site_title"
+
+msgid "A new user is registering and has confirmed email: {user_email} ({url})."
+msgstr "Ein neuer Benutzer registriert sich und hat die bestätigte E-Mail-Adresse: {user_email} ({url})."
+
+msgid "Value is required and can't be empty"
+msgstr "Der Wert ist erforderlich und darf nicht leer sein"
+
+msgid "Password invalid"
+msgstr "Passwort ungültig"
+
+msgid "Your modifications have been saved."
+msgstr "Ihre Änderungen wurden gespeichert."
+
+msgid "user-settings"
+msgstr "Benutzereinstellungen"
+
+msgid "password"
+msgstr "Passwort"
+
+msgid "Email invalid"
+msgstr "E-Mail ungültig"
+
+msgid "The email \"{user_email}\" is not yours."
+msgstr "Die E-Mail-Adresse „{user_email}“ gehört nicht Ihnen."
+
+msgid "Check your email \"{user_email}\" to confirm the change."
+msgstr "Überprüfen Sie Ihre E-Mail-Adresse „{user_email}“, um die Änderung zu bestätigen."
+
+msgid "You already agreed the terms and conditions."
+msgstr "Sie haben den Allgemeinen Geschäftsbedingungen bereits zugestimmt."
+
+msgid "Form invalid"
+msgstr "Formular ungültig"
+
+msgid "The access to this website requires you accept the current terms and conditions."
+msgstr "Der Zugriff auf diese Website setzt voraus, dass Sie die aktuellen Allgemeinen Geschäftsbedingungen akzeptieren."
+
+msgid "Thanks for accepting the terms and condtions."
+msgstr "Vielen Dank, dass Sie die Allgemeinen Geschäftsbedingungen akzeptiert haben."
+
+msgid "Guest: Log in"
+msgstr "Gast: Einloggen"
+
+msgid "Guest: Log out"
+msgstr "Gast: Abmelden"
+
+msgid "Guest: Log in / Log out"
+msgstr "Gast: Anmelden / Abmelden"
+
+msgid "Guest: Log in / My board"
+msgstr "Gast: Einloggen / Mein Forum"
+
+msgid "My board"
+msgstr "Mein Board"
+
+msgid "Guest: Register"
+msgstr "Gast: Registrieren"
+
+msgid "Guest: Login"
+msgstr "Gast: Anmelden"
+
+msgid "Guest: Forgot password"
+msgstr "Gast: Passwort vergessen"
+
+msgid "You cannot change your password here."
+msgstr "Sie können Ihr Passwort hier nicht ändern."
+
+msgid "Navigation Guest"
+msgstr "Navigationsgast"
+
+msgid "My dashboard"
+msgstr "Mein Dashboard"
+
+msgid "<p>Hi,</p>\n<p>A new user, {user_name}, is registering on <a href=\"{site_url}\">{site_title}</a> ({main_title}).</p>\n<p>You may moderate this email: {user_email}.</p>\n<p>This is an automatic message.</p>"
+msgstr "<p>Hallo,</p>\n<p>Ein neuer Benutzer, {user_name}, registriert sich auf <a href=\"{site_url}\">{site_title}</a> ({main_title}).</p>\n<p>Sie können diese E-Mail moderieren: {user_email}.</p>\n<p>Dies ist eine automatische Nachricht.</p>"
+
+msgid "<p>Hi {user_name},</p>\n<p>You have registered for an account on <a href=\"{site_url}\">{site_title}</a> ({main_title}).</p>\n<p>Please confirm your registration by following this link: <a href=\"{token_url}\"> {token_url}</a></p>\n<p>If you did not request to join {main_title} / {site_title}, please disregard this email.</p>"
+msgstr "<p>Hallo {Benutzername},</p>\n<p>Sie haben sich für ein Konto auf <a href=\"{site_url}\">{site_title}</a> ({main_title}) registriert.</p>\n<p>Bitte bestätigen Sie Ihre Registrierung, indem Sie diesem Link folgen: <a href=\"{token_url}\"> {token_url}</a></p>\n<p>Wenn Sie keine Beitrittsanfrage für {main_title} / {site_title} gestellt haben, ignorieren Sie diese E-Mail bitte.</p>"
+
+msgid "<p>Hi {user_name},</p>\n<p>We are happy to open your account on <a href=\"{site_url}\">{site_title}</a> ({main_title}).</p>\n<p>Please confirm your email by following this link: <a href=\"{token_url}\">{token_url}</a>.</p>\n<p>You can now log in and discover the site.</p>"
+msgstr "<p>Hallo {Benutzername},</p>\n<p>Wir freuen uns, Ihr Konto auf <a href=\"{site_url}\">{site_title}</a> ({main_title}) zu eröffnen.</p>\n<p>Bitte bestätigen Sie Ihre E-Mail, indem Sie diesem Link folgen: <a href=\"{token_url}\">{token_url}</a>.</p>\n<p>Sie können sich jetzt anmelden und die Website entdecken.</p>"
+
+msgid "<p>Hi {user_name},</p>\n<p>You have requested to update email on <a href=\"{site_url}\">{site_title}</a> ({main_title}).</p>\n<p>Please confirm your email by following this link: <a href=\"{token_url}\">{token_url}</a>.</p>\n<p>If you did not request to update your email on {main_title}, please disregard this email.</p>"
+msgstr "<p>Hallo {Benutzername},</p>\n<p>Sie haben eine Aktualisierung der E-Mail auf <a href=\"{site_url}\">{site_title}</a> ({main_title}) beantragt.</p>\n<p>Bitte bestätigen Sie Ihre E-Mail, indem Sie diesem Link folgen: <a href=\"{token_url}\">{token_url}</a>.</p>\n<p>Wenn Sie keine Aktualisierung Ihrer E-Mail-Adresse für {main_title} angefordert haben, ignorieren Sie diese E-Mail bitte.</p>"
+
+msgid "I agree the terms and conditions."
+msgstr "Ich stimme den Allgemeinen Geschäftsbedingungen zu."

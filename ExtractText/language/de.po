@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Extractor"
+msgstr "Extraktor"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Background only"
+msgstr "Nur Hintergrund"
+
+msgid "Extract text"
+msgstr "Text extrahieren"
+
+msgid "Clear text"
+msgstr "Klartext"
+
+msgid "Refresh text"
+msgstr "Text aktualisieren"
+
+msgid "[No action]"
+msgstr "[Keine Aktion]"
+
+msgid "Refresh text (background)"
+msgstr "Text aktualisieren (Hintergrund)"

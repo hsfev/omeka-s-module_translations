@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "When the metadata url of an IdP is set, its form will be automatically filled and updated each day."
+msgstr "Wenn die Metadaten-URL eines IdP festgelegt ist, wird sein Formular jeden Tag automatisch ausgefüllt und aktualisiert."
+
+msgid "Warning: some IdPs hide the name, so you may fill it yourself."
+msgstr "Achtung: Einige IdPs verbergen den Namen, sodass Sie ihn möglicherweise selbst eingeben."
+
+msgid "Furthermore, IdP keys still need to be mapped, at least for name."
+msgstr "Darüber hinaus müssen IdP-Schlüssel zumindest für den Namen noch zugeordnet werden."
+
+msgid "Login with your identity provider"
+msgstr "Melden Sie sich bei Ihrem Identitätsanbieter an"
+
+msgid "Direct login"
+msgstr "Direkter Login"
+
+msgid "Single Sign-On"
+msgstr "Single Sign-On"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid "Create your password via your identity provider."
+msgstr "Erstellen Sie Ihr Passwort über Ihren Identitätsanbieter."
+
+msgid "Update your password via your identity provider."
+msgstr "Aktualisieren Sie Ihr Passwort über Ihren Identitätsanbieter."
+
+msgid "It is now possible to manage multiple IdPs."
+msgstr "Es ist jetzt möglich, mehrere IdPs zu verwalten."
+
+msgid "It is now possible to config and update IdPs automatically with IdP metadata url."
+msgstr "Es ist jetzt möglich, IdPs automatisch mit der IdP-Metadaten-URL zu konfigurieren und zu aktualisieren."
+
+msgid "It is now possible to map IdP and Omeka roles and settings."
+msgstr "Es ist jetzt möglich, IdP- und Omeka-Rollen und -Einstellungen zuzuordnen."
+
+msgid "It is now possible to set an IdP manually. Warning: the certificate of IdP set manually will not be updated automatically."
+msgstr "Es ist jetzt möglich, einen IdP manuell festzulegen.Warnung: Das manuell festgelegte IdP-Zertifikat wird nicht automatisch aktualisiert."
+
+msgid "It is now possible to force login via SSO, so to disallow local login."
+msgstr "Es ist jetzt möglich, die Anmeldung über SSO zu erzwingen, also die lokale Anmeldung zu verbieten."
+
+msgid "It is now possible to define a default role."
+msgstr "Es ist nun möglich, eine Standardrolle zu definieren."
+
+msgid "The settings \"heading\" was removed from block Sso login links. New blocks \"Heading\" or \"Html\" were prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die „Einstellungen“-Überschrift wurde aus den Block-SSO-Anmeldelinks entfernt.Neue Blöcke „Überschrift“ oder „Html“ wurden allen Blöcken vorangestellt, die eine gefüllte Überschrift hatten.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The setting \"template\" was moved to the new block layout settings available since Omeka S v4.1. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Vorlage“ wurde in die neuen Blocklayout-Einstellungen verschoben, die seit Omeka S v4.1 verfügbar sind.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The template files for the block Sso login links should be moved from \"view/common/block-layout\" to \"view/common/block-template\" in your themes. You may check your themes for pages: {json}"
+msgstr "Die Vorlagendateien für die Block-SSO-Anmeldelinks sollten in Ihren Themes von „view/common/block-layout“ nach „view/common/block-template“ verschoben werden.Sie können Ihre Themes auf Seiten überprüfen: {json}"
+
+msgid "It is now possible to define a federation of idps like Renater instead of individual idps."
+msgstr "Es ist jetzt möglich, einen Verbund von Idps wie Renater anstelle einzelner Idps zu definieren."
+
+msgid "It is now possible to define a specific entity id (default is the url of the site)."
+msgstr "Es ist jetzt möglich, eine bestimmte Entitäts-ID zu definieren (Standard ist die URL der Site)."
+
+msgid "It is now possible to create the x509 certificate of the SP."
+msgstr "Es ist nun möglich, das x509-Zertifikat des SP zu erstellen."
+
+msgid "It is now possible to manage IdPs with a urn as entity id."
+msgstr "Es ist jetzt möglich, IdPs mit einer Urne als Entitäts-ID zu verwalten."
+
+msgid "A new option allows to replace the host domain used by Omeka as internal SP server with the host name used in public."
+msgstr "Eine neue Option ermöglicht es, die von Omeka als interner SP-Server verwendete Hostdomäne durch den öffentlich verwendeten Hostnamen zu ersetzen."
+
+msgid "A new option allows to set the page to redirect after login."
+msgstr "Mit einer neuen Option können Sie festlegen, dass die Seite nach der Anmeldung umgeleitet wird."
+
+msgid "A new option allows to set groups for new users (module Group)."
+msgstr "Eine neue Option ermöglicht das Festlegen von Gruppen für neue Benutzer (Modul Gruppe)."
+
+msgid "A new option allows to store the certificate used to encrypt process, not only to sign in."
+msgstr "Eine neue Option ermöglicht das Speichern des Zertifikats, das zum Verschlüsseln des Prozesses und nicht nur zum Anmelden verwendet wird."
+
+msgid "Multiple signing and encryption certificates are now managed. The compatibility with Shibboleth was improved. For Shibboleth, you may need to set an encryption certificate for the sp."
+msgstr "Es werden jetzt mehrere Signatur- und Verschlüsselungszertifikate verwaltet.Die Kompatibilität mit Shibboleth wurde verbessert.Für Shibboleth müssen Sie möglicherweise ein Verschlüsselungszertifikat für den SP festlegen."
+
+msgid "To upgrade the config, you must go to the {link}config form{link_end} and submit it manually."
+msgstr "Um die Konfiguration zu aktualisieren, müssen Sie zum {link}Konfigurationsformular{link_end} gehen und es manuell einreichen."
+
+msgid "A new option allows to update settings from idp attributes on login."
+msgstr "Eine neue Option ermöglicht es, Einstellungen von IDP-Attributen bei der Anmeldung zu aktualisieren."
+
+msgid "A new option allows to config a specific idp and to use the federation certificates of it."
+msgstr "Eine neue Option ermöglicht es, einen bestimmten IDP zu konfigurieren und dessen Verbundzertifikate zu verwenden."
+
+msgid "A new option allows to improve the security measures. You should go to the {link}config form{link_end} to confirm them."
+msgstr "Eine neue Option ermöglicht die Verbesserung der Sicherheitsmaßnahmen.Sie sollten zum {link}Konfigurationsformular{link_end} gehen, um sie zu bestätigen."
+
+msgid "For security, the default role cannot be an admin one. The default role was set to {role}."
+msgstr "Aus Sicherheitsgründen kann die Standardrolle nicht eine Administratorrolle sein.Die Standardrolle wurde auf {role} festgelegt."
+
+msgid "An IdP does not have url and no id and is not valid."
+msgstr "Ein IdP hat keine URL und keine ID und ist ungültig."
+
+msgid "The idp \"{url}\" was manually filled and is not checked neither updated."
+msgstr "Der IDP „{url}“ wurde manuell ausgefüllt und wird weder überprüft noch aktualisiert."
+
+msgid "The option to use metadata from federation for IdP \"{url}\" is set, but there is no such data."
+msgstr "Die Option zur Verwendung von Metadaten aus dem Verbund für IdP „{url}“ ist festgelegt, es sind jedoch keine derartigen Daten vorhanden."
+
+msgid "The metadata for IdP \"{url}\" could not be retrieved."
+msgstr "Die Metadaten für IdP „{url}“ konnten nicht abgerufen werden."
+
+msgid "The idp \"{url}\" seems to be invalid and has no id."
+msgstr "Die IDP „{url}“ scheint ungültig zu sein und hat keine ID."
+
+msgid "A path is set for the certificate ({use}), but it does not contain a directory \"certs\" with files \"sp.crt\" and \"sp.key\"."
+msgstr "Für das Zertifikat ist ein Pfad festgelegt ({use}), es enthält jedoch kein Verzeichnis „certs“ mit den Dateien „sp.crt“ und „sp.key“."
+
+msgid "The SP public certificate is set, but not the private key ({use})."
+msgstr "Das öffentliche SP-Zertifikat ist festgelegt, jedoch nicht der private Schlüssel ({use})."
+
+msgid "The SP private key is set, but not the public certificate ({use})."
+msgstr "Der private SP-Schlüssel ist festgelegt, nicht jedoch das öffentliche Zertifikat ({use})."
+
+msgid "You cannot set a path to the certificate ({use}) and provide them in fields at the same time."
+msgstr "Sie können nicht gleichzeitig einen Pfad zum Zertifikat festlegen ({use}) und diese in Feldern angeben."
+
+msgid "The certicate ({use}) cannot be created when fields \"certificate path\", \"x509 certificate\", or \"x509 private key\" are filled."
+msgstr "Das Zertifikat ({use}) kann nicht erstellt werden, wenn die Felder „Zertifikatpfad“, „x509-Zertifikat“ oder „x509-Privatschlüssel“ ausgefüllt sind."
+
+msgid "The x509 certificate ({use}) was created successfully."
+msgstr "Das x509-Zertifikat ({use}) wurde erfolgreich erstellt."
+
+msgid "An error occurred during creation of the x509 certificate ({use}): {msg}"
+msgstr "Beim Erstellen des x509-Zertifikats ({use}) ist ein Fehler aufgetreten: {msg}"
+
+msgid "The SP public certificate ({use}) is not valid."
+msgstr "Das öffentliche SP-Zertifikat ({use}) ist ungültig."
+
+msgid "The SP private key ({use}) is not valid."
+msgstr "Der private SP-Schlüssel ({use}) ist ungültig."
+
+msgid "Unable to encrypt message with SP public certificate ({use})."
+msgstr "Die Nachricht kann nicht mit dem öffentlichen SP-Zertifikat ({use}) verschlüsselt werden."
+
+msgid "Unable to decrypt message with SP private key ({use})."
+msgstr "Die Nachricht kann mit dem privaten SP-Schlüssel ({use}) nicht entschlüsselt werden."
+
+msgid "An issue occurred during decryption with SP private key ({use}). It may not the good one."
+msgstr "Bei der Entschlüsselung mit dem privaten SP-Schlüssel ({use}) ist ein Problem aufgetreten.Es ist vielleicht nicht das Gute."
+
+msgid "No issue found on SP public certificate and private key ({use})."
+msgstr "Es wurde kein Problem mit dem öffentlichen SP-Zertifikat und dem privaten Schlüssel ({use}) gefunden."
+
+msgid "The IdP public certificate of \"{url}\" is not valid."
+msgstr "Das öffentliche IdP-Zertifikat „{url}“ ist ungültig."
+
+msgid "Unable to encrypt message with IdP public certificate of \"{url}\"."
+msgstr "Die Nachricht kann mit dem öffentlichen IdP-Zertifikat „{url}“ nicht verschlüsselt werden."
+
+msgid "No issue found on IdP public certificate of \"{url}\"."
+msgstr "Beim öffentlichen IdP-Zertifikat „{url}“ wurde kein Problem gefunden."
+
+msgid "The federation url \"{url}\" is not a valid url."
+msgstr "Die Föderations-URL „{url}“ ist keine gültige URL."
+
+msgid "The local federation file \"{file}\" does not exist or is not readable."
+msgstr "Die lokale Verbunddatei „{file}“ existiert nicht oder ist nicht lesbar."
+
+msgid "The federation url {url} does not return any metadata."
+msgstr "Die Föderations-URL {url} gibt keine Metadaten zurück."
+
+msgid "The federation url {url} does not return valid xml metadata."
+msgstr "Die Verbund-URL {url} gibt keine gültigen XML-Metadaten zurück."
+
+msgid "The IdP url \"{url}\" is not valid."
+msgstr "Die IdP-URL „{url}“ ist ungültig."
+
+msgid "The IdP url {url} does not return any metadata."
+msgstr "Die IdP-URL {url} gibt keine Metadaten zurück."
+
+msgid "The IdP url {url} does not return valid xml metadata."
+msgstr "Die IdP-URL {url} gibt keine gültigen XML-Metadaten zurück."
+
+msgid "Active services"
+msgstr "Aktive Dienste"
+
+msgid "Urls for SSO and SLS should be provided if enabled."
+msgstr "URLs für SSO und SLS sollten bereitgestellt werden, sofern aktiviert."
+
+msgid "Log in (SSO)"
+msgstr "Anmelden (SSO)"
+
+msgid "Log out (SLS)"
+msgstr "Abmelden (SLS)"
+
+msgid "Register (JIT)"
+msgstr "Registrieren (JIT)"
+
+msgid "Update user name"
+msgstr "Benutzernamen aktualisieren"
+
+msgid "Update user settings"
+msgstr "Benutzereinstellungen aktualisieren"
+
+msgid "Default role for new users when not configured in idp"
+msgstr "Standardrolle für neue Benutzer, wenn sie nicht im IDP konfiguriert ist"
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "Default Groups given to newly created users using the Group Module"
+msgstr "Standardgruppen, die neu erstellten Benutzern mithilfe des Gruppenmoduls zugewiesen werden"
+
+msgid "Append idp links to login view"
+msgstr "Fügen Sie IDP-Links zur Anmeldeansicht hinzu"
+
+msgid "The list of idps can be displayed on any page via the theme block and helper or via module Guest."
+msgstr "Die Liste der Idps kann auf jeder Seite über den Theme-Block und Helper oder über das Modul Guest angezeigt werden."
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Buttons"
+msgstr "Knöpfe"
+
+msgid "Select"
+msgstr "Wählen"
+
+msgid "Default redirect page after login"
+msgstr "Standard-Weiterleitungsseite nach der Anmeldung"
+
+msgid "Set \"home\" for home page (admin or public), \"site\" for the current site home, \"top\" for main public page, \"me\" for guest account, or any path starting with \"/\", including \"/\" itself for main home page."
+msgstr "Legen Sie „home“ für die Startseite (admin oder öffentlich), „site“ für die Startseite der aktuellen Website, „top“ für die öffentliche Hauptseite, „me“ für das Gastkonto oder einen beliebigen Pfad fest, der mit „/“ beginnt, einschließlich „/“ selbst für die Haupthomepage."
+
+msgid "Set a specific service provider entity id (default is the uri of the current host)"
+msgstr "Legen Sie eine bestimmte Dienstanbieter-Entitäts-ID fest (Standard ist die URL des aktuellen Hosts)."
+
+msgid "Replace host name when SP is behind a proxy"
+msgstr "Ersetzen Sie den Hostnamen, wenn sich SP hinter einem Proxy befindet"
+
+msgid "This option allows to replace the host domain used by Omeka as internal SP server with the host name used in public. The protocol (http or https) should be included."
+msgstr "Mit dieser Option können Sie die von Omeka als interner SP-Server verwendete Hostdomäne durch den öffentlich verwendeten Hostnamen ersetzen.Das Protokoll (http oder https) sollte enthalten sein."
+
+msgid "Metadata content type"
+msgstr "Metadaten-Inhaltstyp"
+
+msgid "Some IdP require response header content type to be simple xml."
+msgstr "Einige IdP erfordern, dass der Inhaltstyp des Antwortheaders einfaches XML ist."
+
+msgid "application/samlmetadata+xml"
+msgstr "application/samlmetadata+xml"
+
+msgid "application/xml"
+msgstr "application/xml"
+
+msgid "Metadata content disposition"
+msgstr "Disposition des Metadateninhalts"
+
+msgid "Some IdP require metadata to be downloadable, not inline."
+msgstr "Einige IdP erfordern, dass Metadaten herunterladbar und nicht inline sind."
+
+msgid "Inline (display in browser)"
+msgstr "Inline (Anzeige im Browser)"
+
+msgid "Attachment (download in browser)"
+msgstr "Anhang (im Browser herunterladen)"
+
+msgid "Undefined"
+msgstr "Undefiniert"
+
+msgid "Metadata mode"
+msgstr "Metadatenmodus"
+
+msgid "Some IdP don’t manage xml prefixes in metadata, so they may be removed."
+msgstr "Einige IdPs verwalten XML-Präfixe nicht in Metadaten und werden daher möglicherweise entfernt."
+
+msgid "Basic (xml metadata without prefixes)"
+msgstr "Basic (XML-Metadaten ohne Präfixe)"
+
+msgid "Format of the name ID"
+msgstr "Format der Namens-ID"
+
+msgid "Value to set in xml element `<md:NameIDFormat>`. Let empty to use the default value (unspecified)."
+msgstr "Wert, der im XML-Element „<md:NameIDFormat>“ festgelegt werden soll.Lassen Sie das Feld leer, um den Standardwert (nicht spezifiziert) zu verwenden."
+
+msgid "Select name id format if needed"
+msgstr "Wählen Sie bei Bedarf das Namens-ID-Format aus"
+
+msgid "Disable a security measure when an IdP does not support it, for example \"Sign assertions\" for Renater. Conversely, some federations require some security measures, for example \"Sign assertions\" for Kantara."
+msgstr "Deaktivieren Sie eine Sicherheitsmaßnahme, wenn ein IdP sie nicht unterstützt, zum Beispiel „Sign-Assertionen“ für Renater.Umgekehrt verlangen einige Verbände bestimmte Sicherheitsmaßnahmen, zum Beispiel „Sign-Assertions“ für Kantara."
+
+msgid "SP: Sign metadata with certificate below"
+msgstr "SP: Metadaten mit Zertifikat unten signieren"
+
+msgid "SP: Sign auth request messages with certificate below"
+msgstr "SP: Signieren Sie Authentifizierungsanfragenachrichten mit dem Zertifikat unten"
+
+msgid "SP: Sign logout request messages with certificate below"
+msgstr "SP: Abmeldeanforderungsnachrichten mit dem Zertifikat unten signieren"
+
+msgid "SP: Sign logout response messages with certificate below"
+msgstr "SP: Abmeldeantwortnachrichten mit dem Zertifikat unten signieren"
+
+msgid "SP: Encrypt Name ID of logout request with certificate below"
+msgstr "SP: Namens-ID der Abmeldeanforderung mit dem Zertifikat unten verschlüsseln"
+
+msgid "Requirement for IdP: Sign response, logout request and response"
+msgstr "Anforderung für IdP: Sign-Antwort, Abmeldeanforderung und Antwort"
+
+msgid "Requirement for IdP: Sign assertions"
+msgstr "Anforderung für IdP: Behauptungen signieren"
+
+msgid "Requirement for IdP: Encrypt assertions"
+msgstr "Anforderung für IdP: Behauptungen verschlüsseln"
+
+msgid "Requirement for IdP: Include Name ID in response"
+msgstr "Anforderung für IdP: Geben Sie als Antwort die Namens-ID an"
+
+msgid "Requirement for IdP: Encrypt Name ID"
+msgstr "Anforderung für IdP: Namens-ID verschlüsseln"
+
+msgid "Check signatures: Manage compatibility with Microsoft ADFS"
+msgstr "Signaturen prüfen: Kompatibilität mit Microsoft ADFS verwalten"
+
+msgid "Path for SP signing certificates (outside of webserver or protected)"
+msgstr "Pfad für SP-Signaturzertifikate (außerhalb des Webservers oder geschützt)"
+
+msgid "Some idp require certificates. If needed and not set in next fields, set the path to it. It should contains a directory \"certs/\" with at least \"sp.crt\" and \"sp.key\". It must be protected, for example with a .htaccess. Take care to renew them when needed."
+msgstr "Einige IDPs erfordern Zertifikate.Falls erforderlich und nicht in den nächsten Feldern festgelegt, legen Sie den Pfad dorthin fest.Es sollte ein Verzeichnis „certs/“ mit mindestens „sp.crt“ und „sp.key“ enthalten.Es muss geschützt werden, zum Beispiel mit einer .htaccess.Achten Sie darauf, sie bei Bedarf zu erneuern."
+
+msgid "SP public signing certificate (x509)"
+msgstr "Öffentliches SP-Signaturzertifikat (x509)"
+
+msgid "Some idp require certificates. If needed and if not set via a path, paste public certificate here. Take care to renew them when needed."
+msgstr "Einige IDPs erfordern Zertifikate.Bei Bedarf und falls nicht über einen Pfad festgelegt, fügen Sie hier das öffentliche Zertifikat ein.Achten Sie darauf, sie bei Bedarf zu erneuern."
+
+msgid "SP signing private key (x509)"
+msgstr "SP-signierender privater Schlüssel (x509)"
+
+msgid "Some idp require certificates. If needed and not set via a path, paste private key here. Take care to renew them when needed."
+msgstr "Einige IDPs erfordern Zertifikate.Falls erforderlich und nicht über einen Pfad festgelegt, fügen Sie hier den privaten Schlüssel ein.Achten Sie darauf, sie bei Bedarf zu erneuern."
+
+msgid "Create an x509 certificate for the SP signature (require the three previous fields be empty)"
+msgstr "Erstellen Sie ein x509-Zertifikat für die SP-Signatur (die drei vorherigen Felder müssen leer sein)."
+
+msgid "The certificate is generated for a century with the default data of the server or the data below."
+msgstr "Das Zertifikat wird für ein Jahrhundert mit den Standarddaten des Servers oder den untenstehenden Daten generiert."
+
+msgid "Data to store in the signing certificate to create (optional)"
+msgstr "Im zu erstellenden Signaturzertifikat zu speichernde Daten (optional)"
+
+msgid "The optional data keys are: countryName, stateOrProvinceName, localityName, organizationName, organizationalUnitName, commonName, and emailAddress."
+msgstr "Die optionalen Datenschlüssel sind: CountryName, StateOrProvinceName, LocalityName, OrganizationName, OrganizationalUnitName, CommonName und EmailAddress."
+
+msgid "Path for SP encryption certificates (outside of webserver or protected)"
+msgstr "Pfad für SP-Verschlüsselungszertifikate (außerhalb des Webservers oder geschützt)"
+
+msgid "SP encryption public certificate (x509)"
+msgstr "Öffentliches SP-Verschlüsselungszertifikat (x509)"
+
+msgid "SP encryption private key (x509)"
+msgstr "Privater SP-Verschlüsselungsschlüssel (x509)"
+
+msgid "Create a, x509 certificate for the SP encryption (require the three previous fields be empty)"
+msgstr "Erstellen Sie ein x509-Zertifikat für die SP-Verschlüsselung (die drei vorherigen Felder müssen leer sein)."
+
+msgid "Data to store in the crypting certificate to create (optional)"
+msgstr "Im zu erstellenden Verschlüsselungszertifikat zu speichernde Daten (optional)"
+
+msgid "Federation"
+msgstr "Föderation"
+
+msgid "Select a federation…"
+msgstr "Wählen Sie einen Verband aus…"
+
+msgid "Identity providers (IdP)"
+msgstr "Identitätsanbieter (IdP)"
+
+msgid "Add an idp"
+msgstr "Fügen Sie einen IDP hinzu"
+
+msgid "Include default login link"
+msgstr "Fügen Sie den Standard-Anmeldelink hinzu"
+
+msgid "Input element"
+msgstr "Eingabeelement"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Update mode"
+msgstr "Update-Modus"
+
+msgid "Automatic (set the url below and data will be automatically filled, checked and updated)"
+msgstr "Automatisch (stellen Sie die URL unten ein und die Daten werden automatisch ausgefüllt, überprüft und aktualisiert)"
+
+msgid "Manual (not recommended when the certificate has a short expiration date)"
+msgstr "Manuell (nicht empfohlen, wenn das Zertifikat ein kurzes Ablaufdatum hat)"
+
+msgid "Use the metadata provided by the federation"
+msgstr "Verwenden Sie die vom Verband bereitgestellten Metadaten"
+
+msgid "Skip update of the entity id (fix possible issue with reverse proxies)"
+msgstr "Aktualisierung der Entitäts-ID überspringen (mögliches Problem mit Reverse-Proxys beheben)"
+
+msgid "IdP metadata url (allow to get and update settings automatically)"
+msgstr "IdP-Metadaten-URL (ermöglicht das automatische Abrufen und Aktualisieren von Einstellungen)"
+
+msgid "For Shibboleth, it may be \"https://idp.example.org/idp/shibboleth\"."
+msgstr "Für Shibboleth könnte es „https://idp.example.org/idp/shibboleth“ lauten."
+
+msgid "IdP Entity Id"
+msgstr "IdP-Entitäts-ID"
+
+msgid "Generally, the id is the same than the url of the idp. This is the attribute `entityID` of xml element `<md:EntityDescriptor>`, for example \"https://idp.example.org/sso\". For some IdP, the url scheme must not be set, so try \"idp.example.org\" too."
+msgstr "Im Allgemeinen ist die ID mit der URL des IDP identisch.Dies ist das Attribut „entityID“ des XML-Elements „<md:EntityDescriptor>“, zum Beispiel „https://idp.example.org/sso“.Bei manchen IdPs darf das URL-Schema nicht festgelegt werden, also versuchen Sie es auch mit „idp.example.org“."
+
+msgid "IdP name"
+msgstr "IdP-Name"
+
+msgid "Url of the IdP single sign-on (SSO) service endpoint"
+msgstr "URL des IdP-Single-Sign-On-Dienstendpunkts (SSO)."
+
+msgid "Full url set in attribute `Location` of xml element `<SingleSignOnService Binding=\"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect\">`, for example \"https://idp.example.org/idp/profile/SAML2/Redirect/SSO\"."
+msgstr "Vollständige URL im Attribut „Location“ des XML-Elements „<SingleSignOnService Binding=\"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect\">“, zum Beispiel „https://idp.example.org/idp/profile/SAML2/Redirect/SSO“."
+
+msgid "Url of the IdP single log out (SLO) service endpoint"
+msgstr "URL des IdP-Single-Logout-Dienstendpunkts (SLO)."
+
+msgid "Full url set in attribute `Location` of xml element `<SingleLogoutService Binding=\"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect\">`, for example \"https://idp.example.org/idp/profile/SAML2/Redirect/SLO\"."
+msgstr "Vollständige URL im Attribut „Location“ des XML-Elements „<SingleLogoutService Binding=\"urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect\">“, zum Beispiel „https://idp.example.org/idp/profile/SAML2/Redirect/SLO“."
+
+msgid "Public X.509 certificate of the IdP (first, signing)"
+msgstr "Öffentliches X.509-Zertifikat des IdP (zuerst signieren)"
+
+msgid "If not set, it will be fetched from the IdP url, if available."
+msgstr "Wenn nicht festgelegt, wird es von der IdP-URL abgerufen, sofern verfügbar."
+
+msgid "Public X.509 certificate of the IdP (first, encryption)"
+msgstr "Öffentliches X.509-Zertifikat des IdP (zuerst Verschlüsselung)"
+
+msgid "Attributes map between IdP and Omeka"
+msgstr "Attributzuordnung zwischen IdP und Omeka"
+
+msgid "Format: IdP attribute"
+msgstr "Omeka key or user setting. IdP keys can be the canonical or friendly ones. Managed Omeka keys are \"email\", \"name\" and \"role\". Other options, like \"locale\", \"singlesignon_xxx\", \"userprofile_yyy\", are stored in user settings. = Format: IdP-Attribut = Omeka-Schlüssel oder Benutzereinstellung.IdP-Schlüssel können kanonische oder freundliche Schlüssel sein.Verwaltete Omeka-Schlüssel sind „E-Mail“, „Name“ und „Rolle“.Andere Optionen, wie „locale“, „singlesignon_xxx“, „userprofile_yyy“, werden in den Benutzereinstellungen gespeichert."
+
+msgid "Roles map between IdP and Omeka"
+msgstr "Rollenzuordnung zwischen IdP und Omeka"
+
+msgid "Format: IdP role"
+msgstr "Omeka role. It allows to get a more precise role than the default \"researcher\" or \"guest\". For security, admin roles are disabled: update the user manually once created. = Format: IdP-Rolle = Omeka-Rolle.Es ermöglicht eine präzisere Rolle als die Standardeinstellung „Forscher“ oder „Gast“.Aus Sicherheitsgründen sind Administratorrollen deaktiviert: Aktualisieren Sie den Benutzer nach der Erstellung manuell."
+
+msgid "Static user settings for new users"
+msgstr "Statische Benutzereinstellungen für neue Benutzer"
+
+msgid "Format: Omeka user setting key"
+msgstr "value. = Format: Omeka-Benutzereinstellungsschlüssel = Wert."
+
+msgid "Attributes to hide in user account page"
+msgstr "Attribute, die auf der Benutzerkontoseite ausgeblendet werden sollen"
+
+msgid "Allow to hide some attributes for security or privacy. Separe multiple attributes with a space."
+msgstr "Ermöglichen Sie das Ausblenden einiger Attribute aus Sicherheits- oder Datenschutzgründen.Trennen Sie mehrere Attribute durch ein Leerzeichen."
+
+msgid "Remove this idp"
+msgstr "Entfernen Sie diesen IDP"
+
+msgid "Move this idp up"
+msgstr "Verschieben Sie diesen IDP nach oben"
+
+msgid "Move this idp down"
+msgstr "Verschieben Sie diesen IDP nach unten"
+
+msgid "No IdP with this name."
+msgstr "Kein IdP mit diesem Namen."
+
+msgid "Single sign-on is disabled."
+msgstr "Single Sign-On ist deaktiviert."
+
+msgid "Single sign-on failed: {errors}. {error_last}"
+msgstr "Single-Sign-On fehlgeschlagen: {errors}.{error_last}"
+
+msgid "Single sign-on failed: {errors}"
+msgstr "Single-Sign-On fehlgeschlagen: {errors}"
+
+msgid "No email provided to log in or register."
+msgstr "Keine E-Mail-Adresse zum Anmelden oder Registrieren angegeben."
+
+msgid "No email provided or mapped. Available canonical attributes for this IdP: {keys}. Available friendly attributes for this IdP: {keys_2}."
+msgstr "Keine E-Mail-Adresse angegeben oder zugeordnet.Verfügbare kanonische Attribute für diesen IdP: {keys}.Verfügbare freundliche Attribute für diesen IdP: {keys_2}."
+
+msgid "Automatic registering is disabled."
+msgstr "Die automatische Registrierung ist deaktiviert."
+
+msgid "No name provided or mapped. Available canonical attributes for this IdP: {keys}. Available friendly attributes for this IdP: {keys_2}."
+msgstr "Kein Name angegeben oder zugeordnet.Verfügbare kanonische Attribute für diesen IdP: {keys}.Verfügbare freundliche Attribute für diesen IdP: {keys_2}."
+
+msgid "User \"{email}\" is inactive."
+msgstr "Benutzer „{email}“ ist inaktiv."
+
+msgid "Successfully logged in."
+msgstr "Erfolgreich angemeldet."
+
+msgid "Single logout service failed: {errors}. {error_last}"
+msgstr "Der Single-Logout-Dienst ist fehlgeschlagen: {errors}.{error_last}"
+
+msgid "Single logout service failed: {errors}"
+msgstr "Single-Logout-Dienst fehlgeschlagen: {errors}"
+
+msgid "Successfully logged out."
+msgstr "Erfolgreich abgemeldet."
+
+msgid "The IdP \"{idp}\" has no available metadata."
+msgstr "Für den IdP „{idp}“ sind keine Metadaten verfügbar."
+
+msgid "The IdP \"{idp}\" has no valid xml metadata."
+msgstr "Der IdP „{idp}“ hat keine gültigen XML-Metadaten."
+
+msgid "SSO service has an error in configuration: {exception}"
+msgstr "Der SSO-Dienst hat einen Fehler in der Konfiguration: {Ausnahme}"
+
+msgid "SSO service is not available. Ask admin to config it."
+msgstr "Der SSO-Dienst ist nicht verfügbar.Bitten Sie den Administrator, es zu konfigurieren."
+
+msgid "SSO service is unavailable."
+msgstr "Der SSO-Dienst ist nicht verfügbar."
+
+msgid "SSO service is unavailable. Ask admin to config it."
+msgstr "Der SSO-Dienst ist nicht verfügbar.Bitten Sie den Administrator, es zu konfigurieren."
+
+msgid "The cerificate for the signature is incomplete."
+msgstr "Das Zertifikat für die Signatur ist unvollständig."
+
+msgid "The cerificate for the encryption is incomplete."
+msgstr "Das Zertifikat für die Verschlüsselung ist unvollständig."
+
+msgid "Single sign-on login links"
+msgstr "Single-Sign-On-Anmeldelinks"

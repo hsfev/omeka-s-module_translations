@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Method Not Allowed"
+msgstr "Methode nicht zulässig"
+
+msgid "Choose one or more properties or one or more resource classes."
+msgstr "Wählen Sie eine oder mehrere Eigenschaften oder eine oder mehrere Ressourcenklassen aus."
+
+msgid "With the layout template \"Reference Index\", the pages for the selected terms should be created manually with the terms as slug, with the \":\" replaced by a \"-\"."
+msgstr "Bei der Layoutvorlage „Referenzindex“ sollten die Seiten für die ausgewählten Begriffe manuell erstellt werden, wobei die Begriffe als Slug vorliegen, wobei das „:“ durch ein „-“ ersetzt wird."
+
+msgid "There is no references."
+msgstr "Es gibt keine Referenzen."
+
+msgid "See all…"
+msgstr "Alles anzeigen…"
+
+msgid "And %d more."
+msgstr "Und %d mehr."
+
+msgid "See resources"
+msgstr "Siehe Ressourcen"
+
+msgid "(%d resources)"
+msgstr "(%d Ressourcen)"
+
+msgid "(%d resource)"
+msgstr "(%d Ressource)"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+msgid "Browse %s"
+msgstr "Durchsuchen Sie %s"
+
+msgid "No references available."
+msgstr "Keine Referenzen verfügbar."
+
+msgid "Main types"
+msgstr "Haupttypen"
+
+msgid "Browse items by \"%s\" (%d headings)"
+msgstr "Durchsuchen Sie Elemente nach „%s“ (%d Überschriften)"
+
+msgid "There is no references for \"%s\"."
+msgstr "Es gibt keine Referenzen für „%s“."
+
+msgid "It is possible now to limit the list of references, for example only the of subjects starting with \"a\" with argument \"filters[begin]=a\"."
+msgstr "Es ist nun möglich, die Liste der Referenzen einzuschränken, beispielsweise nur die der Themen, die mit „a“ beginnen, mit dem Argument „filters[begin]=a“."
+
+msgid "It is possible now to list not only references, but resources by reference, for example all documents of an author or all items with each subject."
+msgstr "Es ist nun möglich, nicht nur Referenzen, sondern auch Ressourcen nach Referenz aufzulisten, beispielsweise alle Dokumente eines Autors oder alle Artikel mit jedem Thema."
+
+msgid "It is possible now to aggregate properties (api and helper)."
+msgstr "Es ist jetzt möglich, Eigenschaften (API und Helfer) zu aggregieren."
+
+msgid "It is possible now to filter references by data types."
+msgstr "Es ist jetzt möglich, Referenzen nach Datentypen zu filtern."
+
+msgid "It is possible now to get translated linked resource."
+msgstr "Es ist jetzt möglich, übersetzte verknüpfte Ressourcen zu erhalten."
+
+msgid "Translated linked resource metadata should be indexed in main settings."
+msgstr "Übersetzte Metadaten verknüpfter Ressourcen sollten in den Haupteinstellungen indiziert werden."
+
+msgid "It is possible now to aggregate properties in references, for example to get list of people from properties dcterms:creator and dcterms:contributor."
+msgstr "Es ist jetzt möglich, Eigenschaften in Referenzen zusammenzufassen, um beispielsweise eine Personenliste aus den Eigenschaften dcterms:creator und dcterms:contributor abzurufen."
+
+msgid "Warning: the name of the source properties or classes \"term\" has been replace by \"fields\" in pages, so check your theme templates if you updated the default ones of the module."
+msgstr "Warnung: Der Name der Quelleigenschaften oder -klassen „Begriff“ wurde auf den Seiten durch „Felder“ ersetzt. Überprüfen Sie daher Ihre Designvorlagen, wenn Sie die Standardvorlagen des Moduls aktualisiert haben."
+
+msgid "It is possible now to get a specific number of initials, for example to get the list of years from standard dates."
+msgstr "Es ist jetzt möglich, eine bestimmte Anzahl von Initialen abzurufen, um beispielsweise die Jahresliste anhand von Standarddaten zu erhalten."
+
+msgid "Many improvements were done to output references and facets a lot more quickly, in particular for big bases."
+msgstr "Es wurden viele Verbesserungen vorgenommen, um Referenzen und Facetten viel schneller auszugeben, insbesondere bei großen Basen."
+
+msgid "Because of the integration of block templates in Omeka S v4.1, you should move custom templates before upgrading the module: move following files from directory \"view/common/block-layout/\" to \"view/common/block-template/\" of each theme, except the default files \"reference.phtml\" and \"reference-tree.phtml\". Then, you should add all templates from the directory \"view/common/block-template/\" at the bottom of the file \"config/theme.ini\" of each theme, for example `block_templates.reference.reference-index"
+msgstr "\"Reference index custom\"`. Matching files: {json} = Aufgrund der Integration von Blockvorlagen in Omeka S v4.1 sollten Sie benutzerdefinierte Vorlagen verschieben, bevor Sie das Modul aktualisieren: Verschieben Sie die folgenden Dateien aus dem Verzeichnis „view/common/block-layout/“ nach „view/common/block-template/“ jedes Themas, mit Ausnahme der Standarddateien „reference.phtml“ und „reference-tree.phtml“.Anschließend sollten Sie alle Vorlagen aus dem Verzeichnis „view/common/block-template/“ am Ende der Datei „config/theme.ini“ jedes Themes hinzufügen, zum Beispiel „block_templates.reference.reference-index = „Reference index custom““.Passende Dateien: {json}"
+
+msgid "The block Reference Index was replaced by a template layout of block Reference. You may check pages: {json}"
+msgstr "Der Blockreferenzindex wurde durch ein Vorlagenlayout der Blockreferenz ersetzt.Sie können die Seiten überprüfen: {json}"
+
+msgid "The default heading is now <h2>. Check your theme if you customized it. You may check pages: {json}"
+msgstr "Die Standardüberschrift ist jetzt <h2>.Überprüfen Sie Ihr Theme, wenn Sie es angepasst haben.Sie können die Seiten überprüfen: {json}"
+
+msgid "The option \"heading\" was removed from block Reference and replaced by a block Heading (if module Block Plus is present) or Html. Remove it in the following files before upgrade and automatic conversion: {json}"
+msgstr "Die Option „Überschrift“ wurde aus der Blockreferenz entfernt und durch eine Blocküberschrift (sofern das Modul Block Plus vorhanden ist) oder HTML ersetzt.Entfernen Sie es vor dem Upgrade und der automatischen Konvertierung in den folgenden Dateien: {json}"
+
+msgid "The setting \"template\" was moved to the new block layout settings available since Omeka S v4.1. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Vorlage“ wurde in die neuen Blocklayout-Einstellungen verschoben, die seit Omeka S v4.1 verfügbar sind.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The option \"heading\" was removed from block Reference. New block \"Heading\" (if module Block Plus is present) or \"Html\" was prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Option „Überschrift“ wurde aus der Blockreferenz entfernt.Neuer Block „Überschrift“ (falls Modul Block Plus vorhanden) oder „Html“ wurde allen Blöcken vorangestellt, die eine gefüllte Überschrift hatten.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "A template has been added to display references as list/grid (mansory)."
+msgstr "Es wurde eine Vorlage hinzugefügt, um Referenzen als Liste/Raster (Mansory) anzuzeigen."
+
+msgid "The translated and linked resource metadata are currently indexing."
+msgstr "Die übersetzten und verknüpften Ressourcenmetadaten werden derzeit indiziert."
+
+msgid "The php extension \"intl\" is recommended to fix issues with diacritic letters."
+msgstr "Um Probleme mit diakritischen Buchstaben zu beheben, wird die PHP-Erweiterung „intl“ empfohlen."
+
+msgid "Another job is running for the same process (job {link_job}#{job_id}{link_end} ({link_log}logs{link_end})."
+msgstr "Ein anderer Job wird für denselben Prozess ausgeführt (Job {link_job}#{job_id}{link_end} ({link_log}logs{link_end})."
+
+msgid "Indexing translated and linked resource metadata in background (job {link_job}#{job_id}{link_end} ({link_log}logs{link_end})."
+msgstr "Indizieren übersetzter und verknüpfter Ressourcenmetadaten im Hintergrund (Job {link_job}#{job_id}{link_end} ({link_log}logs{link_end})."
+
+msgid "Reference: Index fields"
+msgstr "Referenz: Indexfelder"
+
+msgid "Resource #{resource_id} has a recursive title."
+msgstr "Ressource #{resource_id} hat einen rekursiven Titel."
+
+msgid "This output format is deprecated. Set a string key to metadata to use the new format or append option \"single_reference_format\" to remove this warning."
+msgstr "Dieses Ausgabeformat ist veraltet.Legen Sie einen Zeichenfolgenschlüssel für Metadaten fest, um das neue Format zu verwenden, oder fügen Sie die Option „single_reference_format“ hinzu, um diese Warnung zu entfernen."
+
+msgid "The order for facets is \"by a list of values\", but no values are defined."
+msgstr "Die Reihenfolge der Facetten erfolgt „nach einer Liste von Werten“, es sind jedoch keine Werte definiert."
+
+msgid "Owners"
+msgstr "Eigentümer"
+
+msgid "Access"
+msgstr "Zugang"
+
+msgid "Starting creation of reference metadata."
+msgstr "Beginn der Erstellung von Referenzmetadaten."
+
+msgid "No resource to process."
+msgstr "Keine Ressource zum Verarbeiten."
+
+msgid "{processed}/{total} resources processed."
+msgstr "{verarbeitet}/{total} verarbeitete Ressourcen."
+
+msgid "The job was stopped."
+msgstr "Der Job wurde gestoppt."
+
+msgid "End of process: {processed}/{total} processed."
+msgstr "Ende des Prozesses: {verarbeitet}/{total} verarbeitet."
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Title of the page [deprecated: use page block]"
+msgstr "Titel der Seite [veraltet: Seitenblock verwenden]"
+
+msgid "Resources to link [deprecated: use page block]"
+msgstr "Ressourcen zum Verlinken [veraltet: Seitenblock verwenden]"
+
+msgid "value_options"
+msgstr "value_options"
+
+msgid "Display [deprecated: use page block]"
+msgstr "Anzeige [veraltet: Seitenblock verwenden]"
+
+msgid "Headings"
+msgstr "Überschriften"
+
+msgid "Skip links"
+msgstr "Links überspringen"
+
+msgid "Individual total"
+msgstr "Einzelsumme"
+
+msgid "Link to single records"
+msgstr "Link zu einzelnen Datensätzen"
+
+msgid "Custom url for single records"
+msgstr "Benutzerdefinierte URL für einzelne Datensätze"
+
+msgid "Reference pages for selected classes and properties [deprecated: use page block]"
+msgstr "Referenzseiten für ausgewählte Klassen und Eigenschaften [veraltet: Seitenblock verwenden]"
+
+msgid "Index reference metadata"
+msgstr "Indexreferenzmetadaten"
+
+msgid "To use some features of module Reference, an index is required."
+msgstr "Um einige Funktionen des Moduls Reference nutzen zu können, ist ein Index erforderlich."
+
+msgid "Select properties…"
+msgstr "Eigenschaften auswählen…"
+
+msgid "Static tree of references"
+msgstr "Statischer Referenzbaum"
+
+msgid "Format is: one reference by line, preceded by zero, one or more \"-\" to indicate the hierarchy level.\nSeparate the \"-\" and the reference with a space. Empty lines are not considered.\nNote: sql does case insensitive searches, so all references should be case-insensitively unique."
+msgstr "Das Format ist: eine Referenz pro Zeile, mit vorangestellter Null, einem oder mehreren „-“, um die Hierarchieebene anzugeben.\nTrennen Sie das „-“ und die Referenz durch ein Leerzeichen.Leerzeilen werden nicht berücksichtigt.\nHinweis: SQL führt Suchvorgänge ohne Berücksichtigung der Groß- und Kleinschreibung durch, daher sollten alle Referenzen ohne Berücksichtigung der Groß- und Kleinschreibung eindeutig sein."
+
+msgid "Europe\n- France\n-- Paris\n- United Kingdom\n-- England\n--- London\nAsia\n- Japan\n"
+msgstr "Europa\n- Frankreich\n-- Paris\n- Vereinigtes Königreich\n-- England\n--- London\nAsien\n- Japan"
+
+msgid "Search pool query"
+msgstr "Suchpoolabfrage"
+
+msgid "Restrict references to a particular subset of resources, for example a site."
+msgstr "Beschränken Sie Verweise auf eine bestimmte Teilmenge von Ressourcen, beispielsweise eine Site."
+
+msgid "The type of query defines how elements are regrouped (see the advanced search)."
+msgstr "Die Art der Abfrage definiert, wie Elemente neu gruppiert werden (siehe erweiterte Suche)."
+
+msgid "Is Exactly"
+msgstr "Ist genau"
+
+msgid "Contains"
+msgstr "Enthält"
+
+msgid "Link to browse or search engine"
+msgstr "Link zum Durchsuchen oder zur Suchmaschine"
+
+msgid "This option is useful when the module Advanced Search is used."
+msgstr "Diese Option ist nützlich, wenn das Modul Erweiterte Suche verwendet wird."
+
+msgid "Search config of the site"
+msgstr "Suchkonfiguration der Site"
+
+msgid "Direct link for single records"
+msgstr "Direktlink für einzelne Datensätze"
+
+msgid "When a reference has only one item, link to it directly instead of to the items/browse page."
+msgstr "Wenn eine Referenz nur ein Element enthält, verlinken Sie direkt darauf statt auf die Elemente/Suchseite."
+
+msgid "May be set with modules such Clean Url or Ark. May slow the display when there are many single references."
+msgstr "Kann mit Modulen wie Clean Url oder Ark eingestellt werden. Kann die Anzeige verlangsamen, wenn viele einzelne Referenzen vorhanden sind."
+
+msgid "Add the total of resources for each reference"
+msgstr "Addieren Sie die Gesamtressourcen für jede Referenz"
+
+msgid "Append \"reference\" as argument to query urls for themes"
+msgstr "Hängen Sie „Referenz“ als Argument an, um URLs für Themen abzufragen"
+
+msgid "Add the thumbnail of the first resource"
+msgstr "Fügen Sie die Miniaturansicht der ersten Ressource hinzu"
+
+msgid "Expand the tree"
+msgstr "Erweitern Sie den Baum"
+
+msgid "Managed as branch"
+msgstr "Als Filiale geführt"
+
+msgid "Check this box if the tree is managed as branch (the path is saved with \" :: \" between each branch)."
+msgstr "Aktivieren Sie dieses Kontrollkästchen, wenn der Baum als Zweig verwaltet wird (der Pfad wird mit „:“ zwischen den einzelnen Zweigen gespeichert)."
+
+msgid "Resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "Select resource classes…"
+msgstr "Ressourcenklassen auswählen…"
+
+msgid "Filter by language"
+msgstr "Nach Sprache filtern"
+
+msgid "Limit the results to the specified languages. Use \"|\" to separate multiple languages. Use \"||\" for values without language."
+msgstr "Beschränken Sie die Ergebnisse auf die angegebenen Sprachen.Verwenden Sie „|“um mehrere Sprachen zu trennen.Verwenden Sie „||“für Werte ohne Sprache."
+
+msgid "Alphabetic"
+msgstr "Alphabetisch"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "One page by initial"
+msgstr "Eine Seite mit Initiale"
+
+msgid "This option is recommended for big lists."
+msgstr "Diese Option wird für große Listen empfohlen."
+
+msgid "Add skiplinks above and below list"
+msgstr "Fügen Sie Skiplinks oberhalb und unterhalb der Liste hinzu"
+
+msgid "Add first letter as headings between references"
+msgstr "Fügen Sie den ersten Buchstaben als Überschrift zwischen den Referenzen hinzu"
+
+msgid "Maximum resources to display by reference"
+msgstr "Maximale Ressourcen, die per Referenz angezeigt werden sollen"
+
+msgid "For example, display the items by subject. Let 0 to display a simple list. Maximum is 1024."
+msgstr "Zeigen Sie die Elemente beispielsweise nach Themen an.Lassen Sie 0, um eine einfache Liste anzuzeigen.Das Maximum ist 1024."
+
+msgid "Subject values"
+msgstr "Subjektwerte"
+
+msgid "Allow to list related resources. For example, in a library where there are items of types \"Authors\" and \"Documents\", and if the creator of the documents are linked resources, then select \"Creator\" to see the list of documents by author. This option is skipped when option \"max by reference\" is used."
+msgstr "Ermöglicht das Auflisten verwandter Ressourcen.Wenn es beispielsweise in einer Bibliothek Elemente der Typen „Autoren“ und „Dokumente“ gibt und der Ersteller der Dokumente verknüpfte Ressourcen sind, wählen Sie „Ersteller“, um die Liste der Dokumente nach Autor anzuzeigen.Diese Option wird übersprungen, wenn die Option „maximal nach Referenz“ verwendet wird."
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Reference tree"
+msgstr "Referenzbaum"
+
+msgid "To create references, there must be one or more properties or resource classes."
+msgstr "Um Referenzen zu erstellen, müssen eine oder mehrere Eigenschaften oder Ressourcenklassen vorhanden sein."
+
+msgid "Reference grid"
+msgstr "Referenzraster"
+
+msgid "Reference (index)"
+msgstr "Referenz (Index)"

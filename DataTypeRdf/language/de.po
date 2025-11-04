@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module RdfDatatype was automatically uninstalled."
+msgstr "Das Modul RdfDatatype wurde automatisch deinstalliert."
+
+msgid "The module RdfDatatype cannot be automatically uninstalled."
+msgstr "Das Modul RdfDatatype kann nicht automatisch deinstalliert werden."
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "false"
+msgstr "FALSCH"
+
+msgid "true"
+msgstr "WAHR"
+
+msgid "It’s now possible to choose mode of display to edit html values of resources in main params."
+msgstr "Es ist jetzt möglich, den Anzeigemodus zu wählen, um HTML-Werte von Ressourcen in Hauptparametern zu bearbeiten."
+
+msgid "Data type xml is now displayed with colors in resource form."
+msgstr "Der Datentyp XML wird jetzt mit Farben in Ressourcenform angezeigt."
+
+msgid "A new data type has been added for json. Warning: the RDF specification is still in {link}discussion{link_end}. In particular, keys of objects should be stored in dictionnary order."
+msgstr "Für JSON wurde ein neuer Datentyp hinzugefügt.Warnung: Die RDF-Spezifikation befindet sich noch in der {link}Diskussion{link_end}.Insbesondere sollten Schlüssel von Objekten in Wörterbuchreihenfolge gespeichert werden."
+
+msgid "Data Type Rdf"
+msgstr "Datentyp Rdf"
+
+msgid "Html edition mode for resources"
+msgstr "HTML-Editionsmodus für Ressourcen"
+
+msgid "Inline (default)"
+msgstr "Inline (Standard)"
+
+msgid "Document (maximizable)"
+msgstr "Dokument (maximierbar)"
+
+msgid "Html edition config and toolbar for resources"
+msgstr "Konfiguration und Symbolleiste der HTML-Edition für Ressourcen"
+
+msgid "Data Type RDF"
+msgstr "Datentyp RDF"
+
+msgid "Boolean"
+msgstr "Boolescher Wert"
+
+msgid "Html"
+msgstr "HTML"
+
+msgid "Xml"
+msgstr "XML"
+
+msgid "Json"
+msgstr "Json"

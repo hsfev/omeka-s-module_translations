@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+msgid "Remove bulk export directory"
+msgstr "Massenexportverzeichnis entfernen"
+
+msgid "[No label]"
+msgstr "[Kein Etikett]"
+
+msgid "Method not allowed for export for now"
+msgstr "Der Export der Methode ist derzeit nicht zulässig"
+
+msgid "Resource type not allowed for export for now"
+msgstr "Der Export des Ressourcentyps ist derzeit nicht zulässig"
+
+msgid "Unsupported resource type to export."
+msgstr "Nicht unterstützter Ressourcentyp zum Exportieren."
+
+msgid "Unsupported format \"{format}\"."
+msgstr "Nicht unterstütztes Format „{format}“."
+
+msgid "The list of ids should be a list of numeric internal identifiers."
+msgstr "Die Liste der IDs sollte eine Liste numerischer interner Identifikatoren sein."
+
+msgid "A query cannot be used to export \"resources\" before Omeka S v4.1: set the resource type or use the list of ids instead."
+msgstr "Eine Abfrage kann vor Omeka S v4.1 nicht zum Exportieren von „Ressourcen“ verwendet werden: Legen Sie den Ressourcentyp fest oder verwenden Sie stattdessen die Liste der IDs."
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Bibliography"
+msgstr "Bibliographie"
+
+msgid "Digital library"
+msgstr "Digitale Bibliothek"
+
+msgid "id"
+msgstr "Ausweis"
+
+msgid "Resource id"
+msgstr "Ressourcen-ID"
+
+msgid "Resource identifier"
+msgstr "Ressourcenbezeichner"
+
+msgid "Item set id"
+msgstr "Artikelsatz-ID"
+
+msgid "Item id"
+msgstr "Artikel-ID"
+
+msgid "Item identifier"
+msgstr "Artikelkennung"
+
+msgid "Item title"
+msgstr "Artikeltitel"
+
+msgid "Media id"
+msgstr "Medien-ID"
+
+msgid "Media file"
+msgstr "Mediendatei"
+
+msgid "Media source"
+msgstr "Medienquelle"
+
+msgid "File media type"
+msgstr "Dateimedientyp"
+
+msgid "File size"
+msgstr "Dateigröße"
+
+msgid "Original file url"
+msgstr "Ursprüngliche Datei-URL"
+
+msgid "Annotation"
+msgstr "Anmerkung"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Tag"
+msgstr "Etikett"
+
+msgid "Annotation body: %s"
+msgstr "Anmerkungstext: %s"
+
+msgid "Annotation target: %s"
+msgstr "Anmerkungsziel: %s"
+
+msgid "A query cannot be used to export \"resources\": set the resource type or use the list of ids instead."
+msgstr "Eine Abfrage kann nicht zum Exportieren von „Ressourcen“ verwendet werden: Legen Sie den Ressourcentyp fest oder verwenden Sie stattdessen die Liste der IDs."
+
+msgid "Unsupported resource type to export: %s."
+msgstr "Nicht unterstützter Ressourcentyp zum Exportieren: %s."
+
+msgid "Download as spreadsheet %s"
+msgstr "Als Tabelle %s herunterladen"
+
+msgid "Download as text"
+msgstr "Als Text herunterladen"
+
+msgid "Download as %s"
+msgstr "Als %s herunterladen"
+
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "anonymous"
+msgstr "anonym"
+
+msgid "no-name"
+msgstr "kein Name"
+
+msgid "Bulk export"
+msgstr "Massenexport"
+
+msgid "Add an exporter"
+msgstr "Fügen Sie einen Exporteur hinzu"
+
+msgid "See all exports"
+msgstr "Alle Exporte anzeigen"
+
+msgid "Last exports"
+msgstr "Letzte Exporte"
+
+msgid "Exports"
+msgstr "Exporte"
+
+msgid "No exports yet."
+msgstr "Noch keine Exporte."
+
+msgid "Label / Comment"
+msgstr "Beschriftung/Kommentar"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "task"
+msgstr "Aufgabe"
+
+msgid "Get file"
+msgstr "Datei abrufen"
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "See params"
+msgstr "Siehe Parameter"
+
+msgid "See logs"
+msgstr "Siehe Protokolle"
+
+msgid "Start: %s"
+msgstr "Beginn: %s"
+
+msgid "End: %s"
+msgstr "Ende: %s"
+
+msgid "Emergency"
+msgstr "Notfall"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Notice"
+msgstr "Beachten"
+
+msgid "Debug"
+msgstr "Debuggen"
+
+msgid "Export #%d"
+msgstr "#%d exportieren"
+
+msgid "Attempt to stop job"
+msgstr "Versuch, die Arbeit zu stoppen"
+
+msgid "Manage logs"
+msgstr "Protokolle verwalten"
+
+msgid "Show only messages whose severity is higher than or equal to"
+msgstr "Nur Nachrichten anzeigen, deren Schweregrad höher oder gleich ist"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Severity"
+msgstr "Schwere"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Full log"
+msgstr "Vollständiges Protokoll"
+
+msgid "No logs yet."
+msgstr "Noch keine Protokolle."
+
+msgid "Refresh page"
+msgstr "Seite aktualisieren"
+
+msgid "Output file"
+msgstr "Ausgabedatei"
+
+msgid "Exporter"
+msgstr "Exporteur"
+
+msgid "[no owner]"
+msgstr "[kein Besitzer]"
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Exporter: %s"
+msgstr "Exporteur: %s"
+
+msgid "Owner: %s"
+msgstr "Besitzer: %s"
+
+msgid "Comment: %s"
+msgstr "Kommentare"
+
+msgid "Started: %s"
+msgstr "Gestartet: %s"
+
+msgid "Ended: %s"
+msgstr "Beendet: %s"
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Writer"
+msgstr "Writer"
+
+msgid "Bulk Export"
+msgstr "Massenexport"
+
+msgid "Create new exporter"
+msgstr "Erstellen Sie einen neuen Exporter"
+
+msgid "Writer: %s"
+msgstr "Autor: %s"
+
+msgid "Fill the default values of the writer."
+msgstr "Füllen Sie die Standardwerte des Writers aus."
+
+msgid "Delete exporter (%s)"
+msgstr "Exporter löschen (%s)"
+
+msgid "Are you sure you want to delete this exporter ?"
+msgstr "Sind Sie sicher, dass Sie diesen Exporter löschen möchten?"
+
+msgid "Edit exporter"
+msgstr "Exporter bearbeiten"
+
+msgid "Available exporters"
+msgstr "Verfügbare Exporteure"
+
+msgid "Store export"
+msgstr "Store-Export"
+
+msgid "Export record"
+msgstr "Datensatz exportieren"
+
+msgid "It is now possible to export resources as GeoJSON for values filled via Value Suggest Geonames."
+msgstr "Es ist jetzt möglich, Ressourcen als GeoJSON für Werte zu exportieren, die über Value Suggest Geonames gefüllt werden."
+
+msgid "It is now possible to export into a specific directory with a specific filename."
+msgstr "Es ist nun möglich, in ein bestimmtes Verzeichnis mit einem bestimmten Dateinamen zu exportieren."
+
+msgid "It is now possible to export via the api endpoint: just add an extension to it, like for admin or site view, for example \"/api/items.ods\" or \"/api-local/items/151.odt\" (from module Api Info)."
+msgstr "Es ist jetzt möglich, über den API-Endpunkt zu exportieren: Fügen Sie ihm einfach eine Erweiterung hinzu, z. B. für die Admin- oder Site-Ansicht, zum Beispiel „/api/items.ods“ oder „/api-local/items/151.odt“ (aus dem Modul Api Info)."
+
+msgid "It is now possible to store an exporter as a task."
+msgstr "Es ist nun möglich, einen Exporter als Aufgabe zu hinterlegen."
+
+msgid "It is now possible to do an incremental export."
+msgstr "Es ist jetzt möglich, einen inkrementellen Export durchzuführen."
+
+msgid "The config of exporters has been upgraded to a new format. You may check them if you use a complex config."
+msgstr "Die Konfiguration der Exporter wurde auf ein neues Format aktualisiert.You may check them if you use a complex config."
+
+msgid "New resource page blocks have been added to display a button to export current resources."
+msgstr "Es wurden neue Ressourcenseitenblöcke hinzugefügt, um eine Schaltfläche zum Exportieren aktueller Ressourcen anzuzeigen."
+
+msgid "A new option has been added to display the exporters automatically in selected pages for themes that don’t manage resource page blocks. Check your site if needed."
+msgstr "Es wurde eine neue Option hinzugefügt, um die Exporteure automatisch auf ausgewählten Seiten für Themen anzuzeigen, die keine Ressourcenseitenblöcke verwalten.Überprüfen Sie bei Bedarf Ihre Website."
+
+msgid "The option \"divclass\" was removed from blocks. Check your theme if you customized it."
+msgstr "Die Option „divclass“ wurde aus Blöcken entfernt.Überprüfen Sie Ihr Theme, wenn Sie es angepasst haben."
+
+msgid "OpenDocument spreadsheet (ods)"
+msgstr "OpenDocument-Tabelle (ods)"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "OpenDocument text (odt)"
+msgstr "OpenDocument-Text (odt)"
+
+msgid "TSV (tab-separated values)"
+msgstr "TSV (durch Tabulatoren getrennte Werte)"
+
+msgid "The directory \"{path}\" is not writeable."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar."
+
+msgid "All bulk exports will be removed (folder \"{folder}\")."
+msgstr "Alle Massenexporte werden entfernt (Ordner „{folder}“)."
+
+msgid "No argument files (%s)."
+msgstr "Keine Argumentdateien (%s)."
+
+msgid "Bibliography from %s"
+msgstr "Bibliographie von %s"
+
+msgid "Skipped field \"{fieldname}\" of resource: it contains more than 1000 characters."
+msgstr "Feld „{fieldname}“ der Ressource wurde übersprungen: Es enthält mehr als 1000 Zeichen."
+
+msgid "Some properties are not exported because they contain more or less than 500, 1000 or 5000 characters: {properties}."
+msgstr "Einige Eigenschaften werden nicht exportiert, da sie mehr oder weniger als 500, 1000 oder 5000 Zeichen enthalten: {properties}."
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid "No headers are used in any resources."
+msgstr "In keiner Ressource werden Header verwendet."
+
+msgid "{number} different fields are used in all resources."
+msgstr "In allen Ressourcen werden {Anzahl} verschiedene Felder verwendet."
+
+msgid "No resource type selected."
+msgstr "Kein Ressourcentyp ausgewählt."
+
+msgid "No resource to export."
+msgstr "Keine Ressource zum Exportieren."
+
+msgid "All resources of all resource types ({total}) exported."
+msgstr "Alle Ressourcen aller Ressourcentypen ({total}) wurden exportiert."
+
+msgid "Starting export of {total} {resource_type}."
+msgstr "Export von {total} {resource_type} wird gestartet."
+
+msgid "The job \"Export\" was stopped: {processed}/{total} resources processed."
+msgstr "Der Job „Export“ wurde gestoppt: {processed}/{total} Ressourcen verarbeitet."
+
+msgid "{processed}/{total} {resource_type} processed, {succeed} succeed, {skipped} skipped."
+msgstr "{processed}/{total} {resource_type} verarbeitet, {succeed} erfolgreich, {skipped} übersprungen."
+
+msgid "End export of {resource_type}."
+msgstr "Export von {resource_type} beenden."
+
+msgid "The deleted resources cannot be output when the internal id is not included in the list of fields."
+msgstr "Die gelöschten Ressourcen können nicht ausgegeben werden, wenn die interne ID nicht in der Feldliste enthalten ist."
+
+msgid "Starting export of deleted {resource_type}."
+msgstr "Der Export des gelöschten {resource_type} wird gestartet."
+
+msgid "End export of {total} deleted {resource_type}."
+msgstr "Export von {total} gelöschtem {resource_type} beenden."
+
+msgid "No deleted resource exported for {resource_type}."
+msgstr "Für {resource_type} wurde keine gelöschte Ressource exportiert."
+
+msgid "Previous completed export by user {username} with exporter \"{exporter_label}\" is #{export_id} on {date}."
+msgstr "Der vorherige abgeschlossene Export durch Benutzer {Benutzername} mit Exporteur „{exporter_label}“ ist #{export_id} am {Datum}."
+
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+msgid "OpenDocument Text"
+msgstr "OpenDocument-Text"
+
+msgid "To process export of \"{label}\", the php extensions \"zip\" and \"xml\" are required."
+msgstr "Um den Export von „{label}“ zu verarbeiten, sind die PHP-Erweiterungen „zip“ und „xml“ erforderlich."
+
+msgid "Unable to open output: {error}."
+msgstr "Ausgabe kann nicht geöffnet werden: {Fehler}."
+
+msgid "No separator selected: only the first value of each property of each resource will be output."
+msgstr "Kein Trennzeichen ausgewählt: Nur der erste Wert jeder Eigenschaft jeder Ressource wird ausgegeben."
+
+msgid "Unsupported format {format} for spreadsheet."
+msgstr "Nicht unterstütztes Format {format} für die Tabelle."
+
+msgid "Skipped {resource_type} #{resource_id}: it contains the separator \"{separator}\"."
+msgstr "Übersprungener {resource_type} #{resource_id}: Es enthält das Trennzeichen „{separator}“."
+
+msgid "Json Table"
+msgstr "Json-Tabelle"
+
+msgid "Output directory \"{folder}\" is not writeable."
+msgstr "Das Ausgabeverzeichnis „{folder}“ ist nicht beschreibbar."
+
+msgid "The path should not contain \"../\"."
+msgstr "Der Pfad sollte nicht „../“ enthalten."
+
+msgid "The destination folder \"{folder}\" is not writeable."
+msgstr "Der Zielordner „{folder}“ ist nicht beschreibbar."
+
+msgid "The specified dir path \"{path}\" is invalid. Using default one."
+msgstr "Der angegebene Verzeichnispfad „{path}“ ist ungültig.Standardeinstellung verwenden."
+
+msgid "Export error when saving \"{filename}\" (temp file: \"{tempfile}\"): {exception}"
+msgstr "Exportfehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“): {Ausnahme}"
+
+msgid "Export error when saving \"{filename}\" (temp file: \"{tempfile}\")."
+msgstr "Exportfehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“)."
+
+msgid "Unable to check output: {error}."
+msgstr "Ausgabe konnte nicht überprüft werden: {error}."
+
+msgid "OpenDocument Spreadsheet"
+msgstr "OpenDocument-Tabelle"
+
+msgid "The temporary folder \"{folder}\" does not exist or is not writeable."
+msgstr "Der temporäre Ordner „{folder}“ existiert nicht oder ist nicht beschreibbar."
+
+msgid "Export record id is not set."
+msgstr "Die Exportdatensatz-ID ist nicht festgelegt."
+
+msgid "Export record id #{id} does not exist."
+msgstr "Exportdatensatz-ID #{id} existiert nicht."
+
+msgid "Export as task based on export #{export_id}."
+msgstr "Als Aufgabe basierend auf Export #{export_id} exportieren."
+
+msgid "Writer \"{writer}\" is not available."
+msgstr "Der Autor „{writer}“ ist nicht verfügbar."
+
+msgid "Export error: {error}"
+msgstr "Exportfehler: {error}"
+
+msgid "Export started"
+msgstr "Der Export wurde gestartet"
+
+msgid "Export completed"
+msgstr "Export abgeschlossen"
+
+msgid "The export is available locally as specified (size: {size} bytes)."
+msgstr "Der Export ist wie angegeben lokal verfügbar (Größe: {size} Bytes)."
+
+msgid "The export is available at {link} (size: {size} bytes)."
+msgstr "Der Export ist unter {link} verfügbar (Größe: {size} Bytes)."
+
+msgid "No owner to notify end of process."
+msgstr "Kein Eigentümer, der das Ende des Prozesses benachrichtigen kann."
+
+msgid "[Omeka Bulk Export] #{job_id}"
+msgstr "[Omeka-Massenexport] #{job_id}"
+
+msgid "Export ended (job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+msgstr "Export beendet (Job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+
+msgid "Error when sending email to notify end of process."
+msgstr "Fehler beim Senden einer E-Mail zur Benachrichtigung über das Ende des Prozesses."
+
+msgid "Resource pages where to display exporters automatically"
+msgstr "Ressourcenseiten, auf denen Exporteure automatisch angezeigt werden"
+
+msgid "The config should be compliant with module BlocksDisposition if you use it. When the theme supports resource page blocks, it is recommended to use them."
+msgstr "Die Konfiguration sollte mit dem Modul BlocksDisposition kompatibel sein, wenn Sie es verwenden.Wenn das Theme Ressourcenseitenblöcke unterstützt, wird empfohlen, diese zu verwenden."
+
+msgid "Item / show"
+msgstr "Artikel / Show"
+
+msgid "Item / browse"
+msgstr "Artikel / Durchsuchen"
+
+msgid "Item set / show"
+msgstr "Artikelset / Show"
+
+msgid "Item set / browse"
+msgstr "Artikelsatz / Durchsuchen"
+
+msgid "Media / show"
+msgstr "Medien / Show"
+
+msgid "Media / browse"
+msgstr "Medien / Durchsuchen"
+
+msgid "Maximum number of resources to export"
+msgstr "Maximale Anzahl der zu exportierenden Ressourcen"
+
+msgid "This setting is applied only for the direct output."
+msgstr "Diese Einstellung gilt nur für die direkte Ausgabe."
+
+msgid "Formatters to display in resource pages"
+msgstr "Formatierer zur Anzeige auf Ressourcenseiten"
+
+msgid "Metadata names or headers"
+msgstr "Metadatennamen oder Header"
+
+msgid "Rdf names"
+msgstr "Rdf-Namen"
+
+msgid "Labels"
+msgstr "Etiketten"
+
+msgid "First template alternative name"
+msgstr "Alternativer Name der ersten Vorlage"
+
+msgid "Format of values"
+msgstr "Format der Werte"
+
+msgid "String"
+msgstr "Zeichenfolge"
+
+msgid "Html (slow with some modules)"
+msgstr "HTML (langsam bei einigen Modulen)"
+
+msgid "Format of linked resources"
+msgstr "Format der verlinkten Ressourcen"
+
+msgid "Id"
+msgstr "Ausweis"
+
+msgid "Identifier (property below)"
+msgstr "Bezeichner (Eigenschaft unten)"
+
+msgid "Identifier or id"
+msgstr "Bezeichner oder ID"
+
+msgid "Omeka url and title"
+msgstr "Omeka-URL und Titel"
+
+msgid "Omeka url"
+msgstr "Omeka-URL"
+
+msgid "Property for linked resources"
+msgstr "Eigenschaft für verknüpfte Ressourcen"
+
+msgid "Format of uri"
+msgstr "Format von uri"
+
+msgid "Uri and label separated by a space"
+msgstr "Uri und Label durch ein Leerzeichen getrennt"
+
+msgid "Uri only"
+msgstr "Nur Uri"
+
+msgid "Html"
+msgstr "HTML"
+
+msgid "Delete exporter"
+msgstr "Exporteur löschen"
+
+msgid "Other params"
+msgstr "Andere Parameter"
+
+msgid "Store exporter as a task"
+msgstr "Exporter als Aufgabe speichern"
+
+msgid "Allows to store a job to run it via command line or a cron task (see module EasyAdmin)."
+msgstr "Ermöglicht das Speichern eines Jobs, um ihn über die Befehlszeile oder einen Cron-Task auszuführen (siehe Modul EasyAdmin)."
+
+msgid "Notify by email when finished"
+msgstr "Wenn Sie fertig sind, benachrichtigen Sie uns per E-Mail"
+
+msgid "Multi-value separator"
+msgstr "Trennzeichen für mehrere Werte"
+
+msgid "To output all values of each property, cells can be multivalued with this separator.\nIt is recommended to use a character that is never used, like \"|\", or a random string."
+msgstr "Um alle Werte jeder Eigenschaft auszugeben, können Zellen mit diesem Trennzeichen mehrwertig sein.\nEs wird empfohlen, ein nie verwendetes Zeichen wie „|“ oder eine zufällige Zeichenfolge zu verwenden."
+
+msgid "If empty, all used properties will be returned."
+msgstr "Wenn leer, werden alle verwendeten Eigenschaften zurückgegeben."
+
+msgid "Select one or more metadata…"
+msgstr "Wählen Sie ein oder mehrere Metadaten aus…"
+
+msgid "Metadata to exclude"
+msgstr "Auszuschließende Metadaten"
+
+msgid "It is recommended to remove big fields from the list of properties, in particular extracted text."
+msgstr "Es wird empfohlen, große Felder, insbesondere extrahierten Text, aus der Liste der Eigenschaften zu entfernen."
+
+msgid "Resource metadata"
+msgstr "Ressourcenmetadaten"
+
+msgid "All used properties more than 500 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen mehr als 500 Zeichen"
+
+msgid "All used properties more than 1000 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen mehr als 1000 Zeichen"
+
+msgid "All used properties more than 5000 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen mehr als 5000 Zeichen"
+
+msgid "Internal id"
+msgstr "Interne ID"
+
+msgid "Resource url"
+msgstr "Ressourcen-URL"
+
+msgid "Owner id"
+msgstr "Besitzer-ID"
+
+msgid "Visibility public/private"
+msgstr "Sichtbarkeit öffentlich/privat"
+
+msgid "Openness"
+msgstr "Offenheit"
+
+msgid "All used properties"
+msgstr "Alle gebrauchten Immobilien"
+
+msgid "All used properties less than 500 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen weniger als 500 Zeichen"
+
+msgid "All used properties less than 1000 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen weniger als 1000 Zeichen"
+
+msgid "All used properties less than 5000 characters"
+msgstr "Alle verwendeten Eigenschaften umfassen weniger als 5000 Zeichen"
+
+msgid "Tags (Folksonomy)"
+msgstr "Schlagworte (Folksonomy)"
+
+msgid "Item set (for item)"
+msgstr "Artikelsatz (für Artikel)"
+
+msgid "Label (first title)"
+msgstr "Label (erster Titel)"
+
+msgid "Media (for item)"
+msgstr "Medien (für Artikel)"
+
+msgid "Url / File"
+msgstr "URL/Datei"
+
+msgid "Source url / file"
+msgstr "Quell-URL/Datei"
+
+msgid "Item (for media)"
+msgstr "Artikel (für Medien)"
+
+msgid "Resource (for annotation)"
+msgstr "Ressource (für Anmerkungen)"
+
+msgid "Resource query"
+msgstr "Ressourcenabfrage"
+
+msgid "Limit the resources output. Should be used with one resource type only."
+msgstr "Begrenzen Sie die Ressourcenausgabe.Sollte nur mit einem Ressourcentyp verwendet werden."
+
+msgid "Resource types"
+msgstr "Ressourcentypen"
+
+msgid "When multiple types are selected, a column is automatically added to identify it."
+msgstr "Wenn mehrere Typen ausgewählt werden, wird automatisch eine Spalte hinzugefügt, um sie zu identifizieren."
+
+msgid "Select one or more resource type…"
+msgstr "Wählen Sie einen oder mehrere Ressourcentypen aus…"
+
+msgid "required"
+msgstr "erforderlich"
+
+msgid "This optional comment will help admins for future reference."
+msgstr "Dieser optionale Kommentar hilft Administratoren beim späteren Nachschlagen."
+
+msgid "Optional comment for future reference."
+msgstr "Optionaler Kommentar zur späteren Bezugnahme."
+
+msgid "Use a background job"
+msgstr "Verwenden Sie einen Hintergrundjob"
+
+msgid "For complex formats or numerous resources, the process may require more than 30 seconds, that is the default duration of web server before error."
+msgstr "Bei komplexen Formaten oder zahlreichen Ressourcen kann der Vorgang mehr als 30 Sekunden dauern. Dies ist die Standarddauer des Webservers, bevor ein Fehler auftritt."
+
+msgid "Directory"
+msgstr "Verzeichnis"
+
+msgid "This setting allows to store the file in the specified location. It should be writeable by the web server. It may be relative to Omeka root. Available placeholders are: \"{label}\", \"{exporter}\", \"{export_id}\", \"{date}\", \"{time}\", \"{user_id}\", \"{username}\", \"{random}\"."
+msgstr "Diese Einstellung ermöglicht das Speichern der Datei am angegebenen Speicherort.Es sollte vom Webserver beschreibbar sein.Es kann sich auf die Omeka-Wurzel beziehen.Verfügbare Platzhalter sind: „{label}“, „{exporter}“, „{export_id}“, „{date}“, „{time}“, „{user_id}“, „{username}“, „{random}“."
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "This setting allows to store the file always with the same name, generally for server tasks. The existing file will be overridden. Available placeholders are: \"{label}\", \"{exporter}\", \"{export_id}\", \"{date}\", \"{time}\", \"{user_id}\", \"{username}\", \"{random}\"."
+msgstr "Diese Einstellung ermöglicht es, die Datei immer unter demselben Namen zu speichern, im Allgemeinen für Serveraufgaben.Die vorhandene Datei wird überschrieben.Verfügbare Platzhalter sind: „{label}“, „{exporter}“, „{export_id}“, „{date}“, „{time}“, „{user_id}“, „{username}“, „{random}“."
+
+msgid "Incremental since last successful export"
+msgstr "Inkrementell seit dem letzten erfolgreichen Export"
+
+msgid "Only new and updated resources since last completed export with the same exporter and user will be output."
+msgstr "Es werden nur neue und aktualisierte Ressourcen seit dem letzten abgeschlossenen Export mit demselben Exporteur und Benutzer ausgegeben."
+
+msgid "Include deleted resources according to date (require module HistoryLog, query unsupported)"
+msgstr "Gelöschte Ressourcen nach Datum einbeziehen (Modul HistoryLog erforderlich, Abfrage nicht unterstützt)"
+
+msgid "Id only"
+msgstr "Nur Ausweis"
+
+msgid "Delimiter"
+msgstr "Trennzeichen"
+
+msgid "Enclosure"
+msgstr "Gehäuse"
+
+msgid "Escape"
+msgstr "Flucht"
+
+msgid "Start export"
+msgstr "Export starten"
+
+msgid "ready"
+msgstr "bereit"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "bulk_exports"
+msgstr "bulk_exports"
+
+msgid "export"
+msgstr "Export"
+
+msgid "Export successfully deleted"
+msgstr "Export erfolgreich gelöscht"
+
+msgid "The export process #{export} does not exists."
+msgstr "Der Exportprozess #{export} existiert nicht."
+
+msgid "Attempting to stop the export process #{export}."
+msgstr "Es wird versucht, den Exportvorgang #{export} zu stoppen."
+
+msgid "The process #{export} cannot be stopped."
+msgstr "Der Prozess #{export} kann nicht gestoppt werden."
+
+msgid "exporter_id"
+msgstr "exporter_id"
+
+msgid "Save of exporter failed"
+msgstr "Das Speichern des Exporters ist fehlgeschlagen"
+
+msgid "Exporter successfully saved"
+msgstr "Exporter erfolgreich gespeichert"
+
+msgid "This exporter cannot be deleted: exports that use it exist."
+msgstr "Dieser Exporter kann nicht gelöscht werden: Es sind Exporte vorhanden, die ihn verwenden."
+
+msgid "Exporter successfully deleted"
+msgstr "Exporter erfolgreich gelöscht"
+
+msgid "Delete of exporter failed"
+msgstr "Das Löschen des Exporters ist fehlgeschlagen"
+
+msgid "Writer configuration saved"
+msgstr "Writer-Konfiguration gespeichert"
+
+msgid "Save of writer configuration failed"
+msgstr "Das Speichern der Writer-Konfiguration ist fehlgeschlagen"
+
+msgid "writer"
+msgstr "writer"
+
+msgid "This export will be stored to be run as a task."
+msgstr "Dieser Export wird gespeichert, um als Aufgabe ausgeführt zu werden."
+
+msgid "The page was reloaded, but params are lost. Restart the export."
+msgstr "Die Seite wurde neu geladen, aber die Parameter sind verloren.Starten Sie den Export erneut."
+
+msgid "Save of export failed"
+msgstr "Das Speichern des Exports ist fehlgeschlagen"
+
+msgid "The export #{bulk_export} was stored for future use."
+msgstr "Der Export #{bulk_export} wurde für die zukünftige Verwendung gespeichert."
+
+msgid "Export started in background (job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close}). This may take a while."
+msgstr "Der Export wurde im Hintergrund gestartet (Job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close}).Dies kann eine Weile dauern."
+
+msgid "Export processed in (job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+msgstr "Export verarbeitet in (Job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+
+msgid "Export start failed"
+msgstr "Exportstart fehlgeschlagen"
+
+msgid "Continue"
+msgstr "Weitermachen"
+
+msgid "Missing output format configuration"
+msgstr "Fehlende Konfiguration des Ausgabeformats"
+
+msgid "Unable to format resources as {format}."
+msgstr "Ressourcen können nicht als {format} formatiert werden."
+
+msgid "Unable to save output to file: {error}."
+msgstr "Die Ausgabe kann nicht in der Datei gespeichert werden: {error}."
+
+msgid "To process export to \"{format}\", the php extensions \"zip\" and \"xml\" are required."
+msgstr "Um den Export nach „{format}“ zu verarbeiten, sind die PHP-Erweiterungen „zip“ und „xml“ erforderlich."
+
+msgid "No metadata are used in any resources."
+msgstr "In den Ressourcen werden keine Metadaten verwendet."
+
+msgid "The geonames uri \"{url}\" is invalid."
+msgstr "Die Geonames-URI „{url}“ ist ungültig."
+
+msgid "There is no coordinates for url \"{url}\" (name: {name}), used in resource #{resource_id}."
+msgstr "Es gibt keine Koordinaten für die URL „{url}“ (Name: {name}), die in der Ressource #{resource_id} verwendet wird."
+
+msgid "Output is not xml for url \"{url}\" (resource #{resource_id})."
+msgstr "Die Ausgabe ist kein XML für URL „{url}“ (Ressource #{resource_id})."
+
+msgid "Output is not a valid xml for url \"{url}\" (resource #{resource_id})."
+msgstr "Die Ausgabe ist keine gültige XML-Datei für die URL „{url}“ (Ressource #{resource_id})."
+
+msgid "Connection error when fetching url \"{url}\" (resource #{resource_id}): {exception}. Retrying in one minute."
+msgstr "Verbindungsfehler beim Abrufen der URL „{url}“ (Ressource #{resource_id}): {Ausnahme}.Ich versuche es in einer Minute noch einmal."
+
+msgid "Connection error when fetching url \"{url}\" (resource #{resource_id}): {exception}. Retrying in ten minutes."
+msgstr "Verbindungsfehler beim Abrufen der URL „{url}“ (Ressource #{resource_id}): {Ausnahme}.Erneuter Versuch in zehn Minuten."
+
+msgid "Connection error when fetching url \"{url}\" (resource #{resource_id}): {exception}"
+msgstr "Verbindungsfehler beim Abrufen der URL „{url}“ (Ressource #{resource_id}): {Ausnahme}"
+
+msgid "Connection issue when fetching url \"{url}\" (resource #{resource_id}): {msg}"
+msgstr "Verbindungsproblem beim Abrufen der URL „{url}“ (Ressource #{resource_id}): {msg}"
+
+msgid "Output is empty for url \"{url}\" (resource #{resource_id})."
+msgstr "Die Ausgabe für die URL „{url}“ (Ressource #{resource_id}) ist leer."
+
+msgid "Bulk export (search)"
+msgstr "Massenexport (Suche)"
+
+msgid "Bulk export button (search)"
+msgstr "Schaltfläche „Massenexport“ (Suche)"
+
+msgid "Bulk export button"
+msgstr "Schaltfläche „Massenexport“."
+
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+msgid "Past Exports"
+msgstr "Frühere Exporte"
+
+msgid "Params"
+msgstr "Parameter"

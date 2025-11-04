@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Click here to view the collected data."
+msgstr "Klicken Sie hier, um die gesammelten Daten anzuzeigen."
+
+msgid "I accept the %s"
+msgstr "Ich akzeptiere das %s"
+
+msgid "Terms of Service"
+msgstr "Nutzungsbedingungen"
+
+msgid "[private]"
+msgstr "[Privat]"
+
+msgid "[unknown item]"
+msgstr "[unbekannter Artikel]"
+
+msgid "Thank you for your submission"
+msgstr "Vielen Dank für Ihre Einreichung"
+
+msgid "Edit collecting form: “%s”"
+msgstr "Sammelformular bearbeiten: „%s“"
+
+msgid "Add collecting form"
+msgstr "Sammelformular hinzufügen"
+
+msgid "Undo delete"
+msgstr "Löschen rückgängig machen"
+
+msgid "Prompts"
+msgstr "Aufforderungen"
+
+msgid "Add prompt"
+msgstr "Eingabeaufforderung hinzufügen"
+
+msgid "Prompt"
+msgstr "Prompt"
+
+msgid "Prompt type"
+msgstr "Eingabeaufforderungstyp"
+
+msgid "Select a prompt type"
+msgstr "Wählen Sie einen Eingabeaufforderungstyp aus"
+
+msgid "Media type"
+msgstr "Medientyp"
+
+msgid "Select a media type"
+msgstr "Wählen Sie einen Medientyp aus"
+
+msgid "Prompt text"
+msgstr "Aufforderungstext"
+
+msgid "Input type"
+msgstr "Eingabetyp"
+
+msgid "Select an input type"
+msgstr "Wählen Sie einen Eingabetyp aus"
+
+msgid "(unavailable)"
+msgstr "(nicht verfügbar)"
+
+msgid "Select menu options"
+msgstr "Wählen Sie Menüoptionen aus"
+
+msgid "Filter query"
+msgstr "Abfrage filtern"
+
+msgid "Filter resources by entering an advanced search URL query string."
+msgstr "Filtern Sie Ressourcen, indem Sie eine URL-Abfragezeichenfolge für die erweiterte Suche eingeben."
+
+msgid "Custom vocab"
+msgstr "Benutzerdefinierter Wortschatz"
+
+msgid "Select a custom vocab"
+msgstr "Wählen Sie ein benutzerdefiniertes Vokabular aus"
+
+msgid "Add changes"
+msgstr "Änderungen hinzufügen"
+
+msgid "Collecting Forms"
+msgstr "Formulare sammeln"
+
+msgid "Add new form"
+msgstr "Neues Formular hinzufügen"
+
+msgid "This site has no collecting forms."
+msgstr "Auf dieser Website gibt es keine Sammelformulare."
+
+msgid "Collecting Form: “%s”"
+msgstr "Sammelformular: „%s“"
+
+msgid "[none]"
+msgstr "[keiner]"
+
+msgid "Edit form"
+msgstr "Formular bearbeiten"
+
+msgid "Back to collecting forms list"
+msgstr "Zurück zur Liste der Sammelformulare"
+
+msgid "Anonymity Type"
+msgstr "Anonymitätstyp"
+
+msgid "This form has no prompts."
+msgstr "Dieses Formular enthält keine Eingabeaufforderungen."
+
+msgid "Needs review"
+msgstr "Muss überprüft werden"
+
+msgid "Reviewed: public"
+msgstr "Rezensiert: öffentlich"
+
+msgid "Reviewed: private"
+msgstr "Bewertet: privat"
+
+msgid "Reviewed"
+msgstr "Bewertet"
+
+msgid "Update statuses"
+msgstr "Status aktualisieren"
+
+msgid "Reviewed By"
+msgstr "Bewertet von"
+
+msgid "[not reviewed]"
+msgstr "[nicht überprüft]"
+
+msgid "No items found."
+msgstr "Keine Artikel gefunden."
+
+msgid "User name"
+msgstr "Benutzername"
+
+msgid "[not asked]"
+msgstr "[nicht gefragt]"
+
+msgid "User email"
+msgstr "Benutzer-E-Mail"
+
+msgid "Anonymous?"
+msgstr "Anonym?"
+
+msgid "Collected Item: “%s”"
+msgstr "Gesammelter Gegenstand: „%s“"
+
+msgid "Click here to view the corresponding item."
+msgstr "Klicken Sie hier, um den entsprechenden Artikel anzuzeigen."
+
+msgid "Form successfully submitted!"
+msgstr "Formular erfolgreich übermittelt!"
+
+msgid "Select which collecting forms the user can complete:"
+msgstr "Wählen Sie aus, welche Sammelformulare der Benutzer ausfüllen kann:"
+
+msgid "Select a form..."
+msgstr "Wählen Sie ein Formular aus..."
+
+msgid "[anonymous user]"
+msgstr "[anonymer Benutzer]"
+
+msgid "This item was submitted on %s by %s using the form “%s” on the site “%s”: %s"
+msgstr "Dieser Artikel wurde am %s von %s mit dem Formular „%s“ auf der Website „%s“ eingereicht: %s"
+
+msgid "Collected Inputs"
+msgstr "Gesammelte Eingaben"
+
+msgid "User Input"
+msgstr "Benutzereingabe"
+
+msgid "User Information"
+msgstr "Benutzerinformationen"
+
+msgid "Public citation"
+msgstr "Öffentliche Zitierung"
+
+msgid "Assign all items created by this form to this item set."
+msgstr "Ordnen Sie alle von diesem Formular erstellten Artikel diesem Artikelsatz zu."
+
+msgid "Select Item Set..."
+msgstr "Artikelset auswählen..."
+
+msgid "Anonymity type"
+msgstr "Anonymitätstyp"
+
+msgid "Control how to treat “User Public” and “User Name” input on public pages."
+msgstr "Steuern Sie, wie die Eingaben „Benutzer öffentlich“ und „Benutzername“ auf öffentlichen Seiten behandelt werden."
+
+msgid "Success text"
+msgstr "Erfolgstext"
+
+msgid "Display this text after a user successfully submits a form."
+msgstr "Zeigen Sie diesen Text an, nachdem ein Benutzer ein Formular erfolgreich übermittelt hat."
+
+msgid "Email text"
+msgstr "E-Mail-Text"
+
+msgid "Begin all submission emails with this text."
+msgstr "Beginnen Sie alle Einreichungs-E-Mails mit diesem Text."
+
+msgid "A collecting item must be assigned an item on creation."
+msgstr "Einem Sammelgegenstand muss bei der Erstellung ein Gegenstand zugewiesen werden."
+
+msgid "A collecting item must be assigned a form on creation."
+msgstr "Einem Sammelgegenstand muss beim Anlegen ein Formular zugewiesen werden."
+
+msgid "A collecting input must be assigned a prompt on creation."
+msgstr "Einer Sammeleingabe muss bei der Erstellung eine Eingabeaufforderung zugewiesen werden."
+
+msgid "A collecting form must be assigned a site on creation."
+msgstr "Einem Sammelformular muss bei der Erstellung ein Standort zugeordnet werden."
+
+msgid "A property prompt must have a property."
+msgstr "Eine Eigenschaftsaufforderung muss eine Eigenschaft haben."
+
+msgid "A property prompt must have an input type."
+msgstr "Eine Eigenschaftseingabeaufforderung muss einen Eingabetyp haben."
+
+msgid "A custom_vocab input type must have a custom vocab."
+msgstr "Der Eingabetyp „custom_vocab“ muss über ein benutzerdefiniertes Vokabular verfügen."
+
+msgid "A media prompt must have text."
+msgstr "Eine Medienaufforderung muss Text enthalten."
+
+msgid "A media prompt must have a media type."
+msgstr "Eine Medienaufforderung muss einen Medientyp haben."
+
+msgid "An input prompt must have text."
+msgstr "Eine Eingabeaufforderung muss Text enthalten."
+
+msgid "An input prompt must have an input type."
+msgstr "Eine Eingabeaufforderung muss einen Eingabetyp haben."
+
+msgid "A user_private prompt must have text."
+msgstr "Eine user_private-Eingabeaufforderung muss Text enthalten."
+
+msgid "A user_private prompt must have an input type."
+msgstr "Eine user_private-Eingabeaufforderung muss einen Eingabetyp haben."
+
+msgid "A user_public prompt must have text."
+msgstr "Eine user_public-Eingabeaufforderung muss Text enthalten."
+
+msgid "A user_public prompt must have an input type."
+msgstr "Eine user_public-Eingabeaufforderung muss einen Eingabetyp haben."
+
+msgid "A user_name prompt must have text."
+msgstr "Eine Benutzername-Eingabeaufforderung muss Text enthalten."
+
+msgid "A user_email prompt must have text."
+msgstr "Eine user_email-Eingabeaufforderung muss Text enthalten."
+
+msgid "A html prompt must have text."
+msgstr "Eine HTML-Eingabeaufforderung muss Text enthalten."
+
+msgid "Prompts must have a type."
+msgstr "Eingabeaufforderungen müssen einen Typ haben."
+
+msgid "Invalid anonymity type."
+msgstr "Ungültiger Anonymitätstyp."
+
+msgid "Please choose one..."
+msgstr "Bitte wählen Sie eines aus..."
+
+msgid "I want to submit anonymously"
+msgstr "Ich möchte anonym einreichen"
+
+msgid "Email me my submission"
+msgstr "Schicken Sie mir meine Einsendung per E-Mail"
+
+msgid "Statuses successfully updated"
+msgstr "Status erfolgreich aktualisiert"
+
+msgid "Collecting form successfully updated"
+msgstr "Sammelformular erfolgreich aktualisiert"
+
+msgid "Collecting form successfully created"
+msgstr "Sammelformular erfolgreich erstellt"
+
+msgid "Collecting form successfully deleted"
+msgstr "Sammelformular erfolgreich gelöscht"
+
+msgid "User sets own anonymity"
+msgstr "Der Benutzer legt seine eigene Anonymität fest"
+
+msgid "“User Public” and “User Name” inputs are publicly visible"
+msgstr "Die Eingaben „Benutzer öffentlich“ und „Benutzername“ sind öffentlich sichtbar"
+
+msgid "“User Public” and “User Name” inputs are private"
+msgstr "Die Eingaben „Benutzer öffentlich“ und „Benutzername“ sind privat"
+
+msgid "Item Property"
+msgstr "Artikeleigenschaft"
+
+msgid "Item Media"
+msgstr "Artikelmedien"
+
+msgid "Item Supplementary"
+msgstr "Artikel ergänzend"
+
+msgid "User Name"
+msgstr "Benutzername"
+
+msgid "User Email"
+msgstr "Benutzer-E-Mail"
+
+msgid "User Private"
+msgstr "Benutzer privat"
+
+msgid "User Public"
+msgstr "Benutzer öffentlich"
+
+msgid "Text box (one line)"
+msgstr "Textfeld (eine Zeile)"
+
+msgid "Text box (multiple line)"
+msgstr "Textfeld (mehrzeilig)"
+
+msgid "Select menu"
+msgstr "Menü auswählen"
+
+msgid "Item resource"
+msgstr "Artikelressource"
+
+msgid "Numeric timestamp"
+msgstr "Numerischer Zeitstempel"
+
+msgid "Numeric interval"
+msgstr "Numerisches Intervall"
+
+msgid "Numeric duration"
+msgstr "Numerische Dauer"
+
+msgid "Numeric integer"
+msgstr "Numerische Ganzzahl"
+
+msgid "Collecting"
+msgstr "Sammeln"
+
+msgid "Upload One"
+msgstr "Laden Sie eins hoch"
+
+msgid "Upload Multiple"
+msgstr "Mehrere hochladen"
+
+msgid "Terms of service"
+msgstr "Nutzungsbedingungen"
+
+msgid "Enter the terms of service (TOS) for users who submit content to this site."
+msgstr "Enter the terms of service (TOS) for users who submit content to this site."
+
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+msgid "Enter an email address from which submission emails will be sent."
+msgstr "Geben Sie eine E-Mail-Adresse ein, von der Einreichungs-E-Mails gesendet werden."
+
+msgid "Form Information"
+msgstr "Formularinformationen"
+
+msgid "Collected Items"
+msgstr "Gesammelte Gegenstände"

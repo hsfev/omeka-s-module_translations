@@ -1,0 +1,2952 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This module requires module %1$s version %2$s or greater."
+msgstr "Dieses Modul erfordert Modul %1$s Version %2$s oder höher."
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "See the %1$sread me%2$s to learn how to write spreadsheets headers for a quick mapping, with data type and language. Example : %3$s"
+msgstr "Sehen Sie sich die %1$sread me%2$s an, um zu erfahren, wie Sie Tabellenkopfzeilen für eine schnelle Zuordnung mit Datentyp und Sprache schreiben.Beispiel: %3$s"
+
+msgid "%s (copy)"
+msgstr "%s (Kopie)"
+
+msgid "file"
+msgstr "Datei"
+
+msgid "file name"
+msgstr "Dateiname"
+
+msgid "storage"
+msgstr "Lagerung"
+
+msgid "alternative text"
+msgstr "Alternativtext"
+
+msgid "alt text"
+msgstr "Alternativtext"
+
+msgid "alternative title"
+msgstr "alternativer Titel"
+
+msgid "resource"
+msgstr "Ressource"
+
+msgid "annotation"
+msgstr "Anmerkung"
+
+msgid "Used only for internal bulk process."
+msgstr "Wird nur für den internen Massenprozess verwendet."
+
+msgid "Emergency"
+msgstr "Notfall"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Notice"
+msgstr "Beachten"
+
+msgid "Debug"
+msgstr "Debuggen"
+
+msgid "Skipped"
+msgstr "Übersprungen"
+
+msgid "Empty source"
+msgstr "Leere Quelle"
+
+msgid "Source is empty"
+msgstr "Quelle ist leer"
+
+msgid "Source cannot be converted"
+msgstr "Quelle kann nicht konvertiert werden"
+
+msgid "assets"
+msgstr "Vermögenswerte"
+
+msgid "items"
+msgstr "Artikel"
+
+msgid "item sets"
+msgstr "Gegenstandssätze"
+
+msgid "medias"
+msgstr "Medien"
+
+msgid "collection"
+msgstr "Sammlung"
+
+msgid "collections"
+msgstr "Sammlungen"
+
+msgid "files"
+msgstr "Dateien"
+
+msgid "[unknown error]"
+msgstr "[unbekannter Fehler]"
+
+msgid "Request to document (migrated)"
+msgstr "Anforderung zur Dokumentation (migriert)"
+
+msgid "migrated"
+msgstr "migriert"
+
+msgid "Mapping \"%s\""
+msgstr "Zuordnung „%s“"
+
+msgid "[Untitled %s #%s]"
+msgstr "[Ohne Titel %s #%s]"
+
+msgid "false"
+msgstr "FALSCH"
+
+msgid "off"
+msgstr "aus"
+
+msgid "true"
+msgstr "WAHR"
+
+msgid "on"
+msgstr "An"
+
+msgid "Imports"
+msgstr "Importe"
+
+msgid "Bulk import"
+msgstr "Massenimport"
+
+msgid "No imports yet."
+msgstr "Noch keine Importe."
+
+msgid "Remove imported resources?"
+msgstr "Importierte Ressourcen entfernen?"
+
+msgid "Label / Comment"
+msgstr "Beschriftung/Kommentar"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "Dry run"
+msgstr "Trockenlauf"
+
+msgid "Stop"
+msgstr "Stoppen"
+
+msgid "Remove imported data"
+msgstr "Importierte Daten entfernen"
+
+msgid "See params"
+msgstr "Siehe Parameter"
+
+msgid "See logs"
+msgstr "Siehe Protokolle"
+
+msgid "Check file"
+msgstr "Datei prüfen"
+
+msgid "Start: %s"
+msgstr "Beginn: %s"
+
+msgid "End: %s"
+msgstr "Ende: %s"
+
+msgid "Import: %s"
+msgstr "Importieren: %s"
+
+msgid "Undo started: %s"
+msgstr "Rückgängigmachen gestartet: %s"
+
+msgid "Undo: %s"
+msgstr "Rückgängig machen: %s"
+
+msgid "Import #%d"
+msgstr "#%d importieren"
+
+msgid "Attempt to stop job"
+msgstr "Versuch, die Arbeit zu stoppen"
+
+msgid "Manage logs"
+msgstr "Protokolle verwalten"
+
+msgid "Show only messages whose importance is higher than or equal to"
+msgstr "Nur Nachrichten anzeigen, deren Wichtigkeit größer oder gleich ist"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Severity"
+msgstr "Schwere"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Full log"
+msgstr "Vollständiges Protokoll"
+
+msgid "No logs yet."
+msgstr "Noch keine Protokolle."
+
+msgid "Refresh page"
+msgstr "Seite aktualisieren"
+
+msgid "Importer: %s"
+msgstr "Importeur: %s"
+
+msgid "Comment: %s"
+msgstr "Kommentare"
+
+msgid "Started: %s"
+msgstr "Gestartet: %s"
+
+msgid "Ended: %s"
+msgstr "Beendet: %s"
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Reader"
+msgstr "Reader"
+
+msgid "Mapper"
+msgstr "Mapper"
+
+msgid "[none]"
+msgstr "[keiner]"
+
+msgid "Processor"
+msgstr "Prozessor"
+
+msgid "Importer"
+msgstr "Importeur"
+
+msgid "Bulk Import"
+msgstr "Massenimport"
+
+msgid "Create new importer"
+msgstr "Neuen Importer erstellen"
+
+msgid "Importers"
+msgstr "Importeure"
+
+msgid "Add new importer"
+msgstr "Neuen Importer hinzufügen"
+
+msgid "Configuration of importers"
+msgstr "Konfiguration von Importeuren"
+
+msgid "No importers yet."
+msgstr "Noch keine Importeure."
+
+msgid "Processor: %s"
+msgstr "Prozessor: %s"
+
+msgid "Fill the default values of the processor."
+msgstr "Füllen Sie die Standardwerte des Prozessors aus."
+
+msgid "Reader: %s"
+msgstr "Leser: %s"
+
+msgid "Fill the default values of the reader."
+msgstr "Füllen Sie die Standardwerte des Readers aus."
+
+msgid "Delete importer (%s)"
+msgstr "Importer löschen (%s)"
+
+msgid "Are you sure you want to delete this importer?"
+msgstr "Sind Sie sicher, dass Sie diesen Importer löschen möchten?"
+
+msgid "Set the default config of the importer, its reader and its processor, if any."
+msgstr "Legen Sie die Standardkonfiguration des Importers, seines Lesers und seines Prozessors fest, falls vorhanden."
+
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+msgid "Step %1$d/%2$d: %3$s"
+msgstr "Schritt %1$d/%2$d: %3$s"
+
+msgid "Store import"
+msgstr "Store-Import"
+
+msgid "Available importers"
+msgstr "Verfügbare Importeure"
+
+msgid "Last imports"
+msgstr "Letzte Importe"
+
+msgid "Create new mapping"
+msgstr "Erstellen Sie eine neue Zuordnung"
+
+msgid "Mappings"
+msgstr "Zuordnungen"
+
+msgid "Add new mapping"
+msgstr "Neue Zuordnung hinzufügen"
+
+msgid "Configuration of mappings"
+msgstr "Konfiguration von Mappings"
+
+msgid "Configured mappings"
+msgstr "Konfigurierte Zuordnungen"
+
+msgid "Last modified"
+msgstr "Zuletzt geändert"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "No configured mappings yet."
+msgstr "Noch keine konfigurierten Zuordnungen."
+
+msgid "Internal mappings (to copy)"
+msgstr "Interne Zuordnungen (zum Kopieren)"
+
+msgid "Copy as new mapping"
+msgstr "Als neue Zuordnung kopieren"
+
+msgid "Delete mapping"
+msgstr "Zuordnung löschen"
+
+msgid "Delete mapping (%s)"
+msgstr "Zuordnung löschen (%s)"
+
+msgid "Are you sure you want to delete this mapping?"
+msgstr "Sind Sie sicher, dass Sie diese Zuordnung löschen möchten?"
+
+msgid "Edit mapping"
+msgstr "Zuordnung bearbeiten"
+
+msgid "Show mapping"
+msgstr "Zuordnung anzeigen"
+
+msgid "OpenDocument spreadsheet (ods) - Item sets"
+msgstr "OpenDocument-Tabelle (ods) – Elementsätze"
+
+msgid "TSV (tab-separated values) - Mixed resources"
+msgstr "TSV (durch Tabulatoren getrennte Werte) – Gemischte Ressourcen"
+
+msgid "CSV - Items"
+msgstr "CSV – Artikel"
+
+msgid "OpenDocument spreadsheet (ods) - Items"
+msgstr "OpenDocument-Tabelle (ods) – Elemente"
+
+msgid "CSV - Mixed resources"
+msgstr "CSV – Gemischte Ressourcen"
+
+msgid "OpenDocument spreadsheet (ods) - Assets"
+msgstr "OpenDocument-Tabelle (ods) – Assets"
+
+msgid "TSV (tab-separated values) - Assets"
+msgstr "TSV (durch Tabulatoren getrennte Werte) – Vermögenswerte"
+
+msgid "TSV (tab-separated values) - Item sets"
+msgstr "TSV (tabulatorgetrennte Werte) – Elementsätze"
+
+msgid "TSV (tab-separated values) - Medias"
+msgstr "TSV (durch Tabulatoren getrennte Werte) – Medien"
+
+msgid "OpenDocument spreadsheet (ods) - Medias"
+msgstr "OpenDocument-Tabelle (ods) – Medien"
+
+msgid "Xml - Items"
+msgstr "XML – Elemente"
+
+msgid "TSV (tab-separated values) - Items"
+msgstr "TSV (durch Tabulatoren getrennte Werte) – Artikel"
+
+msgid "CSV - Item sets"
+msgstr "CSV – Artikelsätze"
+
+msgid "Xml - Ead"
+msgstr "Xml - Ead"
+
+msgid "Xml - Mets"
+msgstr "Xml – Mets"
+
+msgid "Xml - Mods"
+msgstr "Xml – Mods"
+
+msgid "CSV - Assets"
+msgstr "CSV – Vermögenswerte"
+
+msgid "OpenDocument spreadsheet (ods) - Mixed resources"
+msgstr "OpenDocument-Tabelle (ods) – Gemischte Ressourcen"
+
+msgid "CSV - Medias"
+msgstr "CSV – Medien"
+
+msgid "owner email"
+msgstr "E-Mail des Eigentümers"
+
+msgid "id"
+msgstr "Ausweis"
+
+msgid "internal id"
+msgstr "interne ID"
+
+msgid "resources"
+msgstr "Ressourcen"
+
+msgid "resource id"
+msgstr "Ressourcen-ID"
+
+msgid "resource identifier"
+msgstr "Ressourcenkennung"
+
+msgid "record"
+msgstr "aufzeichnen"
+
+msgid "records"
+msgstr "Aufzeichnungen"
+
+msgid "record id"
+msgstr "Datensatz-ID"
+
+msgid "record identifier"
+msgstr "Datensatz-ID"
+
+msgid "resource name"
+msgstr "Ressourcenname"
+
+msgid "resource type"
+msgstr "Ressourcentyp"
+
+msgid "record type"
+msgstr "Datensatztyp"
+
+msgid "template"
+msgstr "Vorlage"
+
+msgid "item type"
+msgstr "Artikeltyp"
+
+msgid "resource class"
+msgstr "Ressourcenklasse"
+
+msgid "class"
+msgstr "Klasse"
+
+msgid "visibility"
+msgstr "Sichtweite"
+
+msgid "public"
+msgstr "öffentlich"
+
+msgid "collection name"
+msgstr "Sammlungsname"
+
+msgid "item set id"
+msgstr "Artikelsatz-ID"
+
+msgid "collection id"
+msgstr "Sammlungs-ID"
+
+msgid "item set identifier"
+msgstr "Artikelsatz-ID"
+
+msgid "collection identifier"
+msgstr "Sammlungskennung"
+
+msgid "item set title"
+msgstr "Titel des Artikelsatzes"
+
+msgid "collection title"
+msgstr "Titel der Sammlung"
+
+msgid "open"
+msgstr "offen"
+
+msgid "openness"
+msgstr "Offenheit"
+
+msgid "item id"
+msgstr "Artikel-ID"
+
+msgid "item identifier"
+msgstr "Artikel-ID"
+
+msgid "media id"
+msgstr "Medien-ID"
+
+msgid "media source"
+msgstr "Medienquelle"
+
+msgid "media filename"
+msgstr "Mediendateiname"
+
+msgid "media basename"
+msgstr "Medienbasisname"
+
+msgid "media storage"
+msgstr "Medienspeicher"
+
+msgid "media storage id"
+msgstr "Medienspeicher-ID"
+
+msgid "media hash"
+msgstr "Medien-Hash"
+
+msgid "media sha256"
+msgstr "Medien sha256"
+
+msgid "media identifier"
+msgstr "Medienkennung"
+
+msgid "media url"
+msgstr "Medien-URL"
+
+msgid "media file"
+msgstr "Mediendatei"
+
+msgid "media html"
+msgstr "Medien-HTML"
+
+msgid "media public"
+msgstr "Medienöffentlichkeit"
+
+msgid "file source"
+msgstr "Dateiquelle"
+
+msgid "file storage"
+msgstr "Dateispeicherung"
+
+msgid "file hash"
+msgstr "Datei-Hash"
+
+msgid "file sha256"
+msgstr "Datei sha256"
+
+msgid "storage id"
+msgstr "Speicher-ID"
+
+msgid "basename"
+msgstr "Basisname"
+
+msgid "hash"
+msgstr "Hash"
+
+msgid "sha256"
+msgstr "sha256"
+
+msgid "html"
+msgstr "html"
+
+msgid "iiif"
+msgstr "iiif"
+
+msgid "iiif image"
+msgstr "iiif-Bild"
+
+msgid "oembed"
+msgstr "oembed"
+
+msgid "youtube"
+msgstr "youtube"
+
+msgid "url"
+msgstr "URL"
+
+msgid "display name"
+msgstr "Anzeigename"
+
+msgid "username"
+msgstr "Benutzername"
+
+msgid "user name"
+msgstr "Benutzername"
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "user email"
+msgstr "Benutzer-E-Mail"
+
+msgid "role"
+msgstr "Rolle"
+
+msgid "user role"
+msgstr "Benutzerrolle"
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "is active"
+msgstr "ist aktiv"
+
+msgid "filename"
+msgstr "Dateiname"
+
+msgid "filenames"
+msgstr "Dateinamen"
+
+msgid "file names"
+msgstr "Dateinamen"
+
+msgid "upload"
+msgstr "hochladen"
+
+msgid "sideload"
+msgstr "Seitenlast"
+
+msgid "file sideload"
+msgstr "Datei seitlich laden"
+
+msgid "dir"
+msgstr "dir"
+
+msgid "dir sideload"
+msgstr "dir Sideload"
+
+msgid "directory"
+msgstr "Verzeichnis"
+
+msgid "directory sideload"
+msgstr "Verzeichnis-Sideload"
+
+msgid "folder"
+msgstr "Ordner"
+
+msgid "folder sideload"
+msgstr "Ordner Sideload"
+
+msgid "sideload dir"
+msgstr "Sideload-Verzeichnis"
+
+msgid "sideload folder"
+msgstr "Sideload-Ordner"
+
+msgid "file iiif"
+msgstr "Datei iiif"
+
+msgid "base file name"
+msgstr "Basisdateiname"
+
+msgid "base filename"
+msgstr "Basisdateiname"
+
+msgid "tile"
+msgstr "Fliese"
+
+msgid "media tile"
+msgstr "Medienkachel"
+
+msgid "bounds"
+msgstr "Grenzen"
+
+msgid "mapping bounds"
+msgstr "Kartierungsgrenzen"
+
+msgid "latitude"
+msgstr "Breite"
+
+msgid "longitude"
+msgstr "Länge"
+
+msgid "latitude/longitude"
+msgstr "Breiten-/Längengrad"
+
+msgid "default latitude"
+msgstr "Standard-Breitengrad"
+
+msgid "default longitude"
+msgstr "Standardlängengrad"
+
+msgid "default latitude/longitude"
+msgstr "Standard-Breitengrad/Längengrad"
+
+msgid "default zoom"
+msgstr "Standardzoom"
+
+msgid "tag"
+msgstr "Etikett"
+
+msgid "tags"
+msgstr "Tags"
+
+msgid "tagger"
+msgstr "Tagger"
+
+msgid "tag status"
+msgstr "Tag-Status"
+
+msgid "tag date"
+msgstr "Tag-Datum"
+
+msgid "group"
+msgstr "Gruppe"
+
+msgid "groups"
+msgstr "Gruppen"
+
+msgid "The vocabulary \"{vocabulary}\" was updated successfully."
+msgstr "Das Vokabular „{vocabulary}“ wurde erfolgreich aktualisiert."
+
+msgid "To upgrade from version %1$s to version %2$s, you must upgrade to version %3$s first."
+msgstr "Um ein Upgrade von Version %1$s auf Version %2$s durchzuführen, müssen Sie zuerst ein Upgrade auf Version %3$s durchführen."
+
+msgid "It is now possible to import xml mets and xml mods."
+msgstr "Es ist jetzt möglich, XML-Mets und XML-Mods zu importieren."
+
+msgid "It is now possible to import xml ead."
+msgstr "Es ist jetzt möglich, XML-EAD ​​zu importieren."
+
+msgid "It is now possible to pass params to xsl conversion for xml sources."
+msgstr "Es ist jetzt möglich, Parameter an die XSL-Konvertierung für XML-Quellen zu übergeben."
+
+msgid "It is now possible to create table of contents for IIIF viewer from mets and ead sources."
+msgstr "Es ist jetzt möglich, ein Inhaltsverzeichnis für den IIIF-Viewer aus Mets- und EAD-Quellen zu erstellen."
+
+msgid "Since version {version}, this module requires php 7.4."
+msgstr "Seit der Version {version} erfordert dieses Modul PHP 7.4."
+
+msgid "It is now possible to process a bulk import and to upload files at the same time. It allows to bypass complex server config, where it is not possible to drop files on the server or to access an external server. Furthermore, the files can be zipped and they will be automatically unzipped."
+msgstr "Es ist nun möglich, einen Massenimport durchzuführen und gleichzeitig Dateien hochzuladen.Es ermöglicht die Umgehung komplexer Serverkonfigurationen, bei denen es nicht möglich ist, Dateien auf dem Server abzulegen oder auf einen externen Server zuzugreifen.Darüber hinaus können die Dateien gezippt werden und werden automatisch entpackt."
+
+msgid "It is now possible {link}to bulk upload files{link_end} in a directory of the server for future bulk uploads."
+msgstr "Für zukünftige Massen-Uploads ist es jetzt möglich, {link}Dateien in großen Mengen in ein Verzeichnis auf dem Server hochzuladen{link_end}."
+
+msgid "Import process has been clarified with three steps: reader, mapping and import."
+msgstr "Der Importvorgang wurde in drei Schritte unterteilt: Leser, Zuordnung und Import."
+
+msgid "The feature to convert documents to html has been removed from this module and will be reintegrated in another one."
+msgstr "Die Funktion zum Konvertieren von Dokumenten in HTML wurde aus diesem Modul entfernt und wird in einem anderen wieder integriert."
+
+msgid "The installer and the spreadsheet readers were fixed to allow to adapt mapping manually."
+msgstr "Das Installationsprogramm und die Tabellenkalkulations-Reader wurden korrigiert, um eine manuelle Anpassung der Zuordnung zu ermöglichen."
+
+msgid "The feature to upload files without server limitation was moved to module {link}Easy Admin{link_end}. Install it if you need it."
+msgstr "Die Funktion zum Hochladen von Dateien ohne Serverbeschränkung wurde in das Modul {link}Easy Admin{link_end} verschoben.Installieren Sie es, wenn Sie es benötigen."
+
+msgid "The feature to extract metadata from media that was moved in another module in version 3.4.53 is reintegrated. You should set the option in main settings to use it."
+msgstr "Die Funktion zum Extrahieren von Metadaten aus Medien, die in Version 3.4.53 in ein anderes Modul verschoben wurden, ist wieder integriert.Sie sollten die Option in den Haupteinstellungen festlegen, um sie zu verwenden."
+
+msgid "To keep the feature to extract metadata from media working, you should replace \"[mapping]\" by \"[maps]\" in the customized files \"data/mapping/file.xxx\". Matching files: {json}"
+msgstr "To keep the feature to extract metadata from media working, you should replace \"[mapping]\" by \"[maps]\" in the customized files \"data/mapping/file.xxx\". Matching files: {json}"
+
+msgid "The directory \"{directory}\" is not writeable."
+msgstr "Das Verzeichnis „{directory}“ ist nicht beschreibbar."
+
+msgid "Data extracted for media #{media_id}."
+msgstr "Für Medium #{media_id} extrahierte Daten."
+
+msgid "Media #{media_id}: an issue occurred during update: {exception}."
+msgstr "Medien #{media_id}: Während der Aktualisierung ist ein Problem aufgetreten: {Exception}."
+
+msgid "No argument files (%s)."
+msgstr "Keine Argumentdateien (%s)."
+
+msgid "Identifier \"{identifier}\" ({metadata}) matches {resource_name} #{resource_id}."
+msgstr "Bezeichner „{identifier}“ ({metadata}) entspricht {resource_name} #{resource_id}."
+
+msgid "Index #{index}: Identifier \"{identifier}\" ({metadata}) matches {resource_name} #{resource_id}."
+msgstr "Index #{index}: Bezeichner „{identifier}“ ({metadata}) entspricht {resource_name} #{resource_id}."
+
+msgid "Identifier \"{identifier}\" is not unique ({count} values). First is #{id}."
+msgstr "Der Bezeichner „{identifier}“ ist nicht eindeutig ({count} Werte).Zuerst ist #{id}."
+
+msgid "Duplicate identifiers are not allowed."
+msgstr "Doppelte Bezeichner sind nicht zulässig."
+
+msgid "The remote file \"%s\" is not readable or empty."
+msgstr "Die Remote-Datei „%s“ ist nicht lesbar oder leer."
+
+msgid "The input file \"%s\" is not readable."
+msgstr "Die Eingabedatei „%s“ ist nicht lesbar."
+
+msgid "An error occured during the xsl transformation of the file \"%1$s\" with the sheet \"%2$s\": %3$s"
+msgstr "Bei der XSL-Transformation der Datei „%1$s“ mit dem Blatt „%2$s“ ist ein Fehler aufgetreten: %3$s"
+
+msgid "Could not load \"%1$s\". Verify that you have rights to access this folder and subfolders. %2$s"
+msgstr "„%1$s“ konnte nicht geladen werden.Stellen Sie sicher, dass Sie Zugriffsrechte auf diesen Ordner und seine Unterordner haben.%2$s"
+
+msgid "Could not load \"%s\". Verify that you have rights to access this folder and subfolders."
+msgstr "„%s“ konnte nicht geladen werden.Stellen Sie sicher, dass Sie Zugriffsrechte auf diesen Ordner und seine Unterordner haben."
+
+msgid "The file \"%s\" is empty. Process is aborted."
+msgstr "Die Datei „%s“ ist leer.Der Vorgang wird abgebrochen."
+
+msgid "An error occurs during the xsl transformation of the file \"%s\" with the sheet \"%s\" : %s"
+msgstr "Bei der XSL-Transformation der Datei „%s“ mit dem Blatt „%s“ ist ein Fehler aufgetreten: %s"
+
+msgid "%1$s (file %2$s, line %3$d)"
+msgstr "%1$s (Datei %2$s, Zeile %3$d)"
+
+msgid "Unable to create directory in temp dir."
+msgstr "Verzeichnis im temporären Verzeichnis kann nicht erstellt werden."
+
+msgid "File \"{file}\" is not manageable."
+msgstr "Datei „{file}“ kann nicht verwaltet werden."
+
+msgid "Unable to move uploaded file \"{file}\" to \"{filepath}\"."
+msgstr "Die hochgeladene Datei „{file}“ kann nicht nach „{filepath}“ verschoben werden."
+
+msgid "Unable to extract zip file \"{file}\"."
+msgstr "Die ZIP-Datei „{file}“ konnte nicht extrahiert werden."
+
+msgid "Unable to extract all files from zip file \"{file}\"."
+msgstr "Es können nicht alle Dateien aus der ZIP-Datei „{file}“ extrahiert werden."
+
+msgid "Index #{index}: The resource {resource} #{id} is not available and cannot be really updated."
+msgstr "Index #{index}: Die Ressource {resource} #{id} ist nicht verfügbar und kann nicht wirklich aktualisiert werden."
+
+msgid "Index #{index}: Unable to update data with action \"{action}\"."
+msgstr "Index #{index}: Daten können mit der Aktion „{action}“ nicht aktualisiert werden."
+
+msgid "Index #{index}: Unable to find mappings #{mapping_id}."
+msgstr "Index #{index}: Zuordnungen #{mapping_id} konnten nicht gefunden werden."
+
+msgid "Index #{index}: Unable to find mapping marker #{mapping_marker_id}."
+msgstr "Index #{index}: Mapping-Marker #{mapping_marker_id} konnte nicht gefunden werden."
+
+msgid "Cannot sideload file: module FileSideload inactive or not installed."
+msgstr "Datei kann nicht seitlich geladen werden: Modul FileSideload inaktiv oder nicht installiert."
+
+msgid "Cannot sideload file \"{filepath}\": File empty."
+msgstr "Datei „{filepath}“ kann nicht seitlich geladen werden: Datei leer."
+
+msgid "Ingest directory \"{filepath}\" is empty."
+msgstr "Das Aufnahmeverzeichnis „{filepath}“ ist leer."
+
+msgid "Cannot fetch url: empty url."
+msgstr "URL kann nicht abgerufen werden: leere URL."
+
+msgid "Cannot fetch url \"{url}\": invalid protocol."
+msgstr "URL „{url}“ kann nicht abgerufen werden: ungültiges Protokoll."
+
+msgid "Cannot fetch url \"{url}\": url cannot be fetched."
+msgstr "URL „{url}“ kann nicht abgerufen werden: URL kann nicht abgerufen werden."
+
+msgid "Cannot fetch url \"{url}\": server does not respond."
+msgstr "URL „{url}“ kann nicht abgerufen werden: Server antwortet nicht."
+
+msgid "Cannot fetch url \"{url}\": server returned invalid response."
+msgstr "URL „{url}“ kann nicht abgerufen werden: Der Server hat eine ungültige Antwort zurückgegeben."
+
+msgid "Cannot fetch url \"{url}\": server returned http code \"{http_code}\"."
+msgstr "URL „{url}“ kann nicht abgerufen werden: Der Server hat den http-Code „{http_code}“ zurückgegeben."
+
+msgid "Cannot fetch url \"{url}\": Content length empty."
+msgstr "URL „{url}“ kann nicht abgerufen werden: Inhaltslänge leer."
+
+msgid "Cannot fetch url \"{url}\": cannot pre-check media-type."
+msgstr "URL „{url}“ kann nicht abgerufen werden: Medientyp kann nicht vorab überprüft werden."
+
+msgid "File \"{filename}\" doesn’t exist."
+msgstr "Datei „{filename}“ existiert nicht."
+
+msgid "File \"{filename}\" does not exist."
+msgstr "Datei „{filename}“ existiert nicht."
+
+msgid "File \"{filename}\" is empty."
+msgstr "Datei „{filename}“ ist leer."
+
+msgid "File \"{filename}\" is not readable."
+msgstr "Datei „{filename}“ ist nicht lesbar."
+
+msgid "File \"{filename}\" has no media type."
+msgstr "Datei „{filename}“ hat keinen Medientyp."
+
+msgid "File \"{filename}\" has media type \"{file_media_type}\" and is not managed."
+msgstr "Datei „{filename}“ hat den Medientyp „{file_media_type}“ und wird nicht verwaltet."
+
+msgid "File \"{filename}\" has media type \"{file_media_type}\", not \"{media_type}\"."
+msgstr "Die Datei „{filename}“ hat den Medientyp „{file_media_type}“, nicht „{media_type}“."
+
+msgid "Url is empty."
+msgstr "URL ist leer."
+
+msgid "Url should not contain illegal characters."
+msgstr "Die URL sollte keine illegalen Zeichen enthalten."
+
+msgid "Url is not valid."
+msgstr "URL ist ungültig."
+
+msgid "Cannot sideload file: configuration of module File Sideload not ready."
+msgstr "Datei kann nicht seitlich geladen werden: Konfiguration des Moduls Datei-Seitenladen nicht bereit."
+
+msgid "Cannot sideload file: no file path."
+msgstr "Datei kann nicht seitlich geladen werden: kein Dateipfad."
+
+msgid "Cannot sideload file \"{filepath}\": path invalid or no file."
+msgstr "Datei „{filepath}“ kann nicht seitlich geladen werden: Pfad ungültig oder keine Datei."
+
+msgid "Cannot sideload file \"{filepath}\": file not inside sideload directory."
+msgstr "Datei „{filepath}“ kann nicht seitlich geladen werden: Datei befindet sich nicht im Seitenladeverzeichnis."
+
+msgid "Cannot sideload directory \"{filepath}\": not a directory."
+msgstr "Verzeichnis „{filepath}“ kann nicht seitlich geladen werden: kein Verzeichnis."
+
+msgid "Cannot sideload file \"{filepath}\": not a file."
+msgstr "Datei „{filepath}“ kann nicht seitlich geladen werden: keine Datei."
+
+msgid "Cannot sideload file \"{filepath}\": file is not readable."
+msgstr "Datei „{filepath}“ kann nicht seitlich geladen werden: Datei ist nicht lesbar."
+
+msgid "Cannot sideload file \"{filepath}\": File Sideload option \"delete\" is set, but file is not writeable."
+msgstr "Die Datei „{filepath}“ kann nicht seitlich geladen werden: Die Option „Löschen“ für das seitliche Laden der Datei ist festgelegt, aber die Datei ist nicht beschreibbar."
+
+msgid "Error validating \"{file}\". Cannot store files with the media type \"{media_type}\"."
+msgstr "Fehler beim Validieren von „{file}“.Dateien mit dem Medientyp „{media_type}“ können nicht gespeichert werden."
+
+msgid "Error validating \"{file}\". Cannot store files with the resolved extension \"{extension}\"."
+msgstr "Fehler beim Validieren von „{file}“.Dateien mit der aufgelösten Erweiterung „{extension}“ können nicht gespeichert werden."
+
+msgid "Unable to move uploaded file to {filename}"
+msgstr "Hochgeladene Datei kann nicht nach {filename} verschoben werden"
+
+msgid "In the current version of Omeka, only lower case extensions are managed. You should disable file validation to import files."
+msgstr "In der aktuellen Version von Omeka werden nur Erweiterungen in Kleinbuchstaben verwaltet.Sie sollten die Dateivalidierung deaktivieren, um Dateien zu importieren."
+
+msgid "File {url} ({source}) don’t have an allowed extension: \"{extension}\"."
+msgstr "Datei {url} ({source}) hat keine zulässige Erweiterung: „{extension}“."
+
+msgid "File {file} invalid: {error}"
+msgstr "Datei {file} ungültig: {error}"
+
+msgid "Url not available."
+msgstr "URL nicht verfügbar."
+
+msgid "Unable to download file {url}."
+msgstr "Die Datei {url} konnte nicht heruntergeladen werden."
+
+msgid "Asset {url} is not an image."
+msgstr "Asset {url} ist kein Bild."
+
+msgid "File {url} is not an allowed file."
+msgstr "Datei {url} ist keine zulässige Datei."
+
+msgid "Error when saving \"{filename}\" (temp file: \"{tempfile}\"): {exception}"
+msgstr "Fehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“): {Ausnahme}"
+
+msgid "Error when saving \"{filename}\" (temp file: \"{tempfile}\"): {error}"
+msgstr "Fehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“): {error}"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Total errors"
+msgstr "Gesamtfehler"
+
+msgid "Index message"
+msgstr "Indexnachricht"
+
+msgid "Index #{index}: Skipped"
+msgstr "Index #{index}: Übersprungen"
+
+msgid "Index #{index}: Empty source"
+msgstr "Index #{index}: Leere Quelle"
+
+msgid "Index #{index}: Source is empty"
+msgstr "Index #{index}: Quelle ist leer"
+
+msgid "Index #{index}: Source cannot be converted"
+msgstr "Index #{index}: Quelle kann nicht konvertiert werden"
+
+msgid "Index #{index}: Error processing data."
+msgstr "Index #{index}: Fehler bei der Datenverarbeitung."
+
+msgid "Index #{index}: Warning about data processed."
+msgstr "Index #{index}: Warnung vor verarbeiteten Daten."
+
+msgid "Index #{index}: Notices about data processed."
+msgstr "Index #{index}: Hinweise zu verarbeiteten Daten."
+
+msgid "Index #{index}: Info about data processed."
+msgstr "Index #{index}: Informationen zu den verarbeiteten Daten."
+
+msgid "Unable to open output: {error}."
+msgstr "Ausgabe kann nicht geöffnet werden: {Fehler}."
+
+msgid "Trying to output more than {max} messages. Next messages are skipped."
+msgstr "Es wird versucht, mehr als {max} Nachrichten auszugeben.Nächste Nachrichten werden übersprungen."
+
+msgid "Results are available in this spreadsheet: {url}."
+msgstr "Die Ergebnisse sind in dieser Tabelle verfügbar: {url}."
+
+msgid "No file, url or endpoint was defined."
+msgstr "Es wurde keine Datei, URL oder Endpunkt definiert."
+
+msgid "No url was defined."
+msgstr "Es wurde keine URL definiert."
+
+msgid "Content-type \"{content_type}\" is invalid for url \"{url}\". It should be \"{content_type_2}\"."
+msgstr "Der Inhaltstyp „{content_type}“ ist für die URL „{url}“ ungültig.Es sollte „{content_type_2}“ sein."
+
+msgid "Charset \"{charset}\" is invalid for url \"{url}\". It should be \"{charset_2}\""
+msgstr "Der Zeichensatz „{charset}“ ist für die URL „{url}“ ungültig.Es sollte „{charset_2}“ sein"
+
+msgid "The destination pattern \"%s\" follows the old format. To avoid issue, you should update it replacing the data type separator\";\" by \"^^\", removing spaces after \"^^\", \"@\" and \"§\", and wrapping custom vocab labels with quote or double quotes."
+msgstr "Das Zielmuster „%s“ folgt dem alten Format.Um Probleme zu vermeiden, sollten Sie es aktualisieren und das Datentyptrennzeichen „;“ ersetzen.durch „^^“, Entfernen von Leerzeichen nach „^^“, „@“ und „§“ und Umschließen benutzerdefinierter Vokabelbezeichnungen in Anführungszeichen oder doppelte Anführungszeichen."
+
+msgid "Command pdftk unavailable or failed: %s"
+msgstr "Befehl pdftk nicht verfügbar oder fehlgeschlagen: %s"
+
+msgid "User mapping files"
+msgstr "Benutzerzuordnungsdateien"
+
+msgid "Module mapping files"
+msgstr "Modulzuordnungsdateien"
+
+msgid "Error in the mapping config \"{name}\"."
+msgstr "Fehler in der Zuordnungskonfiguration „{name}“."
+
+msgid "Error in the mapping config: {message}"
+msgstr "Fehler in der Zuordnungskonfiguration: {message}"
+
+msgid "Extracted metadata for media #{media_id}: {json}"
+msgstr "Extrahierte Metadaten für Medien #{media_id}: {json}"
+
+msgid "There is no new value."
+msgstr "Es gibt keinen neuen Wert."
+
+msgid "New values"
+msgstr "Neue Werte"
+
+msgid "Data about new values is available in this json {url_1} or in this spreadsheet {url_2}. Check is case sensitive."
+msgstr "Daten zu neuen Werten sind in diesem JSON {url_1} oder in dieser Tabelle {url_2} verfügbar.Bei der Prüfung wird die Groß-/Kleinschreibung beachtet."
+
+msgid "Diff (%s)"
+msgstr "Differenz (%s)"
+
+msgid "Data about update is available in this json {url_1} and in this spreadsheet by row {url_2} or by column {url_3}."
+msgstr "Daten zur Aktualisierung sind in diesem JSON {url_1} und in dieser Tabelle nach Zeile {url_2} oder nach Spalte {url_3} verfügbar."
+
+msgid "The {resource} #{id} has a linked resource or an annotation for term {term} that is not available and cannot be serialized."
+msgstr "Die {Ressource} #{id} verfügt über eine verknüpfte Ressource oder eine Anmerkung für den Begriff {term}, die nicht verfügbar ist und nicht serialisiert werden kann."
+
+msgid "The import #{import} does not exist."
+msgstr "Der Import #{import} existiert nicht."
+
+msgid "The import #{import} has no resource."
+msgstr "Der Import #{import} hat keine Ressource."
+
+msgid "No resource processed by import #{import} or resources not recorded."
+msgstr "Keine Ressource durch Import #{import} verarbeitet oder Ressourcen nicht aufgezeichnet."
+
+msgid "Processing undo of {total} resources for import #{import}."
+msgstr "Das Rückgängigmachen von {total} Ressourcen für den Import #{import} wird verarbeitet."
+
+msgid "The job \"Undo\" was stopped: {count}/{total} resources deleted."
+msgstr "Der Job „Rückgängig“ wurde gestoppt: {count}/{total} Ressourcen gelöscht."
+
+msgid "{count}/{total} resources deleted."
+msgstr "{count}/{total} Ressourcen gelöscht."
+
+msgid "Undo of {total} imported resources ended for import #{import}."
+msgstr "Das Rückgängigmachen von {total} importierten Ressourcen wurde für Import #{import} beendet."
+
+msgid "Import record id is not set."
+msgstr "Die Importdatensatz-ID ist nicht festgelegt."
+
+msgid "Import record id #{id} does not exist."
+msgstr "Importdatensatz-ID #{id} existiert nicht."
+
+msgid "Import as task based on import #{import_id}."
+msgstr "Importieren als Aufgabe basierend auf Import #{import_id}."
+
+msgid "Reader \"{reader}\" is not available."
+msgstr "Der Reader „{reader}“ ist nicht verfügbar."
+
+msgid "Processor \"{processor}\" is not available."
+msgstr "Prozessor „{processor}“ ist nicht verfügbar."
+
+msgid "Import ended: error in the mapping."
+msgstr "Import beendet: Fehler im Mapping."
+
+msgid "Import started"
+msgstr "Der Import wurde gestartet"
+
+msgid "Import completed"
+msgstr "Import abgeschlossen"
+
+msgid "No owner to notify end of process."
+msgstr "Kein Eigentümer, der das Ende des Prozesses benachrichtigen kann."
+
+msgid "[Omeka Bulk Import] #{job_id}"
+msgstr "[Omeka-Massenimport] #{job_id}"
+
+msgid "Import ended (job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+msgstr "Import beendet (Job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close})."
+
+msgid "Error when sending email to notify end of process."
+msgstr "Fehler beim Senden einer E-Mail zur Benachrichtigung über das Ende des Prozesses."
+
+msgid "The first entry is skipped by user."
+msgstr "Der erste Eintrag wird vom Benutzer übersprungen."
+
+msgid "The first {count} entries are skipped by user."
+msgstr "Die ersten {count} Einträge werden vom Benutzer übersprungen."
+
+msgid "Only one entry will be processed."
+msgstr "Es wird nur ein Eintrag bearbeitet."
+
+msgid "Only {count} entries will be processed."
+msgstr "Es werden nur {count} Einträge verarbeitet."
+
+msgid "Processing is ended: dry run."
+msgstr "Die Bearbeitung ist beendet: Probelauf."
+
+msgid "{total} error has been found during checks."
+msgstr "Bei den Überprüfungen wurde ein {total}-Fehler festgestellt."
+
+msgid "{total} errors have been found during checks."
+msgstr "Bei den Überprüfungen wurden {total} Fehler gefunden."
+
+msgid "Processing is stopped because of error. No source was imported."
+msgstr "Die Verarbeitung wurde aufgrund eines Fehlers gestoppt.Es wurde keine Quelle importiert."
+
+msgid "No identifier name was selected."
+msgstr "Es wurde kein Bezeichnername ausgewählt."
+
+msgid "Invalid identifier names: check your params."
+msgstr "Ungültige Bezeichnernamen: Überprüfen Sie Ihre Parameter."
+
+msgid "Start listing all identifiers from source data."
+msgstr "Beginnen Sie mit der Auflistung aller Identifikatoren aus den Quelldaten."
+
+msgid "Index #{index}: The job \"Import\" was stopped during initial listing of identifiers."
+msgstr "Index #{index}: Der Job „Import“ wurde während der ersten Auflistung der Bezeichner gestoppt."
+
+msgid "{total_processed}/{total_resources} resources processed during initial listing of identifiers, {total_skipped} skipped, {total_empty} empty, {total_errors} errors."
+msgstr "{total_processed}/{total_resources} Ressourcen wurden während der ersten Auflistung der Kennungen verarbeitet, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler."
+
+msgid "{total_processed} resources processed during initial listing of identifiers, {total_skipped} skipped, {total_empty} empty, {total_errors} errors."
+msgstr "{total_processed} Ressourcen wurden während der ersten Auflistung der Bezeichner verarbeitet, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler."
+
+msgid "Index #{index}: The job \"Import\" was stopped during initial listing of identifiers: max {count} entries processed."
+msgstr "Index #{index}: Der Job „Import“ wurde während der ersten Auflistung der Bezeichner gestoppt: max. {count} Einträge verarbeitet."
+
+msgid "End of initial listing of {total} ids from {count} source identifiers."
+msgstr "Ende der ersten Auflistung von {total} IDs aus {count} Quell-IDs."
+
+msgid "End of initial listing of identifiers: {total_resources} resources to process, {total_identifiers} unique identifiers, {total_skipped} skipped, {total_processed} processed, {total_empty} empty, {total_errors} errors."
+msgstr "Ende der ersten Auflistung der Bezeichner: {total_resources} zu verarbeitende Ressourcen, {total_identifiers} eindeutige Bezeichner, {total_skipped} übersprungen, {total_processed} verarbeitet, {total_empty} leer, {total_errors} Fehler."
+
+msgid "Start checking of source data."
+msgstr "Beginnen Sie mit der Überprüfung der Quelldaten."
+
+msgid "Index #{index}: The job \"Import\" was stopped during initial checks."
+msgstr "Index #{index}: Der Job „Import“ wurde während der ersten Prüfungen gestoppt."
+
+msgid "{total_processed}/{total_resources} resources checked, {total_skipped} skipped, {total_empty} empty, {total_errors} errors inside data."
+msgstr "{total_processed}/{total_resources} Ressourcen überprüft, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler in den Daten."
+
+msgid "{total_processed} resources checked, {total_skipped} skipped, {total_empty} empty, {total_errors} errors inside data."
+msgstr "{total_processed} Ressourcen überprüft, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler in den Daten."
+
+msgid "Index #{index}: The job \"Import\" was stopped during initial checks: max {count} entries checked."
+msgstr "Index #{index}: Der Job „Import“ wurde während der ersten Prüfungen gestoppt: max. {count} Einträge überprüft."
+
+msgid "Fields used to map identifiers: {names}. Check them if the mapping is not right or when existing or linked resources are not found."
+msgstr "Zur Zuordnung von Bezeichnern verwendete Felder: {Names}.Überprüfen Sie diese, wenn die Zuordnung nicht stimmt oder vorhandene oder verknüpfte Ressourcen nicht gefunden werden."
+
+msgid "End of global check: {total_resources} resources to process, {total_skipped} skipped, {total_processed} processed, {total_empty} empty, {total_errors} errors inside data."
+msgstr "Ende der globalen Prüfung: {total_resources} zu verarbeitende Ressourcen, {total_skipped} übersprungen, {total_processed} verarbeitet, {total_empty} leer, {total_errors} Fehler in den Daten."
+
+msgid "Start actual import of source data."
+msgstr "Starten Sie den eigentlichen Import der Quelldaten."
+
+msgid "Index #{index}: The job \"Import\" was stopped."
+msgstr "Index #{index}: Der Job „Import“ wurde gestoppt."
+
+msgid "{total_processed}/{total_resources} resources processed, {total_skipped} skipped, {total_empty} empty, {total_errors} errors inside data."
+msgstr "{total_processed}/{total_resources} Ressourcen verarbeitet, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler in den Daten."
+
+msgid "{total_processed} resources processed, {total_skipped} skipped, {total_empty} empty, {total_errors} errors inside data."
+msgstr "{total_processed} Ressourcen verarbeitet, {total_skipped} übersprungen, {total_empty} leer, {total_errors} Fehler in den Daten."
+
+msgid "Index #{index}: Process started"
+msgstr "Index #{index}: Prozess gestartet"
+
+msgid "Index #{index}: The {resource_name} #{resource_id} has no values."
+msgstr "Index #{index}: Der {resource_name} #{resource_id} hat keine Werte."
+
+msgid "Index #{index}: The job \"Import\" was stopped: max {count} entries processed."
+msgstr "Index #{index}: Der Job „Import“ wurde gestoppt: max. {count} Einträge verarbeitet."
+
+msgid "End of process: {total_resources} resources to process, {total_skipped} skipped, {total_processed} processed, {total_empty} empty, {total_errors} errors inside data. Note: errors can occur separately for each imported file."
+msgstr "Ende des Prozesses: {total_resources} zu verarbeitende Ressourcen, {total_skipped} übersprungen, {total_processed} verarbeitet, {total_empty} leer, {total_errors} Fehler in den Daten.Hinweis: Fehler können für jede importierte Datei separat auftreten."
+
+msgid "The setting to extract metadata is not set."
+msgstr "Die Einstellung zum Extrahieren von Metadaten ist nicht festgelegt."
+
+msgid "No item is set."
+msgstr "Es ist kein Element festgelegt."
+
+msgid "The item #{item_id} is not available."
+msgstr "Der Artikel #{item_id} ist nicht verfügbar."
+
+msgid "Item #{item_id}: data extracted for {total} media."
+msgstr "Element #{item_id}: Daten für {total} Medien extrahiert."
+
+msgid "The value \"{value}\" for property \"{term}\" is not member of custom vocab \"{customvocab}\"."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist kein Mitglied des benutzerdefinierten Vokabulars „{customvocab}“."
+
+msgid "The value \"{value}\" for property \"{term}\" is not member of custom vocab \"{customvocab}\". A literal value is used instead."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist kein Mitglied des benutzerdefinierten Vokabulars „{customvocab}“.Stattdessen wird ein Literalwert verwendet."
+
+msgid "Bulk Import module"
+msgstr "Massenimportmodul"
+
+msgid "Extract metadata from files on save (manual or import)"
+msgstr "Metadaten aus Dateien beim Speichern extrahieren (manuell oder importieren)"
+
+msgid "Output extracted metadata temporary in logs to help preparing mapping"
+msgstr "Geben Sie extrahierte Metadaten temporär in Protokollen aus, um die Vorbereitung des Mappings zu erleichtern"
+
+msgid "Command of the xslt processor"
+msgstr "Befehl des XSLT-Prozessors"
+
+msgid "Needed to import metadata in xml files, when the process uses xslt2 sheets."
+msgstr "Wird zum Importieren von Metadaten in XML-Dateien benötigt, wenn der Prozess XSLT2-Blätter verwendet."
+
+msgid "PdfTk path"
+msgstr "PdfTk-Pfad"
+
+msgid "Set the path if it is not automatically detected. PdfTk is the library used to extract metadata from pdf files."
+msgstr "Legen Sie den Pfad fest, wenn er nicht automatisch erkannt wird.PdfTk ist die Bibliothek zum Extrahieren von Metadaten aus PDF-Dateien."
+
+msgid "Identifier / Internal id"
+msgstr "Identifikator/interne ID"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Directory"
+msgstr "Verzeichnis"
+
+msgid "Html"
+msgstr "HTML"
+
+msgid "IIIF Image"
+msgstr "IIIF-Bild"
+
+msgid "Visibility public/private"
+msgstr "Sichtbarkeit öffentlich/privat"
+
+msgid "Mapping latitude/longitude"
+msgstr "Breiten-/Längengradzuordnung"
+
+msgid "Mapping bounds"
+msgstr "Grenzen abbilden"
+
+msgid "Resource metadata"
+msgstr "Ressourcenmetadaten"
+
+msgid "Internal id"
+msgstr "Interne ID"
+
+msgid "Openness"
+msgstr "Offenheit"
+
+msgid "Mapping from sources to resources"
+msgstr "Zuordnung von Quellen zu Ressourcen"
+
+msgid "Select one or more targets…"
+msgstr "Wählen Sie ein oder mehrere Ziele aus…"
+
+msgid "Media identifier"
+msgstr "Medienkennung"
+
+msgid "File name"
+msgstr "Dateiname"
+
+msgid "Base file name"
+msgstr "Basisdateiname"
+
+msgid "Storage id"
+msgstr "Speicher-ID"
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Internal id of the asset"
+msgstr "Interne ID des Assets"
+
+msgid "Alternative text"
+msgstr "Alternativtext"
+
+msgid "Resource identifier"
+msgstr "Ressourcenbezeichner"
+
+msgid "Select one target…"
+msgstr "Wählen Sie ein Ziel aus…"
+
+msgid "metadata"
+msgstr "Metadaten"
+
+msgid "Mapping"
+msgstr "Abbildung"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "In addition to the default \"Create\" and to the common \"Delete\", to manage most of the common cases, four modes of update are provided:\n- append: add new data to complete the resource;\n- revise: replace existing data by the ones set in each entry, except if empty (don’t modify data that are not provided, except for default values);\n- update: replace existing data by the ones set in each entry, even empty (don’t modify data that are not provided, except for default values);\n- replace: remove all properties of the resource, and fill new ones from the entry."
+msgstr "Zusätzlich zum standardmäßigen „Erstellen“ und dem allgemeinen „Löschen“ stehen zur Verwaltung der meisten gängigen Fälle vier Aktualisierungsmodi zur Verfügung:\n- Anhängen: Neue Daten hinzufügen, um die Ressource zu vervollständigen;\n- Überarbeiten: Vorhandene Daten durch die in jedem Eintrag festgelegten ersetzen, es sei denn, sie sind leer (nicht bereitgestellte Daten nicht ändern, mit Ausnahme der Standardwerte);\n- Aktualisieren: Vorhandene Daten durch diejenigen ersetzen, die in jedem Eintrag festgelegt sind, auch wenn diese leer sind (nicht bereitgestellte Daten nicht ändern, mit Ausnahme der Standardwerte);\n- Ersetzen: Alle Eigenschaften der Ressource entfernen und neue aus dem Eintrag hinzufügen."
+
+msgid "Create new resources"
+msgstr "Erstellen Sie neue Ressourcen"
+
+msgid "Append data to resources"
+msgstr "Daten an Ressourcen anhängen"
+
+msgid "Revise data of resources"
+msgstr "Daten von Ressourcen überarbeiten"
+
+msgid "Update data of resources"
+msgstr "Daten von Ressourcen aktualisieren"
+
+msgid "Replace all data of resources"
+msgstr "Ersetzen Sie alle Daten von Ressourcen"
+
+msgid "Delete resources"
+msgstr "Ressourcen löschen"
+
+msgid "Skip entries (dry run)"
+msgstr "Einträge überspringen (Probelauf)"
+
+msgid "Action on unidentified resources"
+msgstr "Aktion für nicht identifizierte Ressourcen"
+
+msgid "What to do when a resource to update does not exist."
+msgstr "Was tun, wenn eine zu aktualisierende Ressource nicht vorhanden ist?"
+
+msgid "Skip entry"
+msgstr "Eintrag überspringen"
+
+msgid "Create a new resource"
+msgstr "Erstellen Sie eine neue Ressource"
+
+msgid "Identifier to use for linked resources or update"
+msgstr "Bezeichner, der für verknüpfte Ressourcen oder Aktualisierungen verwendet werden soll"
+
+msgid "Allows to identify existing resources, for example to attach a media to an existing item or to update a resource. It is always recommended to set one ore more unique identifiers to all resources, with a prefix."
+msgstr "Ermöglicht die Identifizierung vorhandener Ressourcen, beispielsweise das Anhängen eines Mediums an ein vorhandenes Element oder das Aktualisieren einer Ressource.Es wird immer empfohlen, für alle Ressourcen eine oder mehrere eindeutige Kennungen mit einem Präfix festzulegen."
+
+msgid "Select an identifier name…"
+msgstr "Wählen Sie einen Identifikatornamen aus…"
+
+msgid "Use data type \"literal\" when a value is invalid"
+msgstr "Verwenden Sie den Datentyp „Literal“, wenn ein Wert ungültig ist"
+
+msgid "The mapping can be used for automatic and more precise process when specifying data types \"^^resource:item ^^literal\", for example."
+msgstr "Das Mapping kann zum automatischen und präziseren Vorgehen beispielsweise bei der Angabe von Datentypen „^^resource:item ^^literal“ genutzt werden."
+
+msgid "Allow missing identifiers and duplicate identifiers"
+msgstr "Fehlende und doppelte Bezeichner zulassen"
+
+msgid "Not recommended, but needed to be compliant with old databases. Missings and duplicates are logged."
+msgstr "Nicht empfohlen, muss aber mit alten Datenbanken kompatibel sein.Fehlende und doppelte Einträge werden protokolliert."
+
+msgid "Action on identifier"
+msgstr "Aktion auf Kennung"
+
+msgid "When a \"revise\" or an \"update\" is done, the identifier may be updated, but you may want to keep existing identifiers if all of them are not provided."
+msgstr "Wenn eine „Überarbeitung“ oder eine „Aktualisierung“ durchgeführt wird, wird der Bezeichner möglicherweise aktualisiert. Möglicherweise möchten Sie jedoch vorhandene Bezeichner beibehalten, wenn nicht alle bereitgestellt werden."
+
+msgid "Keep and append new identifiers"
+msgstr "Behalten Sie neue Bezeichner bei und fügen Sie sie hinzu"
+
+msgid "Process as main action above"
+msgstr "Vorgehen wie oben beschrieben"
+
+msgid "Action on media"
+msgstr "Aktion in den Medien"
+
+msgid "When a \"revise\" or an \"update\" is done, the media may be updated, but you may want to keep existing ones."
+msgstr "Wenn eine „Überarbeitung“ oder ein „Update“ durchgeführt wird, werden die Medien möglicherweise aktualisiert, Sie möchten jedoch möglicherweise die vorhandenen behalten."
+
+msgid "Keep media"
+msgstr "Medien behalten"
+
+msgid "Action on item set"
+msgstr "Aktion für den Artikelsatz"
+
+msgid "When a \"revise\" or an \"update\" is done, the item set may be updated, but you may want to keep existing ones."
+msgstr "Wenn eine „Überarbeitung“ oder eine „Aktualisierung“ durchgeführt wird, wird der Artikelsatz möglicherweise aktualisiert, Sie möchten jedoch möglicherweise vorhandene Artikel behalten."
+
+msgid "Keep item sets"
+msgstr "Behalten Sie die Gegenstandssätze"
+
+msgid "Select a template…"
+msgstr "Wählen Sie eine Vorlage aus…"
+
+msgid "Select a class…"
+msgstr "Wählen Sie eine Klasse aus…"
+
+msgid "Label or comment"
+msgstr "Beschriften oder kommentieren"
+
+msgid "This optional comment will help admins for future reference."
+msgstr "Dieser optionale Kommentar hilft Administratoren beim späteren Nachschlagen."
+
+msgid "Optional label or comment for future reference."
+msgstr "Optionale Beschriftung oder Kommentar zur späteren Bezugnahme."
+
+msgid "Process control"
+msgstr "Prozesskontrolle"
+
+msgid "In all cases, the check of identifiers, linked resources, template values, and files presence is done during a first loop."
+msgstr "In allen Fällen erfolgt die Prüfung der Bezeichner, verknüpften Ressourcen, Vorlagenwerte und des Vorhandenseins von Dateien während einer ersten Schleife."
+
+msgid "Stop on error"
+msgstr "Bei Fehler stoppen"
+
+msgid "Continue on error"
+msgstr "Bei Fehler weitermachen"
+
+msgid "Don’t stop process when a file is missing (import item metadata only)"
+msgstr "Stoppen Sie den Prozess nicht, wenn eine Datei fehlt (nur Elementmetadaten importieren)"
+
+msgid "Number of entries to skip"
+msgstr "Anzahl der zu überspringenden Einträge"
+
+msgid "Allows to start on a specific entry index, in particular when there was an issue in first rows of a spreadsheet. Note: don’t include the header row."
+msgstr "Ermöglicht den Start mit einem bestimmten Eintragsindex, insbesondere wenn in den ersten Zeilen einer Tabelle ein Problem aufgetreten ist.Hinweis: Schließen Sie die Kopfzeile nicht ein."
+
+msgid "Max number of entries to process"
+msgstr "Maximale Anzahl der zu verarbeitenden Einträge"
+
+msgid "Output differences"
+msgstr "Ausgabeunterschiede"
+
+msgid "Get informations about differences between existing resources and new values."
+msgstr "Erhalten Sie Informationen über Unterschiede zwischen vorhandenen Ressourcen und neuen Werten."
+
+msgid "Current user"
+msgstr "Aktueller Benutzer"
+
+msgid "Select a user"
+msgstr "Wählen Sie einen Benutzer aus"
+
+msgid "Files to import"
+msgstr "Zu importierende Dateien"
+
+msgid "Files to import (multiple individual files or zipped)"
+msgstr "Zu importierende Dateien (mehrere einzelne Dateien oder gezippt)"
+
+msgid "When access to server is complex or when it cannot access internet or other servers, it is possible to upload them here."
+msgstr "Wenn der Zugriff auf den Server komplex ist oder kein Zugriff auf das Internet oder andere Server möglich ist, können Sie diese hier hochladen."
+
+msgid "Types to import"
+msgstr "Zu importierende Typen"
+
+msgid "Warning: import of statistics is slow currently."
+msgstr "Warnung: Der Import von Statistiken ist derzeit langsam."
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Subjects"
+msgstr "Themen"
+
+msgid "Contact messages"
+msgstr "Kontaktnachrichten"
+
+msgid "Saved searches"
+msgstr "Gespeicherte Suchanfragen"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "Import people as item"
+msgstr "Personen als Artikel importieren"
+
+msgid "Fake files"
+msgstr "Gefälschte Dateien"
+
+msgid "This option avoids fetching and processing files."
+msgstr "Diese Option vermeidet das Abrufen und Verarbeiten von Dateien."
+
+msgid "Base url"
+msgstr "Basis-URL"
+
+msgid "Url or filepath to fetch original files"
+msgstr "URL oder Dateipfad zum Abrufen der Originaldateien"
+
+msgid "Code of the default language"
+msgstr "Code der Standardsprache"
+
+msgid "Two letters code of the default language"
+msgstr "Zwei-Buchstaben-Code der Standardsprache"
+
+msgid "Select one item…"
+msgstr "Wählen Sie ein Element aus…"
+
+msgid "Select one or more item sets…"
+msgstr "Wählen Sie ein oder mehrere Artikelsets aus…"
+
+msgid "Select the resource type…"
+msgstr "Wählen Sie den Ressourcentyp aus…"
+
+msgid "Mappings / markers"
+msgstr "Zuordnungen/Markierungen"
+
+msgid "Create new assets"
+msgstr "Erstellen Sie neue Vermögenswerte"
+
+msgid "Update data of assets or attach to resources"
+msgstr "Daten von Assets aktualisieren oder an Ressourcen anhängen"
+
+msgid "Delete assets"
+msgstr "Assets löschen"
+
+msgid "Action on unidentified assets and resources during update"
+msgstr "Aktion für nicht identifizierte Assets und Ressourcen während der Aktualisierung"
+
+msgid "Create a new asset"
+msgstr "Erstellen Sie ein neues Asset"
+
+msgid "Identifier to use to update asset or to attach to a resource as thumbnail"
+msgstr "Bezeichner, der zum Aktualisieren des Assets oder zum Anhängen an eine Ressource als Miniaturansicht verwendet werden soll"
+
+msgid "Asset identifier"
+msgstr "Asset-ID"
+
+msgid "Source base file name or url"
+msgstr "Name oder URL der Quellbasisdatei"
+
+msgid "Create the required name"
+msgstr "Erstellen Sie den erforderlichen Namen"
+
+msgid "Use the file name or the last part of the url"
+msgstr "Verwenden Sie den Dateinamen oder den letzten Teil der URL"
+
+msgid "Use the file name or the full url"
+msgstr "Verwenden Sie den Dateinamen oder die vollständige URL"
+
+msgid "Use the full file path or url"
+msgstr "Verwenden Sie den vollständigen Dateipfad oder die vollständige URL"
+
+msgid "None (should be provided or exist)"
+msgstr "Keine (sollte bereitgestellt werden oder vorhanden sein)"
+
+msgid "Select a reader…"
+msgstr "Wählen Sie einen Leser aus…"
+
+msgid "Select a mapper…"
+msgstr "Wählen Sie einen Mapper aus…"
+
+msgid "Select a processor…"
+msgstr "Wählen Sie einen Prozessor aus…"
+
+msgid "Other params"
+msgstr "Andere Parameter"
+
+msgid "Store importer as a task"
+msgstr "Importer als Aufgabe speichern"
+
+msgid "Allows to store a job to run it via command line or a cron task (see module EasyAdmin)."
+msgstr "Ermöglicht das Speichern eines Jobs, um ihn über die Befehlszeile oder einen Cron-Task auszuführen (siehe Modul EasyAdmin)."
+
+msgid "Notify by email when finished"
+msgstr "Wenn Sie fertig sind, benachrichtigen Sie uns per E-Mail"
+
+msgid "Start import"
+msgstr "Import starten"
+
+msgid "Spreadsheet url"
+msgstr "Tabellen-URL"
+
+msgid "Multi-value separator"
+msgstr "Trennzeichen für mehrere Werte"
+
+msgid "If cells are multivalued, it is recommended to use a character that is never used, like \"|\" or a random string."
+msgstr "Wenn Zellen mehrwertig sind, wird empfohlen, ein Zeichen zu verwenden, das nie verwendet wird, z. B. „|“.oder eine zufällige Zeichenfolge."
+
+msgid "Omeka S api endpoint"
+msgstr "Omeka S API-Endpunkt"
+
+msgid "Omeka S api identity key"
+msgstr "Omeka S API-Identitätsschlüssel"
+
+msgid "Omeka S api credential key"
+msgstr "Omeka S API-Anmeldeinformationsschlüssel"
+
+msgid "Configured xsl"
+msgstr "Konfiguriertes XSL"
+
+msgid "User xsl files"
+msgstr "Benutzer-XSL-Dateien"
+
+msgid "Module xsl files"
+msgstr "Modul XSL-Dateien"
+
+msgid "XML url"
+msgstr "XML-URL"
+
+msgid "List of files or urls"
+msgstr "Liste der Dateien oder URLs"
+
+msgid "XSLT file used to preprocess xml or normalize source"
+msgstr "XSLT-Datei, die zur Vorverarbeitung von XML oder zur Normalisierung der Quelle verwendet wird"
+
+msgid "Select the xsl for transformation…"
+msgstr "Wählen Sie die XSL für die Transformation aus ..."
+
+msgid "XSLT file used to separate resources or normalize source"
+msgstr "XSLT-Datei, die zum Trennen von Ressourcen oder zum Normalisieren der Quelle verwendet wird"
+
+msgid "Select the xsl for conversion…"
+msgstr "Wählen Sie die XSL für die Konvertierung aus…"
+
+msgid "Params to pass to xsl sheets"
+msgstr "Parameter, die an XSL-Blätter übergeben werden sollen"
+
+msgid "CSV file"
+msgstr "CSV-Datei"
+
+msgid "File (tsv)"
+msgstr "Datei (tsv)"
+
+msgid "Sheets"
+msgstr "Blätter"
+
+msgid "First"
+msgstr "Erste"
+
+msgid "Json file"
+msgstr "Json-Datei"
+
+msgid "Spreadsheet (csv, tsv, OpenDocument ods)"
+msgstr "Tabellenkalkulation (csv, tsv, OpenDocument ods)"
+
+msgid "XML file"
+msgstr "XML-Datei"
+
+msgid "Delimiter"
+msgstr "Trennzeichen"
+
+msgid "Enclosure"
+msgstr "Gehäuse"
+
+msgid "Escape"
+msgstr "Flucht"
+
+msgid "Json url"
+msgstr "Json-URL"
+
+msgid "Database name"
+msgstr "Datenbankname"
+
+msgid "Database username"
+msgstr "Datenbankbenutzername"
+
+msgid "Even if the module does not write in the database, it is recommended to use a read-only user, in particular when the source is a living database."
+msgstr "Auch wenn das Modul nicht in die Datenbank schreibt, empfiehlt es sich, einen schreibgeschützten Benutzer zu verwenden, insbesondere wenn es sich bei der Quelle um eine lebende Datenbank handelt."
+
+msgid "Database user password"
+msgstr "Passwort des Datenbankbenutzers"
+
+msgid "The password will be saved some seconds in the database, until the job starts."
+msgstr "Das Passwort wird einige Sekunden in der Datenbank gespeichert, bis der Job startet."
+
+msgid "Database host name"
+msgstr "Hostname der Datenbank"
+
+msgid "Database port"
+msgstr "Datenbankport"
+
+msgid "Character set"
+msgstr "Zeichensatz"
+
+msgid "Table prefix"
+msgstr "Tabellenpräfix"
+
+msgid "OpenDocument Spreadsheet (ods)"
+msgstr "OpenDocument-Tabelle (ods)"
+
+msgid "Delete importer"
+msgstr "Importeur löschen"
+
+msgid "ready"
+msgstr "bereit"
+
+msgid "Task ready"
+msgstr "Aufgabe bereit"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "The user index #{index} has no source id."
+msgstr "Der Benutzerindex #{index} hat keine Quell-ID."
+
+msgid "To avoid a conflict, the user #{id} (\"{name}\") has a new id: #{newid}."
+msgstr "Um einen Konflikt zu vermeiden, hat der Benutzer #{id} (\"{name}\") eine neue ID: #{newid}."
+
+msgid "To avoid a conflict, the user #{id} (\"{name}\") has a new name: {newname}."
+msgstr "Um einen Konflikt zu vermeiden, hat der Benutzer #{id} (\"{name}\") einen neuen Namen: {newname}."
+
+msgid "The email \"{email}\" is not valid, so it was renamed to \"{email2}\"."
+msgstr "Die E-Mail-Adresse „{email}“ ist ungültig und wurde daher in „{email2}“ umbenannt."
+
+msgid "To avoid a conflict, the user #{id} (\"{name}\") has a new email: {email}\"."
+msgstr "Um einen Konflikt zu vermeiden, hat der Benutzer #{id} („{name}“) eine neue E-Mail: {email}“."
+
+msgid "The user #{id} (\"{name}\" / {email}) has an error: missing data."
+msgstr "Der Benutzer #{id} („{name}“ / {email}) hat einen Fehler: Daten fehlen."
+
+msgid "{count}/{total} resource \"{type}\" imported, {skipped} skipped."
+msgstr "{count}/{total} Ressource „{type}“ importiert, {skipped} übersprungen."
+
+msgid "The id #{id} was provided for entity\"{name}\", but the entity was not created early."
+msgstr "Die ID #{id} wurde für die Entität „{name}“ bereitgestellt, aber die Entität wurde nicht frühzeitig erstellt."
+
+msgid "User {email} has been created with name {name}."
+msgstr "Der Benutzer {email} wurde mit dem Namen {name} erstellt."
+
+msgid "The user name \"{username}\" is already attributed to user #{id}."
+msgstr "Der Benutzername „{username}“ ist bereits dem Benutzer #{id} zugeordnet."
+
+msgid "Preparation of {total} resources \"{type}\"."
+msgstr "Vorbereitung von {total} Ressourcen „{type}“."
+
+msgid "{total} resources \"{type}\" have been created."
+msgstr "{total} Ressourcen „{type}“ wurden erstellt."
+
+msgid "Skipped resource \"{type}\" #{source_id} existing or added in source."
+msgstr "Übersprungene Ressource „{type}“ #{source_id} vorhanden oder in der Quelle hinzugefügt."
+
+msgid "Asset {id} has no filename or no extension."
+msgstr "Asset {id} hat keinen Dateinamen oder keine Erweiterung."
+
+msgid "The process requires the missing modules {modules}. The following modules are already enabled: {enabled}."
+msgstr "Der Prozess erfordert die fehlenden Module {modules}.Die folgenden Module sind bereits aktiviert: {enabled}."
+
+msgid "The source is unavailable. Check params, rights or connection."
+msgstr "Die Quelle ist nicht verfügbar.Überprüfen Sie Parameter, Rechte oder Verbindung."
+
+msgid "Missing file \"{filepath}\" for the mapping of values."
+msgstr "Fehlende Datei „{filepath}“ für die Zuordnung von Werten."
+
+msgid "Totals of data existing and imported: {json}."
+msgstr "Gesamtzahl der vorhandenen und importierten Daten: {json}."
+
+msgid "json"
+msgstr "json"
+
+msgid "End of process. Note: errors can occur separately for each imported file."
+msgstr "Ende des Prozesses.Hinweis: Fehler können für jede importierte Datei separat auftreten."
+
+msgid "The job was stopped."
+msgstr "Der Job wurde gestoppt."
+
+msgid "Resource \"media\" cannot be imported without items."
+msgstr "Die Ressource „Medien“ kann nicht ohne Elemente importiert werden."
+
+msgid "Check integrity of assets."
+msgstr "Überprüfen Sie die Integrität der Vermögenswerte."
+
+msgid "Check integrity of resources."
+msgstr "Überprüfen Sie die Integrität der Ressourcen."
+
+msgid "Import of users."
+msgstr "Import von Benutzern."
+
+msgid "Check vocabularies."
+msgstr "Überprüfen Sie die Vokabeln."
+
+msgid "Preparation of properties."
+msgstr "Vorbereitung von Immobilien."
+
+msgid "Preparation of resource classes."
+msgstr "Vorbereitung von Ressourcenklassen."
+
+msgid "Check custom vocabs."
+msgstr "Überprüfen Sie benutzerdefinierte Vokabeln."
+
+msgid "Preparation of resource templates."
+msgstr "Vorbereitung von Ressourcenvorlagen."
+
+msgid "Initialization of all assets."
+msgstr "Initialisierung aller Vermögenswerte."
+
+msgid "Initialization of all resources."
+msgstr "Initialisierung aller Ressourcen."
+
+msgid "Finalization of users."
+msgstr "Finalisierung der Benutzer."
+
+msgid "Finalization of assets."
+msgstr "Finalisierung der Vermögenswerte."
+
+msgid "Preparation of metadata of all resources."
+msgstr "Aufbereitung der Metadaten aller Ressourcen."
+
+msgid "The resource template \"{label}\" is required to import {name}."
+msgstr "Zum Importieren von {name} ist die Ressourcenvorlage „{label}“ erforderlich."
+
+msgid "The resource class \"{label}\" is required to import {name}."
+msgstr "Zum Importieren von {name} ist die Ressourcenklasse „{label}“ erforderlich."
+
+msgid "The custom vocab\"{label}\" is required to import {name}."
+msgstr "Zum Importieren von {name} ist das benutzerdefinierte Vokabular „{label}“ erforderlich."
+
+msgid "The source \"{type}\" is skipped of the mapping or not managed, so resources cannot be prepared or filled."
+msgstr "Die Quelle „{type}“ wird bei der Zuordnung übersprungen oder nicht verwaltet, sodass Ressourcen nicht vorbereitet oder gefüllt werden können."
+
+msgid "Preparation of metadata of module Thesaurus."
+msgstr "Aufbereitung der Metadaten des Moduls Thesaurus."
+
+msgid "Preparation of metadata of module Statistics."
+msgstr "Aufbereitung der Metadaten des Moduls Statistik."
+
+msgid "Preparation of metadata of module Mapping."
+msgstr "Aufbereitung der Metadaten des Moduls Mapping."
+
+msgid "Mapping saved in \"{url}\"."
+msgstr "Zuordnung gespeichert in „{url}“."
+
+msgid "Running jobs for reindexation and finalization. Check next jobs in admin interface."
+msgstr "Ausführen von Jobs zur Neuindizierung und Finalisierung.Überprüfen Sie die nächsten Jobs in der Admin-Oberfläche."
+
+msgid "Assigning items to sites."
+msgstr "Elemente zu Standorten zuweisen."
+
+msgid "Items assigned to sites."
+msgstr "Den Sites zugewiesene Elemente."
+
+msgid "Deduplicating values."
+msgstr "Werte deduplizieren."
+
+msgid "Values deduplicated."
+msgstr "Werte dedupliziert."
+
+msgid "To deduplicate metadata, run the job \"Deduplicate values\" with module Bulk Edit."
+msgstr "Um Metadaten zu deduplizieren, führen Sie den Job „Werte deduplizieren“ mit dem Modul „Massenbearbeitung“ aus."
+
+msgid "Updating titles for all resources."
+msgstr "Titel für alle Ressourcen werden aktualisiert."
+
+msgid "Titles updated for all resources."
+msgstr "Titel für alle Ressourcen aktualisiert."
+
+msgid "Reindexing thesaurus."
+msgstr "Thesaurus neu indizieren."
+
+msgid "Thesaurus reindexed."
+msgstr "Thesaurus neu indiziert."
+
+msgid "Reindexing numeric data. It may take a while."
+msgstr "Numerische Daten neu indizieren.Es kann eine Weile dauern."
+
+msgid "Numeric data reindexed."
+msgstr "Numerische Daten neu indiziert."
+
+msgid "Reindexing \"{resources}\". It may take a while."
+msgstr "Neuindizierung von „{resources}“.Es kann eine Weile dauern."
+
+msgid "Reindexing full text search. It may take about some minutes to one hour."
+msgstr "Neuindizierung der Volltextsuche.Es kann einige Minuten bis eine Stunde dauern."
+
+msgid "Full text search reindexed."
+msgstr "Volltextsuche neu indiziert."
+
+msgid "Derivative files should be recreated with module Bulk Check."
+msgstr "Derivatdateien sollten mit dem Modul Bulk Check neu erstellt werden."
+
+msgid "No source set for {resource_name}."
+msgstr "Für {resource_name} ist keine Quelle festgelegt."
+
+msgid "{total} empty {type} are present in the database. Here are the first ones: {first}. Use module BulkCheck to check and fix them."
+msgstr "{total} empty {type} sind in der Datenbank vorhanden.Hier sind die ersten: {first}.Verwenden Sie das Modul BulkCheck, um sie zu überprüfen und zu beheben."
+
+msgid "{total} resources are present in the table \"resource\", but missing in the table \"{type}\" of the database. Here are the first ones: {first}. Use module BulkCheck to check and fix them."
+msgstr "{total} Ressourcen sind in der Tabelle „resource“ vorhanden, fehlen jedoch in der Tabelle „{type}“ der Datenbank.Hier sind die ersten: {first}.Verwenden Sie das Modul BulkCheck, um sie zu überprüfen und zu beheben."
+
+msgid "The operation \"{action}\" is not managed currently."
+msgstr "Der Vorgang „{action}“ wird derzeit nicht verwaltet."
+
+msgid "The operation \"{action}\" has no values to create resource."
+msgstr "Der Vorgang „{action}“ hat keine Werte zum Erstellen einer Ressource."
+
+msgid "The operation \"{action}\" requires a source."
+msgstr "Für den Vorgang „{action}“ ist eine Quelle erforderlich."
+
+msgid "The operation \"{action}\" requires a valid source: \"{term}\" does not exist."
+msgstr "Der Vorgang „{action}“ erfordert eine gültige Quelle: „{term}“ existiert nicht."
+
+msgid "The operation \"{action}\" requires a valid source identifier term: \"{term}\" does not exist."
+msgstr "Für den Vorgang „{action}“ ist ein gültiger Quell-ID-Begriff erforderlich: „{term}“ existiert nicht."
+
+msgid "The operation \"{action}\" requires a valid destination or no destination: \"{term}\" does not exist."
+msgstr "Der Vorgang „{action}“ erfordert ein gültiges Ziel oder kein Ziel: „{term}“ existiert nicht."
+
+msgid "The operation \"{action}\" requires a valid destination: \"{term}\" does not exist."
+msgstr "Der Vorgang „{action}“ erfordert ein gültiges Ziel: „{term}“ existiert nicht."
+
+msgid "The operation \"{action}\" specifies an invalid reciprocal property: \"{term}\"."
+msgstr "Die Operation „{action}“ gibt eine ungültige reziproke Eigenschaft an: „{term}“."
+
+msgid "The operation \"{action}\" requires a list of properties."
+msgstr "Die Operation „{action}“ erfordert eine Liste von Eigenschaften."
+
+msgid "The operation \"{action}\" has invalid properties: \"{terms}\"."
+msgstr "Der Vorgang „{action}“ hat ungültige Eigenschaften: „{terms}“."
+
+msgid "Operation \"{action}\": connection issue: {exception}"
+msgstr "Vorgang „{action}“: Verbindungsproblem: {Exception}"
+
+msgid "Operation \"{action}\": connection issue for uri {url}."
+msgstr "Vorgang „{action}“: Verbindungsproblem für uri {url}."
+
+msgid "Operation \"{action}\": no result for uri {url}."
+msgstr "Vorgang „{action}“: kein Ergebnis für uri {url}."
+
+msgid "Operation \"{action}\": invalid xml for uri {url}."
+msgstr "Vorgang „{action}“: ungültige XML-Datei für URI {url}."
+
+msgid "Operation \"{action}\": {count}/{total} uris processed, {succeed} with {total_data} new data."
+msgstr "Vorgang „{action}“: {count}/{total} Uris verarbeitet, {succeed} mit {total_data} neuen Daten."
+
+msgid "Operation \"{action}\": {total} uris processed, {succeed} with {total_data} new data."
+msgstr "Vorgang „{action}“: {total} uris verarbeitet, {succeed} mit {total_data} neuen Daten."
+
+msgid "The operation \"{action}\" has an invalid parameter"
+msgstr "Die Operation „{action}“ hat einen ungültigen Parameter"
+
+msgid "The operation \"{action}\" has not defined action to update values."
+msgstr "Für den Vorgang „{action}“ ist keine Aktion zum Aktualisieren von Werten definiert."
+
+msgid "The operation \"{action}\" requires two destinations currently."
+msgstr "Der Vorgang „{action}“ erfordert derzeit zwei Ziele."
+
+msgid "The operation \"{action}\" requires a separator."
+msgstr "Die Operation „{action}“ erfordert ein Trennzeichen."
+
+msgid "The operation \"{action}\" requires a source for data (value suggest data type)."
+msgstr "Die Operation „{action}“ erfordert eine Datenquelle (Wert schlägt Datentyp vor)."
+
+msgid "The operation \"{action}\" requires a value suggest data type as source for data."
+msgstr "Die Operation „{action}“ erfordert einen Wertvorschlagsdatentyp als Datenquelle."
+
+msgid "The operation \"{action}\" requires a list of properties to fill."
+msgstr "Die Operation „{action}“ erfordert das Ausfüllen einer Liste von Eigenschaften."
+
+msgid "Operation \"{action}\": The filter \"{name}\" is not managed to append a new value."
+msgstr "Vorgang „{action}“: Der Filter „{name}“ ist nicht in der Lage, einen neuen Wert anzuhängen."
+
+msgid "The operation \"{action}\" requires a data type."
+msgstr "Die Operation „{action}“ erfordert einen Datentyp."
+
+msgid "The operation \"{action}\" requires a valid data type (\"{type}\")."
+msgstr "Die Operation „{action}“ erfordert einen gültigen Datentyp („{type}“)."
+
+msgid "Operation \"{action}\": cannot convert into data type \"{type}\" for now."
+msgstr "Vorgang „{action}“: kann derzeit nicht in den Datentyp „{type}“ konvertiert werden."
+
+msgid "Operation \"{action}\": Convert datatype without mapping keys is not supported currently. You should use \"replace_table\"."
+msgstr "Operation „{action}“: Das Konvertieren von Datentypen ohne Zuordnungsschlüssel wird derzeit nicht unterstützt.Sie sollten „replace_table“ verwenden."
+
+msgid "Operation \"{action}\": cannot convert into data type \"{type}\" without mapping for now."
+msgstr "Vorgang „{action}“: Konvertierung in Datentyp „{type}“ ohne Zuordnung vorerst nicht möglich."
+
+msgid "Exclusion list \"{name}\" is empty."
+msgstr "Die Ausschlussliste „{name}“ ist leer."
+
+msgid "Operation \"{action}\": no mapping defined."
+msgstr "Operation „{action}“: keine Zuordnung definiert."
+
+msgid "Operation \"{action}\": no mapping or empty mapping in file \"{file}\"."
+msgstr "Vorgang „{action}“: keine Zuordnung oder leere Zuordnung in der Datei „{file}“."
+
+msgid "Operation \"{action}\": mapping requires two columns at least (file \"{file}\")."
+msgstr "Operation „{action}“: Für die Zuordnung sind mindestens zwei Spalten erforderlich (Datei „{file}“)."
+
+msgid "Operation \"{action}\": mapping requires a column \"source\" (file \"{file}\")."
+msgstr "Operation „{action}“: Für die Zuordnung ist eine Spalte „source“ (Datei „{file}“) erforderlich."
+
+msgid "Operation \"{action}\": a source is required (mapping file \"{file}\")."
+msgstr "Operation „{action}“: Es ist eine Quelle erforderlich (Mapping-Datei „{file}“)."
+
+msgid "Operation \"{action}\": a valid source is required: \"{term}\" does not exist (mapping file \"{file}\")."
+msgstr "Operation „{action}“: Eine gültige Quelle ist erforderlich: „{term}“ existiert nicht (Zuordnungsdatei „{file}“)."
+
+msgid "Operation \"{action}\": an invalid property is set to save source: \"{term}\" (mapping file \"{file}\")."
+msgstr "Vorgang „{action}“: Es wurde eine ungültige Eigenschaft zum Speichern der Quelle festgelegt: „{term}“ (Zuordnungsdatei „{file}“)."
+
+msgid "There are no mapped properties for destination: \"{terms}\" (mapping file \"{file}\")."
+msgstr "Es gibt keine zugeordneten Eigenschaften für das Ziel: „{terms}“ (Zuordnungsdatei „{file}“)."
+
+msgid "The source {term} is mapped with {count} properties: \"{terms}\" (mapping file \"{file}\")."
+msgstr "Die Quelle {term} wird mit {count}-Eigenschaften zugeordnet: „{terms}“ (Zuordnungsdatei „{file}“)."
+
+msgid "For \"{term}\", the value \"{value}\" is not a valid resource id."
+msgstr "Für „{term}“ ist der Wert „{value}“ keine gültige Ressourcen-ID."
+
+msgid "For term \"{term}\", value \"{value}\" is not an integer."
+msgstr "Für den Begriff „{term}“ ist der Wert „{value}“ keine ganze Zahl."
+
+msgid "For term \"{term}\", value \"{value}\" is not a valid iso 8601 date time."
+msgstr "Für den Begriff „{term}“ ist der Wert „{value}“ kein gültiges ISO 8601-Datum und Uhrzeit."
+
+msgid "For term \"{term}\", value \"{value}\" is not a valid iso 8601 date time interval, with a start point and a end point separated by a \"/\"."
+msgstr "Für den Begriff „{term}“ ist der Wert „{value}“ kein gültiges Datums-/Zeitintervall gemäß ISO 8601 mit einem Startpunkt und einem Endpunkt, die durch ein „/“ getrennt sind."
+
+msgid "For term \"{term}\", value \"{value}\" is invalid: the start date time should be before the end date time."
+msgstr "Für den Begriff „{term}“ ist der Wert „{value}“ ungültig: Die Startdatumszeit sollte vor der Enddatumszeit liegen."
+
+msgid "For term \"{term}\", value \"{value}\" is not a valid iso 8601 duration."
+msgstr "Für den Begriff „{term}“ ist der Wert „{value}“ keine gültige ISO-8601-Dauer."
+
+msgid "Operation \"{action}\": Process a table multi-replacement via file \"{file}\" for {count} data (first 10): {list}."
+msgstr "Operation „{action}“: Verarbeiten Sie eine Tabellenmehrfachersetzung über die Datei „{file}“ für {count} Daten (erste 10): {list}."
+
+msgid "Operation \"{action}\": Process a table simple replacement via file \"{file}\" for {count} data (first 10): {list}."
+msgstr "Operation „{action}“: Verarbeiten Sie eine einfache Tabellenersetzung über die Datei „{file}“ für {count} Daten (erste 10): {list}."
+
+msgid "The operation \"{action}\" requires a mapping of properties."
+msgstr "Die Operation „{action}“ erfordert eine Zuordnung von Eigenschaften."
+
+msgid "Operation \"{action}\": the list of properties is empty."
+msgstr "Operation „{action}“: Die Liste der Eigenschaften ist leer."
+
+msgid "Operation \"{action}\": Column should be \"value\", \"uri\" or \"value_resource_id\"."
+msgstr "Operation „{action}“: Die Spalte sollte „value“, „uri“ oder „value_resource_id“ sein."
+
+msgid "Operation \"{action}\": no value to map for terms \"{terms}\"."
+msgstr "Operation „{action}“: Kein Wert zum Zuordnen für die Begriffe „{terms}“."
+
+msgid "Operation \"{action}\": mapping {total} unique literal values for terms \"{terms}\"."
+msgstr "Operation „{action}“: Zuordnung von {total} eindeutigen Literalwerten für Begriffe „{terms}“."
+
+msgid "Operation \"{action}\": connection issue: skipping next requests for data type \"{type}\" (term {term})."
+msgstr "Vorgang „{action}“: Verbindungsproblem: Nächste Anfragen für Datentyp „{type}“ (Begriff {term}) werden übersprungen."
+
+msgid "Operation \"{action}\": {count}/{total} unique values for term \"{term}\" processed, {singles} values with a single uri."
+msgstr "Operation „{action}“: {count}/{total} eindeutige Werte für den Begriff „{term}“ verarbeitet, {singles} Werte mit einer einzelnen URI."
+
+msgid "Operation \"{action}\": {total} unique values for data type \"{type}\" (term \"{term}\") processed, {singles} new values updated with a single uri."
+msgstr "Vorgang „{action}“: {total} eindeutige Werte für Datentyp „{type}“ (Begriff „{term}“) verarbeitet, {singles} neue Werte mit einer einzelnen URI aktualisiert."
+
+msgid "The operation \"{action}\" requires a valid property to set templates: \"{term}\" does not exist."
+msgstr "Die Operation „{action}“ erfordert eine gültige Eigenschaft zum Festlegen von Vorlagen: „{term}“ existiert nicht."
+
+msgid "A list of templates is required to update templates."
+msgstr "Zum Aktualisieren von Vorlagen ist eine Liste von Vorlagen erforderlich."
+
+msgid "The operation \"{action}\" has invalid templates: \"{templates}\"."
+msgstr "Der Vorgang „{action}“ hat ungültige Vorlagen: „{templates}“."
+
+msgid "The operation \"{action}\" cannot create media currently."
+msgstr "Der Vorgang „{action}“ kann derzeit keine Medien erstellen."
+
+msgid "Connection issue: {exception}"
+msgstr "Verbindungsproblem: {Ausnahme}"
+
+msgid "Connection issue."
+msgstr "Verbindungsproblem."
+
+msgid "File \"{filename}\" cannot be created."
+msgstr "Datei „{filename}“ kann nicht erstellt werden."
+
+msgid "Unable to create output file."
+msgstr "Ausgabedatei kann nicht erstellt werden."
+
+msgid "The mapping spreadsheet for \"{name}\" is available in \"{url}\"."
+msgstr "Die Zuordnungstabelle für „{name}“ ist unter „{url}“ verfügbar."
+
+msgid "The mapping checking page for \"{name}\" is available in \"{url}\"."
+msgstr "Die Seite zur Zuordnungsprüfung für „{name}“ ist in „{url}“ verfügbar."
+
+msgid "The source item #{source_id} is not found for its mapping zone."
+msgstr "Das Quellelement #{source_id} wurde für seine Zuordnungszone nicht gefunden."
+
+msgid "The source item #{source_id} is not found for its mapping marker."
+msgstr "Das Quellelement #{source_id} wurde für seine Zuordnungsmarkierung nicht gefunden."
+
+msgid "The source media #{source_id} is not found for its mapping marker."
+msgstr "Das Quellmedium #{source_id} wurde für seine Zuordnungsmarkierung nicht gefunden."
+
+msgid "No resource templates importable from source."
+msgstr "Keine Ressourcenvorlagen aus der Quelle importierbar."
+
+msgid "Resource template \"{label}\" already exists."
+msgstr "Die Ressourcenvorlage „{label}“ ist bereits vorhanden."
+
+msgid "Resource template \"{old_label}\" has been renamed to \"{label}\"."
+msgstr "Die Ressourcenvorlage „{old_label}“ wurde in „{label}“ umbenannt."
+
+msgid "Unable to create resource template \"{label}\"."
+msgstr "Die Ressourcenvorlage „{label}“ konnte nicht erstellt werden."
+
+msgid "Resource template \"{label}\" has been created."
+msgstr "Die Ressourcenvorlage „{label}“ wurde erstellt."
+
+msgid "{total} resource templates ready, {created} created, {skipped} skipped."
+msgstr "{total} Ressourcenvorlagen bereit, {created} erstellt, {skipped} übersprungen."
+
+msgid "The main config file should be a php file."
+msgstr "Die Hauptkonfigurationsdatei sollte eine PHP-Datei sein."
+
+msgid "Missing config file \"{file}\" for the mappings."
+msgstr "Fehlende Konfigurationsdatei „{file}“ für die Zuordnungen."
+
+msgid "Unmanaged extension for file \"{filepath}\"."
+msgstr "Nicht verwaltete Erweiterung für die Datei „{filepath}“."
+
+msgid "An issue occurred when preparing file \"{filepath}\"."
+msgstr "Beim Vorbereiten der Datei „{filepath}“ ist ein Problem aufgetreten."
+
+msgid "The file \"{filepath}\" is empty."
+msgstr "Die Datei „{filepath}“ ist leer."
+
+msgid "File \"{filename}\" cannot be open."
+msgstr "Datei „{filename}“ kann nicht geöffnet werden."
+
+msgid "Unable to put content in a temp file."
+msgstr "Inhalte können nicht in eine temporäre Datei eingefügt werden."
+
+msgid "Resource \"{type}\" has too much records ({total})."
+msgstr "Ressource „{type}“ hat zu viele Datensätze ({total})."
+
+msgid "To import \"{source}\" with mode \"sql\", the sql requests or the mapping should be defined."
+msgstr "Um „{source}“ mit dem Modus „sql“ zu importieren, müssen die SQL-Anfragen oder das Mapping definiert werden."
+
+msgid "The hit #{index} has an error: missing data."
+msgstr "Der Treffer #{index} hat einen Fehler: fehlende Daten."
+
+msgid "Thesaurus %s (%s)"
+msgstr "Thesaurus %s (%s)"
+
+msgid "Item #{id} for scheme for thesaurus {name} is missing."
+msgstr "Element #{id} für Schema für Thesaurus {name} fehlt."
+
+msgid "Item set #{id} for thesaurus {name} is missing."
+msgstr "Elementsatz #{id} für Thesaurus {name} fehlt."
+
+msgid "Custom vocab #{id} for thesaurus {name} is missing."
+msgstr "Das benutzerdefinierte Vokabular #{id} für den Thesaurus {name} fehlt."
+
+msgid "The thesaurus \"{label}\" should be prepared first."
+msgstr "Zuerst sollte der Thesaurus „{label}“ vorbereitet werden."
+
+msgid "Preparation of thesaurus scheme \"{label}\" with {total} concepts."
+msgstr "Vorbereitung des Thesaurusschemas „{label}“ mit {total} Konzepten."
+
+msgid "No resource \"{type}\" available on the source."
+msgstr "In der Quelle ist keine Ressource „{type}“ verfügbar."
+
+msgid "{total} resources \"{type}\" have been created inside concept scheme #{item_id}."
+msgstr "{total} Ressourcen „{type}“ wurden im Konzeptschema #{item_id} erstellt."
+
+msgid "The broader concept #{identifier} of items #{item_id} (source {main} \"{source}\") was not found."
+msgstr "Das umfassendere Konzept #{identifier} der Elemente #{item_id} (Quelle {main} „{source}“) wurde nicht gefunden."
+
+msgid "The process will run action \"{action}\" with option \"{mode}\" for unindentified resources."
+msgstr "Der Prozess führt die Aktion „{action}“ mit der Option „{mode}“ für nicht identifizierte Ressourcen aus."
+
+msgid "The option to delete files (module File Sideload) is not fully supported currently. Check config of the module or use urls."
+msgstr "Die Option zum Löschen von Dateien (Modul File Sideload) wird derzeit nicht vollständig unterstützt.Überprüfen Sie die Konfiguration des Moduls oder verwenden Sie URLs."
+
+msgid "Action \"{action}\" is not managed."
+msgstr "Aktion „{action}“ wird nicht verwaltet."
+
+msgid "Action \"{action}\" for unidentified resource is not managed."
+msgstr "Aktion „{action}“ für nicht identifizierte Ressource wird nicht verwaltet."
+
+msgid "source index #{index}: Internal id cannot be found. The entry is skipped."
+msgstr "Quellindex #{index}: Interne ID konnte nicht gefunden werden.Der Eintrag wird übersprungen."
+
+msgid "The user \"{source}\" does not exist."
+msgstr "Der Benutzer „{source}“ existiert nicht."
+
+msgid "The action \"{action}\" cannot have an id or a duplicate identifier ({identifier}, #{resource_id})."
+msgstr "Die Aktion „{action}“ darf keine ID oder doppelte Kennung ({identifier}, #{resource_id}) haben."
+
+msgid "The action \"{action}\" requires a unique identifier ({identifier}, #{resource_id})."
+msgstr "Die Aktion „{action}“ erfordert eine eindeutige Kennung ({identifier}, #{resource_id})."
+
+msgid "The action \"{action}\" requires an identifier ({identifier})."
+msgstr "Die Aktion „{action}“ erfordert einen Bezeichner ({identifier})."
+
+msgid "The action \"{action}\" requires a unique identifier ({identifier})."
+msgstr "Die Aktion „{action}“ erfordert eine eindeutige Kennung ({identifier})."
+
+msgid "User has no rights to \"{action}\" {resource_name}."
+msgstr "Der Benutzer hat keine Rechte an „{action}“ {resource_name}."
+
+msgid "User has no rights to \"{action}\" {resource_name} {resource_id}."
+msgstr "Der Benutzer hat keine Rechte an „{action}“ {resource_name} {resource_id}."
+
+msgid "Initialization exception: {exception}"
+msgstr "Initialisierungsausnahme: {Exception}"
+
+msgid "Validation exception: {exception}"
+msgstr "Validierungsausnahme: {Exception}"
+
+msgid "Cannot fetch url \"{url}\". The url is skipped."
+msgstr "URL „{url}“ kann nicht abgerufen werden.Die URL wird übersprungen."
+
+msgid "Cannot fetch file \"{file}\". The file is skipped."
+msgstr "Die Datei „{file}“ kann nicht abgerufen werden.Die Datei wird übersprungen."
+
+msgid "Cannot fetch directory \"{file}\". The file is skipped."
+msgstr "Verzeichnis „{file}“ kann nicht abgerufen werden.Die Datei wird übersprungen."
+
+msgid "The resource id #{id} cannot be checked: the resource type is undefined."
+msgstr "Die Ressourcen-ID #{id} kann nicht überprüft werden: Der Ressourcentyp ist undefiniert."
+
+msgid "The id #{id} of this resource doesn’t exist."
+msgstr "Die ID #{id} dieser Ressource existiert nicht."
+
+msgid "The resource id cannot be filled: the resource type is undefined."
+msgstr "Die Ressourcen-ID kann nicht ausgefüllt werden: Der Ressourcentyp ist undefiniert."
+
+msgid "The resource has no identifier."
+msgstr "Die Ressource hat keine Kennung."
+
+msgid "The resource id cannot be filled: no metadata defined as identifier and duplicate identifiers are not allowed."
+msgstr "Die Ressourcen-ID kann nicht ausgefüllt werden: Es sind keine Metadaten als Bezeichner definiert und doppelte Bezeichner sind nicht zulässig."
+
+msgid "Resource doesn’t have a unique identifier. You may check options for resource identifiers."
+msgstr "Die Ressource hat keine eindeutige Kennung.Sie können Optionen für Ressourcen-IDs überprüfen."
+
+msgid "Duplicate identifiers are not allowed. You may check options for resource identifiers."
+msgstr "Doppelte Bezeichner sind nicht zulässig.Sie können Optionen für Ressourcen-IDs überprüfen."
+
+msgid "Error during validation of the data before creation."
+msgstr "Fehler bei der Validierung der Daten vor der Erstellung."
+
+msgid "Core error during creation: {exception}"
+msgstr "Kernfehler bei der Erstellung: {Exception}"
+
+msgid "Index #{index}: Created media #{media_id} (item #{item_id})"
+msgstr "Index #{index}: Erstelltes Medium #{media_id} (Element #{item_id})"
+
+msgid "Index #{index}: Created {resource_name} #{resource_id}"
+msgstr "Index #{index}: Erstellt {resource_name} #{resource_id}"
+
+msgid "Index #{index}: The {resource_name} has no id and cannot be updated."
+msgstr "Index #{index}: Der {resource_name} hat keine ID und kann nicht aktualisiert werden."
+
+msgid "The resource id #\"{id}\" has no resource name."
+msgstr "Die Ressourcen-ID #\"{id}\" hat keinen Ressourcennamen."
+
+msgid "Error during validation of the data before update."
+msgstr "Fehler bei der Validierung der Daten vor dem Update."
+
+msgid "Core error during update: {exception}"
+msgstr "Kernfehler beim Update: {Exception}"
+
+msgid "Unknown error occured during update."
+msgstr "Beim Update ist ein unbekannter Fehler aufgetreten."
+
+msgid "Index #{index}: Updated {resource_name} #{resource_id}"
+msgstr "Index #{index}: Aktualisiert {resource_name} #{resource_id}"
+
+msgid "Index #{index}: The {resource_name} has no id and cannot be deleted."
+msgstr "Index #{index}: Der {resource_name} hat keine ID und kann nicht gelöscht werden."
+
+msgid "Error during validation of the data before deletion."
+msgstr "Fehler bei der Validierung der Daten vor dem Löschen."
+
+msgid "Core error during deletion: {exception}"
+msgstr "Kernfehler beim Löschen: {Exception}"
+
+msgid "Index #{index}: Deleted {resource_name} #{resource_id}"
+msgstr "Index #{index}: Gelöscht {resource_name} #{resource_id}"
+
+msgid "No source or no default values: they are needed to create empty entities."
+msgstr "Keine Quelle oder keine Standardwerte: Sie werden zum Erstellen leerer Entitäten benötigt."
+
+msgid "No ids mapped to create \"{source}\"."
+msgstr "Für die Erstellung von „{source}“ sind keine IDs zugeordnet."
+
+msgid "Ids are not numeric for \"{source}\"."
+msgstr "IDs sind für „{source}“ nicht numerisch."
+
+msgid "The main source type is not fully defined for \"{source}\"."
+msgstr "Der Hauptquellentyp ist für „{source}“ nicht vollständig definiert."
+
+msgid "No table for source \"{source}\"."
+msgstr "Keine Tabelle für Quelle „{source}“."
+
+msgid "There is a conflict in the unique id for source \"{source}\"."
+msgstr "Es besteht ein Konflikt in der eindeutigen ID für die Quelle „{source}“."
+
+msgid "No empty entity for source \"{source}\" can be created: no column."
+msgstr "Für die Quelle „{source}“ kann keine leere Entität erstellt werden: keine Spalte."
+
+msgid "No entities were created for source \"{source}\"."
+msgstr "Für die Quelle „{source}“ wurden keine Entitäten erstellt."
+
+msgid "Some entities were not created for source \"{source}\"."
+msgstr "Einige Entitäten wurden nicht für die Quelle „{source}“ erstellt."
+
+msgid "To import \"{source}\", the Omeka database user should be able to read the source database directly, so run this query or a similar one with a database admin user: \"{sql}\"."
+msgstr "Um „{source}“ zu importieren, sollte der Omeka-Datenbankbenutzer in der Lage sein, die Quelldatenbank direkt zu lesen. Führen Sie daher diese oder eine ähnliche Abfrage mit einem Datenbankadministratorbenutzer aus: „{sql}“."
+
+msgid "The Omeka database user should be able to read the source database directly, so run this query or a similar one with a database admin user: \"{sql}\"."
+msgstr "Der Omeka-Datenbankbenutzer sollte in der Lage sein, die Quelldatenbank direkt zu lesen. Führen Sie daher diese oder eine ähnliche Abfrage mit einem Datenbankadministratorbenutzer aus: „{sql}“."
+
+msgid "In some cases, the grants should be given to the omeka database user too."
+msgstr "In manchen Fällen sollten die Zuschüsse auch dem Omeka-Datenbankbenutzer gewährt werden."
+
+msgid "Source index #{index}: Storage id cannot be found. The entry is skipped."
+msgstr "Quellindex #{index}: Speicher-ID konnte nicht gefunden werden.Der Eintrag wird übersprungen."
+
+msgid "The media type \"{media_type}\" is not valid."
+msgstr "Der Medientyp „{media_type}“ ist ungültig."
+
+msgid "The value \"{value}\" is not a resource (field \"{field}\")."
+msgstr "Der Wert „{value}“ ist keine Ressource (Feld „{field}“)."
+
+msgid "Index #{index}: The resource {resource} #{id} is not available and cannot be updated."
+msgstr "Index #{index}: Die Ressource {resource} #{id} ist nicht verfügbar und kann nicht aktualisiert werden."
+
+msgid "The resource #{resource_id} for asset #{asset_id} does not exist and cannot be updated."
+msgstr "Die Ressource #{resource_id} für Asset #{asset_id} existiert nicht und kann nicht aktualisiert werden."
+
+msgid "There is no key identifier for \"{source}\"."
+msgstr "Es gibt keine Schlüsselkennung für „{source}“."
+
+msgid "There is no \"{source}\"."
+msgstr "Es gibt kein „{source}“."
+
+msgid "Preparation of {total} resources \"{source}\"."
+msgstr "Vorbereitung von {total} Ressourcen „{source}“."
+
+msgid "No resource \"{source}\" available on the source."
+msgstr "Für die Quelle ist keine Ressource „{source}“ verfügbar."
+
+msgid "Media cannot be imported without items currently."
+msgstr "Medien können derzeit nicht ohne Elemente importiert werden."
+
+msgid "{total} resources \"{source}\" have been created."
+msgstr "{total} Ressourcen „{source}“ wurden erstellt."
+
+msgid "Media item ids are required to create media resources."
+msgstr "Zum Erstellen von Medienressourcen sind Medienelement-IDs erforderlich."
+
+msgid "Skipped resource \"{source}\" #{source_id} added in source."
+msgstr "Übersprungene Ressource „{source}“ #{source_id} in Quelle hinzugefügt."
+
+msgid "Unknown resource \"{source}\" #{source_id}. Probably removed during by another user."
+msgstr "Unbekannte Ressource „{source}“ #{source_id}.Wahrscheinlich von einem anderen Benutzer entfernt."
+
+msgid "{count}/{total} resource \"{source}\" imported, {skipped} skipped, {excluded} excluded."
+msgstr "{count}/{total} Ressource „{source}“ importiert, {skipped} übersprungen, {excluded} ausgeschlossen."
+
+msgid "The total {total} of resources \"{source}\" is not the same than the count {count}."
+msgstr "Die Gesamtzahl {total} der Ressourcen „{source}“ stimmt nicht mit der Anzahl {count} überein."
+
+msgid "Resource class for resource #{id} (source #{source_id}) is not available."
+msgstr "Die Ressourcenklasse für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Resource template for resource #{id} (source #{source_id}) is not available."
+msgstr "Die Ressourcenvorlage für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Specific thumbnail for resource #{id} (source #{source_id}) is not available."
+msgstr "Spezifische Miniaturansicht für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Value of resource \"{source}\" #{id} with data type {datatype} is not managed and skipped."
+msgstr "Der Wert der Ressource „{source}“ #{id} mit dem Datentyp {datatype} wird nicht verwaltet und übersprungen."
+
+msgid "Value of resource \"{source}\" #{id} with data type {datatype} was changed to literal."
+msgstr "Der Wert der Ressource „{source}“ #{id} mit dem Datentyp {datatype} wurde in Literal geändert."
+
+msgid "It’s recommended to install module {module}."
+msgstr "Es wird empfohlen, das Modul {module} zu installieren."
+
+msgid "Value of resource \"{source}\" #{id} with linked resource for term {term} is not found."
+msgstr "Der Wert der Ressource „{source}“ #{id} mit der verknüpften Ressource für den Begriff „{term}“ wurde nicht gefunden."
+
+msgid "Media type of media #{id} is different from the original one ({media_type})."
+msgstr "Der Medientyp des Mediums #{id} unterscheidet sich vom Original ({media_type})."
+
+msgid "Hash of media #{id} is different from the original one."
+msgstr "Der Hash des Mediums #{id} unterscheidet sich vom Original."
+
+msgid "Resource class (source class id: {original_id}) for resource #{id} (source #{source_id}) is not available."
+msgstr "Die Ressourcenklasse (Quellklassen-ID: {original_id}) für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Resource template (source template id: {original_id}) for resource #{id} (source #{source_id}) is not available."
+msgstr "Die Ressourcenvorlage (Quellvorlagen-ID: {original_id}) für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Thumbnail (source thumbnail id: {original_id}) for resource #{id} (source #{source_id}) is not available."
+msgstr "Miniaturbild (Quellen-Miniaturbild-ID: {original_id}) für Ressource #{id} (Quelle #{source_id}) ist nicht verfügbar."
+
+msgid "Value with datatype \"{type}\" for resource #{id} is changed to \"literal\"."
+msgstr "Wert mit Datentyp „{type}“ für Ressource #{id} wird in „literal“ geändert."
+
+msgid "create"
+msgstr "erstellen"
+
+msgid "append"
+msgstr "anhängen"
+
+msgid "revise"
+msgstr "überarbeiten"
+
+msgid "update"
+msgstr "aktualisieren"
+
+msgid "replace"
+msgstr "ersetzen"
+
+msgid "delete"
+msgstr "löschen"
+
+msgid "skip"
+msgstr "überspringen"
+
+msgid "Mixed resources"
+msgstr "Gemischte Ressourcen"
+
+msgid "Action \"{action}\" for identifier is not managed."
+msgstr "Die Aktion „{action}“ für die Kennung wird nicht verwaltet."
+
+msgid "Action \"{action}\" for media (update of item) is not managed."
+msgstr "Aktion „{action}“ für Medien (Aktualisierung des Elements) wird nicht verwaltet."
+
+msgid "Action \"{action}\" for item set (update of item) is not managed."
+msgstr "Aktion „{action}“ für Elementsatz (Aktualisierung des Elements) wird nicht verwaltet."
+
+msgid "The resource template \"{source}\" does not exist."
+msgstr "Die Ressourcenvorlage „{source}“ existiert nicht."
+
+msgid "The resource class \"{source}\" does not exist."
+msgstr "Die Ressourcenklasse „{source}“ existiert nicht."
+
+msgid "The thumbnail \"{source}\" does not exist or cannot be created."
+msgstr "Die Miniaturansicht „{source}“ existiert nicht oder kann nicht erstellt werden."
+
+msgid "The item set #{item_set_id} does not exist."
+msgstr "Der Artikelsatz #{item_set_id} existiert nicht."
+
+msgid "The value \"{value}\" is not an item set."
+msgstr "Der Wert „{value}“ ist kein Elementsatz."
+
+msgid "The mapping bounds requires four numeric values separated by a comma. Incorrect value: {value}"
+msgstr "Für die Zuordnungsgrenzen sind vier numerische Werte erforderlich, die durch ein Komma getrennt sind.Falscher Wert: {value}"
+
+msgid "The mapping marker requires a latitude and a longitude separated by a \"/\". Incorrect value: {value}"
+msgstr "Der Mapping-Marker erfordert einen Breiten- und einen Längengrad, getrennt durch ein „/“.Falscher Wert: {value}"
+
+msgid "Media with metadata \"{field}\" \"{identifier}\" cannot be found. The entry is skipped."
+msgstr "Medien mit Metadaten „{field}“ „{identifier}“ wurden nicht gefunden.Der Eintrag wird übersprungen."
+
+msgid "The item #{item_id} does not exist."
+msgstr "Der Artikel #{item_id} existiert nicht."
+
+msgid "The value \"{value}\" is not an item."
+msgstr "Der Wert „{value}“ ist kein Element."
+
+msgid "The value \"{value}\" for property \"{term}\" is not compatible with datatypes \"{datatypes}\". Try to create the resource first. Data type \"literal\" is used."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist nicht kompatibel mit den Datentypen „{datatypes}“.Versuchen Sie zunächst, die Ressource zu erstellen.Es wird der Datentyp „Literal“ verwendet."
+
+msgid "The value \"{value}\" for property \"{term}\" is not compatible with datatypes \"{datatypes}\". Data type \"literal\" is used."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist nicht kompatibel mit den Datentypen „{datatypes}“.Es wird der Datentyp „Literal“ verwendet."
+
+msgid "The value \"{value}\" for property \"{term}\" is not compatible with datatypes \"{datatypes}\". Try to create resource first. Or try to add \"literal\" to datatypes or default to it."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist nicht kompatibel mit den Datentypen „{datatypes}“.Versuchen Sie zunächst, eine Ressource zu erstellen.Oder versuchen Sie, „Literal“ zu Datentypen hinzuzufügen oder es standardmäßig zu verwenden."
+
+msgid "The value \"{value}\" for property \"{term}\" is not compatible with datatypes \"{datatypes}\". Try to add \"literal\" to datatypes or default to it."
+msgstr "Der Wert „{value}“ für die Eigenschaft „{term}“ ist nicht kompatibel mit den Datentypen „{datatypes}“.Versuchen Sie, „Literal“ zu Datentypen hinzuzufügen oder es standardmäßig zu verwenden."
+
+msgid "No resource type set."
+msgstr "Kein Ressourcentyp festgelegt."
+
+msgid "The resource type \"{resource_name}\" is not managed."
+msgstr "Der Ressourcentyp „{resource_name}“ wird nicht verwaltet."
+
+msgid "o:media"
+msgstr "o:Medien"
+
+msgid "No item is set for the media."
+msgstr "Für das Medium ist kein Element festgelegt."
+
+msgid "Eprints"
+msgstr "Eprints"
+
+msgid "Even if no issues were found during tests, it is recommenced to run this importer on a database without resources."
+msgstr "Auch wenn während der Tests keine Probleme festgestellt wurden, wird empfohlen, diesen Importer in einer Datenbank ohne Ressourcen auszuführen."
+
+msgid "Deleted eprints resources are not imported."
+msgstr "Gelöschte eprints-Ressourcen werden nicht importiert."
+
+msgid "The job cannot be restarted."
+msgstr "Der Job kann nicht neu gestartet werden."
+
+msgid "The job cannot be restarted. Restart import from the beginning."
+msgstr "Der Job kann nicht neu gestartet werden.Starten Sie den Import erneut von Anfang an."
+
+msgid "Copying {total} tables from the source."
+msgstr "Kopieren von {total} Tabellen aus der Quelle."
+
+msgid "Unable to copy source table \"{table}\"."
+msgstr "Die Quelltabelle „{table}“ konnte nicht kopiert werden."
+
+msgid "Preparation of related resources (authors, issues, etc.)."
+msgstr "Vorbereitung verwandter Ressourcen (Autoren, Ausgaben usw.)."
+
+msgid "Preparation of related resources \"{name}\"."
+msgstr "Vorbereitung verwandter Ressourcen „{name}“."
+
+msgid "Preparation of related resources \"{name}\": the table is empty."
+msgstr "Vorbereitung der zugehörigen Ressourcen „{name}“: Die Tabelle ist leer."
+
+msgid "To manage multi keys for source \"{source}\", the identifier should be an array."
+msgstr "Um mehrere Schlüssel für die Quelle „{source}“ zu verwalten, sollte der Bezeichner ein Array sein."
+
+msgid "{count} resource \"{source}\" prepared."
+msgstr "{count} Ressource „{source}“ vorbereitet."
+
+msgid "Creation of a total of {total} resources \"{source}\"."
+msgstr "Erstellung von insgesamt {total} Ressourcen „{source}“."
+
+msgid "No resource template for {resource_template}."
+msgstr "Keine Ressourcenvorlage für {resource_template}."
+
+msgid "No resource class for {resource_class}."
+msgstr "Keine Ressourcenklasse für {resource_class}."
+
+msgid "The date type \"{type}\" is not mapped."
+msgstr "Der Datumstyp „{type}“ ist nicht zugeordnet."
+
+msgid "Attachment of \"{source}\" to items is currently not managed."
+msgstr "Der Anhang von „{source}“ zu Elementen wird derzeit nicht verwaltet."
+
+msgid "The \"{source}\" #\"{id}\" has not yet been imported as a resource."
+msgstr "Die „{source}“ #“{id}“ wurde noch nicht als Ressource importiert."
+
+msgid "There is no item key identifier for media source #{index}."
+msgstr "Für die Medienquelle #{index} gibt es keine Elementschlüssel-ID."
+
+msgid "The item source #{indexitem} for media source #{index} does not exist."
+msgstr "Die Elementquelle #{indexitem} für die Medienquelle #{index} existiert nicht."
+
+msgid "File \"{filename}\" is not available: {error}."
+msgstr "Datei „{filename}“ ist nicht verfügbar: {error}."
+
+msgid "File \"{file}\" cannot be fetched."
+msgstr "Datei „{file}“ kann nicht abgerufen werden."
+
+msgid "Finalization of related resources (authors, issues, etc.)."
+msgstr "Finalisierung verwandter Ressourcen (Autoren, Ausgaben usw.)."
+
+msgid "Finalization of related resources \"{source}\". No table provided."
+msgstr "Fertigstellung der zugehörigen Ressourcen „{source}“.Kein Tisch vorhanden."
+
+msgid "Finalization of related resources \"{name}\": No resources."
+msgstr "Finalisierung der zugehörigen Ressourcen „{name}“: Keine Ressourcen."
+
+msgid "Finalization of related resources \"{name}\"."
+msgstr "Fertigstellung der zugehörigen Ressourcen „{name}“."
+
+msgid "Import of contact messages."
+msgstr "Import von Kontaktnachrichten."
+
+msgid "Import of search requests."
+msgstr "Import von Suchanfragen."
+
+msgid "No destination id for the concept \"{source}\"."
+msgstr "Keine Ziel-ID für das Konzept „{source}“."
+
+msgid "No root scheme for concept source \"{source}\"."
+msgstr "Kein Root-Schema für Konzeptquelle „{source}“."
+
+msgid "The scheme item set is missing for scheme {name}."
+msgstr "Der Schemaelementsatz für Schema {name} fehlt."
+
+msgid "To manage multikeys for source \"{source}\", the identifier should be an array."
+msgstr "Um Multikeys für die Quelle „{source}“ zu verwalten, sollte der Bezeichner ein Array sein."
+
+msgid "Unknown resource \"{source}\" #{source_id}. Probably removed during process by another user."
+msgstr "Unbekannte Ressource „{source}“ #{source_id}.Wahrscheinlich während des Vorgangs von einem anderen Benutzer entfernt."
+
+msgid "{total} \"{source}\" have been imported."
+msgstr "{total} „{source}“ wurden importiert."
+
+msgid "No custom vocabs importable from source."
+msgstr "Es können keine benutzerdefinierten Vokabeln aus der Quelle importiert werden."
+
+msgid "The custom vocab \"{label}\" exists with the same keywords and is reused."
+msgstr "Das benutzerdefinierte Vokabular „{label}“ existiert mit denselben Schlüsselwörtern und wird wiederverwendet."
+
+msgid "Custom vocab \"{old_label}\" has been renamed to \"{label}\"."
+msgstr "Das benutzerdefinierte Vokabular „{old_label}“ wurde in „{label}“ umbenannt."
+
+msgid "Unable to create custom vocab \"{label}\"."
+msgstr "Das benutzerdefinierte Vokabular „{label}“ kann nicht erstellt werden."
+
+msgid "Custom vocab {label} has been created."
+msgstr "Das benutzerdefinierte Vokabular {label} wurde erstellt."
+
+msgid "{total} custom vocabs ready, {created} created, {skipped} skipped."
+msgstr "{total} benutzerdefinierte Vokabeln bereit, {created} erstellt, {skipped} übersprungen."
+
+msgid "Vocabulary \"{prefix}\" exists as vocabulary #{vocabulary_id}, but the prefix is not the same (\"{prefix_2}\")."
+msgstr "Das Vokabular „{prefix}“ existiert als Vokabular #{vocabulary_id}, aber das Präfix ist nicht dasselbe („{prefix_2}“)."
+
+msgid "Check properties for prefix \"{prefix}\"."
+msgstr "Überprüfen Sie die Eigenschaften auf das Präfix „{prefix}“."
+
+msgid "Vocabulary prefix {prefix} is used so the imported one is renamed."
+msgstr "Das Vokabularpräfix {prefix} wird verwendet, sodass das importierte umbenannt wird."
+
+msgid "The properties are different for the {prefix}."
+msgstr "Die Eigenschaften sind für das {Präfix} unterschiedlich."
+
+msgid "Vocabulary {prefix} has been created."
+msgstr "Vokabular {Präfix} wurde erstellt."
+
+msgid "{total} vocabularies ready, {created} created."
+msgstr "{total} Vokabeln bereit, {created} erstellt."
+
+msgid "The vocabulary of the {member} {term} does not exist."
+msgstr "Das Vokabular des {member} {term} existiert nicht."
+
+msgid "Unable to find vocabulary for {member} {term}."
+msgstr "Für {member} {term} konnte kein Vokabular gefunden werden."
+
+msgid "Unable to create {member} {term}."
+msgstr "{member} {term} konnte nicht erstellt werden."
+
+msgid "{count}/{total} vocabulary {member} imported, {existing} existing, {skipped} skipped."
+msgstr "{count}/{total} Vokabular {member} importiert, {existing} vorhanden, {skipped} übersprungen."
+
+msgid "Vocabulary {member} {term} has been created."
+msgstr "Der Wortschatz {member} {term} wurde erstellt."
+
+msgid "Unable to find {member} {term}."
+msgstr "{member} {term} konnte nicht gefunden werden."
+
+msgid "{count} values were not valid dates and were converted into literal."
+msgstr "{count}-Werte waren keine gültigen Datumsangaben und wurden in Literale umgewandelt."
+
+msgid "Here are the first invalid dates: {list}."
+msgstr "Hier sind die ersten ungültigen Daten: {list}."
+
+msgid "Unable to import a linked resource via xml currently."
+msgstr "Der Import einer verknüpften Ressource über XML ist derzeit nicht möglich."
+
+msgid "Modification forbidden"
+msgstr "Änderung verboten"
+
+msgid "Value of class \"%s\" cannot be converted to string."
+msgstr "Der Wert der Klasse „%s“ kann nicht in eine Zeichenfolge konvertiert werden."
+
+msgid "No sub-ingester specified"
+msgstr "Kein Sub-Inger angegeben"
+
+msgid "The file is not preloaded."
+msgstr "Die Datei ist nicht vorinstalliert."
+
+msgid "The file is not a temp file."
+msgstr "Die Datei ist keine temporäre Datei."
+
+msgid "Url \"{url}\" is invalid, empty or unavailable."
+msgstr "URL „{url}“ ist ungültig, leer oder nicht verfügbar."
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "The filepath is missing. Restart import if you reload the form twice."
+msgstr "Der Dateipfad fehlt.Starten Sie den Import neu, wenn Sie das Formular zweimal neu laden."
+
+msgid "File has no available fields."
+msgstr "Für die Datei sind keine Felder verfügbar."
+
+msgid "XML"
+msgstr "XML"
+
+msgid "Xslt filepath \"{filename}\" is invalid: it should be a real path."
+msgstr "Der XSLT-Dateipfad „{Dateiname}“ ist ungültig: Es sollte ein echter Pfad sein."
+
+msgid "Xslt filepath \"{filename}\" is invalid: it should be a relative path from Omeka root or directory \"files/xsl\"."
+msgstr "Der XSLT-Dateipfad „{Dateiname}“ ist ungültig: Es sollte ein relativer Pfad vom Omeka-Stammverzeichnis oder dem Verzeichnis „files/xsl“ sein."
+
+msgid "Xsl config #{mapping_id} is unavailable."
+msgstr "Die XSL-Konfiguration #{mapping_id} ist nicht verfügbar."
+
+msgid "Xsl config \"{name}\" is invalid."
+msgstr "Die XSL-Konfiguration „{name}“ ist ungültig."
+
+msgid "No output."
+msgstr "Keine Ausgabe."
+
+msgid "The file \"{filename}\" to import is not well formed: {message} (line #{line})."
+msgstr "Die zu importierende Datei „{filename}“ ist nicht wohlgeformt: {message} (Zeile #{line})."
+
+msgid "This reader requires a file or a url."
+msgstr "Dieser Reader benötigt eine Datei oder eine URL."
+
+msgid "TSV (tab-separated values)"
+msgstr "TSV (durch Tabulatoren getrennte Werte)"
+
+msgid "It is useless to import Omeka S itself. Check your endpoint."
+msgstr "Es ist sinnlos, Omeka S selbst zu importieren.Überprüfen Sie Ihren Endpunkt."
+
+msgid "Unable to fetch data for the page {page}: {error}."
+msgstr "Daten für die Seite {Seite} konnten nicht abgerufen werden: {Fehler}."
+
+msgid "Unable to fetch data for the page {page}."
+msgstr "Daten für die Seite {page} konnten nicht abgerufen werden."
+
+msgid "Header Link not found in response."
+msgstr "Header-Link als Antwort nicht gefunden."
+
+msgid "No links in http header."
+msgstr "Keine Links im http-Header."
+
+msgid "First page cannot be greater to last page."
+msgstr "Die erste Seite darf nicht größer als die letzte Seite sein."
+
+msgid "File \"{fileurl}\" is not available."
+msgstr "Datei „{fileurl}“ ist nicht verfügbar."
+
+msgid "File \"{fileurl}\" is empty."
+msgstr "Datei „{fileurl}“ ist leer."
+
+msgid "Content-type \"{content_type}\" or charset \"{charset}\" is invalid for url \"{url}\"."
+msgstr "Der Inhaltstyp „{content_type}“ oder der Zeichensatz „{charset}“ ist für die URL „{url}“ ungültig."
+
+msgid "Unable to fetch data for the page {page}, url \"{url}\"."
+msgstr "Daten für die Seite {page}, URL „{url}“ konnten nicht abgerufen werden."
+
+msgid "Unable to fetch data for the page {page} (url \"{url}\"): {error}."
+msgstr "Es konnten keine Daten für die Seite {page} (URL „{url}“) abgerufen werden: {error}."
+
+msgid "The database seems empty: there is no data in a core table."
+msgstr "Die Datenbank scheint leer zu sein: Es gibt keine Daten in einer Kerntabelle."
+
+msgid "The database should be on the same server to allow direct access by the main database user."
+msgstr "Die Datenbank sollte sich auf demselben Server befinden, um den direkten Zugriff durch den Hauptbenutzer der Datenbank zu ermöglichen."
+
+msgid "The database seems empty: there is no data in a core table. You may add Grant Select to this database for the main database user."
+msgstr "Die Datenbank scheint leer zu sein: Es gibt keine Daten in einer Kerntabelle.Sie können Grant Select für den Hauptdatenbankbenutzer zu dieser Datenbank hinzufügen."
+
+msgid "Unable to check grants of a user."
+msgstr "Die Berechtigungen eines Benutzers können nicht überprüft werden."
+
+msgid "Unable to read all values for object type \"{table}\": {exception}"
+msgstr "Es können nicht alle Werte für den Objekttyp „{table}“ gelesen werden: {Exception}"
+
+msgid "Unable to read data for object type \"{table}\", page: {exception}"
+msgstr "Daten für Objekttyp „{table}“ können nicht gelesen werden, Seite: {Exception}"
+
+msgid "Unable to read data for object type \"{table}\": {exception}"
+msgstr "Daten für Objekttyp „{table}“ können nicht gelesen werden: {Exception}"
+
+msgid "Unable to read data for object type \"{table}\"."
+msgstr "Daten für Objekttyp „{table}“ können nicht gelesen werden."
+
+msgid "OpenDocument Spreadsheet"
+msgstr "OpenDocument-Tabelle"
+
+msgid "To process import of \"{label}\", the php extension \"{extension}\" is required."
+msgstr "Um den Import von „{label}“ zu verarbeiten, ist die PHP-Erweiterung „{extension}“ erforderlich."
+
+msgid "The file cannot be open: restart the import if you uploaded a file manually."
+msgstr "Die Datei kann nicht geöffnet werden: Starten Sie den Import neu, wenn Sie eine Datei manuell hochgeladen haben."
+
+msgid "No sheet."
+msgstr "Kein Blatt."
+
+msgid "Spreadsheet"
+msgstr "Kalkulationstabelle"
+
+msgid "There is a file \"{filename}\", but no filepath. Check if you reloaded the form."
+msgstr "Es gibt eine Datei „{filename}“, aber keinen Dateipfad.Überprüfen Sie, ob Sie das Formular neu geladen haben."
+
+msgid "File \"{filename}\" is not fully utf-8."
+msgstr "Datei „{filename}“ ist nicht vollständig utf-8."
+
+msgid "Fake reader"
+msgstr "Falscher Leser"
+
+msgid "o:label"
+msgstr "o:Label"
+
+msgid "Mapping successfully saved"
+msgstr "Zuordnung erfolgreich gespeichert"
+
+msgid "Save of mapping failed"
+msgstr "Das Speichern der Zuordnung ist fehlgeschlagen"
+
+msgid "mapping_id"
+msgstr "Mapping_id"
+
+msgid "Mapping successfully deleted"
+msgstr "Zuordnung erfolgreich gelöscht"
+
+msgid "Delete of mapping failed"
+msgstr "Das Löschen der Zuordnung ist fehlgeschlagen"
+
+msgid "No mapping id set."
+msgstr "Keine Zuordnungs-ID festgelegt."
+
+msgid "importer_id"
+msgstr "importer_id"
+
+msgid "Save of importer failed"
+msgstr "Das Speichern des Importers ist fehlgeschlagen"
+
+msgid "Importer successfully saved"
+msgstr "Importeur erfolgreich gespeichert"
+
+msgid "This importer cannot be deleted: imports that use it exist."
+msgstr "Dieser Importer kann nicht gelöscht werden: Es sind Importe vorhanden, die ihn verwenden."
+
+msgid "Importer successfully deleted"
+msgstr "Importer erfolgreich gelöscht"
+
+msgid "Delete of importer failed"
+msgstr "Das Löschen des Importers ist fehlgeschlagen"
+
+msgid "Reader configuration saved"
+msgstr "Reader-Konfiguration gespeichert"
+
+msgid "Save of reader configuration failed"
+msgstr "Das Speichern der Leserkonfiguration ist fehlgeschlagen"
+
+msgid "Processor configuration saved"
+msgstr "Prozessorkonfiguration gespeichert"
+
+msgid "Save of processor configuration failed"
+msgstr "Das Speichern der Prozessorkonfiguration ist fehlgeschlagen"
+
+msgid "reader"
+msgstr "reader"
+
+msgid "processor"
+msgstr "Prozessor"
+
+msgid "This import will be stored to be run as a task."
+msgstr "Dieser Import wird gespeichert, um als Aufgabe ausgeführt zu werden."
+
+msgid "The page was reloaded, but params are lost. Restart the import."
+msgstr "Die Seite wurde neu geladen, aber die Parameter sind verloren.Starten Sie den Import neu."
+
+msgid "Current sheet: \"{name}\""
+msgstr "Aktuelles Blatt: „{name}“"
+
+msgid "Total resources, items or rows: {total}"
+msgstr "Gesamtressourcen, Elemente oder Zeilen: {total}"
+
+msgid "The source seems to have no resource to import or the total cannot be determined."
+msgstr "Die Quelle scheint über keine zu importierende Ressource zu verfügen oder die Gesamtmenge kann nicht ermittelt werden."
+
+msgid "Save of import failed"
+msgstr "Das Speichern des Imports ist fehlgeschlagen"
+
+msgid "The import #{bulk_import} was stored for future use."
+msgstr "Der Import #{bulk_import} wurde für die zukünftige Verwendung gespeichert."
+
+msgid "Import started in background (job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close}). This may take a while."
+msgstr "Der Import wurde im Hintergrund gestartet (Job {link_open_job}#{jobId}{link_close}, {link_open_log}logs{link_close}).Dies kann eine Weile dauern."
+
+msgid "Import start failed"
+msgstr "Importstart fehlgeschlagen"
+
+msgid "Importer #{importer} has error: {error}"
+msgstr "Importeur #{importer} hat Fehler: {error}"
+
+msgid "Continue"
+msgstr "Weitermachen"
+
+msgid "The import process #{import} does not exists."
+msgstr "Der Importprozess #{import} existiert nicht."
+
+msgid "Attempting to stop the import process #{import}."
+msgstr "Es wird versucht, den Importvorgang #{import} zu stoppen."
+
+msgid "Attempting to stop the undo process #{import}."
+msgstr "Es wird versucht, den Rückgängig-Vorgang #{import} zu stoppen."
+
+msgid "The process #{import} cannot be stopped."
+msgstr "Der Prozess #{import} kann nicht gestoppt werden."
+
+msgid "Import #{import} does not exist."
+msgstr "Import #{import} existiert nicht."
+
+msgid "The import #{import} is not undoable currently."
+msgstr "Der Import #{import} kann derzeit nicht rückgängig gemacht werden."
+
+msgid "Undo in progress for import #{import} with job #{job}."
+msgstr "Rückgängig machen für Import #{import} mit Job #{job}."
+
+msgid "The \"temp_dir\" is not configured"
+msgstr "Das „temp_dir“ ist nicht konfiguriert"
+
+msgid "Default empty mapping"
+msgstr "Standardmäßige leere Zuordnung"
+
+msgid "Mapping \"{mapping_name}\": invalid map in section \"{section}\"."
+msgstr "Zuordnung „{mapping_name}“: ungültige Karte im Abschnitt „{section}“."
+
+msgid "Mapping \"{mapping_name}\" not found."
+msgstr "Zuordnung „{mapping_name}“ nicht gefunden."
+
+msgid "Mapping \"{mapping_name}\" is empty."
+msgstr "Die Zuordnung „{mapping_name}“ ist leer."
+
+msgid "Mapping \"{mapping_name}\": invalid provided mapping."
+msgstr "Zuordnung „{mapping_name}“: ungültige bereitgestellte Zuordnung."
+
+msgid "Too many included mappings or recursive mapping."
+msgstr "Zu viele enthaltene Zuordnungen oder rekursive Zuordnungen."
+
+msgid "A section should have a name."
+msgstr "Ein Abschnitt sollte einen Namen haben."
+
+msgid "The section \"{name}\" is not managed."
+msgstr "Der Abschnitt „{name}“ wird nicht verwaltet."
+
+msgid "The xml string is not a valid xml."
+msgstr "Die XML-Zeichenfolge ist keine gültige XML-Datei."
+
+msgid "Mapping \"{mapping_name}\": contains an invalid map."
+msgstr "Zuordnung „{mapping_name}“: enthält eine ungültige Zuordnung."
+
+msgid "The map \"{map}\" has no source or destination."
+msgstr "Die Karte „{map}“ hat weder Quelle noch Ziel."
+
+msgid "The map \"{map}\" has no source."
+msgstr "Die Karte „{map}“ hat keine Quelle."
+
+msgid "The map \"{map}\" has no destination."
+msgstr "Die Karte „{map}“ hat kein Ziel."
+
+msgid "The map \"{map}\" has an invalid destination \"{destination}\"."
+msgstr "Die Karte „{map}“ hat ein ungültiges Ziel „{destination}“."
+
+msgid "The map has no path."
+msgstr "Die Karte hat keinen Pfad."
+
+msgid "The mapping \"{index}\" has no destination."
+msgstr "Die Zuordnung „{index}“ hat kein Ziel."
+
+msgid "Past Imports"
+msgstr "Frühere Importe"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Field mappings"
+msgstr "Feldzuordnungen"
+
+msgid "Params"
+msgstr "Parameter"
+
+msgid "Logs"
+msgstr "Protokolle"

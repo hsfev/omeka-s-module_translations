@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "I agree with %sterms of use%s and I accept to free my contribution under the licence %sCC&nbsp;BY-SA%s."
+msgstr "Ich stimme den %Nutzungsbedingungen%s zu und akzeptiere die kostenlose Nutzung meines Beitrags unter der Lizenz %sCC&nbsp;BY-SA%s."
+
+msgid "It is recommended to create tag clouds with the blocks of the site pages."
+msgstr "Es wird empfohlen, Tag-Clouds mit den Blöcken der Site-Seiten zu erstellen."
+
+msgid "So first options are used only to create global pages, that are not provided by Omeka yet."
+msgstr "Daher werden die ersten Optionen nur zum Erstellen globaler Seiten verwendet, die von Omeka noch nicht bereitgestellt werden."
+
+msgid "Has tags"
+msgstr "Hashtags"
+
+msgid "true"
+msgstr "WAHR"
+
+msgid "Tag"
+msgstr "Etikett"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "This module has resources that cannot be installed."
+msgstr "Dieses Modul verfügt über Ressourcen, die nicht installiert werden können."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Folksonomy"
+msgstr "Volkskunde"
+
+msgid "Taggings"
+msgstr "Markierungen"
+
+msgid "Select below"
+msgstr "Wählen Sie unten aus"
+
+msgid "There are no tags for this resource."
+msgstr "Für diese Ressource sind keine Tags vorhanden."
+
+msgid "Toggle status"
+msgstr "Status umschalten"
+
+msgid "Tags"
+msgstr "Schlagworte"
+
+msgid "Remove tag"
+msgstr "Tag entfernen"
+
+msgid "Add existing ones using the interface to the right or add new ones in the field below."
+msgstr "Fügen Sie vorhandene über die Benutzeroberfläche rechts hinzu oder fügen Sie im Feld darunter neue hinzu."
+
+msgid "Add one or multiple comma-separated new tags"
+msgstr "Fügen Sie ein oder mehrere durch Kommas getrennte neue Tags hinzu"
+
+msgid "Add a tag"
+msgstr "Fügen Sie ein Tag hinzu"
+
+msgid "No tags are available."
+msgstr "Es sind keine Tags verfügbar."
+
+msgid "Close Me"
+msgstr "Schließe mich"
+
+msgid "Click on a tag to add it to the edit panel."
+msgstr "Klicken Sie auf ein Tag, um es dem Bearbeitungsfeld hinzuzufügen."
+
+msgid "Filter tags"
+msgstr "Tags filtern"
+
+msgid "All tags"
+msgstr "Alle Tags"
+
+msgid "New Tags"
+msgstr "Neue Tags"
+
+msgid "Delete tags"
+msgstr "Tags löschen"
+
+msgid "Are you sure you would like to delete the selected tags?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Tags löschen möchten?"
+
+msgid "WARNING: This will delete the associated taggings."
+msgstr "ACHTUNG: Dadurch werden die zugehörigen Markierungen gelöscht."
+
+msgid "Total count"
+msgstr "Gesamtzahl"
+
+msgid "Total item sets"
+msgstr "Gesamtzahl der Artikelsätze"
+
+msgid "Total items"
+msgstr "Gesamtzahl der Artikel"
+
+msgid "Total media"
+msgstr "Gesamtmedien"
+
+msgid "Recent"
+msgstr "Jüngste"
+
+msgid "There are no tags."
+msgstr "Es gibt keine Tags."
+
+msgid "Edit name"
+msgstr "Namen bearbeiten"
+
+msgid "Internal id"
+msgstr "Interne ID"
+
+msgid "Stats"
+msgstr "Statistiken"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Delete taggings"
+msgstr "Markierungen löschen"
+
+msgid "Are you sure you would like to delete the selected taggings?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Markierungen löschen möchten?"
+
+msgid "Note: This won’t delete tags: check the %stags page%s to manage them."
+msgstr "Hinweis: Dadurch werden keine Tags gelöscht: Überprüfen Sie die %stags-Seite%s, um sie zu verwalten."
+
+msgid "Tagger"
+msgstr "Tagger"
+
+msgid "Date tagged"
+msgstr "Datum markiert"
+
+msgid "Approve"
+msgstr "Genehmigen"
+
+msgid "Reject"
+msgstr "Ablehnen"
+
+msgid "There are no taggings."
+msgstr "Es gibt keine Markierungen."
+
+msgid "Removed"
+msgstr "ENTFERNT"
+
+msgid "Tagging #%d"
+msgstr "#%d markieren"
+
+msgid "[Removed]"
+msgstr "[ENTFERNT]"
+
+msgid "It’s now possible to limit tag cloud to the current site or with a query."
+msgstr "Es ist jetzt möglich, die Tag-Cloud auf die aktuelle Site oder mit einer Abfrage zu beschränken."
+
+msgid "The key for the count of tags has been renamed from \"count\" to \"total\". Check your theme if you modified the template."
+msgstr "Der Schlüssel für die Anzahl der Tags wurde von „count“ in „total“ umbenannt.Überprüfen Sie Ihr Theme, wenn Sie die Vorlage geändert haben."
+
+msgid "Add tags"
+msgstr "Fügen Sie Tags hinzu"
+
+msgid "Proposed tag cannot be empty."
+msgstr "Das vorgeschlagene Tag darf nicht leer sein."
+
+msgid "Proposed tags cannot be longer than %d characters."
+msgstr "Vorgeschlagene Tags dürfen nicht länger als %d Zeichen sein."
+
+msgid "Terms of service"
+msgstr "Nutzungsbedingungen"
+
+msgid "You must agree to the terms and conditions."
+msgstr "Sie müssen den Allgemeinen Geschäftsbedingungen zustimmen."
+
+msgid "String to check"
+msgstr "Zu überprüfende Zeichenfolge"
+
+msgid "Set the string to check"
+msgstr "Legen Sie die zu überprüfende Zeichenfolge fest"
+
+msgid "Tag it!"
+msgstr "Markiere es!"
+
+msgid "Block title"
+msgstr "Blocktitel"
+
+msgid "Browse links are available only for item sets and items."
+msgstr "Durchsuchen-Links sind nur für Artikelsets und Artikel verfügbar."
+
+msgid "All resources (separately)"
+msgstr "Alle Ressourcen (separat)"
+
+msgid "All resources (together)"
+msgstr "Alle Ressourcen (zusammen)"
+
+msgid "Display resources using this search query. The query is limited to items when resources are selected."
+msgstr "Zeigen Sie Ressourcen mit dieser Suchabfrage an.Bei der Auswahl von Ressourcen ist die Abfrage auf Elemente beschränkt."
+
+msgid "Max classes"
+msgstr "Maximale Klassen"
+
+msgid "Display tag numbers"
+msgstr "Tag-Nummern anzeigen"
+
+msgid "Search by tag"
+msgstr "Suche nach Tag"
+
+msgid "Select tags"
+msgstr "Wählen Sie Tags aus"
+
+msgid "Tag cloud page"
+msgstr "Tag-Cloud-Seite"
+
+msgid "Public rights"
+msgstr "Öffentliche Rechte"
+
+msgid "Allow public to tag"
+msgstr "Erlauben Sie der Öffentlichkeit das Markieren"
+
+msgid "Require approbation for public tags"
+msgstr "Für öffentliche Tags ist eine Genehmigung erforderlich"
+
+msgid "Notify by email for public tagging"
+msgstr "Per E-Mail benachrichtigen, um öffentliches Tagging zu erhalten"
+
+msgid "Tagging form"
+msgstr "Tagging-Formular"
+
+msgid "Max length of a proposed tag"
+msgstr "Maximale Länge eines vorgeschlagenen Tags"
+
+msgid "The maximum for the database is 190 characters."
+msgstr "Das Maximum für die Datenbank beträgt 190 Zeichen."
+
+msgid "Max length for all proposed tags"
+msgstr "Maximale Länge für alle vorgeschlagenen Tags"
+
+msgid "Multiple tags can be proposed in one time, separated by comma."
+msgstr "Es können mehrere Tags gleichzeitig vorgeschlagen werden, getrennt durch Komma."
+
+msgid "Message to invite to tag"
+msgstr "Nachricht zum Markieren einladen"
+
+msgid "The text to click to display the tag form (a simple \"+\" by default, customizable in the theme)."
+msgstr "Der Text, auf den Sie klicken müssen, um das Tag-Formular anzuzeigen (standardmäßig ein einfaches „+“, anpassbar im Design)."
+
+msgid "Legal agreement"
+msgstr "Rechtliche Vereinbarung"
+
+msgid "This text will be shown beside the legal checkbox. Let empty if you don’t want to use a legal agreement."
+msgstr "Dieser Text wird neben dem rechtlichen Kontrollkästchen angezeigt.Lassen Sie das Feld leer, wenn Sie keine rechtliche Vereinbarung verwenden möchten."
+
+msgid "SERVER_ADDR"
+msgstr "SERVER_ADDR"
+
+msgid "[%s] New public tags"
+msgstr "[%s] Neue öffentliche Tags"
+
+msgid "%d tag added to resource #%d (%s): \"%s\"."
+msgstr "%d-Tag zur Ressource #%d (%s) hinzugefügt: „%s“."
+
+msgid "%d tags added to resource #%d (%s): \"%s\"."
+msgstr "%d Tags zur Ressource #%d (%s) hinzugefügt: „%s“."
+
+msgid "Unable to send an email after tagging."
+msgstr "Nach dem Markieren kann keine E-Mail gesendet werden."
+
+msgid "You should accept the legal agreement."
+msgstr "Sie sollten die rechtliche Vereinbarung akzeptieren."
+
+msgid "No tags submitted."
+msgstr "Keine Tags übermittelt."
+
+msgid "Submitted tags are already set."
+msgstr "Eingereichte Tags sind bereits festgelegt."
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "Resource not found."
+msgstr "Ressource nicht gefunden."
+
+msgid "Tag successfully deleted."
+msgstr "Tag erfolgreich gelöscht."
+
+msgid "You must select at least one tag to batch delete."
+msgstr "Sie müssen mindestens ein Tag zum Stapellöschen auswählen."
+
+msgid "Tags successfully deleted."
+msgstr "Tags erfolgreich gelöscht."
+
+msgid "Delete of all tags is not supported currently."
+msgstr "Das Löschen aller Tags wird derzeit nicht unterstützt."
+
+msgid "This tag is invalid: it is a duplicate or it contains forbidden characters."
+msgstr "Dieses Tag ist ungültig: Es handelt sich um ein Duplikat oder es enthält verbotene Zeichen."
+
+msgid "Tag not found."
+msgstr "Tag nicht gefunden."
+
+msgid "An internal error occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "Tagging successfully deleted."
+msgstr "Tagging erfolgreich gelöscht."
+
+msgid "You must select at least one tagging to batch delete."
+msgstr "Sie müssen mindestens eine Markierung zum Stapellöschen auswählen."
+
+msgid "Taggings successfully deleted."
+msgstr "Taggings erfolgreich gelöscht."
+
+msgid "Delete of all taggings is not supported currently."
+msgstr "Das Löschen aller Tags wird derzeit nicht unterstützt."
+
+msgid "No taggings submitted."
+msgstr "Keine Tags übermittelt."
+
+msgid "Tagging not found."
+msgstr "Tagging nicht gefunden."
+
+msgid "Select tag…"
+msgstr "Tag auswählen…"
+
+msgid "Proposed"
+msgstr "Vorgeschlagen"
+
+msgid "Allowed"
+msgstr "Erlaubt"
+
+msgid "Approved"
+msgstr "Genehmigt"
+
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+msgid "Undefined"
+msgstr "Undefiniert"
+
+msgid "The name of the tag must be set."
+msgstr "Der Name des Tags muss festgelegt werden."
+
+msgid "The tagged resource must be set."
+msgstr "Die getaggte Ressource muss festgelegt werden."
+
+msgid "The user #%d has already added the tag \"%s\" on the resource #%d."
+msgstr "Der Benutzer #%d hat der Ressource #%d bereits das Tag „%s“ hinzugefügt."
+
+msgid "The status \"%s\" is unknown."
+msgstr "Der Status „%s“ ist unbekannt."
+
+msgid "The tag \"%s\" is already taken."
+msgstr "Das Tag „%s“ ist bereits vergeben."
+
+msgid "The tag \"%s\" contains forbidden characters."
+msgstr "Das Tag „%s“ enthält verbotene Zeichen."
+
+msgid "A tag must have a name."
+msgstr "Ein Tag muss einen Namen haben."
+
+msgid "Invalid tagging status."
+msgstr "Ungültiger Tagging-Status."
+
+msgid "Tag cloud"
+msgstr "Schlagwortwolke"
+
+msgid "Browse tags"
+msgstr "Tags durchsuchen"
+
+msgid "Data were added to the resource."
+msgstr "Der Ressource wurden Daten hinzugefügt."
+
+msgid "They will be displayed definitely when approved."
+msgstr "Sie werden bei Genehmigung definitiv angezeigt."
+
+msgid "Reload page to see new tags."
+msgstr "Laden Sie die Seite neu, um neue Tags anzuzeigen."
+
+msgid "Request too long to process."
+msgstr "Die Bearbeitung der Anfrage dauert zu lange."
+
+msgid "The resource or the tag doesn’t exist."
+msgstr "Die Ressource oder das Tag existiert nicht."
+
+msgid "Tagging [Tag]"
+msgstr "Markieren [Tag]"
+
+msgid "Tagging []"
+msgstr "Markieren []"

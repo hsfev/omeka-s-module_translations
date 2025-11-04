@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "\"Archive Repertory\" module allows to save files in a hierarchical structure and to keep original name of files."
+msgstr "Das Modul „Archive Repertory“ ermöglicht das Speichern von Dateien in einer hierarchischen Struktur und die Beibehaltung des ursprünglichen Dateinamens."
+
+msgid "See %s for more information."
+msgstr "Weitere Informationen finden Sie unter %s."
+
+msgid "When all options are set, files will be saved in \"files / original / item_set_identifier / item_identifier / original_filename.ext\" instead of \"files / original / hashed_filename.ext\"."
+msgstr "Wenn alle Optionen festgelegt sind, werden Dateien in „files / original / item_set_identifier / item_identifier / original_filename.ext“ anstelle von „files / original / hashed_filename.ext“ gespeichert."
+
+msgid "Currently, changes in these settings affect only new uploaded files. So, after a change, old files will continue to be stored and available as previously."
+msgstr "Derzeit wirken sich Änderungen an diesen Einstellungen nur auf neu hochgeladene Dateien aus.Nach einer Änderung bleiben alte Dateien also weiterhin wie bisher gespeichert und verfügbar."
+
+msgid "Nevertheless, when an item is updated, attached files will follow the current settings, so all files of a record will move and stay together inside the same folder."
+msgstr "Wenn jedoch ein Element aktualisiert wird, folgen die angehängten Dateien den aktuellen Einstellungen, sodass alle Dateien eines Datensatzes verschoben werden und zusammen im selben Ordner verbleiben."
+
+msgid "Currently, no check is done on the name of folders, either for items. No files will be lost if two folders have the same name, but files attached to a record will be mixed in this folder."
+msgstr "Derzeit erfolgt keine Überprüfung der Namen von Ordnern, auch nicht für Elemente.Wenn zwei Ordner denselben Namen haben, gehen keine Dateien verloren, aber an einen Datensatz angehängte Dateien werden in diesem Ordner gemischt."
+
+msgid "Omeka works fine with filenames with Unicode characters (\"é\", \"ñ\", \"Å\"…)."
+msgstr "Omeka funktioniert gut mit Dateinamen mit Unicode-Zeichen („é“, „ñ“, „Å“…)."
+
+msgid "If this is not the case, filenames should use only Ascii characters."
+msgstr "Ist dies nicht der Fall, sollten Dateinamen nur ASCII-Zeichen verwenden."
+
+msgid "This server is compatible with Unicode."
+msgstr "Dieser Server ist mit Unicode kompatibel."
+
+msgid "This server is not fully compatible with Unicode:"
+msgstr "Dieser Server ist nicht vollständig mit Unicode kompatibel:"
+
+msgid "Use only an Ascii character as first character of your filenames or set the option \"Convert first character of filename\"."
+msgstr "Verwenden Sie als erstes Zeichen Ihres Dateinamens nur ein ASCII-Zeichen oder aktivieren Sie die Option „Erstes Zeichen des Dateinamens konvertieren“."
+
+msgid "Usually, this is not a problem with this module and common modules."
+msgstr "Normalerweise ist dies bei diesem Modul und den gängigen Modulen kein Problem."
+
+msgid "But if you use a module that calls a program via the command line of the server, filenames issues can occur."
+msgstr "Wenn Sie jedoch ein Modul verwenden, das ein Programm über die Befehlszeile des Servers aufruft, können Dateinamenprobleme auftreten."
+
+msgid "It is strongly recommanded to convert your filename to ascii."
+msgstr "Es wird dringend empfohlen, Ihren Dateinamen in ASCII zu konvertieren."
+
+msgid "If you choose to add a folder, Omeka will add subfolders for the %1$sfirst%2$s item set of each item in \"files\" folders, for example \"files/original/item_set_identifier/\"."
+msgstr "Wenn Sie sich für das Hinzufügen eines Ordners entscheiden, fügt Omeka Unterordner für den Artikelsatz %1$first%2$s jedes Artikels in den Ordnern „files“ hinzu, zum Beispiel „files/original/item set_identifier/“."
+
+msgid "New files will be stored inside them. Old files will be moved when item set will be updated."
+msgstr "Neue Dateien werden darin gespeichert.Alte Dateien werden verschoben, wenn der Artikelsatz aktualisiert wird."
+
+msgid "Note that if you choose a non unique name, files will be mixed in the same folder, with higher risk of name collision."
+msgstr "Beachten Sie, dass bei Auswahl eines nicht eindeutigen Namens die Dateien im selben Ordner gemischt werden und das Risiko einer Namenskollision steigt."
+
+msgid "So recommended ids are a specific metadata, \"Dublin Core:Identifier\", \"Internal resource id\" and eventually \"Dublin Core:Title\"."
+msgstr "Empfohlene IDs sind daher bestimmte Metadaten, „Dublin Core:Identifier“, „Interne Ressourcen-ID“ und schließlich „Dublin Core:Titel“."
+
+msgid "If this identifier does not exists, the Omeka internal item set id will be used."
+msgstr "Wenn dieser Bezeichner nicht vorhanden ist, wird die interne Omeka-Item-Set-ID verwendet."
+
+msgid "If you choose to add a folder, Omeka will add subfolders for each item in \"files\" folders, for example \"files/original/unique_identifier/\"."
+msgstr "Wenn Sie sich dafür entscheiden, einen Ordner hinzuzufügen, fügt Omeka Unterordner für jedes Element in den Ordnern „Dateien“ hinzu, zum Beispiel „files/original/unique_identifier/“."
+
+msgid "New files will be stored inside them. Old files will be moved when item will be updated."
+msgstr "Neue Dateien werden darin gespeichert.Alte Dateien werden verschoben, wenn das Element aktualisiert wird."
+
+msgid "So recommended ids are a specifc metadata, \"Dublin Core Identifier\", \"Internal resource id\" and eventually \"Dublin Core Title\"."
+msgstr "Empfohlene IDs sind daher spezifische Metadaten, „Dublin Core Identifier“, „Interne Ressourcen-ID“ und schließlich „Dublin Core Title“."
+
+msgid "If this identifier does not exists, the Omeka internal item id will be used."
+msgstr "If this identifier does not exists, the Omeka internal item id will be used."
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "The process is now working with background processes."
+msgstr "Der Prozess arbeitet nun mit Hintergrundprozessen."
+
+msgid "This file is not present in the original directory: {filepath}. There was an undetected error before storage, probably during the convert process."
+msgstr "Diese Datei ist nicht im Originalverzeichnis vorhanden: {filepath}.Vor der Speicherung ist ein unerkannter Fehler aufgetreten, wahrscheinlich während des Konvertierungsvorgangs."
+
+msgid "Cannot move files inside archive directory."
+msgstr "Dateien können nicht in das Archivverzeichnis verschoben werden."
+
+msgid "Item set folder"
+msgstr "Artikelset-Ordner"
+
+msgid "Don’t add folder"
+msgstr "Ordner nicht hinzufügen"
+
+msgid "Internal numeric id of the resource"
+msgstr "Interne numerische ID der Ressource"
+
+msgid "Prefix for item sets"
+msgstr "Präfix für Artikelsets"
+
+msgid "Choose a prefix, for example \"item:\", \"record:\" or \"doc:\", to select the appropriate metadata when they are multiple. Let empty to use simply the first one."
+msgstr "Wählen Sie ein Präfix, zum Beispiel „item:“, „record:“ oder „doc:“, um die entsprechenden Metadaten auszuwählen, wenn es mehrere gibt.Lassen Sie es leer, um einfach das erste zu verwenden."
+
+msgid "Convert item set names"
+msgstr "Konvertieren Sie Elementsatznamen"
+
+msgid "Item folder"
+msgstr "Artikelordner"
+
+msgid "Convert item names"
+msgstr "Konvertieren Sie Elementnamen"
+
+msgid "Convert file names"
+msgstr "Dateinamen konvertieren"
+
+msgid "Hash filename (default Omeka)"
+msgstr "Hash-Dateiname (Standard Omeka)"
+
+msgid "Keep parenthesis when sanitizing filename"
+msgstr "Behalten Sie beim Bereinigen des Dateinamens Klammern bei"
+
+msgid "This option is not recommended, because it is less secure and not url-compliant."
+msgstr "Diese Option wird nicht empfohlen, da sie weniger sicher und nicht URL-konform ist."
+
+msgid "Depending on your server and your needs, to avoid some potential issues, you can choose or not to rename every folder to its Ascii equivalent (or only the first letter). In all cases, names are sanitized: \"/\", \"\\", \"|\" and other special characters are removed."
+msgstr "Abhängig von Ihrem Server und Ihren Anforderungen können Sie jeden Ordner in sein ASCII-Äquivalent (oder nur den ersten Buchstaben) umbenennen oder nicht, um potenzielle Probleme zu vermeiden.In allen Fällen werden Namen bereinigt: „/“, „\“, „|“und andere Sonderzeichen werden entfernt."
+
+msgid "Keep name as it (not recommended because your server is not fully compatible with Unicode)"
+msgstr "Behalten Sie den Namen bei (nicht empfohlen, da Ihr Server nicht vollständig mit Unicode kompatibel ist)"
+
+msgid "Keep name as it"
+msgstr "Behalten Sie den Namen bei"
+
+msgid "Convert spaces to underscores"
+msgstr "Wandeln Sie Leerzeichen in Unterstriche um"
+
+msgid "Convert first letter only"
+msgstr "Konvertieren Sie nur den ersten Buchstaben"
+
+msgid "Convert first letter and spaces"
+msgstr "Konvertieren Sie Anfangsbuchstaben und Leerzeichen"
+
+msgid "Full conversion to Ascii (recommended because your server is not fully compatible with Unicode)"
+msgstr "Vollständige Konvertierung in ASCII (empfohlen, da Ihr Server nicht vollständig mit Unicode kompatibel ist)"
+
+msgid "Cannot move file \"{file}\" inside archive directory (\"{dir}\"): filepath longer than 190 characters."
+msgstr "Die Datei „{file}“ kann nicht in das Archivverzeichnis („{dir}“) verschoben werden: Dateipfad länger als 190 Zeichen."
+
+msgid "Cannot move file \"{file}\" inside archive directory: filepath longer than 190 characters."
+msgstr "Die Datei „{file}“ kann nicht in das Archivverzeichnis verschoben werden: Dateipfad länger als 190 Zeichen."
+
+msgid "Cannot move file inside archive directory: no filename."
+msgstr "Die Datei kann nicht in das Archivverzeichnis verschoben werden: kein Dateiname."
+
+msgid "Unallowed resource type \"{resource_name}\"."
+msgstr "Unzulässiger Ressourcentyp „{resource_name}“."
+
+msgid "Error directory non writeable: \"{dir}\"."
+msgstr "Fehlerverzeichnis nicht beschreibbar: „{dir}“."
+
+msgid "Error making directory: \"dir\"."
+msgstr "Fehler beim Erstellen des Verzeichnisses: „dir“."
+
+msgid "Error during move of a file from \"{source}\" to \"{destination}\" (local dir: \"{dir}\"): source does not exist."
+msgstr "Fehler beim Verschieben einer Datei von „{source}“ nach „{destination}“ (lokales Verzeichnis: „{dir}“): Quelle existiert nicht."
+
+msgid "Error during move of a file from \"{source}\" to \"{destination}\" (local dir: \"{dir}\")."
+msgstr "Fehler beim Verschieben einer Datei von „{source}“ nach „{destination}“ (lokales Verzeichnis: „{dir}“)."
+
+msgid "Missing thumbnails configuration"
+msgstr "Fehlende Konfiguration der Miniaturansichten"
+
+msgid "Missing Archive Repertory ingesters configuration"
+msgstr "Fehlende Konfiguration der Archive Repertory Ingester"

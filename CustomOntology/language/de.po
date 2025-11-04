@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A new button was added in main menu \"Vocabularies\"."
+msgstr "Im Hauptmenü „Vokabeln“ wurde eine neue Schaltfläche hinzugefügt."
+
+msgid "Create a vocabulary"
+msgstr "Erstellen Sie einen Wortschatz"
+
+msgid "Error: unknown vocabulary for \"%1$s\" \"%2$s\"."
+msgstr "Fehler: Unbekanntes Vokabular für „%1$s“ „%2$s“."
+
+msgid "Create a custom ontology"
+msgstr "Erstellen Sie eine benutzerdefinierte Ontologie"
+
+msgid "To create an ontology, classes and/or properties, fill the appropriate following fields."
+msgstr "Um eine Ontologie, Klassen und/oder Eigenschaften zu erstellen, füllen Sie die entsprechenden folgenden Felder aus."
+
+msgid "The next three forms are independant, and can be used together (for a new ontology) or separately (to add new elements to an existing ontology)."
+msgstr "Die nächsten drei Formen sind unabhängig und können zusammen (für eine neue Ontologie) oder separat (um neue Elemente zu einer bestehenden Ontologie hinzuzufügen) verwendet werden."
+
+msgid "Once filled, click \"Submit\" to import the ontology or the new classes or properties directly in Omeka S."
+msgstr "Klicken Sie nach dem Ausfüllen auf „Senden“, um die Ontologie oder die neuen Klassen oder Eigenschaften direkt in Omeka S zu importieren."
+
+msgid "You may also click \"Get turtle\" below to get the %1$sTurtle%3$s formatted ontology, if wanted, and import it yourself via the page %2$sImport vocabulary%3$s."
+msgstr "Sie können bei Bedarf auch unten auf „Schildkröte herunterladen“ klicken, um die mit %1$sTurtle%3$s formatierte Ontologie abzurufen und sie selbst über die Seite %2$sVokabular importieren%3$s zu importieren."
+
+msgid "The ontologies that use the proposed namespace uri are available as human and as turtle publicly %1$shere%2$s."
+msgstr "Die Ontologien, die die vorgeschlagene Namespace-URI verwenden, sind als Human- und Turtle-Ontologien öffentlich %1$shere%2$s verfügbar."
+
+msgid "Warning:"
+msgstr "Warnung:"
+
+msgid "After checks, there is no possibility to correct data here, but only to add new elements."
+msgstr "Nach Prüfungen gibt es hier keine Möglichkeit, Daten zu korrigieren, sondern nur neue Elemente hinzuzufügen."
+
+msgid "Nevertheless, the vocabularies can be managed like any other %1$svocabularies%2$s via the turtle files, that are editable via any standard true text editor."
+msgstr "Dennoch können die Vokabeln wie alle anderen %1$svokabularien%2$s über die Turtle-Dateien verwaltet werden, die mit jedem Standard-Echttexteditor bearbeitet werden können."
+
+msgid "Create a specific ontology"
+msgstr "Erstellen Sie eine spezifische Ontologie"
+
+msgid "An ontology must have a namespace uri and a unique lowercase prefix."
+msgstr "Eine Ontologie muss eine Namespace-URI und ein eindeutiges Kleinbuchstaben-Präfix haben."
+
+msgid "It is recommended to use the default namespace uri with the prefix, so it will be possible to publish the ontology automatically."
+msgstr "Es wird empfohlen, die Standard-Namespace-URI mit dem Präfix zu verwenden, damit die Ontologie automatisch veröffentlicht werden kann."
+
+msgid "It is recommended to end it with a \"/\" or a \"#\", so classes and properties will have their own uri, for example %s."
+msgstr "Es wird empfohlen, es mit einem „/“ oder einem „#“ zu beenden, damit Klassen und Eigenschaften ihre eigene URI haben, zum Beispiel %s."
+
+msgid "The format can be a %scool uri%s or a %spersistent url%s."
+msgstr "Das Format kann %school uri%s oder %persistent urls sein."
+
+msgid "It can contain a date or a version."
+msgstr "Es kann ein Datum oder eine Version enthalten."
+
+msgid "A label is required too, and a description can be added."
+msgstr "Außerdem ist eine Beschriftung erforderlich, und eine Beschreibung kann hinzugefügt werden."
+
+msgid "Create specific classes"
+msgstr "Erstellen Sie bestimmte Klassen"
+
+msgid "A class must be formatted with a prefix and a title-case local name, like \"dctype:PhysicalObject\"."
+msgstr "Eine Klasse muss mit einem Präfix und einem lokalen Namen in Groß- und Kleinschreibung formatiert werden, z. B. „dctype:PhysicalObject“."
+
+msgid "Multiple classes can be created, one by row."
+msgstr "Es können mehrere Klassen erstellt werden, eine nach Zeile."
+
+msgid "Create specific properties"
+msgstr "Erstellen Sie spezifische Eigenschaften"
+
+msgid "A property must be formatted with a prefix and a camel-case local name, like \"dcterms:isPartOf\"."
+msgstr "Eine Eigenschaft muss mit einem Präfix und einem lokalen Namen in Kamel-Schreibweise formatiert sein, z. B. „dcterms:isPartOf“."
+
+msgid "Multiple properties can be created, one by row."
+msgstr "Es können mehrere Eigenschaften nacheinander erstellt werden."
+
+msgid "Existing classes or properties will be skipped, so you can copy paste a full list."
+msgstr "Vorhandene Klassen oder Eigenschaften werden übersprungen, sodass Sie eine vollständige Liste kopieren und einfügen können."
+
+msgid "The label is the string that follows the term, separated by a \",\"."
+msgstr "Die Bezeichnung ist die Zeichenfolge, die dem Begriff folgt, getrennt durch ein \",\"."
+
+msgid "The comment is the string that follows the label, separated by a \",\"."
+msgstr "Der Kommentar ist die Zeichenfolge, die der Beschriftung folgt, getrennt durch ein \",\"."
+
+msgid "It is not recommended to create new classes or properties inside standard ontologies: use only your own prefixes."
+msgstr "Es wird nicht empfohlen, neue Klassen oder Eigenschaften innerhalb von Standardontologien zu erstellen: Verwenden Sie nur Ihre eigenen Präfixe."
+
+msgid "Get turtle (no save)"
+msgstr "Holen Sie sich Schildkröte (kein Speichern)"
+
+msgid "List of custom ontologies"
+msgstr "Liste der benutzerdefinierten Ontologien"
+
+msgid "There are no custom ontology."
+msgstr "Es gibt keine benutzerdefinierte Ontologie."
+
+msgid "Namespace uri: %s"
+msgstr "Namespace-URI: %s"
+
+msgid "Recommended prefix: %s"
+msgstr "Empfohlenes Präfix: %s"
+
+msgid "%1$shuman%2$s | %3$sturtle%2$s | %4$sjson-ld%2$s | %5$sn3%2$s | %6$sn-triples%2$s | %7$srdf-xml%2$s"
+msgstr "%1$shuman%2$s |%3$Sturtle%2$s |%4$sjson-ld%2$s |%5$sn3%2$s |%6$sn-triples%2$s |%7$srdf-xml%2$s"
+
+msgid "HTTP Content-Negociation is supported."
+msgstr "HTTP Content-Negociation wird unterstützt."
+
+msgid "There are no classes."
+msgstr "Es gibt keine Kurse."
+
+msgid "There are no properties."
+msgstr "Es sind keine Eigenschaften vorhanden."
+
+msgid "Ontology"
+msgstr "Ontologie"
+
+msgid "Namespace uri"
+msgstr "Namespace-URI"
+
+msgid "myprefix"
+msgstr "meinPräfix"
+
+msgid "My label"
+msgstr "Mein Etikett"
+
+msgid "A specific ontology for my documents."
+msgstr "Eine spezifische Ontologie für meine Dokumente."
+
+msgid "myprefix:MySpecificClass, My specific class, A resource class to use for my specific documents."
+msgstr "myprefix:MySpecificClass, Meine spezifische Klasse, Eine Ressourcenklasse zur Verwendung für meine spezifischen Dokumente."
+
+msgid "myprefix:mySpecificProperty, My specific property, A property to use for my specific documents."
+msgstr "myprefix:mySpecificProperty, Meine spezifische Eigenschaft, Eine Eigenschaft, die für meine spezifischen Dokumente verwendet werden soll."
+
+msgid "An error was found. Turtle cannot be created. Nothing was imported."
+msgstr "Es wurde ein Fehler gefunden.Schildkröte kann nicht erstellt werden.Es wurde nichts importiert."
+
+msgid "Nothing to process."
+msgstr "Nichts zu verarbeiten."
+
+msgid "Unable to create the ontology."
+msgstr "Die Ontologie kann nicht erstellt werden."
+
+msgid "The vocabulary \"%1$s\" (%2$s) has been created (%3$sapi%4$s)."
+msgstr "Das Vokabular „%1$s“ (%2$s) wurde erstellt (%3$sapi%4$s)."
+
+msgid "%d resource classes have been created: %s."
+msgstr "%d Ressourcenklassen wurden erstellt: %s."
+
+msgid "%d properties have been created: %s."
+msgstr "%d Eigenschaften wurden erstellt: %s."
+
+msgid "A namespace uri is set for the ontology, but there is no prefix."
+msgstr "Für die Ontologie ist eine Namespace-URI festgelegt, es gibt jedoch kein Präfix."
+
+msgid "A prefix is set for the ontology, but there is no namespace uri."
+msgstr "Für die Ontologie ist ein Präfix festgelegt, es gibt jedoch keine Namespace-URI."
+
+msgid "The prefix of the ontology must be lowercase."
+msgstr "Das Präfix der Ontologie muss kleingeschrieben sein."
+
+msgid "The prefix must start with an alphabetic character and must contain only alphanumeric characters."
+msgstr "Das Präfix muss mit einem alphabetischen Zeichen beginnen und darf nur alphanumerische Zeichen enthalten."
+
+msgid "A label is required for the ontology."
+msgstr "Für die Ontologie ist eine Bezeichnung erforderlich."
+
+msgid "An ontology exists for the prefix \"%s\"."
+msgstr "Für das Präfix „%s“ existiert eine Ontologie."
+
+msgid "An ontology exists for the namespace uri \"%s\"."
+msgstr "Für die Namespace-URI „%s“ existiert eine Ontologie."
+
+msgid "Resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "%s, row #%d"
+msgstr "%s, Zeile #%d"
+
+msgid "%s: A content is defined, but no term."
+msgstr "%s: Ein Inhalt ist definiert, aber kein Begriff."
+
+msgid "%s: The term must be formatted \"prefix:LocalName\"."
+msgstr "%s: Der Begriff muss das Format „Präfix:LocalName“ haben."
+
+msgid "%s: The term must be formatted \"prefix:localName\"."
+msgstr "%s: Der Begriff muss das Format „Präfix:localName“ haben."
+
+msgid "%s: The local name part of the term \"%s\" must start with a upper-case letter."
+msgstr "%s: Der lokale Namensteil des Begriffs „%s“ muss mit einem Großbuchstaben beginnen."
+
+msgid "%s: The local name part of the term \"%s\" must start with a lower-case letter."
+msgstr "%s: Der lokale Namensteil des Begriffs „%s“ muss mit einem Kleinbuchstaben beginnen."
+
+msgid "%s: The term \"%s\" must start with an alphabetic character and contain only alphanumeric characters, \"-\" and \"_\"."
+msgstr "%s: Der Begriff „%s“ muss mit einem alphabetischen Zeichen beginnen und darf nur die alphanumerischen Zeichen „-“ und „_“ enthalten."
+
+msgid "%s: No ontology exists for prefix \"%s\"."
+msgstr "%s: Für das Präfix „%s“ existiert keine Ontologie."
+
+msgid "%s: For standardization purpose, this tool forbids to add a term to the default Dublin Core vocabularies \"%s\"."
+msgstr "%s: Aus Standardisierungsgründen verbietet dieses Tool das Hinzufügen eines Begriffs zum Standardvokabular des Dublin Core „%s“."
+
+msgid "%s: The term \"%s\" exists and is skipped."
+msgstr "%is: Der Begriff „%s“ existiert und wird übersprungen."
+
+msgid "%s: The prefix \"%s\" is reserved by Omeka."
+msgstr "%s: Das Präfix „%s“ ist von Omeka reserviert."
+
+msgid "%s: The term \"%s\" must have a label."
+msgstr "%is: Die Begriffe müssen eine Bezeichnung haben."
+
+msgid "%s: The term \"%s\" is already specified above, row #%d."
+msgstr "%is: Der Begriff „%s“ ist oben bereits angegeben, Zeile #%d."
+
+msgid "%s: The label \"%s\" is already used above, row #%d."
+msgstr "%s: Die Bezeichnung „%s“ wird oben bereits verwendet, Zeile #%d."
+
+msgid "An issue occurred when saving the ontology."
+msgstr "Beim Speichern der Ontologie ist ein Problem aufgetreten."
+
+msgid "navigation"
+msgstr "Navigation"
+
+msgid "Custom ontology"
+msgstr "Benutzerdefinierte Ontologie"

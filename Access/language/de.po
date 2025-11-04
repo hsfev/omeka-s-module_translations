@@ -1,0 +1,771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This module requires module %1$s version %2$s or greater."
+msgstr "Dieses Modul erfordert Modul %1$s Version %2$s oder höher."
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "To be automatically upgraded and replaced by this module, the module \"Access Resource\" should be upgraded first to version 3.4.17.1. Else uninstall it first, but you will lose access statuses and requests."
+msgstr "Um automatisch aktualisiert und durch dieses Modul ersetzt zu werden, muss zunächst das Modul „Access Resource“ auf Version 3.4.17.1 aktualisiert werden.Andernfalls deinstallieren Sie es zuerst, aber Sie verlieren Zugriffsstatus und Anfragen."
+
+msgid "To be automatically upgraded and replaced by this module, the module \"Access Resource\" should be downgraded first to version 3.4.17.1. Else uninstall it first, but you will lose access statuses and requests."
+msgstr "Um automatisch aktualisiert und durch dieses Modul ersetzt zu werden, sollte das Modul „Access Resource“ zunächst auf Version 3.4.17.1 heruntergestuft werden.Andernfalls deinstallieren Sie es zuerst, aber Sie verlieren Zugriffsstatus und Anfragen."
+
+msgid "When properties are used, three properties should be defined for \"level\", \"embargo start\" and \"embargo end\"."
+msgstr "Bei der Verwendung von Eigenschaften sollten drei Eigenschaften für „Ebene“, „Embargo-Beginn“ und „Embargo-Ende“ definiert werden."
+
+msgid "Job is not launched: no option was set."
+msgstr "Job wird nicht gestartet: Es wurde keine Option festgelegt."
+
+msgid "Request #%d"
+msgstr "Anfrage #%d"
+
+msgid "User: %s"
+msgstr "Benutzer: %s"
+
+msgid "Visitor: %s"
+msgstr "Besucher: %s"
+
+msgid "Token: %s"
+msgstr "Token: %s"
+
+msgid "Undefined"
+msgstr "Undefiniert"
+
+msgid "from %s"
+msgstr "von %s"
+
+msgid "until %s"
+msgstr "bis %s"
+
+msgid "from %1$s until %2$s"
+msgstr "von %1$s bis %2$s"
+
+msgid "Full access is not supported currently"
+msgstr "Vollzugriff wird derzeit nicht unterstützt"
+
+msgid "Append a form to allow visitors to access request to a resource. The id of the resource should be passed as url argument."
+msgstr "Hängen Sie ein Formular an, um Besuchern den Zugriff auf eine Ressource zu ermöglichen.Die ID der Ressource sollte als URL-Argument übergeben werden."
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Access"
+msgstr "Zugang"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Record Id"
+msgstr "Datensatz-ID"
+
+msgid "[no user]"
+msgstr "[kein Benutzer]"
+
+msgid "No access records yet."
+msgstr "Noch keine Zugriffsdatensätze."
+
+msgid "Refresh page"
+msgstr "Seite aktualisieren"
+
+msgid "Requests"
+msgstr "Anfragen"
+
+msgid "Add new request"
+msgstr "Neue Anfrage hinzufügen"
+
+msgid "Id"
+msgstr "Ausweis"
+
+msgid "Requester"
+msgstr "Anforderer"
+
+msgid "Recursive"
+msgstr "Rekursiv"
+
+msgid "Dates"
+msgstr "Termine"
+
+msgid "Delete access requests"
+msgstr "Zugriffsanfragen löschen"
+
+msgid "Are you sure you would like to delete the selected access requests?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Zugriffsanfragen löschen möchten?"
+
+msgid "%1$s: this action will permanently delete %2$s access requests and cannot be undone."
+msgstr "%1$s: Diese Aktion löscht %2$s Zugriffsanfragen dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all access requests on all pages of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Zugriffsanfragen auf allen Seiten dieses Ergebnisses löschen möchten?"
+
+msgid "No access requests."
+msgstr "Keine Zugriffsanfragen."
+
+msgid "New access request"
+msgstr "Neue Zugriffsanfrage"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Fields"
+msgstr "Felder"
+
+msgid "Edit access request"
+msgstr "Zugriffsanfrage bearbeiten"
+
+msgid "Access requests"
+msgstr "Zugriffsanfragen"
+
+msgid "No access requests yet."
+msgstr "Noch keine Zugriffsanfragen."
+
+msgid "You already have access to the resource. Go back to the previous page to see it."
+msgstr "Sie haben bereits Zugriff auf die Ressource.Gehen Sie zurück zur vorherigen Seite, um es anzuzeigen."
+
+msgid "To request access please %1$slogin%2$s or contact the publisher!"
+msgstr "Um Zugriff anzufordern, %1$sloggen Sie sich bitte %2$s ein oder kontaktieren Sie den Herausgeber!"
+
+msgid "To request access please %1$slogin%3$s or %2$sregister%3$s!"
+msgstr "Um Zugriff anzufordern, bitte %1$slogin%3$s oder %2$sregister%3$s!"
+
+msgid "Give access"
+msgstr "Zugriff gewähren"
+
+msgid "Free access"
+msgstr "Freier Zugang"
+
+msgid "Forbidden access"
+msgstr "Zugriff verboten"
+
+msgid "Access settings don't allow individual requests."
+msgstr "Die Zugriffseinstellungen erlauben keine individuellen Anfragen."
+
+msgid "The access to this item is free, so the request should include medias."
+msgstr "Der Zugang zu diesem Artikel ist kostenlos, daher sollte die Anfrage Medien enthalten."
+
+msgid "The access to this item set is free, so the request should include items and medias."
+msgstr "Der Zugriff auf dieses Artikelset ist kostenlos, daher sollte die Anfrage Artikel und Medien umfassen."
+
+msgid "There are no requests for this resource."
+msgstr "Für diese Ressource liegen keine Anfragen vor."
+
+msgid "Enable or disable"
+msgstr "Aktivieren oder deaktivieren"
+
+msgid "Remove request"
+msgstr "Anfrage entfernen"
+
+msgid "Request access"
+msgstr "Zugriff anfordern"
+
+msgid "Access status"
+msgstr "Zugriffsstatus"
+
+msgid "Access Forbidden"
+msgstr "Zugriff verboten"
+
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+msgid "The module \"%1$s\" was upgraded by module \"%2$s\" and uninstalled."
+msgstr "Das Modul „%1$s“ wurde durch das Modul „%2$s“ aktualisiert und deinstalliert."
+
+msgid "The vocabulary \"{vocabulary}\" was updated successfully."
+msgstr "Das Vokabular „{vocabulary}“ wurde erfolgreich aktualisiert."
+
+msgid "It is now possible to add a page block to request an access."
+msgstr "Es ist jetzt möglich, einen Seitenblock hinzuzufügen, um einen Zugriff anzufordern."
+
+msgid "New messages were added to make a distinction between user/visitor and accepted/rejected. Check main settings to adapt them."
+msgstr "Es wurden neue Nachrichten hinzugefügt, um zwischen Benutzer/Besucher und akzeptiert/abgelehnt zu unterscheiden.Überprüfen Sie die Haupteinstellungen, um sie anzupassen."
+
+msgid "The module manages now http requests \"Content Range\" that allow to read files faster."
+msgstr "Das Modul verwaltet jetzt HTTP-Anfragen „Content Range“, die ein schnelleres Lesen von Dateien ermöglichen."
+
+msgid "A new access mode allows to limit access to medias to users with a specific email via regex."
+msgstr "Ein neuer Zugriffsmodus ermöglicht es, den Zugriff auf Medien über Regex auf Benutzer mit einer bestimmten E-Mail-Adresse zu beschränken."
+
+msgid "The settings \"heading\" was removed from block Access request. New blocks \"Heading\" or \"Html\" were prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Überschrift“ wurde aus dem Block „Zugriffsanfrage“ entfernt.Neue Blöcke „Überschrift“ oder „Html“ wurden allen Blöcken vorangestellt, die eine gefüllte Überschrift hatten.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The setting \"template\" was moved to the new block layout settings available since Omeka S v4.1. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Vorlage“ wurde in die neuen Blocklayout-Einstellungen verschoben, die seit Omeka S v4.1 verfügbar sind.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The template files for the block Access request should be moved from \"view/common/block-layout\" to \"view/common/block-template\" in your themes. You may check your themes for pages: {json}"
+msgstr "Die Vorlagendateien für die Blockzugriffsanforderung sollten in Ihren Themes von „view/common/block-layout“ nach „view/common/block-template“ verschoben werden.Sie können Ihre Themes auf Seiten überprüfen: {json}"
+
+msgid "It is now possible to define accesses by sso idps and item sets."
+msgstr "Es ist jetzt möglich, Zugriffe nach SSO-IDPS und Elementgruppen zu definieren."
+
+msgid "It is now possible to define excluded item sets for accesses by ip and sso idp."
+msgstr "Es ist jetzt möglich, ausgeschlossene Elementgruppen für Zugriffe per IP und SSO-IDP zu definieren."
+
+msgid "When no time is set to an date of end of embargo, the check is now done against 23:59:59 and no more 00:00:00."
+msgstr "Wenn keine Zeit für das Ende des Embargos eingestellt ist, erfolgt die Prüfung jetzt gegen 23:59:59 Uhr und nicht mehr gegen 00:00:00 Uhr."
+
+msgid "The key \"accessresource\" in the file config/local.config.php at the root of Omeka can be removed."
+msgstr "Der Schlüssel „accessresource“ in der Datei config/local.config.php im Stammverzeichnis von Omeka kann entfernt werden."
+
+msgid "An error occurred during migration of module \"{module}\". Check the config and uninstall it manually."
+msgstr "Bei der Migration des Moduls „{module}“ ist ein Fehler aufgetreten.Überprüfen Sie die Konfiguration und deinstallieren Sie sie manuell."
+
+msgid "This module cannot install its tables, because they exist already. Try to remove them first."
+msgstr "Dieses Modul kann seine Tabellen nicht installieren, da sie bereits vorhanden sind.Versuchen Sie zunächst, sie zu entfernen."
+
+msgid "It is recommenced to run the job in config form to initialize all access statuses."
+msgstr "Es wird erneut begonnen, den Job in Konfigurationsform auszuführen, um alle Zugriffsstatus zu initialisieren."
+
+msgid "Cleaned params used for Access:\n{json}"
+msgstr "Bereinigte Parameter für den Zugriff:\n{json}"
+
+msgid "You should set either a user or an email or check box for token."
+msgstr "Sie sollten entweder einen Benutzer oder eine E-Mail oder ein Kontrollkästchen für das Token festlegen."
+
+msgid "Access request successfully created."
+msgstr "Zugriffsanfrage erfolgreich erstellt."
+
+msgid "Free"
+msgstr "Frei"
+
+msgid "Reserved"
+msgstr "Reserviert"
+
+msgid "Protected"
+msgstr "Geschützt"
+
+msgid "Access level"
+msgstr "Zugriffsebene"
+
+msgid "Embargo start"
+msgstr "Beginn des Embargos"
+
+msgid "Embargo end"
+msgstr "Ende des Embargos"
+
+msgid "Access level (managed via property %s)"
+msgstr "Zugriffsebene (verwaltet über Eigenschaft %s)"
+
+msgid "Embargo start (managed via property %s)"
+msgstr "Beginn des Embargos (verwaltet über Eigenschaft %s)"
+
+msgid "Embargo end (managed via property %s)"
+msgstr "Ende des Embargos (verwaltet über Eigenschaft %s)"
+
+msgid "Apply access level and embargo to items and medias"
+msgstr "Wenden Sie Zugriffsebene und Embargo auf Artikel und Medien an"
+
+msgid "Apply access level and embargo to medias"
+msgstr "Zugriffsebene und Embargo auf Medien anwenden"
+
+msgid "Access: Reindex resources"
+msgstr "Zugriff: Ressourcen neu indizieren"
+
+msgid "Options to reindex accesses"
+msgstr "Optionen zur Neuindizierung von Zugriffen"
+
+msgid "To control access to files, you must add a rule in file .htaccess at the root of Omeka. See {link}readme{link_end}."
+msgstr "Um den Zugriff auf Dateien zu steuern, müssen Sie eine Regel in der Datei .htaccess im Stammverzeichnis von Omeka hinzufügen.Siehe {link}readme{link_end}."
+
+msgid "A job was launched in background to update access statuses according to parameters: ({link_job}job #{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Im Hintergrund wurde ein Job gestartet, um den Zugriffsstatus entsprechend den folgenden Parametern zu aktualisieren: ({link_job}job #{job_id}{link_end}, {link_log}logs{link_end})."
+
+msgid "The ip \"{ip}\" is empty or invalid."
+msgstr "Die IP „{ip}“ ist leer oder ungültig."
+
+msgid "The item sets list \"{input}\" for ip {ip} is invalid: they should be numeric ids, optionaly prepended with a \"-\"."
+msgstr "Die Elementsatzliste „{input}“ für IP {ip} ist ungültig: Es sollten numerische IDs sein, optional mit vorangestelltem „-“."
+
+msgid "The item sets list \"{input}\" for ip {ip} contains duplicate item sets ({list})."
+msgstr "Die Elementgruppenliste „{input}“ für IP {ip} enthält doppelte Elementgruppen ({list})."
+
+msgid "The item sets list \"{input}\" for ip {ip} contains unknown item sets ({list})."
+msgstr "Die Elementgruppenliste „{input}“ für IP {ip} enthält unbekannte Elementgruppen ({list})."
+
+msgid "No idps are defined. Check the config of module Single Sign-On first."
+msgstr "Es sind keine IdPs definiert.Überprüfen Sie zunächst die Konfiguration des Moduls Single Sign-On."
+
+msgid "The idp \"{idp}\" is empty or not defined in module Single Sign-On."
+msgstr "Der IDP „{idp}“ ist leer oder im Modul Single Sign-On nicht definiert."
+
+msgid "The item sets list \"{input}\" for idp {idp} is invalid: they should be numeric ids, optionaly prepended with a \"-\"."
+msgstr "Die Elementsatzliste „{input}“ für IDP {idp} ist ungültig: Es sollten numerische IDs sein, optional mit vorangestelltem „-“."
+
+msgid "The item sets list \"{input}\" for idp {idp} contains duplicate item sets ({list})."
+msgstr "Die Artikelsatzliste „{input}“ für IDP {idp} enthält doppelte Artikelsätze ({list})."
+
+msgid "The item sets list \"{input}\" for idp {idp} contains unknown item sets ({list})."
+msgstr "Die Elementgruppenliste „{input}“ für IDP {idp} enthält unbekannte Elementgruppen ({list})."
+
+msgid "Sync mode {mode} is invalid."
+msgstr "Der Synchronisierungsmodus {mode} ist ungültig."
+
+msgid "Missing mode {mode} is invalid."
+msgstr "Der fehlende Modus {mode} ist ungültig."
+
+msgid "These recursive processes are unknown: {names}."
+msgstr "Diese rekursiven Prozesse sind unbekannt: {Names}."
+
+msgid "Synchronization and missing modes are set as \"skip\" and no recursive processes are set."
+msgstr "Synchronisierungs- und fehlende Modi werden als „Überspringen“ festgelegt und es werden keine rekursiven Prozesse festgelegt."
+
+msgid "Synchronization of property values and index is set, but the config for access mode does not use properties."
+msgstr "Die Synchronisierung von Eigenschaftswerten und Index ist eingestellt, aber die Konfiguration für den Zugriffsmodus verwendet keine Eigenschaften."
+
+msgid "Starting indexation of access statuses of all resources."
+msgstr "Starten der Indexierung der Zugriffsstatus aller Ressourcen."
+
+msgid "End of indexation."
+msgstr "Ende der Indexierung."
+
+msgid "No resource to process."
+msgstr "Keine Ressource zum Verarbeiten."
+
+msgid "End of indexation of access statuses in properties."
+msgstr "Ende der Indexierung der Zugriffsstatus in Eigenschaften."
+
+msgid "No resource \"{resource_id}\" to process."
+msgstr "Keine Ressource „{resource_id}“ zum Verarbeiten."
+
+msgid "Resource #%d is not an item or an item set."
+msgstr "Ressource #%d ist kein Artikel oder Artikelsatz."
+
+msgid "No access status for resource #%d."
+msgstr "Kein Zugriffsstatus für Ressource #%d."
+
+msgid "Property \"%1$s\" for level does not exist."
+msgstr "Die Eigenschaft „%1$s“ für die Ebene existiert nicht."
+
+msgid "Property to set access level is not defined."
+msgstr "Die Eigenschaft zum Festlegen der Zugriffsebene ist nicht definiert."
+
+msgid "Property \"%1$s\" for embargo start does not exist."
+msgstr "Die Eigenschaft „%1$s“ für den Embargostart existiert nicht."
+
+msgid "Property to set embargo start is not defined."
+msgstr "Die Eigenschaft zum Festlegen des Embargobeginns ist nicht definiert."
+
+msgid "Property \"%1$s\" for embargo end does not exist."
+msgstr "Die Eigenschaft „%1$s“ für das Ende des Embargos existiert nicht."
+
+msgid "Property to set embargo end is not defined."
+msgstr "Die Eigenschaft zum Festlegen des Embargoendes ist nicht definiert."
+
+msgid "List of property levels is incomplete, missing \"%s\"."
+msgstr "Die Liste der Eigenschaftsebenen ist unvollständig, es fehlt „%s“."
+
+msgid "The data type for property level is not set, so \"%s\" will be used by default when it is not set in metadata."
+msgstr "Der Datentyp für die Eigenschaftsebene ist nicht festgelegt, daher wird standardmäßig „%s“ verwendet, wenn er nicht in den Metadaten festgelegt ist."
+
+msgid "Jobs to create missing access status of all resources"
+msgstr "Jobs zum Erstellen fehlender Zugriffsstatus aller Ressourcen"
+
+msgid "Copy level and embargo"
+msgstr "Kopierstufe und Embargo"
+
+msgid "From item sets to items and medias"
+msgstr "Von Artikelsets bis hin zu Artikeln und Medien"
+
+msgid "From items to medias"
+msgstr "Von Artikeln bis zu Medien"
+
+msgid "Copy access level and embargo"
+msgstr "Zugriffsebene und Embargo kopieren"
+
+msgid "Skip"
+msgstr "Überspringen"
+
+msgid "Copy data from property values into indexes"
+msgstr "Kopieren Sie Daten aus Eigenschaftswerten in Indizes"
+
+msgid "Copy data from indexes into property values"
+msgstr "Kopieren Sie Daten aus Indizes in Eigenschaftswerte"
+
+msgid "Fill missing statuses"
+msgstr "Füllen Sie fehlende Status aus"
+
+msgid "Set access level free for all resources without status"
+msgstr "Setzen Sie die Zugriffsebene für alle Ressourcen ohne Status frei"
+
+msgid "Set access level reserved for all resources without status"
+msgstr "Legen Sie die Zugriffsebene fest, die für alle Ressourcen ohne Status reserviert ist"
+
+msgid "Set access level protected for all resources without status"
+msgstr "Legen Sie die Zugriffsebene „geschützt“ für alle Ressourcen ohne Status fest"
+
+msgid "Set access level forbidden for all resources without status"
+msgstr "Legen Sie fest, dass die Zugriffsebene für alle Ressourcen ohne Status verboten ist"
+
+msgid "Set access level free when public and reserved when private"
+msgstr "Legen Sie die Zugriffsebene „Frei“ fest, wenn sie öffentlich ist, und „Reserviert“, wenn sie privat ist"
+
+msgid "Set access level free when public and protected when private"
+msgstr "Legen Sie die Zugriffsebene „Frei“ fest, wenn sie öffentlich ist, und „Geschützt“, wenn sie privat ist"
+
+msgid "Set access level free when public and forbidden when private"
+msgstr "Legen Sie die Zugriffsebene „frei“ fest, wenn sie öffentlich ist, und „verboten“, wenn sie privat ist"
+
+msgid "Send email to admin and user or visitor on access request or update"
+msgstr "Senden Sie bei Zugriffsanfragen oder Aktualisierungen eine E-Mail an den Administrator und den Benutzer oder Besucher"
+
+msgid "Admin email subject"
+msgstr "Betreff der Admin-E-Mail"
+
+msgid "Message to admin for new request"
+msgstr "Nachricht an den Administrator für neue Anfrage"
+
+msgid "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource} , {resources} and specific fields wrapped with \"{}\"."
+msgstr "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource}, {resources} und bestimmte Felder, die mit „{}“ umschlossen sind."
+
+msgid "Message to admin for updated request"
+msgstr "Nachricht an den Administrator für eine aktualisierte Anfrage"
+
+msgid "User email subject"
+msgstr "Betreff der Benutzer-E-Mail"
+
+msgid "Message to user for new request"
+msgstr "Nachricht an Benutzer für neue Anfrage"
+
+msgid "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource}, {resources} and specific fields wrapped with \"{}\"."
+msgstr "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource}, {resources} und bestimmte Felder, die mit „{}“ umschlossen sind."
+
+msgid "Message to user for request accepted"
+msgstr "Nachricht an den Benutzer zur Annahme der Anfrage"
+
+msgid "Message to user for request rejected"
+msgstr "Nachricht an Benutzer wegen abgelehnter Anfrage"
+
+msgid "Visitor email subject"
+msgstr "Betreff der Besucher-E-Mail"
+
+msgid "Message to visitor for new request"
+msgstr "Nachricht an Besucher für neue Anfrage"
+
+msgid "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource}, {resources}, {session_url} and specific fields wrapped with \"{}\"."
+msgstr "{main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {message}, {resource}, {resources}, {session_url} und bestimmte Felder, die mit „{}“ umschlossen sind."
+
+msgid "Message to visitor for request accepted"
+msgstr "Nachricht an Besucher für Anfrage angenommen"
+
+msgid "Message to visitor for request rejected"
+msgstr "Nachricht an Besucher wegen abgelehnter Anfrage"
+
+msgid "Message for the block \"Access request text\" when a resource is not available"
+msgstr "Meldung für den Block „Zugriffsanforderungstext“, wenn eine Ressource nicht verfügbar ist"
+
+msgid "Protection"
+msgstr "Schutz"
+
+msgid "Protect media content only (files)"
+msgstr "Nur Medieninhalte (Dateien) schützen"
+
+msgid "Protect records and content (not supported currently)"
+msgstr "Datensätze und Inhalte schützen (derzeit nicht unterstützt)"
+
+msgid "Access modes"
+msgstr "Zugriffsmodi"
+
+msgid "IP: visitors with specified ips have access to a list of reserved media by item sets"
+msgstr "IP: Besucher mit angegebenen IPs haben Zugriff auf eine Liste reservierter Medien nach Elementgruppen"
+
+msgid "Guest: all users, included guests, have access to all reserved medias"
+msgstr "Gast: Alle Benutzer, auch Gäste, haben Zugriff auf alle reservierten Medien"
+
+msgid "External: users externally authenticated (cas, ldap, sso) have access to all reserved medias"
+msgstr "Extern: Extern authentifizierte Benutzer (Cas, LDAP, SSO) haben Zugriff auf alle reservierten Medien"
+
+msgid "CAS: users authenticated by cas have access to all reserved medias"
+msgstr "CAS: Durch CAS authentifizierte Benutzer haben Zugriff auf alle reservierten Medien"
+
+msgid "LDAP: users authenticated by ldap have access to all reserved medias"
+msgstr "LDAP: Durch LDAP authentifizierte Benutzer haben Zugriff auf alle reservierten Medien"
+
+msgid "SSO: users authenticated by sso have access to all reserved medias"
+msgstr "SSO: Durch SSO authentifizierte Benutzer haben Zugriff auf alle reservierten Medien"
+
+msgid "SSO / IDP: users authenticated by specified identity providers have access to a list of reserved media by item sets"
+msgstr "SSO/IDP: Von bestimmten Identitätsanbietern authentifizierte Benutzer haben Zugriff auf eine Liste reservierter Medien nach Elementgruppen"
+
+msgid "Users authenticated with a specific email have access to all reserved medias"
+msgstr "Benutzer, die mit einer bestimmten E-Mail-Adresse authentifiziert sind, haben Zugriff auf alle reservierten Medien"
+
+msgid "User: authenticated users should request access to specific reserved medias"
+msgstr "Benutzer: Authentifizierte Benutzer sollten Zugriff auf bestimmte reservierte Medien anfordern"
+
+msgid "Email: A visitor identified by email should request access to specific reserved medias"
+msgstr "E-Mail: Ein per E-Mail identifizierter Besucher sollte den Zugriff auf bestimmte reservierte Medien anfordern"
+
+msgid "Token: A user or visitor with a token have access to specific reserved medias"
+msgstr "Token: Ein Benutzer oder Besucher mit einem Token hat Zugriff auf bestimmte reservierte Medien"
+
+msgid "List of ips with open access, eventually limited to selected item sets"
+msgstr "Liste der IPs mit offenem Zugriff, ggf. beschränkt auf ausgewählte Objektgruppen"
+
+msgid "These ips will have unrestricted access to all resources or only resources of the specified item sets. List them separated by a \"=\", one by line. Range ip are allowed (formatted as cidr). An item set prepended with a \"-\" means an excluded item set, in particular when a global item set is defined to identify all reserved resources."
+msgstr "Diese IPs haben uneingeschränkten Zugriff auf alle Ressourcen oder nur auf Ressourcen der angegebenen Elementgruppen.Listen Sie sie durch ein „=“ getrennt zeilenweise auf.IP-Bereiche sind zulässig (formatiert als cidr).Ein Elementsatz mit vorangestelltem „-“ bedeutet einen ausgeschlossenen Elementsatz, insbesondere wenn ein globaler Elementsatz definiert ist, um alle reservierten Ressourcen zu identifizieren."
+
+msgid "Check forwarded ip first (in proxy environment)"
+msgstr "Überprüfen Sie zuerst die weitergeleitete IP (in der Proxy-Umgebung)."
+
+msgid "List of sso idp with open access, eventually limited to selected item sets"
+msgstr "Liste der SSO-IDPs mit offenem Zugriff, ggf. beschränkt auf ausgewählte Elementgruppen"
+
+msgid "These identity providers will have unrestricted access to all resources or only resources of the specified item sets. List them separated by a \"=\", one by line. The idp name is the domain name or the value used in the login form. \"federation\" can be used for all users authenticated via a federated idp. An item set prepended with a \"-\" means an excluded item set, in particular when a global item set is defined to identify all reserved resources."
+msgstr "Diese Identitätsanbieter haben uneingeschränkten Zugriff auf alle Ressourcen oder nur auf Ressourcen der angegebenen Elementsätze.Listen Sie sie durch ein „=“ getrennt zeilenweise auf.Der IDP-Name ist der Domänenname oder der im Anmeldeformular verwendete Wert.„Föderation“ kann für alle Benutzer verwendet werden, die über einen föderierten IDP authentifiziert werden.Ein Elementsatz mit vorangestelltem „-“ bedeutet einen ausgeschlossenen Elementsatz, insbesondere wenn ein globaler Elementsatz definiert ist, um alle reservierten Ressourcen zu identifizieren."
+
+msgid "Regex on email of users allowed to access reserved medias (option above)"
+msgstr "Regex für E-Mails von Benutzern, denen der Zugriff auf reservierte Medien gestattet ist (Option oben)"
+
+msgid "Set access level and embargo via a property"
+msgstr "Legen Sie Zugriffsebene und Embargo über eine Immobilie fest"
+
+msgid "required"
+msgstr "erforderlich"
+
+msgid "Set property when access uses property"
+msgstr "Legen Sie die Eigenschaft fest, wenn der Zugriff die Eigenschaft verwendet"
+
+msgid "Labels for the four levels for mode property/level"
+msgstr "Beschriftungen für die vier Ebenen für Moduseigenschaft/Ebene"
+
+msgid "Data type to use for the level"
+msgstr "Datentyp, der für die Ebene verwendet werden soll"
+
+msgid "A data type like \"literal\" (default) or \"customvocab:X\" (recommended), where X is the custom vocab id to set. This value is used for batch processes."
+msgstr "Ein Datentyp wie „literal“ (Standard) oder „customvocab:X“ (empfohlen), wobei X die festzulegende benutzerdefinierte Vokabel-ID ist.Dieser Wert wird für Batch-Prozesse verwendet."
+
+msgid "Set property to use for embargo start"
+msgstr "Legen Sie die Eigenschaft fest, die für den Beginn des Embargos verwendet werden soll"
+
+msgid "Set property to use for embargo end"
+msgstr "Legen Sie die Eigenschaft fest, die für das Ende des Embargos verwendet werden soll"
+
+msgid "Show the access status in advanced tab of resource form when properties are used"
+msgstr "Zeigen Sie den Zugriffsstatus auf der Registerkarte „Erweitert“ des Ressourcenformulars an, wenn Eigenschaften verwendet werden"
+
+msgid "Bypass embargo dates for reserved resources"
+msgstr "Umgehen Sie Embargotermine für reservierte Ressourcen"
+
+msgid "Process reindexation"
+msgstr "Neuindizierung des Prozesses"
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "New level"
+msgstr "Neues Level"
+
+msgid "No change"
+msgstr "Keine Änderung"
+
+msgid "Set date below"
+msgstr "Datum unten einstellen"
+
+msgid "Embargo start date"
+msgstr "Startdatum des Embargos"
+
+msgid "Embargo end date"
+msgstr "Enddatum des Embargos"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Renew"
+msgstr "Erneuern"
+
+msgid "Accepted"
+msgstr "Akzeptiert"
+
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+msgid "Include medias"
+msgstr "Medien einbeziehen"
+
+msgid "Include items and medias"
+msgstr "Fügen Sie Artikel und Medien hinzu"
+
+msgid "Include items and media"
+msgstr "Fügen Sie Artikel und Medien hinzu"
+
+msgid "multiple"
+msgstr "mehrere"
+
+msgid "Or email"
+msgstr "Oder per E-Mail"
+
+msgid "Or token"
+msgstr "Oder Token"
+
+msgid "value"
+msgstr "Wert"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "End date"
+msgstr "Enddatum"
+
+msgid "Add access"
+msgstr "Zugriff hinzufügen"
+
+msgid "Label for the consent checkbox"
+msgstr "Beschriftung für das Kontrollkästchen „Einwilligung“."
+
+msgid "Other fields"
+msgstr "Andere Bereiche"
+
+msgid "Set the name (ascii only and no space) and the label separated by a \"=\", one by line. The elements may be adapted via the theme."
+msgstr "Legen Sie den Namen (nur ASCII und ohne Leerzeichen) und die Beschriftung getrennt durch ein „=\" zeilenweise fest.Die Elemente können über das Theme angepasst werden."
+
+msgid "phone"
+msgstr "Phone = Telefon = Telefon"
+
+msgid "Send"
+msgstr "Schicken"
+
+msgid "The requested resources must be an array"
+msgstr "Die angeforderten Ressourcen müssen ein Array sein"
+
+msgid "The requested resources cannot be empty."
+msgstr "Die angeforderten Ressourcen dürfen nicht leer sein."
+
+msgid "The status must be one of the list of statuses."
+msgstr "Der Status muss einer der Statuslisten sein."
+
+msgid "At least one resource must be requested."
+msgstr "Es muss mindestens eine Ressource angefordert werden."
+
+msgid "new"
+msgstr "neu"
+
+msgid "renew"
+msgstr "erneuern"
+
+msgid "accepted"
+msgstr "akzeptiert"
+
+msgid "rejected"
+msgstr "abgelehnt"
+
+msgid "access"
+msgstr "Zugang"
+
+msgid "request"
+msgstr "Anfrage"
+
+msgid "Is under embargo"
+msgstr "Steht unter Embargo"
+
+msgid "Embargo date"
+msgstr "Embargodatum"
+
+msgid "Individual access modes (single user, email, token) are not enabled."
+msgstr "Einzelne Zugriffsmodi (Einzelbenutzer, E-Mail, Token) sind nicht aktiviert."
+
+msgid "Access request record with id #{access_request_id} does not exist"
+msgstr "Der Zugriffsanforderungsdatensatz mit der ID #{access_request_id} ist nicht vorhanden"
+
+msgid "The request was sent, but an issue occurred when sending the confirmation email."
+msgstr "Die Anfrage wurde gesendet, beim Senden der Bestätigungs-E-Mail ist jedoch ein Problem aufgetreten."
+
+msgid "Access request successfully updated."
+msgstr "Zugriffsanfrage erfolgreich aktualisiert."
+
+msgid "access request"
+msgstr "Zugriffsanfrage"
+
+msgid "Access request successfully deleted"
+msgstr "Zugriffsanfrage erfolgreich gelöscht"
+
+msgid "Method should be post."
+msgstr "Methode sollte posten."
+
+msgid "The request #{access_request_id} is invalid or unavailable."
+msgstr "Die Anfrage #{access_request_id} ist ungültig oder nicht verfügbar."
+
+msgid "The file {file} (derivative: {derivative}) is invalid or not available."
+msgstr "Die Datei {file} (Derivat: {Derivat}) ist ungültig oder nicht verfügbar."
+
+msgid "The user #{user_id} ({user_email}) has no rights to get the file {file} or the file is invalid."
+msgstr "Der Benutzer #{user_id} ({user_email}) hat keine Rechte, die Datei {file} abzurufen, oder die Datei ist ungültig."
+
+msgid "The visitor has no rights to get the file {file} or the file is invalid."
+msgstr "Der Besucher hat keine Rechte, die Datei {file} abzurufen, oder die Datei ist ungültig."
+
+msgid "Individual access requests are not allowed."
+msgstr "Individuelle Zugriffsanfragen sind nicht zulässig."
+
+msgid "No resources were requested."
+msgstr "Es wurden keine Ressourcen angefordert."
+
+msgid "An email is required."
+msgstr "Eine E-Mail ist erforderlich."
+
+msgid "A valid email is required."
+msgstr "Eine gültige E-Mail-Adresse ist erforderlich."
+
+msgid "An error occurred when saving message."
+msgstr "Beim Speichern der Nachricht ist ein Fehler aufgetreten."
+
+msgid "The request was submitted successfully."
+msgstr "Die Anfrage wurde erfolgreich übermittelt."
+
+msgid "Access request form"
+msgstr "Formular zur Zugangsanfrage"
+
+msgid "Access request text"
+msgstr "Zugriffsanfragetext"
+
+msgid "Access request"
+msgstr "Zugriffsanfrage"
+
+msgid "To append fields, each row must contain a name and a label separated by a \"=\"."
+msgstr "Um Felder anzuhängen, muss jede Zeile einen Namen und eine Beschriftung enthalten, die durch ein „=\" getrennt sind."
+
+msgid "Accesses"
+msgstr "Zugriffe"
+
+msgid "The resource or the access doesn’t exist."
+msgstr "Die Ressource oder der Zugriff existiert nicht."
+
+msgid "New request status!"
+msgstr "Neuer Anfragestatus!"
+
+msgid "A user or visitor requested to access resource {resource}. Please, check request dashboard."
+msgstr "Ein Benutzer oder Besucher hat den Zugriff auf die Ressource {resource} angefordert.Bitte überprüfen Sie das Anfrage-Dashboard."
+
+msgid "A user or visitor updated the request to access a resource {resource}. Please, check request dashboard."
+msgstr "Ein Benutzer oder Besucher hat die Anfrage zum Zugriff auf eine Ressource {resource} aktualisiert.Bitte überprüfen Sie das Anfrage-Dashboard."
+
+msgid "Your request to access resource {resource} is sent to administrator. You will be informed soon about it."
+msgstr "Ihre Anfrage zum Zugriff auf die Ressource {resource} wird an den Administrator gesendet.Sie werden in Kürze darüber informiert."
+
+msgid "Your request to access resource {resource} was accepted."
+msgstr "Ihre Anfrage zum Zugriff auf die Ressource {resource} wurde angenommen."
+
+msgid "Your request to access resource {resource} was rejected."
+msgstr "Ihre Anfrage zum Zugriff auf die Ressource {resource} wurde abgelehnt."
+
+msgid "Your request to access resource {resource} is sent to administrator. You will be inform when your request will change."
+msgstr "Ihre Anfrage zum Zugriff auf die Ressource {resource} wird an den Administrator gesendet.Sie werden informiert, wenn sich Ihre Anfrage ändert."
+
+msgid "Your request to access resource {resource} was accepted. You will be able to access it after clicking {session_url}."
+msgstr "Ihre Anfrage zum Zugriff auf die Ressource {resource} wurde angenommen.Sie können darauf zugreifen, nachdem Sie auf {session_url} geklickt haben."
+
+msgid "This resource is not available for now. Contact the webmaster."
+msgstr "Diese Ressource ist derzeit nicht verfügbar.Kontaktieren Sie den Webmaster."
+
+msgid "By submitting this form, I accept the policy for processing my personal data."
+msgstr "Mit dem Absenden dieses Formulars akzeptiere ich die Richtlinien zur Verarbeitung meiner personenbezogenen Daten."

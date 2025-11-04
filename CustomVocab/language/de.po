@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s (#%s)"
+msgstr "%s (#%s)"
+
+msgid "%1$s <%2$s>"
+msgstr "%1$s <%2$s>"
+
+msgid "Select item below"
+msgstr "Wählen Sie unten den Artikel aus"
+
+msgid "Select URI below"
+msgstr "Wählen Sie unten den URI aus"
+
+msgid "Select term below"
+msgstr "Wählen Sie unten den Begriff aus"
+
+msgid "Custom Vocab"
+msgstr "Benutzerdefinierter Wortschatz"
+
+msgid "Import from file"
+msgstr "Aus Datei importieren"
+
+msgid "Add new vocab"
+msgstr "Neues Vokabular hinzufügen"
+
+msgid "Omeka could not find any custom vocabularies."
+msgstr "Omeka konnte keine benutzerdefinierten Vokabulare finden."
+
+msgid "Export to file"
+msgstr "In eine Datei exportieren"
+
+msgid "Update from file"
+msgstr "Update aus Datei"
+
+msgid "Terms"
+msgstr "Bedingungen"
+
+msgid "URIs"
+msgstr "URIs"
+
+msgid "%s items in item set %s"
+msgstr "%s Elemente im Elementsatz %s"
+
+msgid "The item set, terms, and URIs cannot all be empty."
+msgstr "Der Elementsatz, die Begriffe und die URIs dürfen nicht alle leer sein."
+
+msgid "Custom vocab select"
+msgstr "Benutzerdefinierte Vokabelauswahl"
+
+msgid "Selection label"
+msgstr "Auswahletikett"
+
+msgid "Custom vocab"
+msgstr "Benutzerdefinierter Wortschatz"
+
+msgid "Select one:"
+msgstr "Wählen Sie eines aus:"
+
+msgid "[No selection]"
+msgstr "[Keine Auswahl]"
+
+msgid "A human-readable title of the custom vocabulary."
+msgstr "Ein für Menschen lesbarer Titel des benutzerdefinierten Vokabulars."
+
+msgid "The language of the vocabulary terms."
+msgstr "Die Sprache der Vokabelbegriffe."
+
+msgid "Enter the item set containing the items in this vocabulary."
+msgstr "Geben Sie den Artikelsatz ein, der die Artikel in diesem Vokabular enthält."
+
+msgid "Enter all the terms in this vocabulary, separated by new lines."
+msgstr "Geben Sie alle Begriffe dieses Vokabulars ein, getrennt durch neue Zeilen."
+
+msgid "Enter all the URIs in this vocabulary, separated by new lines. You may label a URI by including the label after the URI, separated by a space."
+msgstr "Geben Sie alle URIs in diesem Vokabular ein, getrennt durch neue Zeilen.Sie können einen URI kennzeichnen, indem Sie die Bezeichnung durch ein Leerzeichen getrennt nach dem URI einfügen."
+
+msgid "Custom vocab file"
+msgstr "Benutzerdefinierte Vokabeldatei"
+
+msgid "Custom vocab file applied to this form. Check for accuracy and submit to save."
+msgstr "Benutzerdefinierte Vokabeldatei, die auf dieses Formular angewendet wird.Überprüfen Sie die Richtigkeit und senden Sie sie zum Speichern ab."
+
+msgid "Invalid custom vocab file."
+msgstr "Ungültige benutzerdefinierte Vokabeldatei."
+
+msgid "Custom vocab created."
+msgstr "Benutzerdefiniertes Vokabular erstellt."
+
+msgid "Cannot add custom vocab."
+msgstr "Benutzerdefiniertes Vokabular kann nicht hinzugefügt werden."
+
+msgid "Custom vocab updated."
+msgstr "Benutzerdefiniertes Vokabular aktualisiert."
+
+msgid "Cannot edit custom vocab."
+msgstr "Benutzerdefiniertes Vokabular kann nicht bearbeitet werden."
+
+msgid "Cannot export custom vocab."
+msgstr "Benutzerdefiniertes Vokabular kann nicht exportiert werden."
+
+msgid "Vocab successfully deleted"
+msgstr "Vokabel erfolgreich gelöscht"
+
+msgid "Vocab could not be deleted"
+msgstr "Vokabeln konnten nicht gelöscht werden"
+
+msgid "custom vocab"
+msgstr "benutzerdefiniertes Vokabular"

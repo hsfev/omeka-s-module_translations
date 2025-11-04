@@ -1,0 +1,1830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "This module cannot install its tables, because they exist already. Try to remove them first."
+msgstr "Dieses Modul kann seine Tabellen nicht installieren, da sie bereits vorhanden sind.Versuchen Sie zunächst, sie zu entfernen."
+
+msgid "WARNING:"
+msgstr "WARNUNG:"
+
+msgid "Remove directory \"files/check\""
+msgstr "Verzeichnis „files/check“ entfernen"
+
+msgid "Any"
+msgstr "Beliebig"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Resume"
+msgstr "Wieder aufnehmen"
+
+msgid "No files currently selected for upload"
+msgstr "Derzeit sind keine Dateien zum Hochladen ausgewählt"
+
+msgid "Not a valid file type or extension. Update your selection."
+msgstr "Kein gültiger Dateityp oder keine gültige Erweiterung.Aktualisieren Sie Ihre Auswahl."
+
+msgid "Not a valid file type, extension or size. Update your selection."
+msgstr "Kein gültiger Dateityp, keine gültige Erweiterung oder Größe.Aktualisieren Sie Ihre Auswahl."
+
+msgid "An issue occurred."
+msgstr "Es ist ein Problem aufgetreten."
+
+msgid "User not authenticated."
+msgstr "Benutzer nicht authentifiziert."
+
+msgid "The request must originate from the server."
+msgstr "Die Anfrage muss vom Server stammen."
+
+msgid "Expired, invalid or missing CSRF token."
+msgstr "Abgelaufenes, ungültiges oder fehlendes CSRF-Token."
+
+msgid "The file is empty."
+msgstr "Die Datei ist leer."
+
+msgid "A file with the same name exists and is not writeable."
+msgstr "Eine Datei mit demselben Namen existiert und ist nicht beschreibbar."
+
+msgid "An error occurred when storing file."
+msgstr "Beim Speichern der Datei ist ein Fehler aufgetreten."
+
+msgid "An existing file was overridden."
+msgstr "Eine vorhandene Datei wurde überschrieben."
+
+msgid "[empty]"
+msgstr "[leer]"
+
+msgid "Missing file"
+msgstr "Fehlende Datei"
+
+msgid "Not readable"
+msgstr "Nicht lesbar"
+
+msgid "Empty file"
+msgstr "Leere Datei"
+
+msgid "No source"
+msgstr "Keine Quelle"
+
+msgid "Copy issue"
+msgstr "Kopierproblem"
+
+msgid "Item removed"
+msgstr "Artikel entfernt"
+
+msgid "Item not removed: more than one media"
+msgstr "Element nicht entfernt: mehr als ein Medium"
+
+msgid "Automatically appended via module EasyAdmin on %s"
+msgstr "Wird automatisch über das Modul EasyAdmin auf %s angehängt"
+
+msgid "Upload files"
+msgstr "Dateien hochladen"
+
+msgid "Drag and drop"
+msgstr "Ziehen und ablegen"
+
+msgid "Browse files"
+msgstr "Durchsuchen Sie Dateien"
+
+msgid "Select directory"
+msgstr "Verzeichnis auswählen"
+
+msgid "Wait before submission…"
+msgstr "Warten Sie mit der Einreichung …"
+
+msgid "Sort…"
+msgstr "Sortieren…"
+
+msgid "By file name"
+msgstr "Nach Dateinamen"
+
+msgid "By extension first"
+msgstr "Zuerst im Sinne einer Erweiterung"
+
+msgid "By extension last"
+msgstr "Im weiteren Sinne zuletzt"
+
+msgid "Simple"
+msgstr "Einfach"
+
+msgid "Alphabetic"
+msgstr "Alphabetisch"
+
+msgid "Simple (with folder)"
+msgstr "Einfach (mit Ordner)"
+
+msgid "Alphabetic (with folder)"
+msgstr "Alphabetisch (mit Ordner)"
+
+msgid "Hide uploaded files"
+msgstr "Hochgeladene Dateien ausblenden"
+
+msgid "Allow to submit before full upload"
+msgstr "Vor dem vollständigen Hochladen die Übermittlung zulassen"
+
+msgid "Previous resource"
+msgstr "Vorherige Ressource"
+
+msgid "No previous resource"
+msgstr "Keine vorherige Ressource"
+
+msgid "Back to last search"
+msgstr "Zurück zur letzten Suche"
+
+msgid "Next resource"
+msgstr "Nächste Ressource"
+
+msgid "No next resource"
+msgstr "Keine nächste Ressource"
+
+msgid "Install addons"
+msgstr "Addons installieren"
+
+msgid "Easy Admin"
+msgstr "Einfache Verwaltung"
+
+msgid "For more information on addons, see the pages %smodules%s and %sthemes%s or on %sOmeka.org%s."
+msgstr "Weitere Informationen zu Add-ons finden Sie auf den Seiten %smodules%s und %sthemes%s oder auf %sOmeka.org%s."
+
+msgid "See the details of the %1$scurated selections of modules%2$s."
+msgstr "Sehen Sie sich die Details der %1$skurierten Modulauswahl%2$s an."
+
+msgid "Select either a module, a theme or a selection. Only one choice can be submitted at a time."
+msgstr "Wählen Sie entweder ein Modul, ein Thema oder eine Auswahl.Es kann jeweils nur eine Auswahl eingereicht werden."
+
+msgid "Addons with an asterisk are already downloaded."
+msgstr "Add-ons mit einem Sternchen sind bereits heruntergeladen."
+
+msgid "Check and fix"
+msgstr "Überprüfen und beheben"
+
+msgid "Regular tasks"
+msgstr "Regelmäßige Aufgaben"
+
+msgid "File manager"
+msgstr "Dateimanager"
+
+msgid "Upload files without size or number limitation and without direct access to server, for example for %1$sFile Sideload%2$s, %3$sBulk Import%2$s, or %4$sTimeline%2$s. All uploaded files will be stored directly at the root of the configured directory."
+msgstr "Laden Sie Dateien ohne Größen- oder Anzahlbeschränkung und ohne direkten Zugriff auf den Server hoch, zum Beispiel für %1$sFile Sideload%2$s, %3$sBulk Import%2$s oder %4$sTimeline%2$s.Alle hochgeladenen Dateien werden direkt im Stammverzeichnis des konfigurierten Verzeichnisses gespeichert."
+
+msgid "%1$sWarning%2$s: existing files with the same name than uploaded files will be overridden."
+msgstr "%1$sWarnung%2$s: Vorhandene Dateien mit demselben Namen wie die hochgeladenen Dateien werden überschrieben."
+
+msgid "Current directory:"
+msgstr "Aktuelles Verzeichnis:"
+
+msgid "Uploading in progress…"
+msgstr "Hochladen läuft…"
+
+msgid "Hide folders"
+msgstr "Ordner ausblenden"
+
+msgid "Display folders"
+msgstr "Ordner anzeigen"
+
+msgid "Select file"
+msgstr "Datei auswählen"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Delete files"
+msgstr "Dateien löschen"
+
+msgid "Are you sure you would like to delete the selected files?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Dateien löschen möchten?"
+
+msgid "%1$sWarning%2$s: this action will permanently delete %3$s files and cannot be undone."
+msgstr "%1$sWarnung%2$s: Diese Aktion löscht %3$s Dateien dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all files on all pages of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Dateien auf allen Seiten dieses Ergebnisses löschen möchten?"
+
+msgid "No files."
+msgstr "Keine Dateien."
+
+msgid "Directory: %s"
+msgstr "Verzeichnis: %s"
+
+msgid "File: %s"
+msgstr "Datei: %s"
+
+msgid "Optimize size for web (may degrade quality)"
+msgstr "Größe für das Web optimieren (kann die Qualität beeinträchtigen)"
+
+msgid "[unknown]"
+msgstr "[unbekannt]"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "The module replaces the module {module}. The upgrade is automatic."
+msgstr "Das Modul ersetzt das Modul {module}.Das Upgrade erfolgt automatisch."
+
+msgid "It’s now possible to install {link}modules and themes{link_end}."
+msgstr "Es ist jetzt möglich, {link}Module und Themes{link_end} zu installieren."
+
+msgid "A anti-concurrent editing feature has been added: when a user opens a resource for edition, others users cannot edit it until submission."
+msgstr "Es wurde eine Anti-Parallel-Bearbeitungsfunktion hinzugefügt: Wenn ein Benutzer eine Ressource zur Bearbeitung öffnet, können andere Benutzer sie erst nach der Übermittlung bearbeiten."
+
+msgid "This option can be enabled/disabled in {link}main settings{link_end}."
+msgstr "Diese Option kann in den {link}Haupteinstellungen{link_end} aktiviert/deaktiviert werden."
+
+msgid "The content locks are removed after 24h by default."
+msgstr "Die Inhaltssperren werden standardmäßig nach 24 Stunden entfernt."
+
+msgid "A task has been added to manage precise xml media types, for example \"application/alto+xml\" instead of \"text/xml\"."
+msgstr "Es wurde eine Aufgabe hinzugefügt, um genaue XML-Medientypen zu verwalten, zum Beispiel „application/alto+xml“ anstelle von „text/xml“."
+
+msgid "This task can be run via the main {link}menu{link_end}."
+msgstr "Diese Aufgabe kann über das Haupt-{link}Menü{link_end} ausgeführt werden."
+
+msgid "easyadmin_maintenance_text"
+msgstr "easyadmin_maintenance_text"
+
+msgid "It’s now possible to set the site in {link}maintenance mode{link_end} for public or users."
+msgstr "Es ist jetzt möglich, die Website für die Öffentlichkeit oder Benutzer in den {link}Wartungsmodus{link_end} zu versetzen."
+
+msgid "An {link}soption{link_end} allows to display a link from the resource admin page to the public page."
+msgstr "Eine {link}soption{link_end} ermöglicht die Anzeige eines Links von der Ressourcenadministrationsseite zur öffentlichen Seite."
+
+msgid "The module \"{module}\" was upgraded by module \"{module_2}\" and uninstalled."
+msgstr "Das Modul „{module}“ wurde durch das Modul „{module_2}“ aktualisiert und deinstalliert."
+
+msgid "An {link}option{link_end} allows to display links to previous and next resources."
+msgstr "Eine {link}Option{link_end} ermöglicht die Anzeige von Links zu vorherigen und nächsten Ressourcen."
+
+msgid "The script for tasks was updated and option `--job` is now passed by default. Check your cron tasks if you use it."
+msgstr "Das Skript für Aufgaben wurde aktualisiert und die Option „--job“ wird jetzt standardmäßig übergeben.Überprüfen Sie Ihre Cron-Aufgaben, wenn Sie es verwenden."
+
+msgid "New tasks were added to set the primary media of all items and to check resources."
+msgstr "Es wurden neue Aufgaben hinzugefügt, um die Primärmedien aller Artikel festzulegen und Ressourcen zu überprüfen."
+
+msgid "The directory \"{dir}\" is not writeable."
+msgstr "Das Verzeichnis „{dir}“ ist nicht beschreibbar."
+
+msgid "A new task allows to backup Omeka installation files (without directory /files)."
+msgstr "Eine neue Aufgabe ermöglicht die Sicherung der Omeka-Installationsdateien (ohne Verzeichnis /files)."
+
+msgid "A new task allows to clear php caches (code and data), in particular after an update or direct modification of code."
+msgstr "Eine neue Aufgabe ermöglicht das Löschen von PHP-Caches (Code und Daten), insbesondere nach einem Update oder einer direkten Änderung des Codes."
+
+msgid "A new task allows to loop resources, for example to manage a new setting in template or in parameters via triggers."
+msgstr "Eine neue Aufgabe ermöglicht es, Ressourcen zu schleifen, um beispielsweise eine neue Einstellung in der Vorlage oder in Parametern über Trigger zu verwalten."
+
+msgid "It is now possible to bulk upload files without any server limit (file size, post size, number of files) in item form and in a separate form (feature moved from module {link_module}Bulk Import{link_end}, fix {link_github}omeka/omeka-s #1785{link_end})."
+msgstr "Es ist jetzt möglich, Dateien ohne Serverbeschränkung (Dateigröße, Beitragsgröße, Anzahl der Dateien) in Elementform und in einer separaten Form in großen Mengen hochzuladen (Funktion wurde aus dem Modul {link_module}Massenimport{link_end} verschoben, Korrektur von {link_github}omeka/omeka-s #1785{link_end})."
+
+msgid "A new option allows to notify new version of inactive modules."
+msgstr "Eine neue Option ermöglicht die Benachrichtigung über neue Versionen inaktiver Module."
+
+msgid "It is now possible to optimize assets for web."
+msgstr "Es ist jetzt möglich, Assets für das Web zu optimieren."
+
+msgid "It is now possible to install a curated selection of modules."
+msgstr "Es ist nun möglich, eine kuratierte Auswahl an Modulen zu installieren."
+
+msgid "It is now possible to upload and delete local files in a configurated directory."
+msgstr "Es ist nun möglich, lokale Dateien in einem konfigurierten Verzeichnis hochzuladen und zu löschen."
+
+msgid "To allow to upload files in a specific path outside of directory files/, update the file local.config.php."
+msgstr "Um das Hochladen von Dateien in einen bestimmten Pfad außerhalb des Verzeichnisses files/ zu ermöglichen, aktualisieren Sie die Datei local.config.php."
+
+msgid "It is now possible to define regular tasks to remove sessions regularly. A first cleaning of old ones is launched."
+msgstr "Es ist nun möglich, regelmäßige Aufgaben zu definieren, um Sitzungen regelmäßig zu entfernen.Eine erste Reinigung alter Geräte wird eingeleitet."
+
+msgid "The feature to lock concurrent editing was moved to the new module {link}Lock Edit{link_end}. You should install it if you need it."
+msgstr "Die Funktion zum Sperren der gleichzeitigen Bearbeitung wurde in das neue Modul {link}Bearbeitung sperren{link_end} verschoben.Sie sollten es installieren, wenn Sie es benötigen."
+
+msgid "A new setting allows the reviewer to delete any resource."
+msgstr "Eine neue Einstellung ermöglicht es dem Prüfer, jede Ressource zu löschen."
+
+msgid "A new setting allows to add a button to quick create a resource with a specific template."
+msgstr "Eine neue Einstellung ermöglicht das Hinzufügen einer Schaltfläche zum schnellen Erstellen einer Ressource mit einer bestimmten Vorlage."
+
+msgid "A new setting allows to define the name of the administrator."
+msgstr "Eine neue Einstellung ermöglicht es, den Namen des Administrators zu definieren."
+
+msgid "A new setting allows to define a no-reply email for automatic messages and notifications."
+msgstr "Eine neue Einstellung ermöglicht die Definition einer No-Reply-E-Mail für automatische Nachrichten und Benachrichtigungen."
+
+msgid "A new setting allows to define a list of directories available for browsing."
+msgstr "Mit einer neuen Einstellung können Sie eine Liste der zum Durchsuchen verfügbaren Verzeichnisse definieren."
+
+msgid "A new task allows to clean and to deduplicate resources values."
+msgstr "Eine neue Aufgabe ermöglicht die Bereinigung und Deduplizierung von Ressourcenwerten."
+
+msgid "Usage: php data/scripts/task.php [arguments]\n\nRequired arguments:\n  -t --task [Name]\n		Full class of a job (\"EasyAdmin\Job\LoopItems\"). May be its\n		basename (\"LoopItems\"). You should take care of case\n		sensitivity and escaping \"\\" or quoting name on cli.\n\n  -u --user-id [#id]\n		The Omeka user id is required, else the job won’t have any\n		rights.\n\nRecommended arguments:\n  -s --server-url [url]\n		The url of the server to build resource urls (default:\n		\"http://localhost\").\n\n  -b --base-path [path]\n		The path to complete the server url (default: \"/\").\n\nOptional arguments:\n  -a --args [json]\n		Arguments to pass to the task. Arguments are specific to\n		each job. To find them, check the code, or run a job\n		manually then check the job page in admin interface.\n\n  -k --as-task\n		Process a a simple task and do not create a job. May be\n		used for tasks that do not need to be checked as a job.\n		This is the inverse of the deprecated argument --job.\n\nDeprecated arguments:\n  -j --job\n		Create a standard job that will be checkable in admin\n		interface. In any case, all logs are available in logs with\n		a reference code. It allows to process jobs that are not\n		taskable.\n		This option is now set by default and is useless.\n\nOther arguments:\n  -h --help\n		This help."
+msgstr "Verwendung: php data/scripts/task.php [Argumente]\n\nErforderliche Argumente:\n-t --task [Name]\nVollständige Klasse eines Jobs („EasyAdmin\Job\LoopItems“).Vielleicht ist es das\nBasisname („LoopItems“).Sie sollten sich um den Fall kümmern\nEmpfindlichkeit und Escapezeichen „\“ oder Anführungszeichen des Namens auf der CLI.\n\n-u --user-id [#id]\nDie Omeka-Benutzer-ID ist erforderlich, andernfalls hat der Job keine\nRechte.\n\nEmpfohlene Argumente:\n-s --server-url [URL]\nDie URL des Servers zum Erstellen von Ressourcen-URLs (Standard:\n„http://localhost“).\n\n-b --base-path [Pfad]\nDer Pfad zur Vervollständigung der Server-URL (Standard: „/“).\n\nOptionale Argumente:\n-a --args [json]\nArgumente, die an die Aufgabe übergeben werden sollen.Argumente sind spezifisch für\njeden Job.Um sie zu finden, überprüfen Sie den Code oder führen Sie einen Job aus\nmanuell und überprüfen Sie dann die Jobseite in der Admin-Oberfläche.\n\n-k --as-task\nBearbeiten Sie eine einfache Aufgabe und erstellen Sie keinen Job.Vielleicht\nWird für Aufgaben verwendet, die nicht als Job überprüft werden müssen.\nDies ist die Umkehrung des veralteten Arguments --job.\n\nVeraltete Argumente:\n-j --job\nErstellen Sie einen Standardjob, der im Administratorbereich überprüft werden kann\nSchnittstelle.In jedem Fall sind alle Protokolle in Protokollen mit verfügbar\nein Referenzcode.Es ermöglicht die Bearbeitung von Aufträgen, die dies nicht sind\nauftragbar.\nDiese Option ist jetzt standardmäßig eingestellt und nutzlos.\n\nWeitere Argumente:\n-h --help\nDiese Hilfe."
+
+msgid "The script \"%s\" must be run from the command line."
+msgstr "Das Skript „%s“ muss über die Befehlszeile ausgeführt werden."
+
+msgid "The job arguments are not a valid json object."
+msgstr "Die Jobargumente sind kein gültiges JSON-Objekt."
+
+msgid "The option \"--job\" is set by default and is deprecated."
+msgstr "Die Option „--job“ ist standardmäßig festgelegt und veraltet."
+
+msgid "The task name must be set and exist."
+msgstr "Der Aufgabenname muss festgelegt und vorhanden sein."
+
+msgid "The task \"%s\" should be set and exist."
+msgstr "Die Aufgabe „%s“ sollte festgelegt und vorhanden sein."
+
+msgid "The user id must be set and exist."
+msgstr "Die Benutzer-ID muss festgelegt und vorhanden sein."
+
+msgid "Database is not available. Check if php-mysql is installed with the php version available on cli."
+msgstr "Datenbank ist nicht verfügbar.Überprüfen Sie, ob PHP-MySQL mit der auf CLI verfügbaren PHP-Version installiert ist."
+
+msgid "The database does not exist."
+msgstr "Die Datenbank existiert nicht."
+
+msgid "The user #%d is set for the task \"%s\", but doesn’t exist."
+msgstr "Der Benutzer #%d ist für die Aufgabe „%s“ festgelegt, existiert aber nicht."
+
+msgid "No server url passed, so use: --server-url \"http://localhost\""
+msgstr "Keine Server-URL übergeben, daher verwenden Sie: --server-url „http://localhost“"
+
+msgid "No base path passed, so use: --base-path \"/\""
+msgstr "Kein Basispfad übergeben, also verwenden Sie: --base-path „/“"
+
+msgid "Task \"%1$s\" is starting (job: #%2$d, reference: %3$s)."
+msgstr "Aufgabe „%1$s“ wird gestartet (Auftrag: #%2$d, Referenz: %3$s)."
+
+msgid "Task \"%1$s\" is starting (reference: %2$s)."
+msgstr "Aufgabe „%1$s“ wird gestartet (Referenz: %2$s)."
+
+msgid "Task \"%1$s\" is starting (job: #%2$d)."
+msgstr "Aufgabe „%1$s“ wird gestartet (Auftrag: #%2$d)."
+
+msgid "Task \"%1$s\" is starting."
+msgstr "Aufgabe „%1$s“ wird gestartet."
+
+msgid "Task is starting."
+msgstr "Aufgabe wird gestartet."
+
+msgid "Task \"%1$s\" has an error: %2$s"
+msgstr "Aufgabe „%1$s“ hat einen Fehler: %2$s"
+
+msgid "Task ended."
+msgstr "Aufgabe beendet."
+
+msgid "Task \"%1$s\" ended."
+msgstr "Aufgabe „%1$s“ beendet."
+
+msgid "The libraries should be installed. See module’s installation documentation."
+msgstr "Die Bibliotheken sollten installiert sein.Siehe Installationsdokumentation des Moduls."
+
+msgid "Upgrading module BulkCheck: Unable to rename directory \"files/bulk_check\" into \"files/check\". Trying to create it."
+msgstr "Modul BulkCheck wird aktualisiert: Das Verzeichnis „files/bulk_check“ kann nicht in „files/check“ umbenannt werden.Ich versuche es zu erstellen."
+
+msgid "All stored files from checks and fixes, if any, will be removed from folder \"{folder}\"."
+msgstr "Alle gespeicherten Dateien aus Prüfungen und Korrekturen, sofern vorhanden, werden aus dem Ordner „{Ordner}“ entfernt."
+
+msgid "View this {resource_type} in \"{site}\""
+msgstr "Diesen {resource_type} in „{site}“ anzeigen"
+
+msgid "[not in site]"
+msgstr "[nicht vor Ort]"
+
+msgid "File successfuly uploaded."
+msgstr "Datei erfolgreich hochgeladen."
+
+msgid "The total of file sizes exceeds the the server limit directive."
+msgstr "Die Gesamtgröße der Dateien überschreitet die Servergrenzanweisung."
+
+msgid "The file size exceeds the specified limit."
+msgstr "Die Dateigröße überschreitet den angegebenen Grenzwert."
+
+msgid "The file was only partially uploaded."
+msgstr "Die Datei wurde nur teilweise hochgeladen."
+
+msgid "No file was uploaded."
+msgstr "Es wurde keine Datei hochgeladen."
+
+msgid "The temporary folder to store the file is missing."
+msgstr "Der temporäre Ordner zum Speichern der Datei fehlt."
+
+msgid "Failed to write file to disk."
+msgstr "Die Datei konnte nicht auf die Festplatte geschrieben werden."
+
+msgid "A PHP extension stopped the file upload."
+msgstr "Eine PHP-Erweiterung hat den Datei-Upload gestoppt."
+
+msgid "There is no uploaded files."
+msgstr "Es sind keine Dateien hochgeladen."
+
+msgid "File #{index} \"{filename}\" has an error: {error}."
+msgstr "Datei #{index} „{filename}“ hat einen Fehler: {error}."
+
+msgid "File #{index} \"{filename}\" must not start with a \".\"."
+msgstr "Datei #{index} „{filename}“ darf nicht mit einem „.“ beginnen."
+
+msgid "File #{index} \"{filename}\" must not contain a reserved character."
+msgstr "Datei #{index} „{filename}“ darf kein reserviertes Zeichen enthalten."
+
+msgid "File #{index} temp name \"{filename}\" must not contain a reserved character."
+msgstr "Datei #{index} temporärer Name „{filename}“ darf kein reserviertes Zeichen enthalten."
+
+msgid "File #{index} \"{filename}\" is an empty file."
+msgstr "Datei #{index} „{filename}“ ist eine leere Datei."
+
+msgid "An error occurred when fetching asset \"{asset_filename}\" (#{asset_id}): {errors}"
+msgstr "Beim Abrufen des Assets „{asset_filename}“ (#{asset_id}) ist ein Fehler aufgetreten: {errors}"
+
+msgid "An error occurred when optimizing asset \"{asset_filename}\" (#{asset_id}): {error}"
+msgstr "Beim Optimieren des Assets „{asset_filename}“ (#{asset_id}) ist ein Fehler aufgetreten: {error}"
+
+msgid "An error occurred when storing asset \"{asset_filename}\" (#{asset_id}): {error}"
+msgstr "Beim Speichern des Assets „{asset_filename}“ (#{asset_id}) ist ein Fehler aufgetreten: {error}"
+
+msgid "The asset \"{asset_filename}\" (#{asset_id}) has been successfully optimized by {percent}%, from {size_1} to {size_2} bytes."
+msgstr "Das Asset „{asset_filename}“ (#{asset_id}) wurde erfolgreich um {percent} % optimiert, von {size_1} auf {size_2} Bytes."
+
+msgid "Unable to fetch the url {url}."
+msgstr "Die URL {url} konnte nicht abgerufen werden."
+
+msgid "The module \"{module}\" requires the dependencies \"{names}\" installed and enabled first."
+msgstr "Für das Modul „{module}“ müssen zunächst die Abhängigkeiten „{names}“ installiert und aktiviert werden."
+
+msgid "The {type} directory is not writeable by the server."
+msgstr "Das Verzeichnis {type} kann vom Server nicht beschrieben werden."
+
+msgid "Don’t forget to protect the {type} directory from writing after installation."
+msgstr "Vergessen Sie nicht, das Verzeichnis {type} nach der Installation vor dem Schreiben zu schützen."
+
+msgid "A zipfile exists with the same name in the {type} directory and cannot be removed."
+msgstr "Im Verzeichnis {type} ist eine ZIP-Datei mit demselben Namen vorhanden, die nicht entfernt werden kann."
+
+msgid "The {type} directory \"{name}\" already exists."
+msgstr "Das {type}-Verzeichnis „{name}“ existiert bereits."
+
+msgid "Unable to fetch the {type} \"{name}\"."
+msgstr "Der {Typ} „{Name}“ konnte nicht abgerufen werden."
+
+msgid "An error occurred during the unzipping of the {type} \"{name}\"."
+msgstr "Beim Entpacken von {type} „{name}“ ist ein Fehler aufgetreten."
+
+msgid "The module \"{name}\" requires the dependency \"Generic\" version \"{version}\" available first."
+msgstr "Für das Modul „{name}“ muss zuerst die Abhängigkeit „Generic“ in der Version „{version}“ verfügbar sein."
+
+msgid "If \"{name}\" doesn’t appear in the list of {type}, its directory may need to be renamed."
+msgstr "Wenn „{name}“ nicht in der Liste von {type} erscheint, muss sein Verzeichnis möglicherweise umbenannt werden."
+
+msgid "{type} uploaded successfully"
+msgstr "{type} erfolgreich hochgeladen"
+
+msgid "It is always recommended to read the original readme or help of the addon."
+msgstr "Es wird immer empfohlen, die Original-Readme-Datei oder die Hilfe des Add-Ons zu lesen."
+
+msgid "ZipArchive"
+msgstr "ZipArchive"
+
+msgid "Failed to execute command: {command}"
+msgstr "Befehl konnte nicht ausgeführt werden: {command}"
+
+msgid "Filename"
+msgstr "Dateiname"
+
+msgid "Extension"
+msgstr "Verlängerung"
+
+msgid "Exists"
+msgstr "Existiert"
+
+msgid "Storage name"
+msgstr "Speichername"
+
+msgid "New random storage name"
+msgstr "Neuer zufälliger Speichername"
+
+msgid "Fixed"
+msgstr "Behoben"
+
+msgid "Process \"{process}\" completed."
+msgstr "Prozess „{process}“ abgeschlossen."
+
+msgid "There are {count}/{total} resources that are not specified."
+msgstr "Es gibt {count}/{total} Ressourcen, die nicht angegeben sind."
+
+msgid "{count}/{total} resources that were not specified were removed."
+msgstr "{count}/{total} Ressourcen, die nicht angegeben wurden, wurden entfernt."
+
+msgid "There are no resources with invalid resource type."
+msgstr "Es sind keine Ressourcen mit ungültigem Ressourcentyp vorhanden."
+
+msgid "There are {count} resources with invalid resource type: {json}."
+msgstr "Es gibt {count} Ressourcen mit ungültigem Ressourcentyp: {json}."
+
+msgid "{count} resources with invalid resource type were fixed."
+msgstr "{count} Ressourcen mit ungültigem Ressourcentyp wurden behoben."
+
+msgid "There are {count} resources with invalid resource type that cannot be fixed automatically: {json}."
+msgstr "Es gibt {count} Ressourcen mit einem ungültigen Ressourcentyp, der nicht automatisch repariert werden kann: {json}."
+
+msgid "Dead jobs were cleaned: {count_stopped} marked \"stopped\" and {count_error} marked \"error\" on a total of {count_jobs}."
+msgstr "Tote Jobs wurden bereinigt: {count_stopped} markierte „gestoppt“ und {count_error} markierte „Fehler“ bei insgesamt {count_jobs}."
+
+msgid "There is no dead job."
+msgstr "Es gibt keinen toten Job."
+
+msgid "The following {count} jobs are dead: {job_ids}."
+msgstr "Die folgenden {count} Jobs sind tot: {job_ids}."
+
+msgid "A total of {count} dead jobs have been cleaned."
+msgstr "Insgesamt wurden {count} tote Jobs bereinigt."
+
+msgid "The following modules of the selection are unknown: {addons}."
+msgstr "Die folgenden Module der Auswahl sind unbekannt: {addons}."
+
+msgid "The following modules are already installed: {addons}."
+msgstr "Die folgenden Module sind bereits installiert: {addons}."
+
+msgid "The following modules cannot be installed: {addons}."
+msgstr "Die folgenden Module können nicht installiert werden: {addons}."
+
+msgid "The following modules have been installed: {addons}."
+msgstr "Die folgenden Module wurden installiert: {addons}."
+
+msgid "Column {type} does not exist or cannot be checked."
+msgstr "Spalte {type} existiert nicht oder kann nicht überprüft werden."
+
+msgid "{total_size}/{total_no} media have no original file, but a {type}, and were fixed."
+msgstr "{total_size}/{total_no}-Medien haben keine Originaldatei, sondern einen {type} und wurden behoben."
+
+msgid "{total_size}/{total_no} media have no original file, but a {type}."
+msgstr "{total_size}/{total_no} Medien haben keine Originaldatei, sondern einen {type}."
+
+msgid "{total_no} media have no original file, so no {type}."
+msgstr "{total_no} Medien haben keine Originaldatei, also keinen {type}."
+
+msgid "Checking {total} media with original files."
+msgstr "{total} Medien werden mit Originaldateien überprüft."
+
+msgid "No media to process."
+msgstr "Keine zu verarbeitenden Medien."
+
+msgid "{processed}/{total} media processed."
+msgstr "{verarbeitet}/{total} verarbeitete Medien."
+
+msgid "The job was stopped."
+msgstr "Der Job wurde gestoppt."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" has no value and cannot be renamed."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ hat keinen Wert und kann nicht umbenannt werden."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" is write protected and cannot be renamed."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ ist schreibgeschützt und kann nicht umbenannt werden."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" was renamed \"{filename_2}\"."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ wurde in „{filename_2}“ umbenannt."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" cannot be renamed \"{filename_2}\"."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ kann nicht in „{filename_2}“ umbenannt werden."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" updated with {type}"
+msgstr "{real_value} (was {old_value}). = Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“, aktualisiert mit {type} = {real_value} (war {old_value})."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" has no {type}, but should be {real_value}."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ hat keinen {type}, sollte aber {real_value} sein."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" has a different {type}: {db_value} ≠ {real_value}."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ hat einen anderen {Typ}: {db_value} ≠ {real_value}."
+
+msgid "Media #{media_id} ({processed}/{total}): original file \"{filename}\" does not exist."
+msgstr "Medien #{media_id} ({verarbeitet}/{total}): Originaldatei „{filename}“ existiert nicht."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} succeed, {total_failed} failed."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen."
+
+msgid "Directory or file not readable: {error}"
+msgstr "Verzeichnis oder Datei nicht lesbar: {Fehler}"
+
+msgid "Media #{media_id}: the original file \"{filename}\" does not exist."
+msgstr "Medien #{media_id}: Die Originaldatei „{filename}“ existiert nicht."
+
+msgid "Media #{media_id}: the original file \"{filename}\" is not readable."
+msgstr "Medien #{media_id}: Die Originaldatei „{filename}“ ist nicht lesbar."
+
+msgid "Media #{media_id}: an issue occurred during thumbnail creation or it is not thumbnailable."
+msgstr "Medium #{media_id}: Bei der Erstellung der Miniaturansicht ist ein Problem aufgetreten oder die Miniaturansicht kann nicht angezeigt werden."
+
+msgid "Database size"
+msgstr "Datenbankgröße"
+
+msgid "Real size"
+msgstr "Echte Größe"
+
+msgid "Existing title"
+msgstr "Vorhandener Titel"
+
+msgid "Real title"
+msgstr "Echter Titel"
+
+msgid "Different"
+msgstr "Anders"
+
+msgid "You should reindex the Omeka metadata."
+msgstr "Sie sollten die Omeka-Metadaten neu indizieren."
+
+msgid "No resource to process."
+msgstr "Keine Ressource zum Verarbeiten."
+
+msgid "{processed}/{total} resources processed."
+msgstr "{verarbeitet}/{total} verarbeitete Ressourcen."
+
+msgid "Fixed title for resource \"{resource_type}\" #{resource_id}."
+msgstr "Titel für Ressource „{resource_type}“ #{resource_id} korrigiert."
+
+msgid "Title for resource \"{resource_type}\" #{resource_id} should be empty."
+msgstr "Der Titel für die Ressource „{resource_type}“ #{resource_id} sollte leer sein."
+
+msgid "Title for resource \"{resource_type}\" #{resource_id} should be \"{title}\"."
+msgstr "Der Titel für die Ressource „{resource_type}“ #{resource_id} sollte „{title}“ sein."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} updated."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} aktualisiert."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} different."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} unterschiedlich."
+
+msgid "Value id"
+msgstr "Wert-ID"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "You should specify the types of records to check or fix."
+msgstr "Sie sollten die Arten von Datensätzen angeben, die überprüft oder korrigiert werden sollen."
+
+msgid "Checking {total} records \"{name}\" with a \"{value}\"."
+msgstr "{total} Datensätze „{name}“ werden mit einem „{value}“ überprüft."
+
+msgid "{processed}/{total} records processed."
+msgstr "{verarbeitet}/{total} verarbeitete Datensätze."
+
+msgid "End of process: {processed}/{total} processed, {total_utf8} already utf-8, {total_succeed} converted ({type})."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_utf8} bereits utf-8, {total_succeed} konvertiert ({type})."
+
+msgid "To do a backup, the php extension \"zip\" or the command \"zip\" should be installed on the server."
+msgstr "Um ein Backup durchzuführen, sollte die PHP-Erweiterung „zip“ oder der Befehl „zip“ auf dem Server installiert sein."
+
+msgid "Nothing selected for backup."
+msgstr "Nichts zur Sicherung ausgewählt."
+
+msgid "Some files are not storable: {files}"
+msgstr "Einige Dateien sind nicht speicherbar: {files}"
+
+msgid "The backup is available at {link} (size: {size} bytes)."
+msgstr "Das Backup ist unter {link} verfügbar (Größe: {size} Bytes)."
+
+msgid "Backup successfully created: {total_dirs} dirs, {total_files} files, size: {total_size} bytes, compressed: {size} bytes ({ratio}%)."
+msgstr "Sicherung erfolgreich erstellt: {total_dirs} Verzeichnisse, {total_files} Dateien, Größe: {total_size} Bytes, komprimiert: {size} Bytes ({ratio} %)."
+
+msgid "A minimum number of days is needed to clean sessions."
+msgstr "Für Reinigungssitzungen ist eine Mindestanzahl von Tagen erforderlich."
+
+msgid "Unable to add index \"{column}\" in table \"{table}\" to improve performance: {msg}"
+msgstr "Der Index „{column}“ kann nicht in Tabelle „{table}“ hinzugefügt werden, um die Leistung zu verbessern: {msg}"
+
+msgid "Unable to delete last sessions: {msg}"
+msgstr "Letzte Sitzungen können nicht gelöscht werden: {msg}"
+
+msgid "The table \"{table}\" has a size of {size} MB. {old}/{all} records are older than {days} days."
+msgstr "Die Tabelle „{table}“ hat eine Größe von {size} MB.{old}/{all} Datensätze sind älter als {days} Tage."
+
+msgid "{count} records older than {days} days were removed. The table \"{table}\" has a size of {size} MB."
+msgstr "{count} Datensätze, die älter als {days} Tage sind, wurden entfernt.Die Tabelle „{table}“ hat eine Größe von {size} MB."
+
+msgid "Emergency"
+msgstr "Notfall"
+
+msgid "Alert"
+msgstr "Alarm"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Notice"
+msgstr "Beachten"
+
+msgid "Debug"
+msgstr "Debuggen"
+
+msgid "There is no table \"{table}\" to check."
+msgstr "Es gibt keine zu überprüfende Tabelle „{table}“."
+
+msgid "A minimum number of days and a maximal severity is needed to clean logs."
+msgstr "Zum Bereinigen von Protokollen sind eine Mindestanzahl von Tagen und ein maximaler Schweregrad erforderlich."
+
+msgid "The severity \"{severity}\" is not managed."
+msgstr "Der Schweregrad „{severity}“ ​​wird nicht verwaltet."
+
+msgid "The table \"{table}\" has a size of {size} MB. {old}/{all} records are older than {days} days and below or equal severity \"{severity}\"."
+msgstr "Die Tabelle „{table}“ hat eine Größe von {size} MB.{old}/{all} Datensätze sind älter als {days} Tage und haben einen niedrigeren oder gleichen Schweregrad „{severity}“."
+
+msgid "{count} records older than {days} days with maximum severity \"{severity}\" were removed. The table \"{table}\" has a size of {size} MB."
+msgstr "{count} Datensätze, die älter als {days} Tage sind und den maximalen Schweregrad „{severity}“ ​​haben, wurden entfernt.Die Tabelle „{table}“ hat eine Größe von {size} MB."
+
+msgid "Has original"
+msgstr "Hat Original"
+
+msgid "There are {count} media rendered as \"file\" without \"has original\" and \"has thumbnails\" set. Check if no creation or import is running before fixing it."
+msgstr "Es werden {count} Medien als „Datei“ gerendert, ohne dass „hat Original“ und „hat Miniaturansichten“ eingestellt ist.Überprüfen Sie, ob keine Erstellung oder kein Import ausgeführt wird, bevor Sie das Problem beheben."
+
+msgid "Job stopped: {processed}/{total} processed, {total_fixed} fixed."
+msgstr "Job gestoppt: {processed}/{total} verarbeitet, {total_fixed} behoben."
+
+msgid "Job stopped: {processed}/{total} processed."
+msgstr "Auftrag gestoppt: {verarbeitet}/{total} verarbeitet."
+
+msgid "End of process: {processed}/{total} processed, {total_fixed} fixed."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_fixed} behoben."
+
+msgid "End of process: {processed}/{total} processed."
+msgstr "Ende des Prozesses: {verarbeitet}/{total} verarbeitet."
+
+msgid "Existing dimensions (w × h × d)"
+msgstr "Vorhandene Abmessungen (B × H × T)"
+
+msgid "New dimensions (w × h × d)"
+msgstr "Neue Abmessungen (B × H × T)"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "This process requires module \"{module}\"."
+msgstr "Für diesen Vorgang ist das Modul „{module}“ erforderlich."
+
+msgid "No image, audio or video to process."
+msgstr "Es müssen keine Bilder, Audio- oder Videodateien verarbeitet werden."
+
+msgid "Checking dimensions of a {total} of image/audio/video media with original or thumbnails."
+msgstr "Überprüfen der Abmessungen von {total} Bild-/Audio-/Videomedien anhand von Original- oder Miniaturansichten."
+
+msgid "Job stopped: {processed}/{total} processed, {total_succeed} succeed, {total_failed} failed, {total_fixed} fixed."
+msgstr "Job gestoppt: {processed}/{total} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen, {total_fixed} behoben."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} succeed, {total_failed} failed, {total_fixed} fixed."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen, {total_fixed} behoben."
+
+msgid "This task requires Omeka S v4."
+msgstr "Für diese Aufgabe ist Omeka S v4 erforderlich."
+
+msgid "There are {total} items without primary media."
+msgstr "Es gibt {total} Elemente ohne Primärmedien."
+
+msgid "{total} primary medias were set."
+msgstr "{total} Primärmedien wurden festgelegt."
+
+msgid "Processing type \"{type}\"."
+msgstr "Verarbeitungstyp „{type}“."
+
+msgid "Media count"
+msgstr "Anzahl der Medien"
+
+msgid "There are {count} items without value."
+msgstr "Es gibt {count} Artikel ohne Wert."
+
+msgid "Media #{media_id}: Original file \"{filename}\" was missing."
+msgstr "Medien #{media_id}: Originaldatei „{filename}“ fehlte."
+
+msgid "Unable to prepare directory \"{path}\". Check rights."
+msgstr "Verzeichnis „{path}“ konnte nicht vorbereitet werden.Rechte prüfen."
+
+msgid "Media #{media_id}: Original file \"{filename}\" was moved."
+msgstr "Medien #{media_id}: Originaldatei „{filename}“ wurde verschoben."
+
+msgid "Media #{media_id}: Original file \"{filename}\" cannot be moved."
+msgstr "Medien #{media_id}: Originaldatei „{filename}“ kann nicht verschoben werden."
+
+msgid "To update value annotation templates requires the module Advanced Resource Template."
+msgstr "Zum Aktualisieren von Wertanmerkungsvorlagen ist das Modul „Erweiterte Ressourcenvorlage“ erforderlich."
+
+msgid "There are {total} value annotations that may be updated if a template is set."
+msgstr "Es gibt {total} Wertanmerkungen, die aktualisiert werden können, wenn eine Vorlage festgelegt wird."
+
+msgid "{total} value annotations were updated."
+msgstr "{total} Wertanmerkungen wurden aktualisiert."
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Matching mode \"{mode}\" is not supported."
+msgstr "Der Matching-Modus „{mode}“ wird nicht unterstützt."
+
+msgid "The source files are not hashed with sha256, so they must be updated with the right task."
+msgstr "Die Quelldateien werden nicht mit sha256 gehasht, daher müssen sie mit der richtigen Aufgabe aktualisiert werden."
+
+msgid "The derivative files are not rebuilt automatically. Check them and recreate them via the other processes."
+msgstr "Die abgeleiteten Dateien werden nicht automatisch neu erstellt.Überprüfen Sie diese und erstellen Sie sie über die anderen Prozesse neu."
+
+msgid "Source directory \"{path}\" is not set or not readable."
+msgstr "Das Quellverzeichnis „{path}“ ist nicht festgelegt oder nicht lesbar."
+
+msgid "Source directory \"{path}\" should be a real path ({realpath})."
+msgstr "Das Quellverzeichnis „{path}“ sollte ein echter Pfad ({realpath}) sein."
+
+msgid "Source directory \"{path}\" is empty."
+msgstr "Das Quellverzeichnis „{path}“ ist leer."
+
+msgid "Preparing hashes of {total} files (this may take a long time)."
+msgstr "Hashes von {total} Dateien werden vorbereitet (dies kann lange dauern)."
+
+msgid "Source file \"{path}\" has no extension."
+msgstr "Die Quelldatei „{path}“ hat keine Erweiterung."
+
+msgid "Source file \"{path}\" is not readable."
+msgstr "Die Quelldatei „{path}“ ist nicht lesbar."
+
+msgid "{count}/{total} hashes prepared."
+msgstr "{count}/{total} Hashes vorbereitet."
+
+msgid "This following flles have duplicate names: {json}"
+msgstr "Die folgenden Dateien haben doppelte Namen: {json}"
+
+msgid "The source directory contains {total} readable files."
+msgstr "Das Quellverzeichnis enthält {total} lesbare Dateien."
+
+msgid "The source directory contains {total} duplicate files."
+msgstr "Das Quellverzeichnis enthält {total} doppelte Dateien."
+
+msgid "Checking {total} media with thumbnails."
+msgstr "{total} Medien werden mit Miniaturansichten überprüft."
+
+msgid "Job stopped: {processed}/{total} processed, {total_succeed} succeed, {total_failed} failed ({mode})."
+msgstr "Job gestoppt: {processed}/{total} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen ({mode})."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} succeed, {total_failed} failed ({mode})."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen ({mode})."
+
+msgid "Has thumbnails"
+msgstr "Hat Miniaturansichten"
+
+msgid "No media to process for creation of derivative files (on a total of {total} medias). You may check your query."
+msgstr "Es müssen keine Medien für die Erstellung abgeleiteter Dateien verarbeitet werden (auf insgesamt {total} Medien).Sie können Ihre Anfrage überprüfen."
+
+msgid "Processing creation of derivative files of {total_process} medias (on a total of {total} medias)."
+msgstr "Verarbeitung der Erstellung abgeleiteter Dateien von {total_process} Medien (auf insgesamt {total} Medien)."
+
+msgid "Not writeable"
+msgstr "Nicht beschreibbar"
+
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+msgid "The job \"Derivative Images\" was stopped: {count]/{total} resources processed."
+msgstr "Der Job „Derivative Images“ wurde gestoppt: {count]/{total} Ressourcen verarbeitet."
+
+msgid "Media #{media_id} ({index}/{total}): the original file \"{filename}\" does not exist."
+msgstr "Medien #{media_id} ({index}/{total}): Die Originaldatei „{filename}“ existiert nicht."
+
+msgid "Media #{media_id} ({index}/{total}): the original file \"{filename}\" is not readable."
+msgstr "Medien #{media_id} ({index}/{total}): Die Originaldatei „{filename}“ ist nicht lesbar."
+
+msgid "Media #{media_id} ({index}/{total}): derivative file \"{filename}\" is not writeable (type \"{type}\")."
+msgstr "Medien #{media_id} ({index}/{total}): Die abgeleitete Datei „{filename}“ ist nicht beschreibbar (Typ „{type}“)."
+
+msgid "Media #{media_id} ({index}/{total}): creating derivative files."
+msgstr "Medien #{media_id} ({index}/{total}): Abgeleitete Dateien erstellen."
+
+msgid "Media #{media_id} ({index}/{total}): derivative files created."
+msgstr "Medien #{media_id} ({index}/{total}): abgeleitete Dateien erstellt."
+
+msgid "Media #{media_id} ({index}/{total}): derivative files not created."
+msgstr "Medien #{media_id} ({index}/{total}): abgeleitete Dateien wurden nicht erstellt."
+
+msgid "End of the creation of derivative files: {count}/{total} processed, {skipped} skipped, {succeed} succeed, {failed} failed."
+msgstr "Ende der Erstellung abgeleiteter Dateien: {count}/{total} verarbeitet, {skipped} übersprungen, {succeed} erfolgreich, {failed} fehlgeschlagen."
+
+msgid "An error occurred during creation of the zip archive."
+msgstr "Beim Erstellen des ZIP-Archivs ist ein Fehler aufgetreten."
+
+msgid "The compression level is not supported. Using default config."
+msgstr "Die Komprimierungsstufe wird nicht unterstützt.Standardkonfiguration verwenden."
+
+msgid "Preparation of the listing of files."
+msgstr "Vorbereitung der Aktenauflistung."
+
+msgid "Backup stopped: {total_dirs} dirs, {total_files} files, size: {total_size} bytes prepared."
+msgstr "Sicherung gestoppt: {total_dirs} Verzeichnisse, {total_files} Dateien, Größe: {total_size} Bytes vorbereitet."
+
+msgid "Backup to process: {total_dirs} dirs, {total_files} files, size: {total_size} bytes."
+msgstr "Zu verarbeitende Sicherung: {total_dirs} Verzeichnisse, {total_files} Dateien, Größe: {total_size} Bytes."
+
+msgid "Backup in progress: {percent}"
+msgstr "Sicherung läuft: {percent}"
+
+msgid "An error occurred during finalization of the zip archive."
+msgstr "Beim Finalisieren des ZIP-Archivs ist ein Fehler aufgetreten."
+
+msgid "An error occurred during preparation of the zip archive."
+msgstr "Bei der Vorbereitung des ZIP-Archivs ist ein Fehler aufgetreten."
+
+msgid "No item to process."
+msgstr "Kein Element zum Verarbeiten."
+
+msgid "{processed}/{total} items processed."
+msgstr "{verarbeitet}/{total} verarbeitete Elemente."
+
+msgid "Fixed item #{item_id} wrong media positions."
+msgstr "Falsche Medienpositionen für Element #{item_id} behoben."
+
+msgid "Item #{item_id} has wrong media positions."
+msgstr "Artikel #{item_id} hat falsche Medienpositionen."
+
+msgid "End of process: {processed}/{total} processed, {total_succeed} items has wrong positions."
+msgstr "Ende des Prozesses: {processed}/{total} verarbeitet, {total_succeed} Elemente haben falsche Positionen."
+
+msgid "No action defined."
+msgstr "Keine Aktion definiert."
+
+msgid "No valid action defined."
+msgstr "Keine gültige Aktion definiert."
+
+msgid "No resource type defined."
+msgstr "Kein Ressourcentyp definiert."
+
+msgid "There are invalid resource types to process: {resource_types}."
+msgstr "Es sind ungültige Ressourcentypen zur Verarbeitung vorhanden: {resource_types}."
+
+msgid "When a query is set, only one resource type can be processed."
+msgstr "Wenn eine Abfrage festgelegt ist, kann nur ein Ressourcentyp verarbeitet werden."
+
+msgid "Resource types to process: all."
+msgstr "Zu verarbeitende Ressourcentypen: alle."
+
+msgid "Resource types to process: {resource_types}."
+msgstr "Zu verarbeitende Ressourcentypen: {resource_types}."
+
+msgid "Processing trimming of values."
+msgstr "Bearbeitung der Wertbeschneidung."
+
+msgid "Processing cleaning empty values."
+msgstr "Verarbeitung leerer Werte zum Bereinigen."
+
+msgid "Processing cleaning empty language."
+msgstr "Verarbeitung der Reinigung leerer Sprache."
+
+msgid "Processing deduplication of values."
+msgstr "Verarbeitung der Deduplizierung von Werten."
+
+msgid "Trimmed {count} values."
+msgstr "{count}-Werte gekürzt."
+
+msgid "Removed {count} empty string values after trimming."
+msgstr "{count} leere String-Werte nach dem Trimmen entfernt."
+
+msgid "Updated empty values and uris of {count} values."
+msgstr "Leere Werte und URIS von {count}-Werten aktualisiert."
+
+msgid "Updated empty language of {count} values."
+msgstr "Leere Sprache von {count} Werten aktualisiert."
+
+msgid "Deduplicated {count} values."
+msgstr "Deduplizierte {count}-Werte."
+
+msgid "Starting check of {total} files for type {type}."
+msgstr "Überprüfung von {total} Dateien für Typ {type} wird gestartet."
+
+msgid "{processed}/{total} files processed."
+msgstr "{verarbeitet}/{total} Dateien verarbeitet."
+
+msgid "File \"{filename}\" (\"{type}\", {processed}/{total}) doesn’t exist in database and was moved."
+msgstr "Datei „{filename}“ („{type}“, {processed}/{total}) existiert nicht in der Datenbank und wurde verschoben."
+
+msgid "File \"{filename}\" (type \"{type}\") doesn’t exist in database, and cannot be moved."
+msgstr "Die Datei „{filename}“ (Typ „{type}“) ist nicht in der Datenbank vorhanden und kann nicht verschoben werden."
+
+msgid "File \"{filename}\" (\"{type}\", {processed}/{total}) doesn’t exist in database."
+msgstr "Datei „{filename}“ („{type}“, {processed}/{total}) ist nicht in der Datenbank vorhanden."
+
+msgid "End check of {total} files for type {type}: {total_excess} files in excess moved."
+msgstr "Überprüfung von {total} Dateien für Typ {type} beenden: {total_excess} überschüssige Dateien verschoben."
+
+msgid "End check of {total} files for type {type}: {total_excess} files in excess."
+msgstr "Überprüfung von {total} Dateien auf überschüssige Dateien vom Typ {type}: {total_excess} beenden."
+
+msgid "Database hash"
+msgstr "Datenbank-Hash"
+
+msgid "Real hash"
+msgstr "Echtes Haschisch"
+
+msgid "No resource types defined."
+msgstr "Keine Ressourcentypen definiert."
+
+msgid "No {resource_type} to process."
+msgstr "Kein {resource_type} zum Verarbeiten vorhanden."
+
+msgid "Processing {count} {resource_type}."
+msgstr "{count} {resource_type} wird verarbeitet."
+
+msgid "The job \"{name}\" was stopped."
+msgstr "Der Job „{name}“ wurde gestoppt."
+
+msgid "End of process: {count}/{total} {resource_type} processed."
+msgstr "Ende des Prozesses: {count}/{total} {resource_type} verarbeitet."
+
+msgid "Database media-type"
+msgstr "Medientyp der Datenbank"
+
+msgid "Real media type"
+msgstr "Echter Medientyp"
+
+msgid "The custom vocab with missing item sets will be removed."
+msgstr "Das benutzerdefinierte Vokabular mit fehlenden Elementsätzen wird entfernt."
+
+msgid "The custom vocab with missing item sets will be updated as simple empty list."
+msgstr "Das benutzerdefinierte Vokabular mit fehlenden Elementsätzen wird als einfache leere Liste aktualisiert."
+
+msgid "There is no custom vocab with a missing item set."
+msgstr "Es gibt kein benutzerdefiniertes Vokabular mit einem fehlenden Elementsatz."
+
+msgid "There are {count} custom vocabs that references a missing item set: {item_sets}."
+msgstr "Es gibt {count} benutzerdefinierte Vokabeln, die auf einen fehlenden Elementsatz verweisen: {item_sets}."
+
+msgid "Missing item sets of custom vocabs were removed."
+msgstr "Fehlende Elementsätze benutzerdefinierter Vokabeln wurden entfernt."
+
+msgid "Missing item sets of custom vocabs were replaced by standard empty custom vocabs."
+msgstr "Fehlende Elementsätze benutzerdefinierter Vokabeln wurden durch standardmäßige leere benutzerdefinierte Vokabeln ersetzt."
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Message 1"
+msgstr "Nachricht 1"
+
+msgid "Message 2"
+msgstr "Nachricht 2"
+
+msgid "Message 3"
+msgstr "Nachricht 3"
+
+msgid "No modules defined for processing."
+msgstr "Keine Module zur Verarbeitung definiert."
+
+msgid "The process is not run because there is no confirmation that an external backup of themes and files exist."
+msgstr "Der Prozess wird nicht ausgeführt, da keine Bestätigung vorliegt, dass eine externe Sicherung von Designs und Dateien vorhanden ist."
+
+msgid "End of process: {processed} processed, {total_succeed} succeed, {total_failed} failed, {total_fixed} fixed."
+msgstr "Ende des Prozesses: {processed} verarbeitet, {total_succeed} erfolgreich, {total_failed} fehlgeschlagen, {total_fixed} behoben."
+
+msgid "The directory \"{path}\" is not set or not readable."
+msgstr "Das Verzeichnis „{path}“ ist nicht festgelegt oder nicht lesbar."
+
+msgid "The directory \"{path}\" should be a real path ({realpath})."
+msgstr "Das Verzeichnis „{path}“ sollte ein echter Pfad ({realpath}) sein."
+
+msgid "The module {module} is not managed."
+msgstr "Das Modul {module} wird nicht verwaltet."
+
+msgid "The theme is invalid: no file config/theme.ini."
+msgstr "Das Theme ist ungültig: keine Datei config/theme.ini."
+
+msgid "The theme file config/theme.ini is not readable."
+msgstr "Die Theme-Datei config/theme.ini ist nicht lesbar."
+
+msgid "The theme file config/theme.ini is not writeable."
+msgstr "Die Theme-Datei config/theme.ini ist nicht beschreibbar."
+
+msgid "The destination directory is invalid."
+msgstr "Das Zielverzeichnis ist ungültig."
+
+msgid "The destination directory is not writeable."
+msgstr "Das Zielverzeichnis ist nicht beschreibbar."
+
+msgid "The main destination directory is not writeable."
+msgstr "Das Hauptzielverzeichnis ist nicht beschreibbar."
+
+msgid "The destination directory cannot be created."
+msgstr "Das Zielverzeichnis kann nicht erstellt werden."
+
+msgid "Invalid source file path."
+msgstr "Ungültiger Quelldateipfad."
+
+msgid "The destination file exists."
+msgstr "Die Zieldatei ist vorhanden."
+
+msgid "The source is not readable."
+msgstr "Die Quelle ist nicht lesbar."
+
+msgid "The file was moved, but the config/theme.ini cannot be updated."
+msgstr "Die Datei wurde verschoben, aber die config/theme.ini kann nicht aktualisiert werden."
+
+msgid "The source cannot be moved to destination."
+msgstr "Die Quelle kann nicht zum Ziel verschoben werden."
+
+msgid "Starting \"{process}\"."
+msgstr "„{Prozess}“ wird gestartet."
+
+msgid "Unable to open output: {error}."
+msgstr "Ausgabe kann nicht geöffnet werden: {Fehler}."
+
+msgid "Trying to output more than %d messages. Next messages are skipped."
+msgstr "Es wird versucht, mehr als %d Nachrichten auszugeben.Nächste Nachrichten werden übersprungen."
+
+msgid "Results are available in this spreadsheet: {url}."
+msgstr "Die Ergebnisse sind in dieser Tabelle verfügbar: {url}."
+
+msgid "Error when saving \"{filename}\" (temp file: \"{tempfile}\"): {exception}"
+msgstr "Fehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“): {Ausnahme}"
+
+msgid "Error when saving \"{filename}\" (temp file: \"{tempfile}\"): {error}"
+msgstr "Fehler beim Speichern von „{filename}“ (temporäre Datei: „{tempfile}“): {error}"
+
+msgid "The directory \"{path}\" is not writeable."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar."
+
+msgid "The directory \"{path}\" is not writeable: {error}."
+msgstr "Das Verzeichnis „{path}“ ist nicht beschreibbar: {error}."
+
+msgid "Maintenance"
+msgstr "Wartung"
+
+msgid "Administrator name"
+msgstr "Administratorname"
+
+msgid "No reply email for automatic messages and notifications"
+msgstr "Keine Antwort-E-Mail für automatische Nachrichten und Benachrichtigungen"
+
+msgid "No reply name"
+msgstr "Kein Antwortname"
+
+msgid "Elements to display in resources admin pages"
+msgstr "Elemente, die auf Ressourcen-Administrationsseiten angezeigt werden sollen"
+
+msgid "For button \"Previous/Next\", an issue exists on some versions of mysql database. Mariadb is working fine."
+msgstr "Bei der Schaltfläche „Zurück/Weiter“ besteht bei einigen Versionen der MySQL-Datenbank ein Problem.Mariadb funktioniert gut."
+
+msgid "Button \"Public view\""
+msgstr "Schaltfläche „Öffentliche Ansicht“"
+
+msgid "Buttons \"Previous/Next\""
+msgstr "Schaltflächen „Zurück/Weiter“"
+
+msgid "Allow the reviewer to delete any resource"
+msgstr "Erlauben Sie dem Prüfer, jede Ressource zu löschen"
+
+msgid "Add a button to create resources directly from a template"
+msgstr "Fügen Sie eine Schaltfläche hinzu, um Ressourcen direkt aus einer Vorlage zu erstellen"
+
+msgid "All resource templates"
+msgstr "Alle Ressourcenvorlagen"
+
+msgid "Select resource templates…"
+msgstr "Ressourcenvorlagen auswählen…"
+
+msgid "Add a button to create resources directly from a template specified with a class"
+msgstr "Fügen Sie eine Schaltfläche hinzu, um Ressourcen direkt aus einer mit einer Klasse angegebenen Vorlage zu erstellen"
+
+msgid "Select resource classes…"
+msgstr "Ressourcenklassen auswählen…"
+
+msgid "Default folder to upload files"
+msgstr "Standardordner zum Hochladen von Dateien"
+
+msgid "Allowed folders for browsing"
+msgstr "Zugelassene Ordner zum Durchsuchen"
+
+msgid "Allow empty files in manual upload"
+msgstr "Leere Dateien beim manuellen Upload zulassen"
+
+msgid "In rare cases, an admin may want to upload empty files. This option requires to disable file validation or to add the media type \"application/x-empty\" in main settings."
+msgstr "In seltenen Fällen möchte ein Administrator möglicherweise leere Dateien hochladen.Diese Option erfordert die Deaktivierung der Dateivalidierung oder das Hinzufügen des Medientyps „application/x-empty“ in den Haupteinstellungen."
+
+msgid "Notify new versions for inactive modules"
+msgstr "Benachrichtigen Sie neue Versionen für inaktive Module"
+
+msgid "Notify development versions of modules"
+msgstr "Benachrichtigen Sie Entwicklungsversionen von Modulen"
+
+msgid "Display error on screen"
+msgstr "Anzeigefehler auf dem Bildschirm"
+
+msgid "This option helps fix issues and should be unset in production. For development, use the key \"APPLICATION_ENV\" in file .htaccess."
+msgstr "Diese Option hilft bei der Behebung von Problemen und sollte in der Produktion deaktiviert sein.Für die Entwicklung verwenden Sie den Schlüssel „APPLICATION_ENV“ in der Datei .htaccess."
+
+msgid "Set Omeka under maintenance"
+msgstr "Stellen Sie Omeka auf Wartung"
+
+msgid "Public front-end"
+msgstr "Öffentliches Frontend"
+
+msgid "Admin (except global admins)"
+msgstr "Administrator (außer globale Administratoren)"
+
+msgid "Text to display for maintenance"
+msgstr "Zur Wartung anzuzeigender Text"
+
+msgid "Allow to display any folder inside the folder files"
+msgstr "Ermöglichen Sie die Anzeige aller Ordner innerhalb der Ordnerdateien"
+
+msgid "Argument \"wrap\" of method %1$s must be a null or alphanumeric string, received unstringable object \"%2$s\"."
+msgstr "Das Argument „wrap“ der Methode %1$s muss eine Null- oder alphanumerische Zeichenfolge sein, das empfangene, nicht stringfähige Objekt „%2$s“."
+
+msgid "Argument \"wrap\" of method %1$s must be a null or alphanumeric string, received \"%2$s\"."
+msgstr "Das Argument „wrap“ der Methode %1$s muss eine Null- oder alphanumerische Zeichenfolge sein, empfangen „%2$s“."
+
+msgid "Display dangerous tasks"
+msgstr "Gefährliche Aufgaben anzeigen"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Tasks"
+msgstr "Aufgaben"
+
+msgid "List files that are present in \"/files/\", but not in database"
+msgstr "Listen Sie Dateien auf, die in „/files/“ vorhanden sind, aber nicht in der Datenbank"
+
+msgid "Move files that are present in \"/files/\", but not in database, into \"/files/check/\""
+msgstr "Verschieben Sie Dateien, die in „/files/“, aber nicht in der Datenbank vorhanden sind, nach „/files/check/“."
+
+msgid "List files that are present in database, not in \"/files/\" (original only)"
+msgstr "Dateien auflisten, die in der Datenbank vorhanden sind, nicht in „/files/“ (nur Original)"
+
+msgid "List files that are present in database, not in \"/files/\" (include derivatives)"
+msgstr "Dateien auflisten, die in der Datenbank vorhanden sind, nicht in „/files/“ (einschließlich Derivate)"
+
+msgid "Copy missing original files from the source directory below (recover a disaster)"
+msgstr "Kopieren Sie fehlende Originaldateien aus dem Quellverzeichnis unten (Wiederherstellung eines Notfalls)."
+
+msgid "Remove items with one file that is missing (WARNING: export your items first)"
+msgstr "Entfernen Sie Elemente, bei denen eine Datei fehlt (ACHTUNG: Exportieren Sie zuerst Ihre Elemente)"
+
+msgid "Remove empty directories in \"/files/\" (mainly for module Archive Repertory)"
+msgstr "Leere Verzeichnisse in „/files/“ entfernen (hauptsächlich für das Modul Archive Repertory)"
+
+msgid "Rebuild derivative images (thumbnails)"
+msgstr "Abgeleitete Bilder (Miniaturansichten) neu erstellen"
+
+msgid "Options for fix missing files"
+msgstr "Optionen zum Beheben fehlender Dateien"
+
+msgid "Source for restoration"
+msgstr "Quelle zur Restaurierung"
+
+msgid "/server/path/to/my/source/directory"
+msgstr "/server/path/to/my/source/directory"
+
+msgid "Limit to extensions"
+msgstr "Beschränken Sie sich auf Erweiterungen"
+
+msgid "pdf, jpeg"
+msgstr "pdf, jpg"
+
+msgid "Exclude extensions"
+msgstr "Erweiterungen ausschließen"
+
+msgid "DS_Store, db"
+msgstr "DS_Store, Datenbank"
+
+msgid "Matching mode"
+msgstr "Matching-Modus"
+
+msgid "Hash sha256 (recommended)"
+msgstr "Hash sha256 (empfohlen)"
+
+msgid "Source file path"
+msgstr "Pfad der Quelldatei"
+
+msgid "Source file name (warning: they should be unique)"
+msgstr "Name der Quelldatei (Achtung: Sie sollten eindeutig sein)"
+
+msgid "Hash md5 (when stored as sha256; the real sha256 must be set next with another task)"
+msgstr "Hash md5 (bei Speicherung als sha256; der echte sha256 muss als nächstes mit einer anderen Aufgabe festgelegt werden)"
+
+msgid "Options to rebuild derivative files (thumbnails)"
+msgstr "Optionen zum Neuerstellen abgeleiteter Dateien (Miniaturansichten)"
+
+msgid "Select one or more item sets…"
+msgstr "Wählen Sie ein oder mehrere Artikelsets aus…"
+
+msgid "Ingesters to process"
+msgstr "Zu verarbeitende Ingestoren"
+
+msgid "All ingesters"
+msgstr "Alle Konsumenten"
+
+msgid "Renderers to process"
+msgstr "Zu verarbeitende Renderer"
+
+msgid "All renderers"
+msgstr "Alle Renderer"
+
+msgid "Media types to process"
+msgstr "Zu verarbeitende Medientypen"
+
+msgid "All media types"
+msgstr "Alle Medientypen"
+
+msgid "Media ids"
+msgstr "Medien-IDs"
+
+msgid "Only originals without thumbnails"
+msgstr "Nur Originale ohne Miniaturansichten"
+
+msgid "Files and database"
+msgstr "Dateien und Datenbank"
+
+msgid "Check media rendered as \"file\", but without original"
+msgstr "Überprüfen Sie die als „Datei“ gerenderten Medien, jedoch ohne Original"
+
+msgid "Remove media rendered as \"file\", but without original (WARNING: export your media first)"
+msgstr "Entfernen Sie als „Datei“ gerenderte Medien, jedoch ohne Original (ACHTUNG: Exportieren Sie zuerst Ihre Medien)"
+
+msgid "Check missing file sizes in database (not managed during upgrade to Omeka 1.2.0)"
+msgstr "Überprüfen Sie fehlende Dateigrößen in der Datenbank (wird während des Upgrades auf Omeka 1.2.0 nicht verwaltet)"
+
+msgid "Fix all file sizes in database (for example after hard import)"
+msgstr "Korrigieren Sie alle Dateigrößen in der Datenbank (z. B. nach einem harten Import)."
+
+msgid "Check sha256 hashes of files"
+msgstr "Überprüfen Sie die SHA256-Hashes der Dateien"
+
+msgid "Fix wrong sha256 of files"
+msgstr "Korrigieren Sie den falschen SHA256-Wert der Dateien"
+
+msgid "Check hashes of storage names of files"
+msgstr "Überprüfen Sie die Hashes der Speichernamen von Dateien"
+
+msgid "Re-hash storage names of files"
+msgstr "Speichernamen von Dateien erneut hashen"
+
+msgid "Check use of precise media type of files, mainly for xml"
+msgstr "Überprüfen Sie die Verwendung des genauen Medientyps der Dateien, hauptsächlich für XML"
+
+msgid "Fill precise media type of files"
+msgstr "Füllen Sie Dateien mit genauen Medientypen aus"
+
+msgid "Check files dimensions (modules IIIF Server / Image Server)"
+msgstr "Dateiabmessungen prüfen (Module IIIF Server / Image Server)"
+
+msgid "Fix files dimensions (modules IIIF Server / Image Server)"
+msgstr "Dateiabmessungen korrigieren (Module IIIF Server / Image Server)"
+
+msgid "Check positions of media (start from 1, without missing number)"
+msgstr "Überprüfen Sie die Positionen der Medien (beginnen Sie bei 1, ohne fehlende Nummer)"
+
+msgid "Fix wrong positions of media"
+msgstr "Korrigieren Sie falsche Medienpositionen"
+
+msgid "Resources and values"
+msgstr "Ressourcen und Werte"
+
+msgid "Save all resources, for example to apply new settings via triggers"
+msgstr "Sparen Sie alle Ressourcen, um beispielsweise neue Einstellungen über Trigger anzuwenden"
+
+msgid "Check if all resources are valid (items as item, etc.)"
+msgstr "Überprüfen Sie, ob alle Ressourcen gültig sind (Artikel als Artikel usw.)"
+
+msgid "Fix all resources that are not valid"
+msgstr "Korrigieren Sie alle Ressourcen, die ungültig sind"
+
+msgid "Check if all resources are specified as items, medias, etc."
+msgstr "Überprüfen Sie, ob alle Ressourcen als Artikel, Medien usw. angegeben sind."
+
+msgid "Remove all resources that are not specified"
+msgstr "Entfernen Sie alle nicht angegebenen Ressourcen"
+
+msgid "Check items without value (media values are not checked)"
+msgstr "Artikel ohne Wert prüfen (Medienwerte werden nicht geprüft)"
+
+msgid "Remove items without value (files are moved into \"/files/check/\")"
+msgstr "Elemente ohne Wert entfernen (Dateien werden nach „/files/check/“ verschoben)"
+
+msgid "Check if all values are utf-8 encoded (Windows issues like \"Ã©\" for \"é\")"
+msgstr "Überprüfen Sie, ob alle Werte utf-8-codiert sind (Windows gibt Probleme wie „é“ für „é“)."
+
+msgid "Fix utf-8 encoding issues"
+msgstr "Beheben Sie Probleme mit der UTF-8-Kodierung"
+
+msgid "Clean and deduplicate values"
+msgstr "Werte bereinigen und deduplizieren"
+
+msgid "Check resource titles, for example after hard import"
+msgstr "Überprüfen Sie Ressourcentitel, beispielsweise nach einem Hard-Import"
+
+msgid "Update resource titles"
+msgstr "Ressourcentitel aktualisieren"
+
+msgid "Check if the primary medias are set"
+msgstr "Überprüfen Sie, ob die primären Medien eingestellt sind"
+
+msgid "Set the primary medias to all items"
+msgstr "Legen Sie die primären Medien auf alle Elemente fest"
+
+msgid "Check templates for value annotations (module Advanced Resource Template)"
+msgstr "Prüfvorlagen für Wertanmerkungen (Modul Advanced Resource Template)"
+
+msgid "Fix templates for value annotations (module Advanced Resource Template)"
+msgstr "Korrekturvorlagen für Wertanmerkungen (Modul Advanced Resource Template)"
+
+msgid "Options to loop resources"
+msgstr "Optionen zum Schleifen von Ressourcen"
+
+msgid "Types of resources to process"
+msgstr "Arten von zu verarbeitenden Ressourcen"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Query to limit resources to process"
+msgstr "Abfrage zur Begrenzung der zu verarbeitenden Ressourcen"
+
+msgid "It is not recommended to use the query when multiple resource types are selected."
+msgstr "Es wird nicht empfohlen, die Abfrage zu verwenden, wenn mehrere Ressourcentypen ausgewählt sind."
+
+msgid "Options for utf-8 encoding (experimental: do a backup first)"
+msgstr "Optionen für die UTF-8-Kodierung (experimentell: zuerst ein Backup erstellen)"
+
+msgid "Resources titles"
+msgstr "Ressourcentitel"
+
+msgid "Resources values"
+msgstr "Ressourcenwerte"
+
+msgid "Site title"
+msgstr "Titel der Website"
+
+msgid "Site summary"
+msgstr "Zusammenfassung der Website"
+
+msgid "Pages titles"
+msgstr "Seitentitel"
+
+msgid "Pages blocks"
+msgstr "Seitenblöcke"
+
+msgid "Options to clean and deduplicate"
+msgstr "Optionen zum Bereinigen und Deduplizieren"
+
+msgid "Actions to process"
+msgstr "Zu verarbeitende Aktionen"
+
+msgid "Trim property values"
+msgstr "Eigenschaftswerte kürzen"
+
+msgid "Set null for empty values or uris"
+msgstr "Setzen Sie null für leere Werte oder URIS"
+
+msgid "Set null when language is empty"
+msgstr "Legen Sie null fest, wenn die Sprache leer ist"
+
+msgid "Deduplicate property values case insensitively"
+msgstr "Deduplizieren Sie Eigenschaftswerte ohne Berücksichtigung der Groß- und Kleinschreibung"
+
+msgid "Database"
+msgstr "Datenbank"
+
+msgid "Check dead jobs (living in database, but non-existent in system)"
+msgstr "Überprüfen Sie tote Jobs (in der Datenbank vorhanden, aber im System nicht vorhanden)."
+
+msgid "Set status \"stopped\" for jobs that never started, and \"error\" for the jobs that never ended"
+msgstr "Setzen Sie den Status „Gestoppt“ für Jobs, die nie gestartet wurden, und „Fehler“ für Jobs, die nie beendet wurden"
+
+msgid "Fix status as above for all jobs (when check cannot be done after a reboot)"
+msgstr "Status wie oben für alle Jobs beheben (wenn die Überprüfung nach einem Neustart nicht möglich ist)"
+
+msgid "Check the size of the table of sessions in database"
+msgstr "Überprüfen Sie die Größe der Sitzungstabelle in der Datenbank"
+
+msgid "Remove old sessions (specify age below)"
+msgstr "Alte Sitzungen entfernen (Alter unten angeben)"
+
+msgid "Remove all sessions (when table is too big)"
+msgstr "Alle Sitzungen entfernen (wenn die Tabelle zu groß ist)"
+
+msgid "Check the size of the table of logs in database (module Log)"
+msgstr "Überprüfen Sie die Größe der Protokolltabelle in der Datenbank (Modul Protokoll)."
+
+msgid "Remove old logs"
+msgstr "Entfernen Sie alte Protokolle"
+
+msgid "Check if all custom vocabs with item sets have an existing item set"
+msgstr "Überprüfen Sie, ob für alle benutzerdefinierten Vokabeln mit Elementsätzen ein Elementsatz vorhanden ist"
+
+msgid "Fix missing item sets of custom vocabs (replace or remove)"
+msgstr "Fehlende Elementsätze benutzerdefinierter Vokabeln beheben (ersetzen oder entfernen)"
+
+msgid "Options to remove sessions"
+msgstr "Optionen zum Entfernen von Sitzungen"
+
+msgid "Older than this number of days"
+msgstr "Älter als diese Anzahl an Tagen"
+
+msgid "Options to remove logs (module Log)"
+msgstr "Optionen zum Entfernen von Protokollen (Modul Protokoll)"
+
+msgid "Maximum severity"
+msgstr "Maximaler Schweregrad"
+
+msgid "Maximum length of message"
+msgstr "Maximale Länge der Nachricht"
+
+msgid "Options for custom vocabs"
+msgstr "Optionen für benutzerdefinierte Vokabeln"
+
+msgid "Fix mode"
+msgstr "Fix-Modus"
+
+msgid "Replace by a standard empty custom vocab"
+msgstr "Ersetzen Sie es durch ein standardmäßiges leeres benutzerdefiniertes Vokabular"
+
+msgid "Remove the custom vocab"
+msgstr "Entfernen Sie das benutzerdefinierte Vokabular"
+
+msgid "Backup"
+msgstr "Sicherung"
+
+msgid "Omeka, modules and themes (without directory /files)"
+msgstr "Omeka, Module und Themes (ohne Verzeichnis /files)"
+
+msgid "Options to backup Omeka install"
+msgstr "Optionen zum Sichern der Omeka-Installation"
+
+msgid "Include"
+msgstr "Enthalten"
+
+msgid "Omeka sources files"
+msgstr "Omeka-Quelldateien"
+
+msgid "Themes"
+msgstr "Themen"
+
+msgid "Logs"
+msgstr "Protokolle"
+
+msgid "Config (local.config.php)"
+msgstr "Konfiguration (local.config.php)"
+
+msgid "database.ini"
+msgstr "Datenbank.ini"
+
+msgid ".htaccess"
+msgstr ".htaccess"
+
+msgid ".htpasswd"
+msgstr ".htpasswd"
+
+msgid "Hidden files (dot files)"
+msgstr "Versteckte Dateien (Dot-Dateien)"
+
+msgid "Compressed files (with extension bzip, bz2, tar, gz, xz, zip)"
+msgstr "Komprimierte Dateien (mit der Erweiterung bzip, bz2, tar, gz, xz, zip)"
+
+msgid "Compression level (-1: auto, 0: none/quick, 9: max/slow)"
+msgstr "Komprimierungsstufe (-1: automatisch, 0: keine/schnell, 9: maximal/langsam)"
+
+msgid "Check templates to migrate in themes for Omeka S v4.1"
+msgstr "Überprüfen Sie die Vorlagen für die Migration in Themes für Omeka S v4.1"
+
+msgid "Migrate templates in themes for Omeka S v4.1 (WARNING: backup themes first)"
+msgstr "Vorlagen in Themes für Omeka S v4.1 migrieren (ACHTUNG: Themes zuerst sichern)"
+
+msgid "Options to migrate templates in themes"
+msgstr "Optionen zum Migrieren von Vorlagen in Themes"
+
+msgid "Check backup"
+msgstr "Überprüfen Sie die Sicherung"
+
+msgid "I confirm to have an external backup of my themes and files"
+msgstr "Ich bestätige, dass ich ein externes Backup meiner Themes und Dateien habe"
+
+msgid "System"
+msgstr "System"
+
+msgid "Run installation checks (after a copy of the database on a new server)"
+msgstr "Führen Sie Installationsprüfungen durch (nach einer Kopie der Datenbank auf einem neuen Server)"
+
+msgid "Check caches"
+msgstr "Überprüfen Sie die Caches"
+
+msgid "Clear caches (after update or modifications of code)"
+msgstr "Caches löschen (nach Aktualisierung oder Änderungen des Codes)"
+
+msgid "Options to clear cache"
+msgstr "Optionen zum Leeren des Caches"
+
+msgid "Types of cache"
+msgstr "Arten von Caches"
+
+msgid "Application (Symfony Doctrine ORM)"
+msgstr "Anwendung (Symfony Doctrine ORM)"
+
+msgid "Code (opcache)"
+msgstr "Code (Opcache)"
+
+msgid "Data (apcu)"
+msgstr "Daten (apcu)"
+
+msgid "Real paths"
+msgstr "Echte Wege"
+
+msgid "Module tasks and indexations"
+msgstr "Modulaufgaben und Indexierungen"
+
+msgid "Omeka: Index full-text search"
+msgstr "Omeka: Index-Volltextsuche"
+
+msgid "Modules Omeka.org"
+msgstr "Module Omeka.org"
+
+msgid "Themes Omeka.org"
+msgstr "Themen Omeka.org"
+
+msgid "Modules web"
+msgstr "Module-Web"
+
+msgid "Themes web"
+msgstr "Themen-Web"
+
+msgid "Select below…"
+msgstr "Wählen Sie unten aus…"
+
+msgid "Curated selections of modules and themes"
+msgstr "Kuratierte Auswahl an Modulen und Themen"
+
+msgid "Refresh lists of addons and selections"
+msgstr "Aktualisieren Sie die Listen der Add-ons und Auswahlmöglichkeiten"
+
+msgid "Tasks to run once a day"
+msgstr "Aufgaben, die einmal täglich ausgeführt werden"
+
+msgid "Clear sessions older than 2 days"
+msgstr "Löschen Sie Sitzungen, die älter als 2 Tage sind"
+
+msgid "Clear sessions older than 8 days"
+msgstr "Löschen Sie Sitzungen, die älter als 8 Tage sind"
+
+msgid "Clear sessions older than 40 days"
+msgstr "Löschen Sie Sitzungen, die älter als 40 Tage sind"
+
+msgid "Clear sessions older than 100 days"
+msgstr "Löschen Sie Sitzungen, die älter als 100 Tage sind"
+
+msgid "No files were uploaded"
+msgstr "Es wurden keine Dateien hochgeladen"
+
+msgid "File is missing"
+msgstr "Datei fehlt"
+
+msgid "Cannot upload file \"{filename}\". File does not exist or does not have sufficient permissions"
+msgstr "Datei „{filename}“ kann nicht hochgeladen werden.Die Datei existiert nicht oder verfügt nicht über ausreichende Berechtigungen"
+
+msgid "Bulk uploaded"
+msgstr "Massen-Upload"
+
+msgid "No addon to list: check your connection."
+msgstr "Kein Add-on zur Liste: Überprüfen Sie Ihre Verbindung."
+
+msgid "There was an error on the form. Please try again."
+msgstr "Im Formular ist ein Fehler aufgetreten.Bitte versuchen Sie es erneut."
+
+msgid "The lists of addons and selections were refreshed."
+msgstr "Die Listen der Add-ons und Auswahlmöglichkeiten wurden aktualisiert."
+
+msgid "Processing install of selection \"{selection}\" in background (job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Die Installation der Auswahl „{selection}“ wird im Hintergrund verarbeitet (Job {link_job}#{job_id}{link_end}, {link_log}Protokolle{link_end})."
+
+msgid "The {type} \"{name}\" is already downloaded."
+msgstr "Der {Typ} „{Name}“ wurde bereits heruntergeladen."
+
+msgid "Nothing processed. Please try again."
+msgstr "Nichts verarbeitet.Bitte versuchen Sie es erneut."
+
+msgid "file"
+msgstr "Datei"
+
+msgid "You must set a directory to delete files."
+msgstr "Sie müssen ein Verzeichnis zum Löschen von Dateien festlegen."
+
+msgid "You must select at least one file to batch delete."
+msgstr "Sie müssen mindestens eine Datei zum Stapellöschen auswählen."
+
+msgid "{count} files were removed."
+msgstr "{count} Dateien wurden entfernt."
+
+msgid "No file removed."
+msgstr "Keine Datei entfernt."
+
+msgid "It is forbidden to remove a folder."
+msgstr "Es ist verboten, einen Ordner zu entfernen."
+
+msgid "The file cannot be removed."
+msgstr "Die Datei kann nicht entfernt werden."
+
+msgid "File successfully deleted"
+msgstr "Datei erfolgreich gelöscht"
+
+msgid "An issue occurred during deletion."
+msgstr "Beim Löschen ist ein Problem aufgetreten."
+
+msgid "No process submitted."
+msgstr "Kein Prozess eingereicht."
+
+msgid "Unknown process \"{process}\""
+msgstr "Unbekannter Prozess „{process}“"
+
+msgid "Processing checks in background (job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Verarbeitungsprüfungen im Hintergrund (Job {link_job}#{job_id}{link_end}, {link_log}Protokolle{link_end})."
+
+msgid "No type of cache selected."
+msgstr "Kein Cache-Typ ausgewählt."
+
+msgid "The application cache of Symfony Doctrine is available."
+msgstr "Der Anwendungscache von Symfony Doctrine ist verfügbar."
+
+msgid "The application cache of Symfony Doctrine was reset."
+msgstr "Der Anwendungscache von Symfony Doctrine wurde zurückgesetzt."
+
+msgid "The application cache of Symfony Doctrine cannot be reset."
+msgstr "Der Anwendungscache von Symfony Doctrine kann nicht zurückgesetzt werden."
+
+msgid "The application cache of Symfony Doctrine is disabled."
+msgstr "Der Anwendungscache von Symfony Doctrine ist deaktiviert."
+
+msgid "An issue occurred when checking status of \"opcache\" or the status is not enabled."
+msgstr "Beim Überprüfen des Status von „opcache“ ist ein Problem aufgetreten oder der Status ist nicht aktiviert."
+
+msgid "The cache \"opcache\" was reset."
+msgstr "Der Cache „opcache“ wurde zurückgesetzt."
+
+msgid "The cache \"opcache\" is disabled."
+msgstr "Der Cache „opcache“ ist deaktiviert."
+
+msgid "The php extension \"opcache\" is not available."
+msgstr "Die PHP-Erweiterung „opcache“ ist nicht verfügbar."
+
+msgid "An issue occurred when checking status of \"apcu\" or the status is disabled."
+msgstr "Bei der Überprüfung des Status von „apcu“ ist ein Problem aufgetreten oder der Status ist deaktiviert."
+
+msgid "The cache \"apcu\" was reset."
+msgstr "Der Cache „apcu“ wurde zurückgesetzt."
+
+msgid "The php extension \"apcu\" is not available."
+msgstr "Die PHP-Erweiterung „apcu“ ist nicht verfügbar."
+
+msgid "The cache of real paths was reset."
+msgstr "Der Cache der echten Pfade wurde zurückgesetzt."
+
+msgid "Install tasks were run without errors."
+msgstr "Installationsaufgaben wurden ohne Fehler ausgeführt."
+
+msgid "The php extension \"intl\" is not available. It is recommended to install it to translate dates."
+msgstr "Die PHP-Erweiterung „intl“ ist nicht verfügbar.Es wird empfohlen, es zu installieren, um Datumsangaben zu übersetzen."
+
+msgid "{count} tasks defined to be run automatically once a day."
+msgstr "{count} Aufgaben sind so definiert, dass sie einmal täglich automatisch ausgeführt werden."
+
+msgid "The file is a dir."
+msgstr "Die Datei ist ein Verzeichnis."
+
+msgid "Filename empty."
+msgstr "Dateiname leer."
+
+msgid "Filename too much short or long."
+msgstr "Dateiname zu kurz oder zu lang."
+
+msgid "Filename contains forbidden characters."
+msgstr "Der Dateiname enthält verbotene Zeichen."
+
+msgid "Filename has no extension."
+msgstr "Der Dateiname hat keine Erweiterung."
+
+msgid "Local path is not configured."
+msgstr "Der lokale Pfad ist nicht konfiguriert."
+
+msgid "Local path should be a sub-directory of /files."
+msgstr "Der lokale Pfad sollte ein Unterverzeichnis von /files sein."
+
+msgid "Local path cannot be a directory managed by Omeka and should be inside /files."
+msgstr "Der lokale Pfad darf kein von Omeka verwaltetes Verzeichnis sein und sollte sich in /files befinden."
+
+msgid "Local path cannot be the root directory."
+msgstr "Der lokale Pfad darf nicht das Stammverzeichnis sein."
+
+msgid "Local path is not writeable."
+msgstr "Der lokale Pfad ist nicht beschreibbar."
+
+msgid "Checks and fixes"
+msgstr "Überprüfungen und Korrekturen"

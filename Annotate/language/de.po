@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "WARNING"
+msgstr "WARNUNG"
+
+msgid "All the annotations will be removed."
+msgstr "Alle Anmerkungen werden entfernt."
+
+msgid "If checked, the values of the vocabularies \"%s\" will be removed too. The class of the resources that use a class of these vocabularies will be reset."
+msgstr "Wenn aktiviert, werden auch die Werte des Vokabulars „%s“ entfernt.Die Klasse der Ressourcen, die eine Klasse dieser Vokabulare verwenden, wird zurückgesetzt."
+
+msgid "Remove the vocabularies \"%s\""
+msgstr "Entfernen Sie die Vokabeln „%s“"
+
+msgid "If checked, the custom vocabs \"%s\" will be removed too."
+msgstr "Wenn diese Option aktiviert ist, werden auch die benutzerdefinierten Vokabeln „%s“ entfernt."
+
+msgid "Remove the custom vocabs \"%s\""
+msgstr "Entfernen Sie die benutzerdefinierten Vokabeln „%s“"
+
+msgid "If checked, the resource templates \"%s\" will be removed too. The resource template of the resources that use it will be reset."
+msgstr "Wenn diese Option aktiviert ist, werden auch die Ressourcenvorlagen „%s“ entfernt.Die Ressourcenvorlage der Ressourcen, die sie verwenden, wird zurückgesetzt."
+
+msgid "Remove the resource templates \"%s\""
+msgstr "Entfernen Sie die Ressourcenvorlagen „%s“"
+
+msgid "after"
+msgstr "nach"
+
+msgid "after or on"
+msgstr "nach oder am"
+
+msgid "on"
+msgstr "An"
+
+msgid "not on"
+msgstr "nicht an"
+
+msgid "before or on"
+msgstr "davor oder danach"
+
+msgid "before"
+msgstr "vor"
+
+msgid "has any date / time"
+msgstr "hat ein beliebiges Datum/Uhrzeit"
+
+msgid "has no date / time"
+msgstr "hat kein Datum/Uhrzeit"
+
+msgid "Modified"
+msgstr "Geändert"
+
+msgid "[Annotation body #%d]"
+msgstr "[Anmerkungstext #%d]"
+
+msgid "[Annotation #%d]"
+msgstr "[Anmerkung #%d]"
+
+msgid "[Unknown]"
+msgstr "[Unbekannt]"
+
+msgid "[Annotation target #%d]"
+msgstr "[Anmerkungsziel #%d]"
+
+msgid "This module requires the module \"%s\"."
+msgstr "Dieses Modul erfordert das Modul „%s“."
+
+msgid "This module requires modules \"%s\"."
+msgstr "Dieses Modul erfordert die Module „%s“."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Delete annotations"
+msgstr "Anmerkungen löschen"
+
+msgid "Are you sure you would like to delete the selected annotations?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Anmerkungen löschen möchten?"
+
+msgid "Annotator"
+msgstr "Annotator"
+
+msgid "Annotator email"
+msgstr "E-Mail des Annotators"
+
+msgid "Date annotated"
+msgstr "Datum mit Anmerkungen versehen"
+
+msgid "Annotations"
+msgstr "Anmerkungen"
+
+msgid "Quick Search"
+msgstr "Schnellsuche"
+
+msgid "Annotation"
+msgstr "Anmerkung"
+
+msgid "Targets"
+msgstr "Ziele"
+
+msgid "Removed"
+msgstr "ENTFERNT"
+
+msgid "%s: this action will permanently delete %s annotations and cannot be undone."
+msgstr "%s: Diese Aktion löscht %s Anmerkungen dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all annotations on all pages of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Anmerkungen auf allen Seiten dieses Ergebnisses löschen möchten?"
+
+msgid "Your query returned no annotations."
+msgstr "Ihre Anfrage hat keine Anmerkungen zurückgegeben."
+
+msgid "Search annotations"
+msgstr "Anmerkungen durchsuchen"
+
+msgid "(public)"
+msgstr "(öffentlich)"
+
+msgid "Bodies"
+msgstr "Körper"
+
+msgid "This annotation has no bodies."
+msgstr "Diese Anmerkung hat keine Körper."
+
+msgid "This annotation has no targets."
+msgstr "Diese Anmerkung hat keine Ziele."
+
+msgid "Edit annotation"
+msgstr "Anmerkung bearbeiten"
+
+msgid "There are no annotations for this resource."
+msgstr "Für diese Ressource sind keine Anmerkungen vorhanden."
+
+msgid "Show annotation"
+msgstr "Anmerkung anzeigen"
+
+msgid "Delete annotation"
+msgstr "Anmerkung löschen"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Purpose"
+msgstr "Zweck"
+
+msgid "Full value"
+msgstr "Voller Wert"
+
+msgid "Target selector"
+msgstr "Zielauswahl"
+
+msgid "Selector type"
+msgstr "Selektortyp"
+
+msgid "Annotations (%d)"
+msgstr "Anmerkungen (%d)"
+
+msgid "Date / time"
+msgstr "Datum/Uhrzeit"
+
+msgid "Search by date / time"
+msgstr "Suche nach Datum/Uhrzeit"
+
+msgid "Date / time can be full like \"2018-01-23 12:34:56\", or partial like \"2018-12-25\" or \"2017-11\"."
+msgstr "Datum/Uhrzeit können vollständig wie „23.01.2018 12:34:56“ oder teilweise wie „25.12.2018“ oder „11.2017“ sein."
+
+msgid "And"
+msgstr "Und"
+
+msgid "Or"
+msgstr "Oder"
+
+msgid "Creation or modification date / time"
+msgstr "Datum/Uhrzeit der Erstellung oder Änderung"
+
+msgid "Remove date / time"
+msgstr "Datum/Uhrzeit entfernen"
+
+msgid "Add new date / time"
+msgstr "Neues Datum/neue Uhrzeit hinzufügen"
+
+msgid "New annotation"
+msgstr "Neue Anmerkung"
+
+msgid "Warning: the resource is already an annotation."
+msgstr "Warnung: Die Ressource ist bereits eine Anmerkung."
+
+msgid "Go to the tab \"Metadata\" to find and to annotate the original target resource."
+msgstr "Gehen Sie auf die Registerkarte „Metadaten“, um die ursprüngliche Zielressource zu finden und zu kommentieren."
+
+msgid "Close Me"
+msgstr "Schließe mich"
+
+msgid "Mapping Info"
+msgstr "Karteninformationen"
+
+msgid "Latitude"
+msgstr "Breite"
+
+msgid "Longitude"
+msgstr "Länge"
+
+msgid "Latitude/Longitude"
+msgstr "Breitengrad/Längengrad"
+
+msgid "Default View Settings"
+msgstr "Standardansichtseinstellungen"
+
+msgid "Default Latitude"
+msgstr "Standard-Breitengrad"
+
+msgid "Default Longitude"
+msgstr "Standardlängengrad"
+
+msgid "Default Zoom"
+msgstr "Standardzoom"
+
+msgid "Use multivalue separator"
+msgstr "Verwenden Sie ein mehrwertiges Trennzeichen"
+
+msgid "(Only applies to Latitude/Longitude)"
+msgstr "(Gilt nur für Breiten-/Längengrad)"
+
+msgid "The custom vocab named \"%s\" is not available."
+msgstr "Das benutzerdefinierte Vokabular mit dem Namen „%s“ ist nicht verfügbar."
+
+msgid "The RDF Concepts Vocabulary (RDF)"
+msgstr "Das RDF-Konzeptvokabular (RDF)"
+
+msgid "This is the RDF Schema for the RDF vocabulary terms in the RDF Namespace, defined in RDF 1.1 Concepts."
+msgstr "Dies ist das RDF-Schema für die RDF-Vokabularbegriffe im RDF-Namespace, definiert in RDF 1.1-Konzepten."
+
+msgid "Web Annotation Ontology"
+msgstr "Web-Annotation-Ontologie"
+
+msgid "The Web Annotation Vocabulary specifies the set of RDF classes, predicates and named entities that are used by the Web Annotation Data Model (http://www.w3.org/TR/annotation-model/)."
+msgstr "Das Web Annotation Vocabulary spezifiziert den Satz von RDF-Klassen, Prädikaten und benannten Entitäten, die vom Web Annotation Data Model (http://www.w3.org/TR/annotation-model/) verwendet werden."
+
+msgid "Motivated by"
+msgstr "Motiviert durch"
+
+msgid "Select the motivation of this annotation…"
+msgstr "Wählen Sie die Motivation dieser Anmerkung aus…"
+
+msgid "Is public"
+msgstr "Ist öffentlich"
+
+msgid "Annotate it!"
+msgstr "Kommentieren Sie es!"
+
+msgid "Content of the annotation"
+msgstr "Inhalt der Anmerkung"
+
+msgid "The value of the body is generally the textual content of the annotation."
+msgstr "Der Wert des Körpers ist im Allgemeinen der Textinhalt der Anmerkung."
+
+msgid "Any plain text or html…"
+msgstr "Jeder reine Text oder HTML…"
+
+msgid "Purpose of this content"
+msgstr "Zweck dieses Inhalts"
+
+msgid "Select the purpose of this body content, if needed…"
+msgstr "Wählen Sie bei Bedarf den Zweck dieses Textinhalts aus ..."
+
+msgid "Type of the target selector"
+msgstr "Typ des Zielselektors"
+
+msgid "Select the selector type to specify a subpart of the resource, if needed…"
+msgstr "Wählen Sie bei Bedarf den Selektortyp aus, um einen Unterteil der Ressource anzugeben."
+
+msgid "Allows to delimit a portion of the resource (part of a text, an image or an item…)."
+msgstr "Ermöglicht die Abgrenzung eines Teils der Ressource (Teil eines Textes, eines Bildes oder eines Elements…)."
+
+msgid "Any xml, json, svg, media api url, media id, etc. according to the type of selector."
+msgstr "Alle XML-, JSON-, SVG-, Medien-API-URLs, Medien-IDs usw. je nach Selektortyp."
+
+msgid "Annotate"
+msgstr "Kommentieren"
+
+msgid "Append annotations automatically to item set page"
+msgstr "Fügen Sie Anmerkungen automatisch zur Elementsatzseite hinzu"
+
+msgid "If unchecked, the annotations can be added via the helper in the theme or the block in any page."
+msgstr "Wenn diese Option deaktiviert ist, können die Anmerkungen über den Helfer im Theme oder den Block auf einer beliebigen Seite hinzugefügt werden."
+
+msgid "Append annotations automatically to item page"
+msgstr "Fügen Sie Anmerkungen automatisch zur Artikelseite hinzu"
+
+msgid "Append annotations automatically to media page"
+msgstr "Anmerkungen automatisch an die Medienseite anhängen"
+
+msgid "Set a date with optional comparator…"
+msgstr "Legen Sie ein Datum mit optionalem Komparator fest ..."
+
+msgid "Select a user…"
+msgstr "Wählen Sie einen Benutzer aus…"
+
+msgid "Annotation data"
+msgstr "Anmerkungsdaten"
+
+msgid "\"%s\" is not a valid resource type."
+msgstr "„%s“ ist kein gültiger Ressourcentyp."
+
+msgid "\"%s\" (%s) is not a valid annotation."
+msgstr "„%s“ (%s) ist keine gültige Anmerkung."
+
+msgid "Only a resource can be annotated."
+msgstr "Nur eine Ressource kann mit Anmerkungen versehen werden."
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "Resource not found."
+msgstr "Ressource nicht gefunden."
+
+msgid "Resource not found"
+msgstr "Ressource nicht gefunden"
+
+msgid "The annotation is empty."
+msgstr "Die Anmerkung ist leer."
+
+msgid "A resource can’t have the same resource as selector."
+msgstr "Eine Ressource kann nicht dieselbe Ressource wie der Selektor haben."
+
+msgid "A media can’t have a resource selector."
+msgstr "Ein Medium kann keinen Ressourcenselektor haben."
+
+msgid "An item can’t have an item set selector."
+msgstr "Ein Artikel kann keinen Artikelsatzselektor haben."
+
+msgid "The target selector \"%s\" cannot be identified: it should be a resource id or a resource api url."
+msgstr "Der Zielselektor „%s“ kann nicht identifiziert werden: Es sollte eine Ressourcen-ID oder eine Ressourcen-API-URL sein."
+
+msgid "There is no %s with id #%s."
+msgstr "Es gibt kein %s mit der ID #%s."
+
+msgid "There is no %s with id #%s that belongs to resource #%s."
+msgstr "Es gibt kein %s mit der ID #%s, das zur Ressource #%s gehört."
+
+msgid "Resource #%d successfully annotated."
+msgstr "Ressource #%d erfolgreich mit Anmerkungen versehen."
+
+msgid "Annotation successfully updated"
+msgstr "Anmerkung erfolgreich aktualisiert"
+
+msgid "Annotation successfully deleted."
+msgstr "Anmerkung erfolgreich gelöscht."
+
+msgid "You must select at least one annotation to batch delete."
+msgstr "Sie müssen mindestens eine Anmerkung zum Stapellöschen auswählen."
+
+msgid "Annotations successfully deleted."
+msgstr "Anmerkungen erfolgreich gelöscht."
+
+msgid "Delete of all annotations is not supported currently."
+msgstr "Das Löschen aller Anmerkungen wird derzeit nicht unterstützt."
+
+msgid "An annotation target must be attached to an Annotation."
+msgstr "An eine Anmerkung muss ein Anmerkungsziel angehängt werden."
+
+msgid "Annotation body must be an array."
+msgstr "Der Anmerkungstext muss ein Array sein."
+
+msgid "Annotation target must be an array."
+msgstr "Das Anmerkungsziel muss ein Array sein."
+
+msgid "There must be one annotation target at least."
+msgstr "Es muss mindestens ein Anmerkungsziel vorhanden sein."
+
+msgid "An annotation body must be attached to an Annotation."
+msgstr "An eine Anmerkung muss ein Anmerkungstext angehängt werden."
+
+msgid "Annotation body"
+msgstr "Anmerkungstext"
+
+msgid "The file \"%s\" cannot be read. Check your file system."
+msgstr "Die Datei „%s“ kann nicht gelesen werden.Überprüfen Sie Ihr Dateisystem."
+
+msgid "An error occured when adding the prefix \"%s\": another vocabulary exists. Resolve the conflict before installing this module."
+msgstr "Beim Hinzufügen des Präfixes „%s“ ist ein Fehler aufgetreten: Es ist ein anderes Vokabular vorhanden.Lösen Sie den Konflikt, bevor Sie dieses Modul installieren."
+
+msgid "A resource template named \"%s\" exists: rename it or remove it before installing this module."
+msgstr "Es ist eine Ressourcenvorlage mit dem Namen „%s“ vorhanden: Benennen Sie sie um oder entfernen Sie sie, bevor Sie dieses Modul installieren."
+
+msgid "The current version of this module requires the module Custom Vocab."
+msgstr "Die aktuelle Version dieses Moduls erfordert das Modul Custom Vocab."
+
+msgid "A custom vocab named \"%s\" exists and has not the needed terms: rename it or remove it before installing this module."
+msgstr "Ein benutzerdefiniertes Vokabular mit dem Namen „%s“ ist vorhanden und enthält nicht die erforderlichen Begriffe: Benennen Sie es um oder entfernen Sie es, bevor Sie dieses Modul installieren."
+
+msgid "A custom vocab named \"%s\" exists and has not the needed language (\"%s\"): check it or remove it before installing this module."
+msgstr "Ein benutzerdefiniertes Vokabular mit dem Namen „%s“ ist vorhanden und verfügt nicht über die erforderliche Sprache („%s“): Überprüfen Sie es oder entfernen Sie es, bevor Sie dieses Modul installieren."
+
+msgid "The vocabulary \"%s\" was already installed and was kept."
+msgstr "Das Vokabular „%s“ war bereits installiert und wurde beibehalten."
+
+msgid "An error occured when adding the prefix \"%s\" and the associated properties: %s"
+msgstr "Beim Hinzufügen des Präfixes „%s“ und der zugehörigen Eigenschaften ist ein Fehler aufgetreten: %s"
+
+msgid "The resource template named \"%s\" is already available and is skipped."
+msgstr "Die Ressourcenvorlage mit dem Namen „%s“ ist bereits verfügbar und wird übersprungen."

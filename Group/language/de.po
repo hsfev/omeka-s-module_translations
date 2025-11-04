@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Groups"
+msgstr "Gruppen"
+
+msgid "Has groups"
+msgstr "Hat Gruppen"
+
+msgid "true"
+msgstr "WAHR"
+
+msgid "Select below"
+msgstr "Wählen Sie unten aus"
+
+msgid "Remove group"
+msgstr "Gruppe entfernen"
+
+msgid "Users within this group"
+msgstr "Benutzer innerhalb dieser Gruppe"
+
+msgid "Item sets within this group"
+msgstr "Artikelsätze innerhalb dieser Gruppe"
+
+msgid "Items within this group"
+msgstr "Elemente innerhalb dieser Gruppe"
+
+msgid "Media within this group"
+msgstr "Medien innerhalb dieser Gruppe"
+
+msgid "There are no groups for this resource."
+msgstr "Für diese Ressource gibt es keine Gruppen."
+
+msgid "Add existing groups using the interface to the right."
+msgstr "Fügen Sie vorhandene Gruppen über die Benutzeroberfläche rechts hinzu."
+
+msgid "Add a group"
+msgstr "Fügen Sie eine Gruppe hinzu"
+
+msgid "There are no groups for this user."
+msgstr "Für diesen Benutzer sind keine Gruppen vorhanden."
+
+msgid "Unassign group"
+msgstr "Zuweisung der Gruppe aufheben"
+
+msgid "No group."
+msgstr "Keine Gruppe."
+
+msgid "Close Me"
+msgstr "Schließe mich"
+
+msgid "Click on a group to add it to the edit panel."
+msgstr "Klicken Sie auf eine Gruppe, um sie dem Bearbeitungsfeld hinzuzufügen."
+
+msgid "Filter groups"
+msgstr "Gruppen filtern"
+
+msgid "All groups"
+msgstr "Alle Gruppen"
+
+msgid "New group"
+msgstr "Neue Gruppe"
+
+msgid "Delete groups"
+msgstr "Gruppen löschen"
+
+msgid "Are you sure you would like to delete the selected groups?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Gruppen löschen möchten?"
+
+msgid "Total count"
+msgstr "Gesamtzahl"
+
+msgid "Total users"
+msgstr "Gesamtzahl der Benutzer"
+
+msgid "Total resources"
+msgstr "Gesamtressourcen"
+
+msgid "Total item sets"
+msgstr "Gesamtzahl der Artikelsätze"
+
+msgid "Total items"
+msgstr "Gesamtzahl der Artikel"
+
+msgid "Total media"
+msgstr "Gesamtmedien"
+
+msgid "Recent"
+msgstr "Jüngste"
+
+msgid "Add new group"
+msgstr "Neue Gruppe hinzufügen"
+
+msgid "There are no groups."
+msgstr "Es gibt keine Gruppen."
+
+msgid "Edit name"
+msgstr "Namen bearbeiten"
+
+msgid "No comment."
+msgstr "Kein Kommentar."
+
+msgid "Stats"
+msgstr "Statistiken"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Medias"
+msgstr "Medien"
+
+msgid "Back to group list"
+msgstr "Zurück zur Gruppenliste"
+
+msgid "Internal id"
+msgstr "Interne ID"
+
+msgid "Groups are editable on the browse page."
+msgstr "Gruppen können auf der Durchsuchen-Seite bearbeitet werden."
+
+msgid "Remove groups"
+msgstr "Gruppen entfernen"
+
+msgid "Add groups"
+msgstr "Gruppen hinzufügen"
+
+msgid "The settings should be set in the file \"config/local.config.php\" of Omeka. See the file module.config.php of the module and readme."
+msgstr "Die Einstellungen sollten in der Datei „config/local.config.php“ von Omeka vorgenommen werden.Siehe die Datei module.config.php des Moduls und die Readme-Datei."
+
+msgid "Recursive item sets: yes"
+msgstr "Rekursive Elementsätze: ja"
+
+msgid "Recursive item sets: no"
+msgstr "Rekursive Elementsätze: Nein"
+
+msgid "The groups for resources can be set only by item sets."
+msgstr "Die Gruppen für Ressourcen können nur durch Elementsätze festgelegt werden."
+
+msgid "Recursive items: yes"
+msgstr "Rekursive Elemente: ja"
+
+msgid "Recursive items: no"
+msgstr "Rekursive Elemente: Nein"
+
+msgid "The groups for medias can be set only at items level."
+msgstr "Die Gruppen für Medien können nur auf Artikelebene festgelegt werden."
+
+msgid "Search by group"
+msgstr "Suche nach Gruppe"
+
+msgid "Multiple groups may be comma-separated."
+msgstr "Mehrere Gruppen können durch Kommas getrennt werden."
+
+msgid "Select groups…"
+msgstr "Gruppen auswählen…"
+
+msgid "The name \"{group_name}\" is already taken."
+msgstr "Der Name „{group_name}“ ist bereits vergeben."
+
+msgid "The name \"{group_name}\" contains forbidden characters."
+msgstr "Der Name „{group_name}“ enthält verbotene Zeichen."
+
+msgid "A name can’t contain only numbers."
+msgstr "Ein Name darf nicht nur Zahlen enthalten."
+
+msgid "A name cannot be a reserved word."
+msgstr "Ein Name kann kein reserviertes Wort sein."
+
+msgid "A group must have a name."
+msgstr "Eine Gruppe muss einen Namen haben."
+
+msgid "\"{identifier}\" is not a valid group."
+msgstr "„{identifier}“ ist keine gültige Gruppe."
+
+msgid "Group successfully deleted."
+msgstr "Gruppe erfolgreich gelöscht."
+
+msgid "You must select at least one group to batch delete."
+msgstr "Sie müssen mindestens eine Gruppe zum Stapellöschen auswählen."
+
+msgid "Groups successfully deleted."
+msgstr "Gruppen erfolgreich gelöscht."
+
+msgid "Delete of all groups is not supported currently."
+msgstr "Das Löschen aller Gruppen wird derzeit nicht unterstützt."
+
+msgid "Group successfully created. {link}Add another group?{link_end}"
+msgstr "Gruppe erfolgreich erstellt.{link}Eine weitere Gruppe hinzufügen?{link_end}"
+
+msgid "No groups submitted."
+msgstr "Keine Gruppen eingereicht."
+
+msgid "This group is invalid: it is a duplicate or it contains forbidden characters."
+msgstr "Diese Gruppe ist ungültig: Es handelt sich um ein Duplikat oder sie enthält verbotene Zeichen."
+
+msgid "Unauthorized access."
+msgstr "Unbefugter Zugriff."
+
+msgid "Group not found."
+msgstr "Gruppe nicht gefunden."
+
+msgid "An internal error occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "{entity} entity with criteria {\"name\":\"{group_name}\"} not found."
+msgstr "{entity}-Entität mit den Kriterien {\"name\": \"{group_name}\"} nicht gefunden."
+
+msgid "Request too long to process."
+msgstr "Die Bearbeitung der Anfrage dauert zu lange."

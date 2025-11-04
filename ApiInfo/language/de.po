@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Method Not Allowed"
+msgstr "Methode nicht zulässig"
+
+msgid "Multiple resources are not implemented currently (only items)."
+msgstr "Mehrere Ressourcen sind derzeit nicht implementiert (nur Artikel)."
+
+msgid "Payload too large."
+msgstr "Nutzlast zu groß."
+
+msgid "Multiple resources are not implemented currently."
+msgstr "Mehrere Ressourcen sind derzeit nicht implementiert."
+
+msgid "Tree"
+msgstr "Baum"

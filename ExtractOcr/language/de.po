@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The directory \"%s\" is not writeable. Fix rights or create it manually."
+msgstr "Das Verzeichnis „%s“ ist nicht beschreibbar.Rechte korrigieren oder manuell erstellen."
+
+msgid "The file \"%s\" cannot be renamed."
+msgstr "Die Datei „%s“ kann nicht umbenannt werden."
+
+msgid "The base uri \"%s\" is not set in the config file of Omeka \"config/local.config.php\". It must be set for technical reasons for now."
+msgstr "Die Basis-URI „%s“ ist in der Konfigurationsdatei von Omeka „config/local.config.php“ nicht festgelegt.Aus technischen Gründen muss es vorerst eingestellt werden."
+
+msgid "Options are used during edition of items and for bulk processing."
+msgstr "Optionen werden bei der Bearbeitung von Artikeln und für die Massenverarbeitung verwendet."
+
+msgid "The insertion of the text in the item properties is currently not supported."
+msgstr "Das Einfügen des Textes in die Artikeleigenschaften wird derzeit nicht unterstützt."
+
+msgid "XML files will be rebuilt for all PDF files of your Omeka install."
+msgstr "XML-Dateien werden für alle PDF-Dateien Ihrer Omeka-Installation neu erstellt."
+
+msgid "Process"
+msgstr "Verfahren"
+
+msgid "The base uri is not set (key [file_store][local][base_uri]) in the config file of Omeka \"config/local.config.php\". It must be set for now (key [file_store][local][base_uri]) in order to process background jobs."
+msgstr "Die Basis-URI ist in der Konfigurationsdatei von Omeka „config/local.config.php“ nicht festgelegt (Schlüssel [file_store][local][base_uri]).Es muss vorerst gesetzt werden (Schlüssel [file_store][local][base_uri]), um Hintergrundjobs verarbeiten zu können."
+
+msgid "A new option allows to create xml as alto multi-pages."
+msgstr "Eine neue Option ermöglicht die Erstellung von XML-Dateien als Alt-Mehrseiten."
+
+msgid "A new option allows to export OCR into tsv format for quicker search results. Data should be reindexed with format TSV."
+msgstr "Eine neue Option ermöglicht den Export von OCR in das TSV-Format für schnellere Suchergebnisse.Die Daten sollten mit dem Format TSV neu indiziert werden."
+
+msgid "A new option allows to store the file separately of the item. You can enable it by default."
+msgstr "Eine neue Option ermöglicht es, die Datei getrennt vom Artikel zu speichern.Sie können es standardmäßig aktivieren."
+
+msgid "It is now possible to store multiple extracted files and medias, for example one for quick search and another one to display transcription."
+msgstr "Es ist nun möglich, mehrere extrahierte Dateien und Medien zu speichern, beispielsweise eine für die Schnellsuche und eine andere zur Anzeige der Transkription."
+
+msgid "In order to manage multiple derivative files and to avoid collisions with native files, the names of the file were updated. You should remove all existing created files (via search media by media type then delete) then recreate them all (via the job in config form)."
+msgstr "Um mehrere abgeleitete Dateien zu verwalten und Kollisionen mit nativen Dateien zu vermeiden, wurden die Namen der Dateien aktualisiert.Sie sollten alle vorhandenen erstellten Dateien entfernen (über Medien nach Medientyp durchsuchen und dann löschen) und sie dann alle neu erstellen (über den Job im Konfigurationsformular)."
+
+msgid "A new extract format was added as tsv to allow quick and exact search, but with larger files."
+msgstr "Ein neues Extraktformat wurde als tsv hinzugefügt, um eine schnelle und genaue Suche zu ermöglichen, allerdings auch bei größeren Dateien."
+
+msgid "You may update the settings in the %1$sconfig form%2$s."
+msgstr "Sie können die Einstellungen im %1$sconfig-Formular%2$s aktualisieren."
+
+msgid "The command-line utility pdftotext is not available. Install the package poppler-utils."
+msgstr "Das Befehlszeilendienstprogramm pdftotext ist nicht verfügbar.Installieren Sie das Paket popler-utils."
+
+msgid "The command-line utility pdftohtml is not available. Install the package poppler-utils."
+msgstr "Das Befehlszeilendienstprogramm pdftohtml ist nicht verfügbar.Installieren Sie das Paket popler-utils."
+
+msgid "No job launched."
+msgstr "Kein Job gestartet."
+
+msgid "Creating Extract OCR files in background (job %1$s#%2$s%3$s, %4$slogs%3$s)."
+msgstr "Erstellen von OCR-Extraktdateien im Hintergrund (Job %1$s#%2$s%3$s, %4$slogs%3$s)."
+
+msgid "Extracting OCR in background."
+msgstr "OCR im Hintergrund extrahieren."
+
+msgid "The directory \"%s\" is not writeable."
+msgstr "Das Verzeichnis „%s“ ist nicht beschreibbar."
+
+msgid "The directory \"%1$s\" is not writeable: %2$s."
+msgstr "Das Verzeichnis „%1$s“ ist nicht beschreibbar: %2$s."
+
+msgid "Extract OCR: Extract ocr from files"
+msgstr "OCR extrahieren: OCR aus Dateien extrahieren"
+
+msgid "Options to extract OCR"
+msgstr "Optionen zum Extrahieren von OCR"
+
+msgid "Extract OCR job"
+msgstr "OCR-Auftrag extrahieren"
+
+msgid "Only already extracted (improve extraction)"
+msgstr "Nur bereits extrahiert (Extraktion verbessern)"
+
+msgid "Only missing extracted medias"
+msgstr "Es fehlen nur extrahierte Medien"
+
+msgid "All medias"
+msgstr "Alle Medien"
+
+msgid "Item ids"
+msgstr "Artikel-IDs"
+
+msgid "The temporary directory \"files/temp\" is not writeable. Fix rights or create it manually."
+msgstr "Das temporäre Verzeichnis „files/temp“ ist nicht beschreibbar.Rechte korrigieren oder manuell erstellen."
+
+msgid "The base uri is unknown."
+msgstr "Die Basis-URI ist unbekannt."
+
+msgid "No extract format to process."
+msgstr "Kein Extraktformat zum Verarbeiten."
+
+msgid "The php extension \"xml\" or \"xsl\" is required to extract text as xml alto."
+msgstr "Um Text als XML Alto zu extrahieren, ist die PHP-Erweiterung „xml“ oder „xsl“ erforderlich."
+
+msgid "The directory is not writeable."
+msgstr "Das Verzeichnis ist nicht beschreibbar."
+
+msgid "The option to store text is set, but no property is defined."
+msgstr "Die Option zum Speichern von Text ist festgelegt, es ist jedoch keine Eigenschaft definiert."
+
+msgid "No item with a pdf to process."
+msgstr "Kein Artikel mit PDF zum Verarbeiten."
+
+msgid "Formats of xml files to create: %s."
+msgstr "Formate der zu erstellenden XML-Dateien: %s."
+
+msgid "Creating Extract OCR files for %d PDF only if they already exist."
+msgstr "Erstellen Sie OCR-Extraktdateien für %d PDF nur, wenn sie bereits vorhanden sind."
+
+msgid "Creating Extract OCR files for %d PDF, only if they do not exist yet."
+msgstr "Erstellen von OCR-Extraktdateien für %d PDF, nur wenn sie noch nicht vorhanden sind."
+
+msgid "Creating Extract OCR files for %d PDF, xml files will be overridden or created."
+msgstr "Beim Erstellen von OCR-Extraktdateien für %d PDF werden XML-Dateien überschrieben oder erstellt."
+
+msgid "Mode of extraction \"%s\" is not managed."
+msgstr "Der Extraktionsmodus „%s“ wird nicht verwaltet."
+
+msgid "Processing format %1$d/%2$d: %3$s (%4$s)."
+msgstr "Verarbeitungsformat %1$d/%2$d: %3$s (%4$s)."
+
+msgid "End of processing formats."
+msgstr "Ende der Verarbeitungsformate."
+
+msgid "The job \"Extract OCR\" was stopped: %1$d/%2$d resources processed, %3$d failed (%4$d without file, %5$d without text layer, %6$d with issue)."
+msgstr "Der Job „OCR extrahieren“ wurde gestoppt: %1$d/%2$d Ressourcen verarbeitet, %3$d fehlgeschlagen (%4$d ohne Datei, %5$d ohne Textebene, %6$d mit Problem)."
+
+msgid "The job \"Extract OCR\" was stopped: %1$d/%2$d resources processed, %3$d skipped, %4$d failed (%5$d without file, %6$d without text layer, %7$d with issue)."
+msgstr "Der Auftrag „OCR extrahieren“ wurde gestoppt: %1$d/%2$d Ressourcen verarbeitet, %3$d übersprungen, %4$d fehlgeschlagen (%5$d ohne Datei, %6$d ohne Textebene, %7$d mit Problem)."
+
+msgid "Item #%d: only the first pdf is processed."
+msgstr "Element #%d: Nur das erste PDF wird verarbeitet."
+
+msgid "Index #%1$d/%2$d: Extracting OCR for item #%3$d, media #%4$d \"%5$s\"."
+msgstr "Index #%1$d/%2$d: OCR für Element #%3$d, Medium #%4$d „%5$s“ extrahieren."
+
+msgid "The existing %1$s was removed for item #%2$d."
+msgstr "Das vorhandene %1$s wurde für Artikel #%2$d entfernt."
+
+msgid "A file %1$s already exists, so item #%2$d is skipped."
+msgstr "Eine Datei %1$s ist bereits vorhanden, daher wird Element #%2$d übersprungen."
+
+msgid "A file %1$s (media #%2$d) already exists, so item #%3$d is skipped."
+msgstr "Eine Datei %1$s (Medium #%2$d) existiert bereits, daher wird Element #%3$d übersprungen."
+
+msgid "The output %1$s for pdf #%2$d has no text content and is not created."
+msgstr "Die Ausgabe %1$s für PDF #%2$d hat keinen Textinhalt und wird nicht erstellt."
+
+msgid "Media #%1$d (item #%2$d) created for %3$s file."
+msgstr "Medien #%1$d (Element #%2$d) für %3$s-Datei erstellt."
+
+msgid "IIIF Search file for item #%1$d created for format %2$s."
+msgstr "IIIF-Suchdatei für Element #%1$d, erstellt für Format %2$s."
+
+msgid "Unable to store the IIIF Search file for item #%1$d for format %2$s."
+msgstr "Die IIIF-Suchdatei für Element #%1$d für Format %2$s kann nicht gespeichert werden."
+
+msgid "These medias have no pdf file: #%s"
+msgstr "Diese Medien haben keine PDF-Datei: #%s"
+
+msgid "These pdf files have no text layer: #%s"
+msgstr "Diese PDF-Dateien haben keine Textebene: #%s"
+
+msgid "These pdf files have issues when extracting content: #%s"
+msgstr "Bei diesen PDF-Dateien treten Probleme beim Extrahieren des Inhalts auf: #%s"
+
+msgid "Processed %1$d/%2$d pdf files, %3$d files %4$s created, %5$d failed (%6$d without file, %7$d without text layer, %8$d with issue)."
+msgstr "%1$d/%2$d PDF-Dateien verarbeitet, %3$d Dateien %4$s erstellt, %5$d fehlgeschlagen (%6$d ohne Datei, %7$d ohne Textebene, %8$d mit Problem)."
+
+msgid "Processed %1$d/%2$d pdf files, %3$d skipped, %4$d files %5$s, created, %6$d failed (%7$d without file, %8$d without text layer, %9$d with issue)."
+msgstr "%1$d/%2$d PDF-Dateien verarbeitet, %3$d übersprungen, %4$d Dateien %5$s, erstellt, %6$d fehlgeschlagen (%7$d ohne Datei, %8$d ohne Textebene, %9$d mit Problem)."
+
+msgid "Missing pdf file (media #%1$d)."
+msgstr "Fehlende PDF-Datei (Medium #%1$d)."
+
+msgid "File %1$s was not created for media #%2$s."
+msgstr "Datei %1$s wurde für Medium #%2$s nicht erstellt."
+
+msgid "File cannot be saved in temporary directory \"%1$s\" (temp file: \"%2$s\")"
+msgstr "Datei kann nicht im temporären Verzeichnis „%1$s“ gespeichert werden (temporäre Datei: „%2$s“)"
+
+msgid "Create file for formats"
+msgstr "Datei für Formate erstellen"
+
+msgid "For more info on formats, see readme."
+msgstr "Weitere Informationen zu Formaten finden Sie in der Readme-Datei."
+
+msgid "tsv with original order of words (quick and exact search for iiif search)"
+msgstr "tsv mit ursprünglicher Wortreihenfolge (schnelle und genaue Suche für iiif-Suche)"
+
+msgid "tsv grouped by word (very quick search for iiif search, small index)"
+msgstr "tsv nach Wort gruppiert (sehr schnelle Suche für iiif-Suche, kleiner Index)"
+
+msgid "xml alto (slow search, ocr transcription for iiif server)"
+msgstr "xml alto (langsame Suche, OCR-Transkription für iiif-Server)"
+
+msgid "pdf2xml"
+msgstr "pdf2xml"
+
+msgid "Create media for formats"
+msgstr "Erstellen Sie Medien für Formate"
+
+msgid "tsv with original order of words"
+msgstr "tsv mit originaler Wortreihenfolge"
+
+msgid "tsv grouped by word"
+msgstr "tsv nach Wort gruppiert"
+
+msgid "xml alto"
+msgstr "xml alt"
+
+msgid "Store the raw text in a property of a resource"
+msgstr "Speichern Sie den Rohtext in einer Eigenschaft einer Ressource"
+
+msgid "Text cannot be stored in item when an item is manually edited."
+msgstr "Text kann nicht im Element gespeichert werden, wenn ein Element manuell bearbeitet wird."
+
+msgid "Pdf media"
+msgstr "PDF-Medien"
+
+msgid "Tsv or Xml media if any"
+msgstr "Tsv- oder XML-Medien, falls vorhanden"
+
+msgid "Property to save pdf raw text (not recommended)"
+msgstr "Eigenschaft zum Speichern von PDF-Rohtext (nicht empfohlen)"
+
+msgid "To save content makes it searchable anywhere. It is recommended to use \"bibo:content\". Note that it will increase the noise in the results, unless you use a search engine. Furthermore, this option is not recommended when the text is too much big."
+msgstr "Durch das Speichern von Inhalten ist dieser überall durchsuchbar.Es wird empfohlen, „bibo:content“ zu verwenden.Beachten Sie, dass dadurch das Rauschen in den Ergebnissen erhöht wird, es sei denn, Sie verwenden eine Suchmaschine.Darüber hinaus wird diese Option nicht empfohlen, wenn der Text zu groß ist."
+
+msgid "Select a media property…"
+msgstr "Wählen Sie eine Medieneigenschaft aus…"
+
+msgid "Language code of the content"
+msgstr "Sprachcode des Inhalts"
+
+msgid "Create xml file even if there is no text content"
+msgstr "Erstellen Sie eine XML-Datei, auch wenn kein Textinhalt vorhanden ist"
+
+msgid "This option may be useful to keep the same order and number of pages and extracted texts."
+msgstr "Diese Option kann nützlich sein, um die gleiche Reihenfolge und Anzahl der Seiten und extrahierten Texte beizubehalten."
+
+msgid "Run in background"
+msgstr "Im Hintergrund ausführen"

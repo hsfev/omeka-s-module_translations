@@ -1,0 +1,1110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This module requires module %1$s version %2$s or greater."
+msgstr "Dieses Modul erfordert Modul %1$s Version %2$s oder höher."
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Create page model"
+msgstr "Seitenmodell erstellen"
+
+msgid "A simple block allows to display data via one of the templates set in the block layout settings."
+msgstr "Ein einfacher Block ermöglicht die Anzeige von Daten über eine der in den Blocklayout-Einstellungen festgelegten Vorlagen."
+
+msgid "This block uses the options set in the {link}site settings{link_end}, unless you use the template of Omeka in the config of the block."
+msgstr "Dieser Block verwendet die in den {link}Site-Einstellungen{link_end} festgelegten Optionen, es sei denn, Sie verwenden die Vorlage von Omeka in der Konfiguration des Blocks."
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "%1$s%2$s\n-\n%3$s"
+msgstr "%1$s%2$s\n-\n%3$s"
+
+msgid "Share by mail"
+msgstr "Per Mail teilen"
+
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+msgid "Share on Pinterest"
+msgstr "Auf Pinterest teilen"
+
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+msgid "This block displays the messages to the visitor or user, for example for modules Bulk Export, Contact Us, Contribute, and Guest."
+msgstr "Dieser Block zeigt die Nachrichten an den Besucher oder Benutzer an, beispielsweise für die Module Massenexport, Kontaktieren Sie uns, Mitwirken und Gast."
+
+msgid "Choose any page from any site."
+msgstr "Wählen Sie eine beliebige Seite von einer beliebigen Website aus."
+
+msgid "If a page of a private site is selected, it will be hidden on the public side."
+msgstr "Wenn eine Seite einer privaten Website ausgewählt wird, wird sie auf der öffentlichen Seite ausgeblendet."
+
+msgid "The current page and recursive pages are forbidden."
+msgstr "Die aktuelle Seite und rekursive Seiten sind verboten."
+
+msgid "This block doesn’t display anything, but stores various metadata for themes. It will be removed soon and replaced by the main page metadata above."
+msgstr "Dieser Block zeigt nichts an, speichert aber verschiedene Metadaten für Themes.Es wird bald entfernt und durch die oben genannten Metadaten der Hauptseite ersetzt."
+
+msgid "Redirect to %s"
+msgstr "Weiterleitung zu %s"
+
+msgid "Download file"
+msgstr "Datei herunterladen"
+
+msgid "Print"
+msgstr "Drucken"
+
+msgid "Dashboard"
+msgstr "Armaturenbrett"
+
+msgid "Basket"
+msgstr "Korb"
+
+msgid "Collecting"
+msgstr "Sammeln"
+
+msgid "Selection for contact"
+msgstr "Auswahl zur Kontaktaufnahme"
+
+msgid "Selection"
+msgstr "Auswahl"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Authentication error"
+msgstr "Authentifizierungsfehler"
+
+msgid "Update account"
+msgstr "Konto aktualisieren"
+
+msgid "Update email"
+msgstr "E-Mail aktualisieren"
+
+msgid "Accept terms"
+msgstr "Akzeptieren Sie die Bedingungen"
+
+msgid "Current page"
+msgstr "Aktuelle Seite"
+
+msgid "Collections"
+msgstr "Sammlungen"
+
+msgid "Breadcrumb"
+msgstr "Semmelbrösel"
+
+msgid "Search on map"
+msgstr "Auf der Karte suchen"
+
+msgid "No message."
+msgstr "Keine Nachricht."
+
+msgid "No file defined. Set the param in the block: \"file"
+msgstr "filename.tsv\" (use a file inside /asset/data/) or \"file = https://example.com/file.tsv\". = Keine Datei definiert.Legen Sie den Parameter im Block fest: „file = filename.tsv“ (verwenden Sie eine Datei in /asset/data/) oder „file = https://example.com/file.tsv“."
+
+msgid "Display info"
+msgstr "Informationen anzeigen"
+
+msgid "More information"
+msgstr "Weitere Informationen"
+
+msgid "[No date]"
+msgstr "[Kein Datum]"
+
+msgid "Created on %s, updated on %s"
+msgstr "Erstellt am %s, aktualisiert am %s"
+
+msgid "Created on %s"
+msgstr "Erstellt am %s"
+
+msgid "First"
+msgstr "Erste"
+
+msgid "No previous"
+msgstr "Keine vorherige"
+
+msgid "No next"
+msgstr "Kein nächstes"
+
+msgid "Last"
+msgstr "Zuletzt"
+
+msgid "Simple block to customize in theme"
+msgstr "Einfacher Block zum Anpassen im Thema"
+
+msgid "Download file (%s)"
+msgstr "Datei herunterladen (%s)"
+
+msgid "No item"
+msgstr "Kein Artikel"
+
+msgid "Unavailable resource"
+msgstr "Nicht verfügbare Ressource"
+
+msgid "Previous resource"
+msgstr "Vorherige Ressource"
+
+msgid "No previous resource"
+msgstr "Keine vorherige Ressource"
+
+msgid "Next resource"
+msgstr "Nächste Ressource"
+
+msgid "No next resource"
+msgstr "Keine nächste Ressource"
+
+msgid "The vocabulary \"{vocabulary}\" was updated successfully."
+msgstr "Das Vokabular „{vocabulary}“ wurde erfolgreich aktualisiert."
+
+msgid "Change: The method \"blockMetadata()\" returns an array by default for key \"params_json\". Use key \"params_json_object\" to keep object output."
+msgstr "Änderung: Die Methode „blockMetadata()“ gibt standardmäßig ein Array für den Schlüssel „params_json“ zurück.Verwenden Sie den Schlüssel „params_json_object“, um die Objektausgabe beizubehalten."
+
+msgid "The vocabulary \"{vocabulary}\" is not installed."
+msgstr "Das Vokabular „{vocabulary}“ ist nicht installiert."
+
+msgid "Is reserved Access"
+msgstr "Ist Zugang reserviert"
+
+msgid "Gives an ability for private resource to be previewed."
+msgstr "Bietet die Möglichkeit, eine Vorschau privater Ressourcen anzuzeigen."
+
+msgid "Is new resource"
+msgstr "Ist eine neue Ressource"
+
+msgid "Allows to identify a resource as a new one."
+msgstr "Ermöglicht die Identifizierung einer Ressource als neue."
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Non-standard topic that can be used for some purposes."
+msgstr "Nicht standardmäßiges Thema, das für einige Zwecke verwendet werden kann."
+
+msgid "The block \"Assets\" was merged with the new upstream block \"Asset\"."
+msgstr "Der Block „Assets“ wurde mit dem neuen Upstream-Block „Asset“ zusammengelegt."
+
+msgid "You may have to check the pages when a specific template is used, in particular for deprecated keys \"title\", replaced by \"alt_link_title\", and \"url\", replaced by \"page\" (or hacked with caption, or alt link title, or asset title)."
+msgstr "Möglicherweise müssen Sie die Seiten überprüfen, wenn eine bestimmte Vorlage verwendet wird, insbesondere auf veraltete Schlüssel „title“, ersetzt durch „alt_link_title“ und „url“, ersetzt durch „page“ (oder gehackt mit Bildunterschrift, Alt-Link-Titel oder Asset-Titel)."
+
+msgid "Furthermore, it is recommended to rename \"assets\" templates as \"asset-xxx\" and to update pages accordingly. You may replace the default template with \"asset-block\" too."
+msgstr "Darüber hinaus wird empfohlen, „Assets“-Vorlagen in „Asset-xxx“ umzubenennen und die Seiten entsprechend zu aktualisieren.Sie können die Standardvorlage auch durch „Asset-Block“ ersetzen."
+
+msgid "The block still supports html captions and media assets."
+msgstr "Der Block unterstützt weiterhin HTML-Untertitel und Medienressourcen."
+
+msgid "It’s now possible to maximize the field \"Html\" in page edition."
+msgstr "Es ist jetzt möglich, das Feld „Html“ in der Seitenbearbeitung zu maximieren."
+
+msgid "It’s now possible to add footnotes in fields \"Html\" in page edition."
+msgstr "Es ist jetzt möglich, in der Seitenbearbeitung Fußnoten in den Feldern „HTML“ hinzuzufügen."
+
+msgid "It’s now possible to choose mode of display to edit html blocks of pages in main params."
+msgstr "Es ist jetzt möglich, den Anzeigemodus zu wählen, um HTML-Seitenblöcke in den Hauptparametern zu bearbeiten."
+
+msgid "The output for block D3 Graph was modified. Check it if you modified the template in your theme."
+msgstr "Die Ausgabe für Block D3 Graph wurde geändert.Überprüfen Sie es, wenn Sie die Vorlage in Ihrem Theme geändert haben."
+
+msgid "Template \"Asset\": The variable $assets has been replaced by $attachments; attachment key \"title\" by \"alt_link_title\"; attachment key \"url\" was removed. Check it if you customized template."
+msgstr "Vorlage „Asset“: Die Variable $assets wurde durch $attachments ersetzt;Anhangsschlüssel „title“ von „alt_link_title“;Anhangsschlüssel „URL“ wurde entfernt.Überprüfen Sie es, wenn Sie eine angepasste Vorlage haben."
+
+msgid "The key \"url\" of attachments of block \"Asset\" was removed. The block template should be updated if you customized it in pages: {html}"
+msgstr "Der Schlüssel „URL“ der Anhänge des Blocks „Asset“ wurde entfernt.Die Blockvorlage sollte aktualisiert werden, wenn Sie sie auf den Seiten angepasst haben: {html}"
+
+msgid "The feature \"Breadcrumbs\" was moved from module \"Menu\" into this module. Upgrade is automatic. Check your options if you use it."
+msgstr "Die Funktion „Breadcrumbs“ wurde vom Modul „Menü“ in dieses Modul verschoben.Das Upgrade erfolgt automatisch.Überprüfen Sie Ihre Optionen, wenn Sie es verwenden."
+
+msgid "It is now possible to define a breadcrumbs (may need to be added inside theme)."
+msgstr "Es ist jetzt möglich, Breadcrumbs zu definieren (muss möglicherweise innerhalb des Themes hinzugefügt werden)."
+
+msgid "Two new resource page blocks has been added, in particular to display buttons to previous and next resource (require module Easy Admin)."
+msgstr "Es wurden zwei neue Ressourcenseitenblöcke hinzugefügt, insbesondere um Schaltflächen zur vorherigen und nächsten Ressource anzuzeigen (Modul Easy Admin erforderlich)."
+
+msgid "The block \"Separator\" was replaced by the Omeka block \"Line Break\" with block class \"transparent\" and layout class \"separator\"."
+msgstr "Der Block „Separator“ wurde durch den Omeka-Block „Line Break“ mit Blockklasse „transparent“ und Layoutklasse „separator“ ersetzt."
+
+msgid "The options \"alignment\" and \"divclass\" of some blocks were moved to block layout."
+msgstr "Die Optionen „Alignment“ und „Divclass“ einiger Blöcke wurden in das Blocklayout verschoben."
+
+msgid "Site {site_slug} / Page {page_slug}: Type \"intermediate\" and \"end\" divisions must be after a block \"start\" or \"intermediate\"."
+msgstr "Site {site_slug} / Seite {page_slug}: Unterteilungen vom Typ „intermediate“ und „end“ müssen nach einem Block „start“ oder „intermediate“ stehen."
+
+msgid "Site {site_slug} / Page {page_slug}: Unauthorized type \"{type}\" for block division."
+msgstr "Site {site_slug} / Seite {page_slug}: Nicht autorisierter Typ „{type}“ für die Blockaufteilung."
+
+msgid "Site {site_slug} / Page {page_slug}: A block \"division\" cannot be single."
+msgstr "Site {site_slug} / Seite {page_slug}: Ein Block „division“ kann nicht einzeln sein."
+
+msgid "Site {site_slug} / Page {page_slug}: The first division block must be of type \"start\"."
+msgstr "Site {site_slug} / Seite {page_slug}: Der erste Divisionsblock muss vom Typ „Start“ sein."
+
+msgid "Site {site_slug} / Page {page_slug}: The last division block must be of type \"end\"."
+msgstr "Site {site_slug} / Seite {page_slug}: Der letzte Divisionsblock muss vom Typ „Ende“ sein."
+
+msgid "Site {site_slug} / Page {page_slug}: Some divisions have no end."
+msgstr "Site {site_slug} / Seite {page_slug}: Manche Unterteilungen nehmen kein Ende."
+
+msgid "Site {site_slug} / Page {page_slug}: The migration does not manage nested divisions. You should finalize migration of the page manually, for example with grid and block groups."
+msgstr "Site {site_slug} / Seite {page_slug}: Die Migration verwaltet keine verschachtelten Abteilungen.Sie sollten die Migration der Seite manuell abschließen, beispielsweise mit Raster- und Blockgruppen."
+
+msgid "The blocks Division were replaced by a group of blocks when possible (not nested). See messages above or logs for issues."
+msgstr "Die Blöcke Division wurden nach Möglichkeit durch eine Gruppe von Blöcken ersetzt (nicht verschachtelt).Informationen zu Problemen finden Sie in den Meldungen oben oder in den Protokollen."
+
+msgid "The setting \"html\" was removed from block Browse Preview. A new block \"Html\" was prepended to all blocks that had a filled html. You may check pages for styles: {json}"
+msgstr "Die Einstellung „html“ wurde aus dem Block „Browse Preview“ entfernt.Allen Blöcken, die ein gefülltes HTML hatten, wurde ein neuer Block „Html“ vorangestellt.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The block Browse Preview is no more managed by this module. If you used specific settings, use the block Search Results."
+msgstr "Der Block Browse Preview wird von diesem Modul nicht mehr verwaltet.Wenn Sie bestimmte Einstellungen verwendet haben, verwenden Sie den Block Suchergebnisse."
+
+msgid "The block \"Browse Preview\" filled with specific features (query with specific site, pagination and sort headings) were replaced by block Search results and template \"search-results-browse-preview-deprecated\": {json}"
+msgstr "Der mit spezifischen Funktionen gefüllte Block „Browse Preview“ (Abfrage mit bestimmter Site, Paginierung und Sortierüberschriften) wurde durch den Block „Suchergebnisse“ und die Vorlage „search-results-browse-preview-deprecated“ ersetzt: {json}"
+
+msgid "The setting \"heading\" was removed from blocks. A new block \"Heading\" was prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Überschrift“ wurde aus Blöcken entfernt.Allen Blöcken, die eine gefüllte Überschrift hatten, wurde ein neuer Block „Überschrift“ vorangestellt.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "A new block \"Heading\" allows to separate blocks with a html heading and replaces previous blocks with setting \"heading\"."
+msgstr "Ein neuer Block „Überschrift“ ermöglicht das Trennen von Blöcken durch eine HTML-Überschrift und ersetzt vorherige Blöcke mit der Einstellung „Überschrift“."
+
+msgid "The old block \"Page Date\" was replaced by the core one \"Page Date Time\". The variable names were changed, so check your theme if needed."
+msgstr "Der alte Block „Seitendatum“ wurde durch den Kernblock „Seitendatum/Uhrzeit“ ersetzt.Die Variablennamen wurden geändert. Überprüfen Sie daher bei Bedarf Ihr Theme."
+
+msgid "For block Asset, the keys \"class\" and \"url\" of assets were moved to the start of the caption and available only with specific block templates."
+msgstr "Für Block-Assets wurden die Schlüssel „class“ und „url“ der Assets an den Anfang der Beschriftung verschoben und sind nur bei bestimmten Blockvorlagen verfügbar."
+
+msgid "The block Item Showcase was renamed Media in Omeka S v4.1. The option \"linkType\" was renamed \"link\". Check your themes to update them."
+msgstr "Der Block Item Showcase wurde in Omeka S v4.1 in Media umbenannt.Die Option „linkType“ wurde in „link“ umbenannt.Überprüfen Sie Ihre Themes, um sie zu aktualisieren."
+
+msgid "The templates item-showcase-xxx were renamed media-item-showcase-xxx. Check your themes to update them or to move them to common/block-template and to add them in theme.ini as templates for block \"Media\"."
+msgstr "Die Vorlagen item-showcase-xxx wurden in media-item-showcase-xxx umbenannt.Überprüfen Sie Ihre Themes, um sie zu aktualisieren oder nach common/block-template zu verschieben und sie in theme.ini als Vorlagen für den Block „Media“ hinzuzufügen."
+
+msgid "The old template mechanism of the module BlockPlus was replaced by the new mechanism of Omeka S v4.1."
+msgstr "Der alte Template-Mechanismus des Moduls BlockPlus wurde durch den neuen Mechanismus von Omeka S v4.1 ersetzt."
+
+msgid "It is recommended to check your themes and to move specific templates from \"view/common/block-layout\" to \"view/common/block-template\" and to declare them in the file theme.ini. This is not needed for the default template of a block. After moving, the option \"template\" of each block should be updated in each page."
+msgstr "Es empfiehlt sich, Ihre Themes zu überprüfen und bestimmte Templates von „view/common/block-layout“ nach „view/common/block-template“ zu verschieben und in der Datei theme.ini zu deklarieren.Dies ist für die Standardvorlage eines Blocks nicht erforderlich.Nach dem Verschieben sollte die Option „Vorlage“ jedes Blocks auf jeder Seite aktualisiert werden."
+
+msgid "Because old features of the module were integrated inside Omeka S since v4.1 ({link}user doc{link_end}, {link_2}dev doc{link_end}), the blocks Asset, Browse Preview, Html, Item Showcase, Item With Metadata, List of Pages, Page Date, and Page Title are no more overridden."
+msgstr "Da alte Funktionen des Moduls seit Version 4.1 in Omeka S integriert sind ({link}Benutzerdokument{link_end}, {link_2}Entwicklungsdokument{link_end}), werden die Blöcke Asset, Browse Preview, Html, Item Showcase, Item With Metadata, List of Pages, Page Date und Page Title nicht mehr überschrieben."
+
+msgid "Warning: It is important to check all site pages because the integration of the module features in Omeka S is a complex process and some features are not upgradable."
+msgstr "Warnung: Es ist wichtig, alle Seiten der Website zu überprüfen, da die Integration der Modulfunktionen in Omeka S ein komplexer Prozess ist und einige Funktionen nicht aktualisierbar sind."
+
+msgid "In particular, check deprecated block templates and blocks Asset, Browse Preview and nested Division. Check styles too, because some html <div> and classes were added or removed by Omeka S and the module. Warning: as long as you do not re-save a page, old page settings will work. Once saved a new time, some old settings will be removed."
+msgstr "Überprüfen Sie insbesondere veraltete Blockvorlagen und Blöcke „Asset“, „Browse Preview“ und „Nested Division“.Überprüfen Sie auch die Stile, da einige HTML-<div> und -Klassen von Omeka S und dem Modul hinzugefügt oder entfernt wurden.Achtung: Solange Sie eine Seite nicht erneut speichern, funktionieren alte Seiteneinstellungen.Sobald ein neuer Zeitpunkt gespeichert wird, werden einige alte Einstellungen entfernt."
+
+msgid "The template name of some of the blocks {list} where renamed for deprecation. Check your theme if you use them. Matching pages: {json}"
+msgstr "Der Vorlagenname einiger Blöcke {list} wurde aus Gründen der Veraltung umbenannt.Überprüfen Sie Ihr Theme, wenn Sie es verwenden.Passende Seiten: {json}"
+
+msgid "The setting \"heading\" was removed from blocks Search Results. A new block \"Heading\" was prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Überschrift“ wurde aus den Suchergebnissen der Blöcke entfernt.Allen Blöcken, die eine gefüllte Überschrift hatten, wurde ein neuer Block „Überschrift“ vorangestellt.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "These templates for block \"Html\" should contain `$block->dataValue('html', '')` because `$html` is no more available by default. Matching files: {json}"
+msgstr "Diese Vorlagen für den Block „Html“ sollten „$block->dataValue('html', '')“ enthalten, da „$html“ standardmäßig nicht mehr verfügbar ist.Passende Dateien: {json}"
+
+msgid "The block \"Browse Preview\" do not have the variable `$site` anymore. Check your theme if you customized it. Matching pages: {json}."
+msgstr "Der Block „Browse Preview“ hat nicht mehr die Variable „$site“.Überprüfen Sie Ihr Theme, wenn Sie es angepasst haben.Passende Seiten: {json}."
+
+msgid "The template layout of some blocks was renamed. Check your theme if you used them. Matching pages: {json}."
+msgstr "Das Vorlagenlayout einiger Blöcke wurde umbenannt.Überprüfen Sie Ihr Theme, wenn Sie es verwendet haben.Passende Seiten: {json}."
+
+msgid "The data of blocks \"Asset\" were migrated to manage asset class and url as the first two lines of the caption. Update your theme like asset templates. Matching pages: {json}."
+msgstr "Die Daten der Blöcke „Asset“ wurden migriert, um die Asset-Klasse und die URL als die ersten beiden Zeilen der Überschrift zu verwalten.Aktualisieren Sie Ihr Theme wie Asset-Vorlagen.Passende Seiten: {json}."
+
+msgid "The setting \"heading\" was removed from block Media. A new block \"Heading\" was prepended to all blocks that had a filled heading. You may check pages for styles: {json}"
+msgstr "Die Einstellung „Überschrift“ wurde aus dem Block „Medien“ entfernt.Allen Blöcken, die eine gefüllte Überschrift hatten, wurde ein neuer Block „Überschrift“ vorangestellt.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The block Resource Text has been converted to a group of blocks Media and Html. The option \"caption position\" was moved to layout class. You may check pages for styles: {json}"
+msgstr "Der Block „Ressourcentext“ wurde in eine Gruppe von Blöcken „Medien“ und „Html“ umgewandelt.Die Option „Position der Beschriftung“ wurde in die Layoutklasse verschoben.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "The variables \"$html\" and \"$captionPosition\" were removed from block Resource Text (converted into block Media). You should fix them: {json}"
+msgstr "Die Variablen „$html“ und „$captionPosition“ wurden aus dem Block Resource Text entfernt (in Block Media umgewandelt).Sie sollten sie beheben: {json}"
+
+msgid "The option \"type\" of block Page Metadata was migrated to page layout option and page templates were added. Update your theme if needed. Matching pages: {json}."
+msgstr "Die Option „Typ“ der Blockseitenmetadaten wurde zur Option „Seitenlayout“ migriert und Seitenvorlagen wurden hinzugefügt.Aktualisieren Sie Ihr Theme bei Bedarf.Passende Seiten: {json}."
+
+msgid "The option \"type\" of block Page Metadata cannot be migrated because a page layout template was already set. Matching pages: {json}."
+msgstr "Die Option „Typ“ der Blockseitenmetadaten kann nicht migriert werden, da bereits eine Seitenlayoutvorlage festgelegt wurde.Passende Seiten: {json}."
+
+msgid "All themes that contain custom templates of the blocks should be moved from \"view/common/block-layout\" to \"view/common/block-template\" except if they override the default one with the same name. See {link}readme{link_end} for more information about migration."
+msgstr "Alle Themes, die benutzerdefinierte Vorlagen der Blöcke enthalten, sollten von „view/common/block-layout“ nach „view/common/block-template“ verschoben werden, es sei denn, sie überschreiben die Standardvorlage mit demselben Namen.Weitere Informationen zur Migration finden Sie in der {link}Readme-Datei{link_end}."
+
+msgid "New resource blocks allow to wrap other blocks with html elements <div> and <section>."
+msgstr "Neue Ressourcenblöcke ermöglichen das Umschließen anderer Blöcke mit den HTML-Elementen <div> und <section>."
+
+msgid "It is now possible to append a list of blocks via a simple click when editing a site page."
+msgstr "Beim Bearbeiten einer Site-Seite ist es jetzt möglich, durch einen einfachen Klick eine Liste von Blöcken anzuhängen."
+
+msgid "If you created some lists of blocks in version 3.4.25, the block group is no more implicit, so you should update each group manually: prepend `o:block.0.o:layout"
+msgstr "\"blockGroup\"` and prepend `blocks.0.` to optional root `o:layout_data`. Furthermore, the key \"block_groups\" in config was renamed \"page_models\". = Wenn Sie in Version 3.4.25 einige Blocklisten erstellt haben, ist die Blockgruppe nicht mehr implizit, daher sollten Sie jede Gruppe manuell aktualisieren: Stellen Sie „o:block.0.o:layout = „blockGroup““ voran und stellen Sie „blocks.0.“ dem optionalen Stamm „o:layout_data“ voran.Darüber hinaus wurde der Schlüssel „block_groups“ in der Konfiguration in „page_models“ umbenannt."
+
+msgid "It is now possible to select a page model with page settings and blocks when creating a new page."
+msgstr "Beim Erstellen einer neuen Seite ist es nun möglich, ein Seitenmodell mit Seiteneinstellungen und Blöcken auszuwählen."
+
+msgid "It is now possible to create a page model or a list of blocks via a simple click when editing a page."
+msgstr "Es ist jetzt möglich, beim Bearbeiten einer Seite mit einem einfachen Klick ein Seitenmodell oder eine Liste von Blöcken zu erstellen."
+
+msgid "A new site setting allows to permit site editors to create page models and blocks groups."
+msgstr "Eine neue Site-Einstellung ermöglicht es Site-Editoren, Seitenmodelle und Blockgruppen zu erstellen."
+
+msgid "New templates were added to block html in order to display an accordion and a dialog box."
+msgstr "Neue Vorlagen wurden hinzugefügt, um HTML zu blockieren, um ein Akkordeon und ein Dialogfeld anzuzeigen."
+
+msgid "The setting \"html\" was removed from block External Content and Search Form. A new block \"Html\" was prepended to all blocks that had a filled html. You may check pages for styles: {json}"
+msgstr "Die Einstellung „html“ wurde aus dem Block „Externer Inhalt und Suchformular“ entfernt.Allen Blöcken, die ein gefülltes HTML hatten, wurde ein neuer Block „Html“ vorangestellt.Sie können die Seiten auf Stile überprüfen: {json}"
+
+msgid "New templates were added to blocks Showcase, External Content and Search form."
+msgstr "Den Blöcken „Showcase“, „Externer Inhalt“ und „Suchformular“ wurden neue Vorlagen hinzugefügt."
+
+msgid "The block Page metadata is deprecated in favor of an integrated form and will be removed in a future version. The metadata will be available as standard rdf data too."
+msgstr "Die Metadaten der Blockseite sind zugunsten eines integrierten Formulars veraltet und werden in einer zukünftigen Version entfernt.Die Metadaten werden auch als Standard-RDF-Daten verfügbar sein."
+
+msgid "The setting \"show title\" was replaced by components (title, body, thumbnail) in block Item Set Showcase. You may check pages: {json}"
+msgstr "Die Einstellung „Titel anzeigen“ wurde durch Komponenten (Titel, Text, Miniaturansicht) im Block „Item Set Showcase“ ersetzt.Sie können die Seiten überprüfen: {json}"
+
+msgid "The setting \"show title\" was replaced by components (title, body, thumbnail) in block Item Set Showcase."
+msgstr "Die Einstellung „Titel anzeigen“ wurde durch Komponenten (Titel, Text, Miniaturansicht) im Block „Item Set Showcase“ ersetzt."
+
+msgid "The js library \"ThumbnailGridExpandingPreview\" was renamed \"thumbnail-grid-expanding-preview\". You should fix your theme: {json}"
+msgstr "Die js-Bibliothek „ThumbnailGridExpandingPreview“ wurde in „thumbnail-grid-expanding-preview“ umbenannt.Sie sollten Ihr Thema korrigieren: {json}"
+
+msgid "A sub-template was added to display the block browse preview gallery with thumbnail \"medium\"."
+msgstr "Es wurde eine Untervorlage hinzugefügt, um die Block-Browse-Vorschaugalerie mit der Miniaturansicht „Mittel“ anzuzeigen."
+
+msgid "The setting \"components\" of blocks Item Set Showcase and Search Results were updated: to set empty components now means no component. You may check pages: {json}"
+msgstr "Die Einstellung „Komponenten“ der Blöcke „Item Set Showcase“ und „Suchergebnisse“ wurde aktualisiert: Das Festlegen leerer Komponenten bedeutet jetzt keine Komponente.Sie können die Seiten überprüfen: {json}"
+
+msgid "A resource block was added to be displayed when no item or no media is available."
+msgstr "Es wurde ein Ressourcenblock hinzugefügt, der angezeigt wird, wenn kein Artikel oder kein Medium verfügbar ist."
+
+msgid "The block Showcase has now a setting \"components\", the key \"title\" was renamed \"heading\", and option \"media_display\" was removed. The field html was re-upgraded. You may check pages: {json}"
+msgstr "Der Block Showcase hat jetzt die Einstellung „components“, der Schlüssel „title“ wurde in „heading“ umbenannt und die Option „media_display“ wurde entfernt.Das Feld HTML wurde erneut aktualisiert.Sie können die Seiten überprüfen: {json}"
+
+msgid "The block Showcase has now a setting \"components\"."
+msgstr "Der Block Showcase hat jetzt eine Einstellung „Komponenten“."
+
+msgid "The javascript library should be installed. See module’s installation documentation."
+msgstr "Die Javascript-Bibliothek sollte installiert sein.Siehe Installationsdokumentation des Moduls."
+
+msgid "The page model \"{page_model}\" does not exist."
+msgstr "Das Seitenmodell „{page_model}“ existiert nicht."
+
+msgid "Blocks only"
+msgstr "Nur Blöcke"
+
+msgid "Full page"
+msgstr "Ganze Seite"
+
+msgid "Main settings"
+msgstr "Haupteinstellungen"
+
+msgid "Site settings"
+msgstr "Site-Einstellungen"
+
+msgid "Theme settings"
+msgstr "Theme-Einstellungen"
+
+msgid "Theme settings (unsupported)"
+msgstr "Theme-Einstellungen (nicht unterstützt)"
+
+msgid "Save as page model or blocks groups"
+msgstr "Als Seitenmodell oder Blockgruppen speichern"
+
+msgid "If a label is set, the model will be stored when the current page will be saved."
+msgstr "Wenn eine Bezeichnung festgelegt ist, wird das Modell beim Speichern der aktuellen Seite gespeichert."
+
+msgid "\"{name}\" is already used as page model and was renamed \"{name_2}\"."
+msgstr "„{name}“ wird bereits als Seitenmodell verwendet und wurde in „{name_2}“ umbenannt."
+
+msgid "The page models can’t contain a value with a double quote (\")"
+msgstr "Die Seitenmodelle dürfen keinen Wert mit doppelten Anführungszeichen (\") enthalten."
+
+msgid "The blocks group cannot be stored in the theme settings: the theme does not support it. See {link}readme{link_end}."
+msgstr "Die Blockgruppe kann nicht in den Theme-Einstellungen gespeichert werden: Das Theme unterstützt sie nicht.Siehe {link}readme{link_end}."
+
+msgid "The page model \"{label}\" ({name}) was saved in theme settings."
+msgstr "Das Seitenmodell „{label}“ ({name}) wurde in den Theme-Einstellungen gespeichert."
+
+msgid "The blocks group \"{label}\" ({name}) was saved in theme settings."
+msgstr "Die Blockgruppe „{label}“ ({name}) wurde in den Designeinstellungen gespeichert."
+
+msgid "The page model \"{label}\" ({name}) was saved in site settings."
+msgstr "Das Seitenmodell „{label}“ ({name}) wurde in den Website-Einstellungen gespeichert."
+
+msgid "The blocks group \"{label}\" ({name}) was saved in site settings."
+msgstr "Die Blockgruppe „{label}“ ({name}) wurde in den Site-Einstellungen gespeichert."
+
+msgid "The page model \"{label}\" ({name}) was saved in main settings."
+msgstr "Das Seitenmodell „{label}“ ({name}) wurde in den Haupteinstellungen gespeichert."
+
+msgid "The blocks group \"{label}\" ({name}) was saved in main settings."
+msgstr "Die Blockgruppe „{label}“ ({name}) wurde in den Haupteinstellungen gespeichert."
+
+msgid "Page models and blocks groups"
+msgstr "Seitenmodelle und Blockgruppen"
+
+msgid "Page metadata"
+msgstr "Seitenmetadaten"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Tags"
+msgstr "Schlagworte"
+
+msgid "Comma-separated list of keywords"
+msgstr "Durch Kommas getrennte Liste von Schlüsselwörtern"
+
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+msgid "Is new"
+msgstr "Ist neu"
+
+msgid "Params"
+msgstr "Parameter"
+
+msgid "The params can be fetched as raw text, key/value pairs, or json depending on theme."
+msgstr "Die Parameter können je nach Thema als Rohtext, Schlüssel/Wert-Paare oder JSON abgerufen werden."
+
+msgid "The template \"asset-deprecated-plus\" should be replaced by \"asset-class-url\" in page {url}."
+msgstr "Die Vorlage „asset-deprecated-plus“ sollte auf der Seite {url} durch „asset-class-url“ ersetzt werden."
+
+msgid "The template \"asset-left-right\" should be replaced by new page block features in page {url}."
+msgstr "Die Vorlage „asset-left-right“ sollte durch neue Seitenblockfunktionen in Seite {url} ersetzt werden."
+
+msgid "Since Omeka S 4.1, the metadata \"type\" is replaced by the page template name (key \"template\"). Check your theme."
+msgstr "Seit Omeka S 4.1 wird das Metadatum „type“ durch den Namen der Seitenvorlage (Schlüssel „template“) ersetzt.Überprüfen Sie Ihr Thema."
+
+msgid "Contributions"
+msgstr "Beiträge"
+
+msgid "Block Plus"
+msgstr "Block Plus"
+
+msgid "Block plus"
+msgstr "Block plus"
+
+msgid "Breadcrumbs"
+msgstr "Paniermehl"
+
+msgid "Block plus resources"
+msgstr "Block plus Ressourcen"
+
+msgid "Allow site editor to create page models and groups of blocks"
+msgstr "Erlauben Sie dem Site-Editor, Seitenmodelle und Blockgruppen zu erstellen"
+
+msgid "Skip page models defined internally by the module Block Plus"
+msgstr "Überspringen Sie intern vom Modul Block Plus definierte Seitenmodelle"
+
+msgid "Default page models are mainly used as examples or for upgrade from Omeka Classic: home_page, exhibit, exhibit_page, simple_page and resource_text."
+msgstr "Standardseitenmodelle werden hauptsächlich als Beispiele oder für Upgrades von Omeka Classic verwendet: home_page, exhibition, exhibition_page, simple_page und resources_text."
+
+msgid "Page models and groups of blocks"
+msgstr "Seitenmodelle und Blockgruppen"
+
+msgid "List all page models and blocks groups formatted as ini with a section for each group."
+msgstr "Listen Sie alle als INI formatierten Seitenmodelle und Blockgruppen mit einem Abschnitt für jede Gruppe auf."
+
+msgid "Crumbs"
+msgstr "Krümel"
+
+msgid "Prepend home"
+msgstr "Home voranstellen"
+
+msgid "Include \"Collections\""
+msgstr "„Sammlungen“ einschließen"
+
+msgid "Include main item set for item"
+msgstr "Hauptartikelsatz für Artikel einbeziehen"
+
+msgid "Include item sets tree"
+msgstr "Artikelsatzbaum einschließen"
+
+msgid "Append current resource"
+msgstr "Aktuelle Ressource anhängen"
+
+msgid "Append current resource as a link"
+msgstr "Aktuelle Ressource als Link anhängen"
+
+msgid "Prepended links"
+msgstr "Vorangestellte Links"
+
+msgid "List of urls followed by a label, separated by a \"=\", one by line, that will be prepended to the breadcrumb."
+msgstr "Liste der URLs, gefolgt von einer Beschriftung, getrennt durch ein „=\", zeilenweise, die dem Breadcrumb vorangestellt wird."
+
+msgid "Url for collections"
+msgstr "URL für Sammlungen"
+
+msgid "The url to use for the link \"Collections\", if set above. Let empty to use the default one."
+msgstr "Die für den Link „Sammlungen“ zu verwendende URL, sofern oben festgelegt.Lassen Sie das Feld leer, um die Standardeinstellung zu verwenden."
+
+msgid "Separator"
+msgstr "Separator"
+
+msgid "The separator between crumbs may be set as raw text or via css. it should be set as an html text (\"&gt;\")."
+msgstr "Das Trennzeichen zwischen den Krümeln kann als Rohtext oder per CSS festgelegt werden.Es sollte als HTML-Text (\"&gt;\") festgelegt werden."
+
+msgid "Display on home page"
+msgstr "Anzeige auf der Startseite"
+
+msgid "Settings for the resource block Buttons"
+msgstr "Einstellungen für die Ressourcenblock-Schaltflächen"
+
+msgid "Share by email"
+msgstr "Per E-Mail teilen"
+
+msgid "Share on Twitter (now X)"
+msgstr "Auf Twitter teilen (jetzt X)"
+
+msgid "Default items order in each item set"
+msgstr "Standardreihenfolge der Artikel in jedem Artikelsatz"
+
+msgid "Set order for item set, one by row, format \"id,id,id property order\". Use \"0\" for the default."
+msgstr "Legen Sie die Reihenfolge für den Elementsatz fest, eine für Zeile, im Format „ID-, ID-, ID-Eigenschaftsreihenfolge“.Verwenden Sie „0“ als Standard."
+
+msgid "Query to limit and sort the list of items for the previous/next buttons"
+msgstr "Abfrage zum Einschränken und Sortieren der Liste der Elemente für die Schaltflächen „Zurück/Weiter“."
+
+msgid "Use a standard query. Arguments from module Advanced Search are supported if present and needed."
+msgstr "Verwenden Sie eine Standardabfrage.Argumente aus dem Modul „Erweiterte Suche“ werden unterstützt, sofern vorhanden und erforderlich."
+
+msgid "Query to limit and sort the list of item sets for the previous/next buttons"
+msgstr "Abfrage zum Einschränken und Sortieren der Liste der Elementsätze für die Schaltflächen „Zurück/Weiter“."
+
+msgid "Thumbnail type"
+msgstr "Miniaturbildtyp"
+
+msgid "Html edition mode for pages"
+msgstr "HTML-Ausgabemodus für Seiten"
+
+msgid "Inline (default)"
+msgstr "Inline (Standard)"
+
+msgid "Document (maximizable)"
+msgstr "Dokument (maximierbar)"
+
+msgid "Html edition config and toolbar for pages"
+msgstr "HTML-Edition-Konfiguration und Symbolleiste für Seiten"
+
+msgid "Property to set primary item set"
+msgstr "Eigenschaft zum Festlegen des primären Elementsatzes"
+
+msgid "When an item is included in multiple item sets, the main one may be determined by this property."
+msgstr "Wenn ein Artikel in mehreren Artikelsätzen enthalten ist, kann der Hauptartikelsatz durch diese Eigenschaft bestimmt werden."
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "Link to display"
+msgstr "Link zur Anzeige"
+
+msgid "Formatted as \"/url/full/path Label of the link\"."
+msgstr "Formatiert als „/url/full/path Label des Links“."
+
+msgid "Main filter"
+msgstr "Hauptfilter"
+
+msgid "Resource classes"
+msgstr "Ressourcenklassen"
+
+msgid "Search config page (module Advanced Search)"
+msgstr "Suchkonfigurationsseite (Modul Erweiterte Suche)"
+
+msgid "Search config of the site"
+msgstr "Suchkonfiguration der Site"
+
+msgid "Select a search engine…"
+msgstr "Wählen Sie eine Suchmaschine aus…"
+
+msgid "Page models"
+msgstr "Seitenmodelle"
+
+msgid "Blocks groups"
+msgstr "Blockiert Gruppen"
+
+msgid "Search pool query"
+msgstr "Suchpoolabfrage"
+
+msgid "Used to restrict resources to search, for example on an item set."
+msgstr "Wird verwendet, um die Suche nach Ressourcen einzuschränken, beispielsweise nach einem Artikelsatz."
+
+msgid "Show pagination to browse all resources on the same page."
+msgstr "Zeigen Sie die Paginierung an, um alle Ressourcen auf derselben Seite zu durchsuchen."
+
+msgid "Sort headings"
+msgstr "Überschriften sortieren"
+
+msgid "Display sort links for the list of results."
+msgstr "Sortierlinks für die Ergebnisliste anzeigen."
+
+msgid "Resource template for sort headings"
+msgstr "Ressourcenvorlage für Sortierüberschriften"
+
+msgid "If set, the alternative labels of this resource template will be used to display the sort headings."
+msgstr "Wenn diese Option festgelegt ist, werden die alternativen Beschriftungen dieser Ressourcenvorlage zur Anzeige der Sortierüberschriften verwendet."
+
+msgid "Select resource template…"
+msgstr "Ressourcenvorlage auswählen…"
+
+msgid "Search form"
+msgstr "Suchformular"
+
+msgid "The params are passed directly to the block layout."
+msgstr "Die Parameter werden direkt an das Blocklayout übergeben."
+
+msgid "Root resource id"
+msgstr "Root-Ressourcen-ID"
+
+msgid "The root of the structure. Can be an item, an item set or any other resource type."
+msgstr "Die Wurzel der Struktur.Kann ein Gegenstand, ein Gegenstandssatz oder ein beliebiger anderer Ressourcentyp sein."
+
+msgid "Property for structure"
+msgstr "Eigenschaft für Struktur"
+
+msgid "Generally, it is \"dcterms:hasPart\"."
+msgstr "Im Allgemeinen ist es „dcterms:hasPart“."
+
+msgid "Level expanded"
+msgstr "Level erweitert"
+
+msgid "Set 0 to start closed, a big number to display all levels."
+msgstr "Stellen Sie 0 ein, um geschlossen zu beginnen, eine große Zahl, um alle Ebenen anzuzeigen."
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Authorization token (bearer)"
+msgstr "Autorisierungstoken (Inhaber)"
+
+msgid "You may need to set a token, not necessarily the account one. It may be an anonymous one."
+msgstr "Möglicherweise müssen Sie ein Token festlegen, nicht unbedingt das Konto-Token.Es kann sich um eine anonyme Person handeln."
+
+msgid "Twitter api version"
+msgstr "Twitter-API-Version"
+
+msgid "According to Twitter, you may require to create an app inside dev account. In some cases, api 1.1 doesn’t require it."
+msgstr "Laut Twitter müssen Sie möglicherweise eine App innerhalb des Entwicklerkontos erstellen.In einigen Fällen ist dies für API 1.1 nicht erforderlich."
+
+msgid "1.1 (home timeline)"
+msgstr "1.1 (Heimzeitleiste)"
+
+msgid "Number of messages"
+msgstr "Anzahl der Nachrichten"
+
+msgid "Display retweets"
+msgstr "Retweets anzeigen"
+
+msgid "Url (oEmbed or iframe)"
+msgstr "URL (oEmbed oder iframe)"
+
+msgid "The standard \"oEmbed\" normalizes the integration of external resources. Main third parties are supported. Set the url to be used for the iframe."
+msgstr "Der Standard „oEmbed“ normalisiert die Einbindung externer Ressourcen.Die wichtigsten Drittanbieter werden unterstützt.Legen Sie die URL fest, die für den Iframe verwendet werden soll."
+
+msgid "Show title"
+msgstr "Titel anzeigen"
+
+msgid "Link url"
+msgstr "Link-URL"
+
+msgid "List from root"
+msgstr "Liste von Root"
+
+msgid "If set, all the pages will be displayed, else only the ones from the current page."
+msgstr "Wenn gesetzt, werden alle Seiten angezeigt, andernfalls nur die der aktuellen Seite."
+
+msgid "Level"
+msgstr "Ebene"
+
+msgid "Show attachment title (when heading is included above)"
+msgstr "Titel des Anhangs anzeigen (wenn die Überschrift oben enthalten ist)"
+
+msgid "Buttons"
+msgstr "Knöpfe"
+
+msgid "Main site"
+msgstr "Hauptseite"
+
+msgid "Current site"
+msgstr "Aktuelle Seite"
+
+msgid "Translated sites"
+msgstr "Übersetzte Websites"
+
+msgid "Exclude sites"
+msgstr "Websites ausschließen"
+
+msgid "Redirect the current page to this url"
+msgstr "Leiten Sie die aktuelle Seite auf diese URL um"
+
+msgid "The params can be fetched as raw text, key/value pairs, or json."
+msgstr "Die Parameter können als Rohtext, Schlüssel/Wert-Paare oder JSON abgerufen werden."
+
+msgid "Cover image"
+msgstr "Titelbild"
+
+msgid "Private sites are marked with a \"*\". If a private page is selected, it will be hidden on the public site. The current page and recursive pages are forbidden."
+msgstr "Private Seiten sind mit einem „*“ gekennzeichnet.Wenn eine private Seite ausgewählt ist, wird diese auf der öffentlichen Website ausgeblendet.Die aktuelle Seite und rekursive Seiten sind verboten."
+
+msgid "Params type"
+msgstr "Parametertyp"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Raw string"
+msgstr "Roher String"
+
+msgid "Format \"Ini\""
+msgstr "Formatieren Sie „Ini“"
+
+msgid "Json"
+msgstr "Json"
+
+msgid "Associative array of key / value pairs (separated with \"=\")"
+msgstr "Assoziatives Array von Schlüssel-/Wertpaaren (getrennt durch „=\")"
+
+msgid "List of arrays with two values, the key and the value (separated with \"=\")"
+msgstr "Liste von Arrays mit zwei Werten, dem Schlüssel und dem Wert (getrennt durch „=\")"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Select a page model…"
+msgstr "Wählen Sie ein Seitenmodell aus…"
+
+msgid "Download primary media"
+msgstr "Laden Sie Primärmedien herunter"
+
+msgid "Linked resources by item set"
+msgstr "Verknüpfte Ressourcen nach Artikelsatz"
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Html section (start)"
+msgstr "HTML-Bereich (Start)"
+
+msgid "No Media"
+msgstr "Keine Medien"
+
+msgid "Simple block for theme"
+msgstr "Einfacher Block für das Thema"
+
+msgid "Html div (start)"
+msgstr "HTML-Div (Start)"
+
+msgid "Buttons Previous / Next"
+msgstr "Schaltflächen Zurück/Weiter"
+
+msgid "Html section (end)"
+msgstr "HTML-Abschnitt (Ende)"
+
+msgid "Html div for tools (end)"
+msgstr "HTML-Div für Tools (Ende)"
+
+msgid "No Item"
+msgstr "Kein Artikel"
+
+msgid "Media part of item"
+msgstr "Medienteil des Artikels"
+
+msgid "Html div (end)"
+msgstr "HTML-Div (Ende)"
+
+msgid "Html div for tools (start)"
+msgstr "HTML-Div für Tools (Start)"
+
+msgid "Showcase"
+msgstr "Vitrine"
+
+msgid "The search config \"{search_slug}\" has no form associated."
+msgstr "Der Suchkonfiguration „{search_slug}“ ist kein Formular zugeordnet."
+
+msgid "Page metadata (deprecated)"
+msgstr "Seitenmetadaten (veraltet)"
+
+msgid "Map by search"
+msgstr "Karte nach Suche"
+
+msgid "Redirect to url"
+msgstr "Zur URL weiterleiten"
+
+msgid "Cannot index and/or render a table of contents block in a mirror page for now: %s."
+msgstr "Ein Inhaltsverzeichnisblock kann derzeit nicht in einer Spiegelseite indiziert und/oder gerendert werden: %s."
+
+msgid "Mirror page"
+msgstr "Spiegelseite"
+
+msgid "A page should be selected to create a mirror page."
+msgstr "Um eine Spiegelseite zu erstellen, sollte eine Seite ausgewählt werden."
+
+msgid "A mirror page cannot be inside itself."
+msgstr "Eine Spiegelseite kann nicht in sich selbst liegen."
+
+msgid "A mirror page cannot use a page that uses it recursively as a block."
+msgstr "Eine Spiegelseite kann eine Seite, die sie rekursiv verwendet, nicht als Block verwenden."
+
+msgid "Mirror page block #{block_id} in site {site_slug} and page {page_slug} should be updated: it refers to a removed page."
+msgstr "Der Spiegelseitenblock #{block_id} in der Site {site_slug} und der Seite {page_slug} sollte aktualisiert werden: Er bezieht sich auf eine entfernte Seite."
+
+msgid "Cannot render this mirror page for now: {exception}."
+msgstr "Diese Spiegelseite kann derzeit nicht gerendert werden: {Exception}."
+
+msgid "Search form and results"
+msgstr "Suchformular und Ergebnisse"
+
+msgid "Simple Block"
+msgstr "Einfacher Block"
+
+msgid "Tree structure of resources"
+msgstr "Baumstruktur der Ressourcen"
+
+msgid "D3 Graph"
+msgstr "D3-Grafik"
+
+msgid "A list of resources as json queries by resource name should be defined for block D3 Graph in page {page_url}."
+msgstr "Für den Block D3 Graph auf der Seite {page_url} sollte eine Liste von Ressourcen als JSON-Abfragen nach Ressourcennamen definiert werden."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "No Twitter authorization token is set, so the default one is used."
+msgstr "Es ist kein Twitter-Autorisierungstoken festgelegt, daher wird das Standardtoken verwendet."
+
+msgid "The Twitter account \"%s\" is not available."
+msgstr "Das Twitter-Konto „%s“ ist nicht verfügbar."
+
+msgid "The token may be restricted to v2 or no app may be defined: try api v1.1."
+msgstr "Das Token ist möglicherweise auf v2 beschränkt oder es ist keine App definiert: Versuchen Sie es mit API v1.1."
+
+msgid "The Twitter account \"%s\" is available, but has no message currently, or the rate limit has been reached."
+msgstr "Das Twitter-Konto „%s“ ist verfügbar, hat aber derzeit keine Nachricht oder das Ratenlimit wurde erreicht."
+
+msgid "The Twitter account \"%s\" is available and have messages."
+msgstr "Der Twitter-Account „%s“ ist verfügbar und hat Nachrichten."
+
+msgid "A Twitter account is required to fetch messages."
+msgstr "Zum Abrufen von Nachrichten ist ein Twitter-Konto erforderlich."
+
+msgid "The twitter block for page \"{page_slug}\" in site \"{site_slug}\" has no account set."
+msgstr "Für den Twitter-Block für die Seite „{page_slug}“ auf der Website „{site_slug}“ ist kein Konto festgelegt."
+
+msgid "Error for block Twitter: No response."
+msgstr "Fehler beim Blockieren von Twitter: Keine Antwort."
+
+msgid "Error for block Twitter: {error}. Check token."
+msgstr "Fehler für Block Twitter: {error}.Token prüfen."
+
+msgid "Error for block Twitter: {error}. Check token or use api v1."
+msgstr "Fehler für Block Twitter: {error}.Überprüfen Sie das Token oder verwenden Sie API v1."
+
+msgid "Item set showcase"
+msgstr "Vitrine für Artikelsets"
+
+msgid "External content"
+msgstr "Externer Inhalt"
+
+msgid "Invalid OEmbed URL"
+msgstr "Ungültige OEMed-URL"
+
+msgid "OEmbed URL"
+msgstr "OEmbed-URL"
+
+msgid "OEmbed URL unavailable"
+msgstr "OEmbed-URL nicht verfügbar"
+
+msgid "No OEmbed links were found at the given URI"
+msgstr "Unter der angegebenen URI wurden keine OEMed-Links gefunden"
+
+msgid "OEmbed link URL"
+msgstr "OEmbed-Link-URL"
+
+msgid "OEmbed link URL unavailable"
+msgstr "OEmbed-Link-URL nicht verfügbar"
+
+msgid "Error decoding OEmbed JSON"
+msgstr "Fehler beim Dekodieren von OEmbed JSON"
+
+msgid "Invalid \"%s\" specified"
+msgstr "Ungültiges „%s“ angegeben"
+
+msgid "Error reading %s: %s (%s)"
+msgstr "Fehler beim Lesen von %s: %s (%s)"
+
+msgid "Home page"
+msgstr "Startseite"
+
+msgid "A page model with blocks browse preview with a template for gallery, html, heading, and asset."
+msgstr "Ein Seitenmodell mit Block-Browse-Vorschau mit einer Vorlage für Galerie, HTML, Überschrift und Asset."
+
+msgid "Exhibit"
+msgstr "Ausstellen"
+
+msgid "A page model for an exhibit summary, with blocks page title, html, heading, and list of pages."
+msgstr "Ein Seitenmodell für eine Ausstellungszusammenfassung mit den Blöcken Seitentitel, HTML, Überschrift und Seitenliste."
+
+msgid "Exhibit page"
+msgstr "Ausstellungsseite"
+
+msgid "A page model for an exhibit page, with blocks page title, html, heading and media."
+msgstr "Ein Seitenmodell für eine Ausstellungsseite mit den Blöcken Seitentitel, HTML, Überschrift und Medien."
+
+msgid "Simple page"
+msgstr "Einfache Seite"
+
+msgid "A page model for generic needs, with blocks page title and html."
+msgstr "Ein Seitenmodell für allgemeine Anforderungen mit Blöcken für Seitentitel und HTML."
+
+msgid "Resource with text"
+msgstr "Ressource mit Text"
+
+msgid "A group of blocks with a heading, a media and a field for html."
+msgstr "Eine Gruppe von Blöcken mit einer Überschrift, einem Medium und einem Feld für HTML."
+
+msgid "Block Plus: Home page"
+msgstr "Block Plus: Startseite"
+
+msgid "Block Plus: Exhibit"
+msgstr "Block Plus: Ausstellung"
+
+msgid "Block Plus: Exhibit page"
+msgstr "Block Plus: Ausstellungsseite"
+
+msgid "Block Plus: Simple page"
+msgstr "Block Plus: Einfache Seite"
+
+msgid "Block Plus: Asset with class and url"
+msgstr "Block Plus: Asset mit Klasse und URL"
+
+msgid "Block Plus: Bootstrap Hero"
+msgstr "Block Plus: Bootstrap Hero"
+
+msgid "Block Plus: Left Right"
+msgstr "Block Plus: Links Rechts"
+
+msgid "Block Plus: Partners"
+msgstr "Block Plus: Partner"
+
+msgid "Block Plus: Skip"
+msgstr "Block Plus: Überspringen"
+
+msgid "Block Plus: Asset (deprecated)"
+msgstr "Block Plus: Asset (veraltet)"
+
+msgid "Block Plus: Arborescence"
+msgstr "Block Plus: Arboreszenz"
+
+msgid "Block Plus: Glossary"
+msgstr "Block Plus: Glossar"
+
+msgid "Block Plus: Html"
+msgstr "Block Plus: HTML"
+
+msgid "Block Plus: Omeka breadcrumbs"
+msgstr "Block Plus: Omeka-Semmelbrösel"
+
+msgid "Block Plus: Carousel"
+msgstr "Block Plus: Karussell"
+
+msgid "Block Plus: Filter by year"
+msgstr "Block Plus: Nach Jahr filtern"
+
+msgid "Block Plus: Gallery (square)"
+msgstr "Block Plus: Galerie (quadratisch)"
+
+msgid "Block Plus: Gallery (medium)"
+msgstr "Block Plus: Galerie (mittel)"
+
+msgid "Block Plus: Gallery (medium, link to item)"
+msgstr "Block Plus: Galerie (Medium, Link zum Artikel)"
+
+msgid "Block Plus: Subjects"
+msgstr "Block Plus: Themen"
+
+msgid "Block Plus: Timeline list"
+msgstr "Block Plus: Zeitleistenliste"
+
+msgid "Block Plus: Browse preview (deprecated)"
+msgstr "Block Plus: Vorschau durchsuchen (veraltet)"
+
+msgid "Block Plus: Include html from group"
+msgstr "Block Plus: HTML aus der Gruppe einschließen"
+
+msgid "Block Plus: Heading link"
+msgstr "Block Plus: Überschriftenlink"
+
+msgid "Block Plus: Details/summary (start)"
+msgstr "Block Plus: Details/Zusammenfassung (Start)"
+
+msgid "Block Plus: Details/summary (end)"
+msgstr "Block Plus: Details/Zusammenfassung (Ende)"
+
+msgid "Block Plus: Accordion (h3)"
+msgstr "Block Plus: Akkordeon (h3)"
+
+msgid "Block Plus: Anchor for headings"
+msgstr "Block Plus: Anker für Überschriften"
+
+msgid "Block Plus: Dialog (class for name)"
+msgstr "Block Plus: Dialog (Klasse für Namen)"
+
+msgid "Block Plus: Page header"
+msgstr "Block Plus: Seitenkopf"
+
+msgid "Block Plus: Item with metadata (deprecated)"
+msgstr "Block Plus: Element mit Metadaten (veraltet)"
+
+msgid "Block Plus: List of pages (deprecated)"
+msgstr "Block Plus: Liste der Seiten (veraltet)"
+
+msgid "Block Plus: List of sites (deprecated)"
+msgstr "Block Plus: Liste der Websites (veraltet)"
+
+msgid "Block Plus: Item showcase (deprecated)"
+msgstr "Block Plus: Artikelpräsentation (veraltet)"
+
+msgid "Block Plus: Resource text (deprecated)"
+msgstr "Block Plus: Ressourcentext (veraltet)"
+
+msgid "Block Plus: Page date time"
+msgstr "Block Plus: Datum und Uhrzeit der Seite"
+
+msgid "Block Plus: Table of contents (deprecated)"
+msgstr "Block Plus: Inhaltsverzeichnis (veraltet)"
+
+msgid "Collapse the list of groups of blocks"
+msgstr "Reduzieren Sie die Liste der Blockgruppen"
+
+msgid "Expand to display the list of groups of blocks"
+msgstr "Erweitern Sie, um die Liste der Blockgruppen anzuzeigen"
+
+msgid "Insert Footnotes"
+msgstr "Fußnoten einfügen"
+
+msgid "Please wait for previous group of blocks to be prepared before adding a new one."
+msgstr "Bitte warten Sie, bis die vorherige Blockgruppe vorbereitet ist, bevor Sie eine neue hinzufügen."
+
+msgid "This group does not contain any block."
+msgstr "Diese Gruppe enthält keinen Block."
+
+msgid "Url (deprecated)"
+msgstr "URL (veraltet)"
+
+msgid "Know more"
+msgstr "Erfahren Sie mehr"

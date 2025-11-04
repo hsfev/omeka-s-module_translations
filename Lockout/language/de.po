@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "No active lockout."
+msgstr "Keine aktive Sperre."
+
+msgid "No lockouts yet."
+msgstr "Noch keine Aussperrungen."
+
+msgid "Lockout"
+msgstr "Aussperrung"
+
+msgid "Site connection"
+msgstr "Site-Verbindung"
+
+msgid "Current setting appears to be invalid."
+msgstr "Die aktuelle Einstellung scheint ungültig zu sein."
+
+msgid "Please make sure it is correct."
+msgstr "Bitte stellen Sie sicher, dass es korrekt ist."
+
+msgid "Further information can be found <a href=\"%s\" title=\"README\">here</a>."
+msgstr "Weitere Informationen finden Sie <a href=\"%s\" title=\"README\">hier</a>."
+
+msgid "Notification"
+msgstr "Benachrichtigung"
+
+msgid "Lockout log"
+msgstr "Sperrprotokoll"
+
+msgid "No log currently."
+msgstr "Derzeit kein Protokoll."
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Tried to log in as"
+msgstr "Habe versucht, mich anzumelden als"
+
+msgid "It appears the site is reached directly (from your IP: %s)."
+msgstr "Es scheint, dass die Website direkt erreicht wird (von Ihrer IP: %s)."
+
+msgid "It appears the site is reached through a proxy server (proxy IP: %s, your IP: %s)."
+msgstr "Es scheint, dass die Site über einen Proxyserver erreicht wird (Proxy-IP: %s, Ihre IP: %s)."
+
+msgid "Cleared current lockouts."
+msgstr "Aktuelle Sperren gelöscht."
+
+msgid "Reset lockout count."
+msgstr "Sperrzähler zurücksetzen."
+
+msgid "Cleared IP log."
+msgstr "IP-Protokoll gelöscht."
+
+msgid "Clear current lockouts"
+msgstr "Aktuelle Sperren aufheben"
+
+msgid "Reset counter"
+msgstr "Zähler zurücksetzen"
+
+msgid "Clear IP log"
+msgstr "IP-Protokoll löschen"
+
+msgid "Allowed retries"
+msgstr "Zulässige Wiederholungsversuche"
+
+msgid "Lockout duration (seconds)"
+msgstr "Sperrdauer (Sekunden)"
+
+msgid "Allowed lockouts before long lockout"
+msgstr "Zulässige Sperren vor langer Sperrung"
+
+msgid "Long lock out (seconds)"
+msgstr "Lange Sperre (Sekunden)"
+
+msgid "Valid duration (seconds)"
+msgstr "Gültige Dauer (Sekunden)"
+
+msgid "Whitelist of IPs"
+msgstr "Whitelist von IPs"
+
+msgid "One IP by line (ipv4 or ipv6)"
+msgstr "Eine IP pro Zeile (IPv4 oder IPv6)"
+
+msgid "Client type"
+msgstr "Kundentyp"
+
+msgid "Direct connection"
+msgstr "Direkte Verbindung"
+
+msgid "From behind a reverse proxy"
+msgstr "Von hinten ein Reverse-Proxy"
+
+msgid "Notify on lockout"
+msgstr "Bei Sperrung benachrichtigen"
+
+msgid "Log IP"
+msgstr "IP protokollieren"
+
+msgid "Email to admin after attempts"
+msgstr "E-Mail an den Administrator nach Versuchen"
+
+msgid "%d attempt remaining."
+msgstr "%d Versuch verbleibend."
+
+msgid "%d attempts remaining."
+msgstr "%d Versuche verbleiben."
+
+msgid "Error: Too many failed login attempts."
+msgstr "Fehler: Zu viele fehlgeschlagene Anmeldeversuche."
+
+msgid "Please try again later."
+msgstr "Bitte versuchen Sie es später noch einmal."
+
+msgid "Please try again in %d hour."
+msgstr "Bitte versuchen Sie es in %d Stunde erneut."
+
+msgid "Please try again in %d hours."
+msgstr "Bitte versuchen Sie es in %d Stunden erneut."
+
+msgid "Please try again in %d minute."
+msgstr "Bitte versuchen Sie es in %d Minute erneut."
+
+msgid "Please try again in %d minutes."
+msgstr "Bitte versuchen Sie es in %d Minuten erneut."
+
+msgid "%d hour"
+msgstr "%d Stunde"
+
+msgid "%d hours"
+msgstr "%d Stunden"
+
+msgid "%d minute"
+msgstr "%d Minute"
+
+msgid "%d minutes"
+msgstr "%d Minuten"
+
+msgid "SERVER_ADDR"
+msgstr "SERVER_ADDR"
+
+msgid "[%s] Failed login attempts from whitelisted IP."
+msgstr "[%s] Fehlgeschlagene Anmeldeversuche von IP auf der Whitelist."
+
+msgid "[%s] Too many failed login attempts."
+msgstr "[%s] Zu viele fehlgeschlagene Anmeldeversuche."
+
+msgid "%d failed login attempts (%d lockout(s)) from IP: %s."
+msgstr "%d fehlgeschlagene Anmeldeversuche (%d Sperrung(en)) von IP: %s."
+
+msgid "Last user attempted: %s."
+msgstr "Letzter Benutzer hat es versucht: %s."
+
+msgid "IP was NOT blocked because of whitelist."
+msgstr "IP wurde NICHT aufgrund der Whitelist blockiert."
+
+msgid "IP was blocked for %s."
+msgstr "IP wurde für %s blockiert."
+
+msgid "Too many retries."
+msgstr "Zu viele Wiederholungsversuche."
+
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>FEHLER</strong>: Falscher Benutzername oder falsches Passwort."
