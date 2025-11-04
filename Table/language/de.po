@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Some codes are not unique once transliterated or languages are not unique by codes or some codes have languages and some none."
+msgstr "Einige Codes sind nach der Transliteration nicht eindeutig, Sprachen sind durch Codes nicht eindeutig, oder einige Codes haben Sprachen und andere keine."
+
+msgid "New table"
+msgstr "Neuer Tisch"
+
+msgid "Tables"
+msgstr "Tische"
+
+msgid "Add new table"
+msgstr "Neue Tabelle hinzufügen"
+
+msgid "Select table"
+msgstr "Tabelle auswählen"
+
+msgid "Delete tables"
+msgstr "Tabellen löschen"
+
+msgid "Are you sure you would like to delete the selected tables?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Tabellen löschen möchten?"
+
+msgid "%1$s: this action will permanently delete %2$s tables and cannot be undone."
+msgstr "%1$s: Diese Aktion löscht %2$s Tabellen dauerhaft und kann nicht rückgängig gemacht werden."
+
+msgid "Are you sure you would like to delete all tables on all pages of this result?"
+msgstr "Sind Sie sicher, dass Sie alle Tabellen auf allen Seiten dieses Ergebnisses löschen möchten?"
+
+msgid "Omeka could not find any tables."
+msgstr "Omeka konnte keine Tische finden."
+
+msgid "Manage multiple labels by code"
+msgstr "Verwalten Sie mehrere Etiketten per Code"
+
+msgid "Total codes"
+msgstr "Gesamtcodes"
+
+msgid "Edit table"
+msgstr "Tabelle bearbeiten"
+
+msgid "Lang"
+msgstr "Lang"
+
+msgid "No codes"
+msgstr "Keine Codes"
+
+msgid "It is now possible to create table with multiple labels for one code."
+msgstr "Es ist jetzt möglich, eine Tabelle mit mehreren Beschriftungen für einen Code zu erstellen."
+
+msgid "It is now possible to set a language to labels. When set, all labels should have a different language."
+msgstr "Es ist jetzt möglich, eine Sprache für Beschriftungen festzulegen.Wenn diese Einstellung festgelegt ist, sollten alle Beschriftungen eine andere Sprache haben."
+
+msgid "The api output did not change for associative tables, but is different for tables with multiple labels. Check your code if needed."
+msgstr "Die API-Ausgabe hat sich für assoziative Tabellen nicht geändert, unterscheidet sich jedoch für Tabellen mit mehreren Beschriftungen.Überprüfen Sie bei Bedarf Ihren Code."
+
+msgid "Source (generally a url)"
+msgstr "Quelle (im Allgemeinen eine URL)"
+
+msgid "List of code and label separated by \"=\", with optional language"
+msgstr "Liste von Code und Label, getrennt durch „=\", mit optionaler Sprache"
+
+msgid "A table must have a title."
+msgstr "Eine Tabelle muss einen Titel haben."
+
+msgid "The codes must be an array."
+msgstr "Die Codes müssen ein Array sein."
+
+msgid "Some codes are not unique once transliterated: {list}."
+msgstr "Einige Codes sind nach der Transliteration nicht eindeutig: {list}."
+
+msgid "Some labels have not a unique language once transliterated: {list}."
+msgstr "Einige Labels haben nach der Transliteration keine eindeutige Sprache: {list}."
+
+msgid "A table cannot mix codes with languages and codes without languages."
+msgstr "Eine Tabelle kann keine Codes mit Sprachen und Codes ohne Sprachen mischen."
+
+msgid "A slug cannot be longer than 190 characters."
+msgstr "Ein Slug darf nicht länger als 190 Zeichen sein."
+
+msgid "A slug should be lower case."
+msgstr "Ein Slug sollte in Kleinbuchstaben geschrieben werden."
+
+msgid "A slug should not be a numeric string."
+msgstr "Ein Slug sollte keine numerische Zeichenfolge sein."
+
+msgid "A slug cannot be a reserved keyword."
+msgstr "Ein Slug kann kein reserviertes Schlüsselwort sein."
+
+msgid "The slug \"{slug}\" is already taken."
+msgstr "Der Slug „{slug}“ ist bereits vergeben."
+
+msgid "The php extension \"intl\" is not installed, so transliteration to ascii is not managed."
+msgstr "Die PHP-Erweiterung „intl“ ist nicht installiert, daher wird die Transliteration in ASCII nicht verwaltet."
+
+msgid "Table successfully created. {link}Add another table?{link_end}"
+msgstr "Tabelle erfolgreich erstellt.{link}Weitere Tabelle hinzufügen?{link_end}"
+
+msgid "Table successfully updated."
+msgstr "Tabelle erfolgreich aktualisiert."
+
+msgid "table"
+msgstr "Tisch"
+
+msgid "Table successfully deleted."
+msgstr "Tabelle erfolgreich gelöscht."
+
+msgid "You must select at least one table to batch delete."
+msgstr "Sie müssen mindestens eine Tabelle zum Stapellöschen auswählen."
+
+msgid "Tables successfully deleted."
+msgstr "Tabellen erfolgreich gelöscht."
+
+msgid "Deleting tables started in background (job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+msgstr "Im Hintergrund gestartete Tabellen werden gelöscht (Job {link_job}#{job_id}{link_end}, {link_log}logs{link_end})."
+
+msgid "Code count"
+msgstr "Codeanzahl"

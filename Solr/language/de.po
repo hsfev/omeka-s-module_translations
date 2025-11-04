@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Solr module requires PHP Solr extension, which is not loaded."
+msgstr "Das Solr-Modul erfordert die PHP-Solr-Erweiterung, die nicht geladen ist."
+
+msgid "[unknown]"
+msgstr "[unbekannt]"
+
+msgid "To use advanced query options (and/or, distance max, etc.), Solr module requires PHP Solr library 2.1.0 or above (lastest recommended, current %s)."
+msgstr "Um erweiterte Abfrageoptionen (und/oder maximale Entfernung usw.) zu verwenden, erfordert das Solr-Modul die PHP-Solr-Bibliothek 2.1.0 oder höher (letzte empfohlene Version, aktuell %s)."
+
+msgid "The module \"%s\" was automatically deactivated because the dependencies are unavailable."
+msgstr "Das Modul „%s“ wurde automatisch deaktiviert, da die Abhängigkeiten nicht verfügbar sind."
+
+msgid "Relevance"
+msgstr "Relevanz"
+
+msgid "Asc"
+msgstr "Aufstieg"
+
+msgid "Desc"
+msgstr "Beschr"
+
+msgid "Mapping between property \"%s\" and Solr field \"%s\" for \"%s\""
+msgstr "Zuordnung zwischen der Eigenschaft „%s“ und dem Solr-Feld „%s“ für „%s“"
+
+msgid "WARNING"
+msgstr "WARNUNG"
+
+msgid "This will remove all references to this Solr mapping in search pages that use it (%d, of which %d are enabled for facets or sort fields)."
+msgstr "Dadurch werden alle Verweise auf diese Solr-Zuordnung auf Suchseiten entfernt, die sie verwenden (%d, davon sind %d für Facetten oder Sortierfelder aktiviert)."
+
+msgid "There is no search pages associated with this Solr mapping."
+msgstr "Mit dieser Solr-Zuordnung sind keine Suchseiten verknüpft."
+
+msgid "This will delete all search indexes (%d), all search pages (%d), and all Solr mappings (%d) that use this Solr node."
+msgstr "Dadurch werden alle Suchindizes (%d), alle Suchseiten (%d) und alle Solr-Zuordnungen (%d) gelöscht, die diesen Solr-Knoten verwenden."
+
+msgid "To keep search indexes and pages, create a new node and set it for the related indexes before deletion."
+msgstr "Um Suchindizes und Seiten beizubehalten, erstellen Sie einen neuen Knoten und legen Sie ihn vor dem Löschen für die zugehörigen Indizes fest."
+
+msgid "There is no search indexes, search pages, neither Solr mappings associated with this Solr node."
+msgstr "Mit diesem Solr-Knoten sind weder Suchindizes, Suchseiten noch Solr-Zuordnungen verknüpft."
+
+msgid "Add Solr mapping"
+msgstr "Fügen Sie Solr-Mapping hinzu"
+
+msgid "Solr nodes"
+msgstr "Solr-Knoten"
+
+msgid "Resources list for node \"%s\""
+msgstr "Ressourcenliste für Knoten „%s“"
+
+msgid "Mappings for \"%s\""
+msgstr "Zuordnungen für „%s“"
+
+msgid "Solr mappings for \"%s\""
+msgstr "Solr-Zuordnungen für „%s“"
+
+msgid "Add new mapping"
+msgstr "Neue Zuordnung hinzufügen"
+
+msgid "Add a text index to all missing and used properties."
+msgstr "Fügen Sie einen Textindex zu allen fehlenden und verwendeten Eigenschaften hinzu."
+
+msgid "Map all used properties"
+msgstr "Ordnen Sie alle verwendeten Eigenschaften zu"
+
+msgid "Remove mappings of properties that are not used."
+msgstr "Entfernen Sie Zuordnungen von Eigenschaften, die nicht verwendet werden."
+
+msgid "Remove unused properties"
+msgstr "Entfernen Sie ungenutzte Eigenschaften"
+
+msgid "Solr field"
+msgstr "Solr-Feld"
+
+msgid "Translated default label"
+msgstr "Übersetztes Standardlabel"
+
+msgid "There is no mappings defined yet."
+msgstr "Es sind noch keine Zuordnungen definiert."
+
+msgid "Add a new mapping"
+msgstr "Fügen Sie eine neue Zuordnung hinzu"
+
+msgid "Solr node \"%s\""
+msgstr "Solr-Knoten „%s“"
+
+msgid "Rules"
+msgstr "Regeln"
+
+msgid "Edit Solr mapping"
+msgstr "Bearbeiten Sie die Solr-Zuordnung"
+
+msgid "Add Solr node"
+msgstr "Solr-Knoten hinzufügen"
+
+msgid "Add node"
+msgstr "Knoten hinzufügen"
+
+msgid "To use advanced query options, you need the php-solr library 2.1.0 or above (lastest recommended, current %s)."
+msgstr "Um erweiterte Abfrageoptionen nutzen zu können, benötigen Sie die PHP-Solr-Bibliothek 2.1.0 oder höher (letzte empfohlene Version, aktuell %s)."
+
+msgid "Solr configuration"
+msgstr "Solr-Konfiguration"
+
+msgid "Add new node"
+msgstr "Neuen Knoten hinzufügen"
+
+msgid "Nodes"
+msgstr "Knoten"
+
+msgid "Solr admin interface, if reachable"
+msgstr "Solr-Administratorschnittstelle, sofern erreichbar"
+
+msgid "Mapping"
+msgstr "Abbildung"
+
+msgid "Edit Solr node"
+msgstr "Bearbeiten Sie den Solr-Knoten"
+
+msgid "Edit node"
+msgstr "Knoten bearbeiten"
+
+msgid "WARNING: Changing the required values will require a complete reindexation."
+msgstr "ACHTUNG: Das Ändern der erforderlichen Werte erfordert eine vollständige Neuindizierung."
+
+msgid "Solr node"
+msgstr "Solr-Knoten"
+
+msgid "IP or hostname"
+msgstr "IP oder Hostname"
+
+msgid "Port"
+msgstr "Hafen"
+
+msgid "Solr node path"
+msgstr "Solr-Knotenpfad"
+
+msgid "Is secure"
+msgstr "Ist sicher"
+
+msgid "Solr login (if secured)"
+msgstr "Solr-Login (falls gesichert)"
+
+msgid "Solr password (if secured)"
+msgstr "Solr-Passwort (falls gesichert)"
+
+msgid "Note: the password is saved clear in the database, so it is recommended to create a specific user."
+msgstr "Hinweis: Das Passwort wird eindeutig in der Datenbank gespeichert, daher wird empfohlen, einen bestimmten Benutzer anzulegen."
+
+msgid "Is public field"
+msgstr "Ist öffentliches Feld"
+
+msgid "Name of Solr field that will be set when a resource is public.\nIt must be a single-valued, boolean-based field (*_b)."
+msgstr "Name des Solr-Felds, das festgelegt wird, wenn eine Ressource öffentlich ist.\nEs muss ein einwertiges, boolesches Feld (*_b) sein."
+
+msgid "Resource name field"
+msgstr "Feld „Ressourcenname“."
+
+msgid "Name of Solr field that will contain the resource name (or resource type, e.g. \"items\", \"item_sets\"…).\nIt must be a single-valued, string-based field (*_s)."
+msgstr "Name des Solr-Felds, das den Ressourcennamen (oder Ressourcentyp, z. B. „items“, „item_sets“…) enthält.\nEs muss ein einwertiges, stringbasiertes Feld (*_s) sein."
+
+msgid "Site ids field"
+msgstr "Feld „Site-IDs“."
+
+msgid "Name of Solr field that will contain the sites ids.\nIt must be a multi-valued, integer-based field (*_is)."
+msgstr "Name des Solr-Felds, das die Site-IDs enthält.\nEs muss ein mehrwertiges, ganzzahliges Feld (*_is) sein."
+
+msgid "Default query"
+msgstr "Standardabfrage"
+
+msgid "This alternative query is used when the user does not query anything, allowing to choose a default result.\nIf empty, the config of the solr node (solrconfig.xml) will be used."
+msgstr "Diese alternative Abfrage wird verwendet, wenn der Benutzer keine Abfrage durchführt, sodass ein Standardergebnis ausgewählt werden kann.\nWenn leer, wird die Konfiguration des Solr-Knotens (solrconfig.xml) verwendet."
+
+msgid "Minimum match (or/and)"
+msgstr "Mindestübereinstimmung (oder/und)"
+
+msgid "Integer \"1\" means \"OR\", \"100%\" means \"AND\". Complex expressions are possible.\nIf empty, the config of the solr node (solrconfig.xml) will be used."
+msgstr "Ganzzahl „1“ bedeutet „ODER“, „100 %“ bedeutet „UND“.Komplexe Ausdrücke sind möglich.\nWenn leer, wird die Konfiguration des Solr-Knotens (solrconfig.xml) verwendet."
+
+msgid "Tie breaker"
+msgstr "Krawattenbrecher"
+
+msgid "Increase score according to the number of matched fields.\nIf empty, the config of the solr node (solrconfig.xml) will be used."
+msgstr "Erhöhen Sie die Punktzahl entsprechend der Anzahl der übereinstimmenden Felder.\nWenn leer, wird die Konfiguration des Solr-Knotens (solrconfig.xml) verwendet."
+
+msgid "To select a sub-property allows to store a linked metadata when the property is filled with a resource. Thereby, an item can be found from the specified value of a linked item. For example an issue of a journal can be linked with the journal, so the issue can be found from the title of the journal."
+msgstr "Durch die Auswahl einer Untereigenschaft können verknüpfte Metadaten gespeichert werden, wenn die Eigenschaft mit einer Ressource gefüllt ist.Dadurch kann ein Artikel aus dem angegebenen Wert eines verknüpften Artikels gefunden werden.Beispielsweise kann eine Ausgabe einer Zeitschrift mit der Zeitschrift verknüpft werden, sodass die Ausgabe über den Titel der Zeitschrift gefunden werden kann."
+
+msgid "Formatter"
+msgstr "Formatierer"
+
+msgid "Default label"
+msgstr "Standardbezeichnung"
+
+msgid "The label is automatically translated if it exists in Omeka."
+msgstr "Das Etikett wird automatisch übersetzt, wenn es in Omeka vorhanden ist."
+
+msgid "Select a metadata from the resource…"
+msgstr "Wählen Sie Metadaten aus der Ressource aus …"
+
+msgid "Set sub-property"
+msgstr "Untereigenschaft festlegen"
+
+msgid "Date range"
+msgstr "Datumsbereich"
+
+msgid "Plain text"
+msgstr "Klartext"
+
+msgid "Solr node is not available. Check config or certificate to get Solr node schema \"%s\"."
+msgstr "Der Solr-Knoten ist nicht verfügbar.Überprüfen Sie die Konfiguration oder das Zertifikat, um das Solr-Knotenschema „%s“ zu erhalten."
+
+msgid "Solr node is not available. Check config to get Solr node schema \"%s\"."
+msgstr "Der Solr-Knoten ist nicht verfügbar.Überprüfen Sie die Konfiguration, um das Solr-Knotenschema „%s“ zu erhalten."
+
+msgid "Tried to get item_set of non item resource."
+msgstr "Es wurde versucht, item_set einer Nicht-Item-Ressource abzurufen."
+
+msgid "Tried to get media of non item resource."
+msgstr "Es wurde versucht, Medien von Nicht-Artikel-Ressourcen abzurufen."
+
+msgid "Internal identifier"
+msgstr "Interner Bezeichner"
+
+msgid "Modified"
+msgstr "Geändert"
+
+msgid "Is public"
+msgstr "Ist öffentlich"
+
+msgid "Resource class"
+msgstr "Ressourcenklasse"
+
+msgid "Media content (html or extracted text)"
+msgstr "Medieninhalte (HTML oder extrahierter Text)"
+
+msgid "Is open"
+msgstr "Ist geöffnet"
+
+msgid "%d mappings successfully created: \"%s\"."
+msgstr "%d Zuordnungen erfolgreich erstellt: „%s“."
+
+msgid "Check all new mappings and remove useless ones."
+msgstr "Überprüfen Sie alle neuen Zuordnungen und entfernen Sie unnötige."
+
+msgid "Don‘t forget to run the indexation of the node."
+msgstr "Vergessen Sie nicht, die Indexierung des Knotens durchzuführen."
+
+msgid "No new mappings added."
+msgstr "Keine neuen Zuordnungen hinzugefügt."
+
+msgid "%d mappings successfully deleted: \"%s\"."
+msgstr "%d Zuordnungen erfolgreich gelöscht: „%s“."
+
+msgid "No mappings deleted."
+msgstr "Keine Zuordnungen gelöscht."
+
+msgid "Solr mapping created: %s."
+msgstr "Solr-Mapping erstellt: %s."
+
+msgid "There was an error during validation"
+msgstr "Bei der Validierung ist ein Fehler aufgetreten"
+
+msgid "Solr mapping modified: %s."
+msgstr "Solr-Zuordnung geändert: %s."
+
+msgid "Don’t forget to check search pages that use this mapping."
+msgstr "Vergessen Sie nicht, die Suchseiten zu überprüfen, die diese Zuordnung verwenden."
+
+msgid "Solr mapping"
+msgstr "Solr-Mapping"
+
+msgid "Solr mapping successfully deleted"
+msgstr "Solr-Zuordnung erfolgreich gelöscht"
+
+msgid "Don’t forget to check search pages that used this mapping."
+msgstr "Vergessen Sie nicht, die Suchseiten zu überprüfen, die diese Zuordnung verwendet haben."
+
+msgid "Solr mapping could not be deleted"
+msgstr "Die Solr-Zuordnung konnte nicht gelöscht werden"
+
+msgid "Solr node \"%s\" created."
+msgstr "Solr-Knoten „%s“ erstellt."
+
+msgid "Don’t forget to index the resources before usiing it."
+msgstr "Vergessen Sie nicht, die Ressourcen zu indizieren, bevor Sie sie verwenden."
+
+msgid "Solr node \"%s\" updated."
+msgstr "Solr-Knoten „%s“ aktualisiert."
+
+msgid "Don’t forget to reindex the resources and to check the mapping of the search pages that use this node."
+msgstr "Vergessen Sie nicht, die Ressourcen neu zu indizieren und die Zuordnung der Suchseiten zu überprüfen, die diesen Knoten verwenden."
+
+msgid "Solr node successfully deleted"
+msgstr "Solr-Knoten erfolgreich gelöscht"
+
+msgid "Solr node could not be deleted"
+msgstr "Der Solr-Knoten konnte nicht gelöscht werden"
+
+msgid "Solr: the config bypasses the check of the certificate."
+msgstr "Solr: Die Konfiguration umgeht die Prüfung des Zertifikats."
+
+msgid "OK (warning: check of certificate disabled)"
+msgstr "OK (Warnung: Prüfung des Zertifikats deaktiviert)"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Indexing of resource %s failed"
+msgstr "Die Indizierung der Ressource %s ist fehlgeschlagen"
+
+msgid "Commit index in Solr."
+msgstr "Commit-Index in Solr."
+
+msgid "Solr"
+msgstr "Solr"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "Choose a field…"
+msgstr "Wählen Sie ein Feld…"
+
+msgid "Dynamic field"
+msgstr "Dynamisches Feld"

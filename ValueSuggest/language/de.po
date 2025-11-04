@@ -1,0 +1,651 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remove URI"
+msgstr "URI entfernen"
+
+msgid "UNESCO: Tesauro"
+msgstr "UNESCO: Tesauro"
+
+msgid "UNESCO: Nomenclatura de Ciencia y Tecnología"
+msgstr "UNESCO: Nomenclatura de Ciencia y Tecnología"
+
+msgid "UNESCO: Biblioteca Digital Floridablanca"
+msgstr "UNESCO: Biblioteca Digital Floridablanca"
+
+msgid "Omeka: Property"
+msgstr "Omeka: Eigentum"
+
+msgid "Omeka: Property / Resource template"
+msgstr "Omeka: Eigenschafts-/Ressourcenvorlage"
+
+msgid "Omeka: Property / Resource class"
+msgstr "Omeka: Eigenschafts-/Ressourcenklasse"
+
+msgid "PBCore: pbcoreAssetType"
+msgstr "PBCore: pbcoreAssetType"
+
+msgid "PBCore: @dateType"
+msgstr "PBCore: @dateType"
+
+msgid "PBCore: @titleType"
+msgstr "PBCore: @titleType"
+
+msgid "PBCore: @descriptionType"
+msgstr "PBCore: @descriptionType"
+
+msgid "PBCore: pbcoreRelationType"
+msgstr "PBCore: pbcoreRelationType"
+
+msgid "PBCore: instantiationRelationType"
+msgstr "PBCore: instanziationRelationType"
+
+msgid "PBCore: creatorRole and contributorRole"
+msgstr "PBCore: CreatorRole und ContributorRole"
+
+msgid "PBCore: publisherRole"
+msgstr "PBCore: PublisherRole"
+
+msgid "PBCore: instantiationPhysical: Audio"
+msgstr "PBCore: InstanziierungPhysical: Audio"
+
+msgid "PBCore: instantiationPhysical: Film"
+msgstr "PBCore: InstanziierungPhysical: Film"
+
+msgid "PBCore: instantiationPhysical: Video"
+msgstr "PBCore: InstanziierungPhysical: Video"
+
+msgid "PBCore: instantiationMediaType"
+msgstr "PBCore: InstantiationMediaType"
+
+msgid "PBCore: instantiationGenerations"
+msgstr "PBCore: InstantiationGenerations"
+
+msgid "RDA: Aspect Ratio Designation"
+msgstr "RDA: Seitenverhältnisbezeichnung"
+
+msgid "RDA: Bibliographic Format"
+msgstr "RDA: Bibliografisches Format"
+
+msgid "RDA: Broadcast Standard"
+msgstr "RDA: Broadcast-Standard"
+
+msgid "RDA: Carrier Extent Unit"
+msgstr "RDA: Carrier Extent Unit"
+
+msgid "RDA: Carrier Type"
+msgstr "RDA: Trägertyp"
+
+msgid "RDA: Cartographic Data Type"
+msgstr "RDA: Kartografischer Datentyp"
+
+msgid "RDA: Collection Accrual Method"
+msgstr "RDA: Inkasso-Abgrenzungsmethode"
+
+msgid "RDA: Collection Accrual Policy"
+msgstr "RDA: Inkasso-Rückstellungsrichtlinie"
+
+msgid "RDA: Colour Content"
+msgstr "RDA: Farbgehalt"
+
+msgid "RDA: Configuration of Playback Channels"
+msgstr "RDA: Konfiguration der Wiedergabekanäle"
+
+msgid "RDA: Content Type"
+msgstr "RDA: Inhaltstyp"
+
+msgid "RDA: Extension Plan"
+msgstr "RDA: Erweiterungsplan"
+
+msgid "RDA: Conventional Collective Title"
+msgstr "RDA: Konventioneller Sammeltitel"
+
+msgid "RDA: File Type"
+msgstr "RDA: Dateityp"
+
+msgid "RDA: Font Size"
+msgstr "RDA: Schriftgröße"
+
+msgid "RDA: Form of Musical Notation"
+msgstr "RDA: Form der musikalischen Notation"
+
+msgid "RDA: Form of Notated Movement"
+msgstr "RDA: Form der notierten Bewegung"
+
+msgid "RDA: Form of Tactile Notation"
+msgstr "RDA: Form der taktilen Notation"
+
+msgid "RDA: Format of Notated Music"
+msgstr "RDA: Format notierter Musik"
+
+msgid "RDA: Frequency"
+msgstr "RDA: Häufigkeit"
+
+msgid "RDA: Generation"
+msgstr "RDA: Generation"
+
+msgid "RDA: Groove Pitch of an Analog Cylinder"
+msgstr "RDA: Rillenteilung eines analogen Zylinders"
+
+msgid "RDA: Groove Width of an Analog Disc"
+msgstr "RDA: Rillenbreite einer analogen Disc"
+
+msgid "RDA: Illustrative Content"
+msgstr "RDA: Illustrativer Inhalt"
+
+msgid "RDA: Interactivity Mode"
+msgstr "RDA: Interaktivitätsmodus"
+
+msgid "RDA: Layout"
+msgstr "RDA: Layout"
+
+msgid "RDA: Linked Data Work"
+msgstr "RDA: Linked Data Work"
+
+msgid "RDA: Material"
+msgstr "RDA: Material"
+
+msgid "RDA: Media Type"
+msgstr "RDA: Medientyp"
+
+msgid "RDA: Mode of Issuance"
+msgstr "RDA: Art der Ausgabe"
+
+msgid "RDA: Polarity"
+msgstr "RDA: Polarität"
+
+msgid "RDA: Presentation Format"
+msgstr "RDA: Präsentationsformat"
+
+msgid "RDA: Production Method"
+msgstr "RDA: Produktionsmethode"
+
+msgid "RDA: Recording Medium"
+msgstr "RDA: Aufnahmemedium"
+
+msgid "RDA: Recording Methods"
+msgstr "RDA: Aufzeichnungsmethoden"
+
+msgid "RDA: Recording Sources"
+msgstr "RDA: Aufnahmequellen"
+
+msgid "RDA: Reduction Ratio Designation"
+msgstr "RDA: Bezeichnung des Reduktionsverhältnisses"
+
+msgid "RDA: Regional Encoding"
+msgstr "RDA: Regionale Kodierung"
+
+msgid "RDA: Scale Designation"
+msgstr "RDA: Skalenbezeichnung"
+
+msgid "RDA: Sound Content"
+msgstr "RDA: Soundinhalt"
+
+msgid "RDA: Special Playback Characteristics"
+msgstr "RDA: Besondere Wiedergabeeigenschaften"
+
+msgid "RDA: Status of Identification"
+msgstr "RDA: Status der Identifizierung"
+
+msgid "RDA: Terms"
+msgstr "RDA: Bedingungen"
+
+msgid "RDA: Track Configuration"
+msgstr "RDA: Track-Konfiguration"
+
+msgid "RDA: Type Of Binding"
+msgstr "RDA: Art der Bindung"
+
+msgid "RDA: Type of Recording"
+msgstr "RDA: Art der Aufzeichnung"
+
+msgid "RDA: Unit of Time"
+msgstr "RDA: Zeiteinheit"
+
+msgid "RDA: User Tasks"
+msgstr "RDA: Benutzeraufgaben"
+
+msgid "RDA: Video Format"
+msgstr "RDA: Videoformat"
+
+msgid "RDA:  Gender"
+msgstr "RDA: Geschlecht"
+
+msgid "RDA: Character"
+msgstr "RDA: Charakter"
+
+msgid "RDA: Extension Mode"
+msgstr "RDA: Erweiterungsmodus"
+
+msgid "RDA: Extension Requirement"
+msgstr "RDA: Erweiterungsbedarf"
+
+msgid "RDA: Extension Termination"
+msgstr "RDA: Verlängerungskündigung"
+
+msgid "RDA: Housing Format"
+msgstr "RDA: Wohnformat"
+
+msgid "RDA: Image Dimensionality"
+msgstr "RDA: Bilddimensionalität"
+
+msgid "RDA: Image Movement"
+msgstr "RDA: Bildbewegung"
+
+msgid "RDA: Interaction"
+msgstr "RDA: Interaktion"
+
+msgid "RDA: Intermediation Tool"
+msgstr "RDA: Vermittlungstool"
+
+msgid "RDA: Revision Mode"
+msgstr "RDA: Revisionsmodus"
+
+msgid "RDA: Revision Requirement"
+msgstr "RDA: Revisionspflicht"
+
+msgid "RDA: Revision Termination"
+msgstr "RDA: Revisionsbeendigung"
+
+msgid "RDA: Sensory Mode"
+msgstr "RDA: Sensorischer Modus"
+
+msgid "RDA: Storage Medium Format"
+msgstr "RDA: Speichermediumformat"
+
+msgid "IdRef: All"
+msgstr "IdRef: Alle"
+
+msgid "IdRef: Person names"
+msgstr "IdRef: Personennamen"
+
+msgid "IdRef: Collectivities"
+msgstr "IdRef: Kollektive"
+
+msgid "IdRef: Conferences"
+msgstr "IdRef: Konferenzen"
+
+msgid "IdRef: Subjects"
+msgstr "IdRef: Themen"
+
+msgid "IdRef: Subjects Rameau"
+msgstr "IdRef: Themen Rameau"
+
+msgid "IdRef: Subjects F-MeSH"
+msgstr "IdRef: Probanden F-MeSH"
+
+msgid "IdRef: Geography"
+msgstr "IdRef: Geographie"
+
+msgid "IdRef: Family names"
+msgstr "IdRef: Familiennamen"
+
+msgid "IdRef: Uniform titles"
+msgstr "IdRef: Einheitliche Titel"
+
+msgid "IdRef: Authors-Titles"
+msgstr "IdRef: Autoren-Titel"
+
+msgid "IdRef: Trademarks"
+msgstr "IdRef: Marken"
+
+msgid "IdRef: PPN id"
+msgstr "IdRef: PPN-ID"
+
+msgid "IdRef: Library registry (RCR)"
+msgstr "IdRef: Bibliotheksregister (RCR)"
+
+msgid "Ministère de la Culture: Catégories techniques et domaines - Inventaire/MH"
+msgstr "Ministère de la Culture: Kategorien Techniken und Domänen – Inventar/MH"
+
+msgid "Ministère de la Culture: Domaines archivistiques pour l'indexation des circulaires"
+msgstr "Kulturministerium: Domaines archivistiques pour l'indexation des circulaires"
+
+msgid "Ministère de la Culture: Etat de conservation du patrimoine mobilier - Inventaire/MH"
+msgstr "Kulturministerium: Etat de Conservation du Patrimoine Mobilier – Inventaire/MH"
+
+msgid "Ministère de la Culture: Inscriptions, marques, emblématique et poinçons - Inventaire/MH"
+msgstr "Ministère de la Culture: Inschriften, Marken, Emblématique et Poinçons – Inventaire/MH"
+
+msgid "Ministère de la Culture: Liste d'autorité Actions pour l'indexation des archives locales"
+msgstr "Kulturministerium: Liste der autorisierten Aktionen zur Indexierung der Archivstandorte"
+
+msgid "Ministère de la Culture: Liste d'autorité Contexte historique pour l'indexation des archives locales"
+msgstr "Kulturministerium: Liste der historischen Kontextautoritäten für die Indexierung lokaler Archive"
+
+msgid "Ministère de la Culture: Liste d'autorité Typologie documentaire pour l'indexation des archives locales"
+msgstr "Kulturministerium: Liste der autoritären Dokumentartypen für die Indexierung lokaler Archive"
+
+msgid "Ministère de la Culture: Liste d'autorités Auteurs - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Auteurs - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Domaines - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Domaines - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Découverte - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Découverte - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Dénomination - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Dénomination - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Genèse - Joconde"
+msgstr "Ministère de la Culture: Liste d'autorités Genèse - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Inscriptions - Joconde"
+msgstr "Ministère de la Culture: Liste d'autorités Inschriften - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Lieux - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Lieux - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Localisation - Joconde"
+msgstr "Ministère de la Culture: Liste d'autorités Localization - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Périodes - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Périodes - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Représentation - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Représentation - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Sources de la représentation - Joconde"
+msgstr "Kulturministerium: Liste der Autoritäten Quellen der Darstellung - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Techniques – Joconde"
+msgstr "Ministère de la Culture: Liste d'autorités Techniques – Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Utilisation - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Utilization - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Écoles - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Écoles - Joconde"
+
+msgid "Ministère de la Culture: Liste d'autorités Époques - Joconde"
+msgstr "Kulturministerium: Liste d'autorités Époques - Joconde"
+
+msgid "Ministère de la Culture: Matériau de la couverture - Inventaire/MH"
+msgstr "Kulturministerium: Matériau de la couverture – Inventaire/MH"
+
+msgid "Ministère de la Culture: Matériau du gros-oeuvre et mise en oeuvre - Inventaire/MH"
+msgstr "Ministerium für Kultur: Matériau du gros-oeuvre et mise en oeuvre – Inventaire/MH"
+
+msgid "Ministère de la Culture: Matériaux et techniques du patrimoine mobilier - Inventaire/MH"
+msgstr "Kulturministerium: Matériaux et Techniques du Patrimoine Mobilier – Inventaire/MH"
+
+msgid "Ministère de la Culture: Nomenclatures HADOC"
+msgstr "Kulturministerium: Nomenklaturen HADOC"
+
+msgid "Ministère de la Culture: Référentiel de communicabilité des archives publiques"
+msgstr "Kulturministerium: Referenz für die Kommunikation öffentlicher Archive"
+
+msgid "Ministère de la Culture: Stade de la création des objets mobiliers - Inventaire/MH"
+msgstr "Kulturministerium: Stade de la création des objets mobiliers – Inventaire/MH"
+
+msgid "Ministère de la Culture: Statut de la propriété des Biens culturels - Inventaire/MH"
+msgstr "Kulturministerium: Statut de la propriété des Biens culturels – Inventaire/MH"
+
+msgid "Ministère de la Culture: Techniques photographiques"
+msgstr "Ministère de la Culture: Techniques photographiques"
+
+msgid "Ministère de la Culture: Thésaurus de la désignation des objets mobiliers"
+msgstr "Kulturministerium: Thésaurus de la désignation des objets mobiliers"
+
+msgid "Ministère de la Culture: Thésaurus de la désignation des œuvres architecturales et des espaces aménagés"
+msgstr "Kulturministerium: Thésaurus de la désignation des œuvres architectes et des espaces aménagés"
+
+msgid "Ministère de la Culture: Thésaurus-matières pour l'indexation des archives locales"
+msgstr "Ministerium für Kultur: Lehrmaterial für die Indexierung der Ortsarchive"
+
+msgid "Ministère de la Culture: Type de la couverture - Inventaire/MH"
+msgstr "Ministère de la Culture: Type de la couverture – Inventaire/MH"
+
+msgid "Ministère de la Culture: Type de protection MH - Inventaire/MH"
+msgstr "Kulturministerium: Schutzart MH – Inventaire/MH"
+
+msgid "Ministère de la Culture: Vocabulaire des activités des entités productrices d'archives"
+msgstr "Ministère de la Culture: Vokabular für Aktivitäten von Entités Productrices d'Archives"
+
+msgid "Ministère de la Culture: Vocabulaire des altérations"
+msgstr "Ministère de la Culture: Vocabulaire des alterations"
+
+msgid "Ministère de la Culture: Vocabulaire des domaines d'action ou objets des entités productrices d'archives"
+msgstr "Ministerium für Kultur: Vokabeln zu Aktionsbereichen oder Objekten von Archivprodukten"
+
+msgid "Ministère de la Culture: Vocabulaire pour les techniques photographiques"
+msgstr "Kulturministerium: Vokabeln für fotografische Techniken"
+
+msgid "Nomenclature: All"
+msgstr "Nomenklatur: Alle"
+
+msgid "Nomenclature: Built Environment Objects"
+msgstr "Nomenklatur: Gebaute Umweltobjekte"
+
+msgid "Nomenclature: Furnishings"
+msgstr "Nomenklatur: Einrichtung"
+
+msgid "Nomenclature: Personal Objects"
+msgstr "Nomenklatur: Persönliche Gegenstände"
+
+msgid "Nomenclature: Tools & Equipment for Materials"
+msgstr "Nomenklatur: Werkzeuge und Ausrüstung für Materialien"
+
+msgid "Nomenclature: Tools & Equipment for Science & Technology"
+msgstr "Nomenklatur: Werkzeuge und Ausrüstung für Wissenschaft und Technologie"
+
+msgid "Nomenclature: Tools & Equipment for Communication"
+msgstr "Nomenklatur: Werkzeuge und Ausrüstung für die Kommunikation"
+
+msgid "Nomenclature: Distribution & Transportation Objects"
+msgstr "Nomenklatur: Verteilungs- und Transportobjekte"
+
+msgid "Nomenclature: Communication Objects"
+msgstr "Nomenklatur: Kommunikationsobjekte"
+
+msgid "Nomenclature: Recreational Objects"
+msgstr "Nomenklatur: Freizeitobjekte"
+
+msgid "Nomenclature: Unclassifiable Objects"
+msgstr "Nomenklatur: Nicht klassifizierbare Objekte"
+
+msgid "Nuovo soggettario: Agenti: Organismi"
+msgstr "Neue Unterstützung: Agenten: Organismen"
+
+msgid "Nuovo soggettario: Agenti: Organizzazioni"
+msgstr "Neuer Mitarbeiter: Agenti: Organizzazioni"
+
+msgid "Nuovo soggettario: Agenti: Persone e gruppi"
+msgstr "Neue Mitglieder: Agenten: Personen und Gruppen"
+
+msgid "Nuovo soggettario: Azioni: Attività"
+msgstr "Neue Vorschläge: Azioni: Attività"
+
+msgid "Nuovo soggettario: Azioni: Discipline"
+msgstr "Neuer Titel: Disziplin"
+
+msgid "Nuovo soggettario: Azioni: Processi"
+msgstr "Neue Vorschläge: Azioni: Processi"
+
+msgid "Nuovo soggettario: Cose: Forme"
+msgstr "Neuer Song: Cose: Forme"
+
+msgid "Nuovo soggettario: Cose: Materia"
+msgstr "Neue Suche: Kosten: Material"
+
+msgid "Nuovo soggettario: Cose: Oggetti"
+msgstr "Neuer Autor: Cose: Oggetti"
+
+msgid "Nuovo soggettario: Cose: Spazio"
+msgstr "Neue Suche: Platz: Spazio"
+
+msgid "Nuovo soggettario: Cose: Strumenti"
+msgstr "Neuer Songtext: Cose: Strumenti"
+
+msgid "Nuovo soggettario: Cose: Strutture"
+msgstr "Neuer Autor: Cose: Strutture"
+
+msgid "Nuovo soggettario: Tempo"
+msgstr "Neuer Vorschlag: Tempo"
+
+msgid "Tesauros: Diccionario de Bienes Culturales"
+msgstr "Tesauros: Diccionario de Bienes Culturales"
+
+msgid "Tesauros: Diccionario de Materias"
+msgstr "Tesauros: Diccionario de Materias"
+
+msgid "Tesauros: Diccionario de Técnicas"
+msgstr "Tesauros: Diccionario de Técnicas"
+
+msgid "Tesauros: Diccionario de Contextos Culturales"
+msgstr "Tesauros: Diccionario de Contextos Culturales"
+
+msgid "Tesauros: Diccionario Geográfico"
+msgstr "Tesauros: Diccionario Geográfico"
+
+msgid "Tesauros: Diccionario de Toponimia Histórica"
+msgstr "Tesauros: Diccionario de Toponimia Histórica"
+
+msgid "Tesauros: Diccionario de Cerámica"
+msgstr "Tesauros: Diccionario de Cerámica"
+
+msgid "Tesauros: Diccionario de Numismática"
+msgstr "Tesauros: Diccionario de Numismática"
+
+msgid "Tesauros: Diccionario de Mobiliario"
+msgstr "Tesauros: Diccionario de Mobiliario"
+
+msgid "Pactols: All thesaurus"
+msgstr "Pactole: Alle Thesaurus"
+
+msgid "Pactols: Sujets (Subject)"
+msgstr "Pakte: Sujets (Thema)"
+
+msgid "RightsStatements.org: Rights statements for online cultural heritage"
+msgstr "RightsStatements.org: Rechteerklärungen für Online-Kulturerbe"
+
+msgid "LC: MARC Relators"
+msgstr "LC: MARC-Relatoren"
+
+msgid "LC: All"
+msgstr "LC: Alle"
+
+msgid "LC: MARC Languages"
+msgstr "LC: MARC-Sprachen"
+
+msgid "LC: Medium of Performance Thesaurus for Music"
+msgstr "LC: Medium des Performance-Thesaurus für Musik"
+
+msgid "LC: Subject Headings"
+msgstr "LC: Schlagworte"
+
+msgid "LC: Name Authority File"
+msgstr "LC: Namensautoritätsdatei"
+
+msgid "LC: ISO639-2 Languages"
+msgstr "LC: ISO639-2-Sprachen"
+
+msgid "LC: MARC Geographic Areas"
+msgstr "LC: Geografische MARC-Gebiete"
+
+msgid "LC: ISO639-1 Languages"
+msgstr "LC: ISO639-1-Sprachen"
+
+msgid "LC: AFS Ethnographic Thesaurus"
+msgstr "LC: AFS Ethnographischer Thesaurus"
+
+msgid "LC: Thesaurus for Graphic Materials"
+msgstr "LC: Thesaurus für grafische Materialien"
+
+msgid "LC: Demographic Group Terms"
+msgstr "LC: Demografische Gruppenbedingungen"
+
+msgid "LC: Cultural Heritage Organizations"
+msgstr "LC: Kulturerbeorganisationen"
+
+msgid "LC: Children's Subject Headings"
+msgstr "LC: Schlagwörter für Kinder"
+
+msgid "LC: Genre/Form Terms"
+msgstr "LC: Genre-/Formbegriffe"
+
+msgid "LC: ISO639-5 Languages"
+msgstr "LC: ISO639-5 Sprachen"
+
+msgid "LC: Classification"
+msgstr "LC: Klassifizierung"
+
+msgid "LC: MARC Countries"
+msgstr "LC: MARC-Länder"
+
+msgid "LC: Rare Materials Cataloging"
+msgstr "LC: Katalogisierung seltener Materialien"
+
+msgid "Creative Commons (CC): Free, easy-to-use copyright licenses"
+msgstr "Creative Commons (CC): Kostenlose, benutzerfreundliche Urheberrechtslizenzen"
+
+msgid "Thesaurus de la Universitat de Barcelona (THUB)"
+msgstr "Thesaurus de la Universitat de Barcelona (THUB)"
+
+msgid "ORCID: Open Researcher and Contributor ID"
+msgstr "ORCID: Offene Forscher- und Mitwirkenden-ID"
+
+msgid "Geonames: GeoNames features"
+msgstr "Geonames: GeoNames-Funktionen"
+
+msgid "Geonames: The GeoNames geographical database"
+msgstr "Geonames: Die geografische Datenbank GeoNames"
+
+msgid "PeriodO: A gazetteer of period definitions for linking and visualizing data"
+msgstr "PeriodO: Ein Verzeichnis mit Periodendefinitionen zur Verknüpfung und Visualisierung von Daten"
+
+msgid "Value Suggest"
+msgstr "Wertvorschlag"
+
+msgid "ROR: Research Organization Registry"
+msgstr "ROR: Register der Forschungsorganisationen"
+
+msgid "Homosaurus: an international LGBTQ linked data vocabulary"
+msgstr "Homosaurus: ein internationales LGBTQ-verknüpftes Datenvokabular"
+
+msgid "Getty: Thesaurus of Geographic Names (TGN)"
+msgstr "Getty: Thesaurus der geografischen Namen (TGN)"
+
+msgid "Getty: Union List of Artist Names (ULAN)"
+msgstr "Getty: Union List of Artist Names (ULAN)"
+
+msgid "Getty: Iconography Authority (IA)"
+msgstr "Getty: Iconography Authority (IA)"
+
+msgid "Getty: Cultural Objects Name Authority (CONA)"
+msgstr "Getty: Cultural Objects Name Authority (CONA)"
+
+msgid "Getty: Art & Architecture Thesaurus (AAT)"
+msgstr "Getty: Kunst- und Architektur-Thesaurus (AAT)"
+
+msgid "OCLC: Faceted Application of Subject Terminologies (FAST)"
+msgstr "OCLC: Facettierte Anwendung von Fachterminologien (FAST)"
+
+msgid "OCLC: The Virtual International Authority File (VIAF)"
+msgstr "OCLC: Die Virtual International Authority File (VIAF)"
+
+msgid "Dublin Core: Classes"
+msgstr "Dublin Core: Klassen"
+
+msgid "Dublin Core: Types"
+msgstr "Dublin Core: Typen"
+
+msgid "Dublin Core: Elements"
+msgstr "Dublin Core: Elemente"
+
+msgid "Dublin Core: Terms"
+msgstr "Dublin Core: Bedingungen"
+
+msgid "GND: Die Gemeinsame Normdatei"
+msgstr "GND: Die Gemeinsame Normdatei"

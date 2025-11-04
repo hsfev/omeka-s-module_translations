@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "Ajax login form is not implemented here. Use Guest page instead."
+msgstr "Das Ajax-Anmeldeformular ist hier nicht implementiert.Verwenden Sie stattdessen die Gastseite."
+
+msgid "Invalid code"
+msgstr "Ungültiger Code"
+
+msgid "A new code was resent."
+msgstr "Ein neuer Code wurde erneut gesendet."
+
+msgid "Unable to send email."
+msgstr "E-Mail kann nicht gesendet werden."
+
+msgid "Check your input for invalid data."
+msgstr "Überprüfen Sie Ihre Eingabe auf ungültige Daten."
+
+msgid "An internal error has occurred."
+msgstr "Es ist ein interner Fehler aufgetreten."
+
+msgid "Resend a code"
+msgstr "Senden Sie einen Code erneut"
+
+msgid "Log in (2FA)"
+msgstr "Anmelden (2FA)"
+
+msgid "An error occurred when the code was sent by email. Try again later."
+msgstr "Beim Versenden des Codes per E-Mail ist ein Fehler aufgetreten.Versuchen Sie es später noch einmal."
+
+msgid "[TwoFactorAuth] An error occurred when the code was sent by email."
+msgstr "[TwoFactorAuth] Beim Versenden des Codes per E-Mail ist ein Fehler aufgetreten."
+
+msgid "Fill the second form with the code received by email to log in"
+msgstr "Füllen Sie das zweite Formular mit dem per E-Mail erhaltenen Code aus, um sich anzumelden"
+
+msgid "The code is missing."
+msgstr "Der Code fehlt."
+
+msgid "An error occurred. Retry to log in."
+msgstr "Es ist ein Fehler aufgetreten.Versuchen Sie erneut, sich anzumelden."
+
+msgid "The message has no subject, content or recipient."
+msgstr "Die Nachricht hat keinen Betreff, Inhalt oder Empfänger."
+
+msgid "Error when sending email. Arguments:\n{json}"
+msgstr "Fehler beim E-Mail-Versand.Argumente:\n{json}"
+
+msgid "Missing two-factor authentication code."
+msgstr "Fehlender Zwei-Faktor-Authentifizierungscode."
+
+msgid "Invalid or expired code."
+msgstr "Ungültiger oder abgelaufener Code."
+
+msgid "Force all users to use 2FA"
+msgstr "Erzwingen Sie die Verwendung von 2FA durch alle Benutzer"
+
+msgid "Expiration of token (seconds)"
+msgstr "Ablauf des Tokens (Sekunden)"
+
+msgid "Subject of the email sent to user"
+msgstr "Betreff der an den Benutzer gesendeten E-Mail"
+
+msgid "Possible placeholders: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {token}, {code}."
+msgstr "Mögliche Platzhalter: {main_title}, {main_url}, {site_title}, {site_url}, {email}, {name}, {token}, {code}."
+
+msgid "[{site_title}] {token} is your code to log in"
+msgstr "[{site_title}] {token} ist Ihr Code zum Anmelden"
+
+msgid "Text of the email"
+msgstr "Text der E-Mail"
+
+msgid "Hi {user_name},\nThe token to copy-paste to log in on {site_title} is:\n{token}\nGood browsing!\nIf you did not request this email, please disregard it."
+msgstr "Hallo {Benutzername},\nDas Token zum Kopieren und Einfügen, um sich bei {site_title} anzumelden, lautet:\n{Token}\nGutes Stöbern!\nWenn Sie diese E-Mail nicht angefordert haben, ignorieren Sie sie bitte."
+
+msgid "Use a popup dialog for second step"
+msgstr "Verwenden Sie für den zweiten Schritt ein Popup-Dialogfeld"
+
+msgid "Enable two-factor authentication with a code sent by email"
+msgstr "Aktivieren Sie die Zwei-Faktor-Authentifizierung mit einem per E-Mail gesendeten Code"
+
+msgid "The status \"%s\" is not supported by jSend."
+msgstr "Der Status „%s“ wird von jSend nicht unterstützt."

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The php extension \"php-vips\" (recommended) or the library \"vips\" should be installed first to use this module."
+msgstr "Zur Nutzung dieses Moduls sollte zunächst die PHP-Erweiterung „php-vips“ (empfohlen) oder die Bibliothek „vips“ installiert werden."
+
+msgid "It is recommnded to use the php extension \"php-vips\" instead of the cli \"vips\" for performance, unless you have memory issues on big images."
+msgstr "Aus Leistungsgründen wird empfohlen, die PHP-Erweiterung „php-vips“ anstelle der CLI „vips“ zu verwenden, es sei denn, Sie haben Speicherprobleme bei großen Bildern."
+
+msgid "The vips PHP extension must be loaded to use this thumbnailer."
+msgstr "Um diesen Thumbnailer verwenden zu können, muss die PHP-Erweiterung vips geladen sein."

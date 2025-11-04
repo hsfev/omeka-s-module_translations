@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Items can be selected in the whole base or in a limited list via the query below."
+msgstr "Über die unten stehende Abfrage können Elemente in der gesamten Datenbank oder in einer begrenzten Liste ausgewählt werden."
+
+msgid "The default item pool is the current site one."
+msgstr "Der Standard-Artikelpool ist der aktuelle Site-Pool."
+
+msgid "Items without a date are automatically filtered."
+msgstr "Artikel ohne Datum werden automatisch gefiltert."
+
+msgid "There are currently %s items in this timeline’s pool."
+msgstr "Derzeit befinden sich %s Elemente im Pool dieser Zeitleiste."
+
+msgid "There are more than 100 items, so the timeline won’t be usable and may display slowly or causes an overload. It is recommended to limit pool with the query below."
+msgstr "Da es mehr als 100 Elemente gibt, ist die Zeitleiste nicht verwendbar und wird möglicherweise langsam angezeigt oder führt zu einer Überlastung.Es wird empfohlen, den Pool mit der folgenden Abfrage einzuschränken."
+
+msgid "Warning: Advanced features (eras, groups, etc.) are available only with the layout \"Knightlab\" that should be set in the config of the block if needed."
+msgstr "Warnung: Erweiterte Funktionen (Epochen, Gruppen usw.) sind nur mit dem Layout „Knightlab“ verfügbar, das bei Bedarf in der Konfiguration des Blocks festgelegt werden sollte."
+
+msgid "collapse"
+msgstr "Zusammenbruch"
+
+msgid "The json is now built dynamically from the url /api/timeline."
+msgstr "Der JSON wird jetzt dynamisch aus der URL /api/timeline erstellt."
+
+msgid "The setting \"heading\" was removed from blocks. A new block \"Heading\" (module BlockPlus) or \"Html\" was prepended to all blocks that had a filled heading. You may check pages for styles: %s"
+msgstr "Die Einstellung „Überschrift“ wurde aus Blöcken entfernt.Allen Blöcken, die eine gefüllte Überschrift hatten, wurde ein neuer Block „Überschrift“ (Modul BlockPlus) oder „Html“ vorangestellt.Sie können die Seiten auf Stile überprüfen: %s"
+
+msgid "timeline-simile-online"
+msgstr "Timeline-Gleichnis-online"
+
+msgid "timeline-knightlab"
+msgstr "Timeline-Knightlab"
+
+msgid "It is now possible to add groups, eras and extra-markers, for example historical events, in timelines."
+msgstr "Es ist nun möglich, Gruppen, Epochen und zusätzliche Markierungen, beispielsweise historische Ereignisse, in Zeitleisten hinzuzufügen."
+
+msgid "The timeline for Knightlab has been updated to avoid a js transformation. Check if you used the output of the api directly."
+msgstr "Die Zeitleiste für Knightlab wurde aktualisiert, um eine js-Transformation zu vermeiden.Überprüfen Sie, ob Sie die Ausgabe der API direkt verwendet haben."
+
+msgid "The deprecated route \"timeline-block\" (for url \"/timeline/:block-id/events.json\") was replaced by \"api/timeline\". Check your old themes if you used it. Matching templates: %s"
+msgstr "Die veraltete Route „timeline-block“ (für URL „/timeline/:block-id/events.json“) wurde durch „api/timeline“ ersetzt.Überprüfen Sie Ihre alten Themes, falls Sie diese verwendet haben.Passende Vorlagen: %s"
+
+msgid "The deprecated route \"timeline-block\" (for url \"/timeline/:block-id/events.json\") was replaced by \"api/timeline\". Check your old themes if you used it."
+msgstr "Die veraltete Route „timeline-block“ (für URL „/timeline/:block-id/events.json“) wurde durch „api/timeline“ ersetzt.Überprüfen Sie Ihre alten Themes, falls Sie diese verwendet haben."
+
+msgid "It is now possible to add a timeline to an item set as a resource page block."
+msgstr "Es ist jetzt möglich, einem Elementsatz eine Zeitleiste als Ressourcenseitenblock hinzuzufügen."
+
+msgid "It is now possible to fill slides for timeline exhibit with a spreadsheet (csv, tsv) formatted according to {link}Knightslab{link_end}."
+msgstr "Es ist jetzt möglich, Folien für die Timeline-Ausstellung mit einer Tabelle (CSV, TSV) zu füllen, die gemäß {link}Knightslab{link_end} formatiert ist."
+
+msgid "The settings for exhibits were improved. You may check pages: {json}"
+msgstr "Die Einstellungen für Ausstellungen wurden verbessert.Sie können die Seiten überprüfen: {json}"
+
+msgid "It is now possible to fill a resource, asset or external url as main content or background for timeline exhibit."
+msgstr "Es ist jetzt möglich, eine Ressource, ein Asset oder eine externe URL als Hauptinhalt oder Hintergrund für die Timeline-Ausstellung einzugeben."
+
+msgid "Furthermore, the file can be a native standard spreadsheet file (ods, OpenDocument Spreadsheet), avoiding issues with encoding and end of lines and allowing cells with multilines."
+msgstr "Darüber hinaus kann es sich bei der Datei um eine native Standard-Tabellenkalkulationsdatei (ods, OpenDocument Spreadsheet) handeln, wodurch Probleme mit der Kodierung und dem Zeilenende vermieden werden und Zellen mit mehreren Zeilen möglich sind."
+
+msgid "Events"
+msgstr "Veranstaltungen"
+
+msgid "Start date property"
+msgstr "Eigenschaft „Startdatum“."
+
+msgid "Date to use from the attachement when no date is set."
+msgstr "Datum, das aus dem Anhang verwendet werden soll, wenn kein Datum festgelegt ist."
+
+msgid "Select a property…"
+msgstr "Wählen Sie eine Immobilie aus…"
+
+msgid "End date property"
+msgstr "Eigenschaft „Enddatum“."
+
+msgid "End date to use from the attachement when no end date is set."
+msgstr "Enddatum, das aus dem Anhang verwendet werden soll, wenn kein Enddatum festgelegt ist."
+
+msgid "Credit property"
+msgstr "Krediteigentum"
+
+msgid "Credit to use from the attachement when no credit is set (generally creator or rights)."
+msgstr "Credit, der aus dem Anhang verwendet werden soll, wenn kein Credit festgelegt ist (im Allgemeinen Ersteller oder Rechte)."
+
+msgid "Metadata to append for custom timeline"
+msgstr "Metadaten zum Anhängen für eine benutzerdefinierte Zeitleiste"
+
+msgid "Resource class label"
+msgstr "Bezeichnung der Ressourcenklasse"
+
+msgid "Select a metadata…"
+msgstr "Wählen Sie Metadaten aus…"
+
+msgid "Metadata to use as group"
+msgstr "Als Gruppe zu verwendende Metadaten"
+
+msgid "Default group"
+msgstr "Standardgruppe"
+
+msgid "Scale"
+msgstr "Skala"
+
+msgid "Human"
+msgstr "Menschlich"
+
+msgid "Cosmological"
+msgstr "Kosmologisch"
+
+msgid "Eras/Periods"
+msgstr "Epochen/Perioden"
+
+msgid "Markers for well-known or extra events"
+msgstr "Markierungen für bekannte oder besondere Ereignisse"
+
+msgid "Set the default params of the viewer as json, or let empty for the included default."
+msgstr "Legen Sie die Standardparameter des Viewers als JSON fest oder lassen Sie sie für den enthaltenen Standard leer."
+
+msgid "Open links in current browse tab"
+msgstr "Öffnen Sie Links im aktuellen Browser-Tab"
+
+msgid "Spreadsheet filename or url (csv or tsv) to fill following exhibit slides automatically"
+msgstr "Name oder URL der Tabellenkalkulation (CSV oder TSV), um die folgenden Ausstellungsfolien automatisch auszufüllen"
+
+msgid "Spreadsheet filename or url (ods, csv or tsv) to fill following exhibit slides automatically"
+msgstr "Dateiname oder URL der Tabelle (ods, csv oder tsv), um die folgenden Ausstellungsfolien automatisch auszufüllen"
+
+msgid "The file may be uploaded via the module Easy Admin or an url.\nThe column \"Media\" may be a numeric item or media id,  asset/xxx, any url to a media, or a item identifier (Dublin Core).\nWhen Media is a resource, other columns will be filled when empty (title, description, dates).\nWarning: when a valid file is uploaded, all existing slides will be replaced. The page should be saved to regenerate slides."
+msgstr "Die Datei kann über das Modul Easy Admin oder eine URL hochgeladen werden.\nDie Spalte „Medien“ kann ein numerisches Element oder eine Medien-ID, asset/xxx, eine beliebige URL zu einem Medium oder eine Elementkennung (Dublin Core) sein.\nWenn es sich bei „Medien“ um eine Ressource handelt, werden andere Spalten ausgefüllt, wenn sie leer sind (Titel, Beschreibung, Datum).\nAchtung: Wenn eine gültige Datei hochgeladen wird, werden alle vorhandenen Folien ersetzt.Die Seite sollte gespeichert werden, um Folien neu zu generieren."
+
+msgid "Slides"
+msgstr "Folien"
+
+msgid "o:block[__blockIndex__][o:data][slides][__slideIndex__]"
+msgstr "o:block[__blockIndex__][o:data][slides][__slideIndex__]"
+
+msgid "Main content: Resource"
+msgstr "Hauptinhalt: Ressource"
+
+msgid "Main content: Or asset"
+msgstr "Hauptinhalt: Oder Vermögenswert"
+
+msgid "Main content: Or external media"
+msgstr "Hauptinhalt: Oder externe Medien"
+
+msgid "Era"
+msgstr "Epoche"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "Display date for start"
+msgstr "Datum für den Start anzeigen"
+
+msgid "End date"
+msgstr "Enddatum"
+
+msgid "Display date for end"
+msgstr "Datum für Ende anzeigen"
+
+msgid "Display main date"
+msgstr "Hauptdatum anzeigen"
+
+msgid "Headline"
+msgstr "Überschrift"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "Background: Resource"
+msgstr "Hintergrund: Ressource"
+
+msgid "Background: Or asset"
+msgstr "Hintergrund: Oder Vermögenswert"
+
+msgid "Background: Or external file"
+msgstr "Hintergrund: Oder externe Datei"
+
+msgid "Background: Or color"
+msgstr "Hintergrund: Oder Farbe"
+
+msgid "A css color as hexadecimal or keyword."
+msgstr "Eine CSS-Farbe als Hexadezimalzahl oder Schlüsselwort."
+
+msgid "Add another slide"
+msgstr "Fügen Sie eine weitere Folie hinzu"
+
+msgid "Remove this slide"
+msgstr "Entfernen Sie diese Folie"
+
+msgid "Search pool query"
+msgstr "Suchpoolabfrage"
+
+msgid "Restrict timeline to a particular subset of resources, for example a site."
+msgstr "Beschränken Sie die Zeitleiste auf eine bestimmte Untergruppe von Ressourcen, beispielsweise eine Site."
+
+msgid "Item title"
+msgstr "Artikeltitel"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Item description"
+msgstr "Artikelbeschreibung"
+
+msgid "Item date"
+msgstr "Artikeldatum"
+
+msgid "Item end date"
+msgstr "Enddatum des Artikels"
+
+msgid "If set, the process will use the other date as a start date."
+msgstr "Wenn festgelegt, verwendet der Prozess das andere Datum als Startdatum."
+
+msgid "Render year"
+msgstr "Renderjahr"
+
+msgid "When a date is a single year, like \"1066\", the value should be interpreted to be displayed on the timeline."
+msgstr "Wenn es sich bei einem Datum um ein einzelnes Jahr handelt, beispielsweise „1066“, sollte der Wert so interpretiert werden, dass er auf der Zeitachse angezeigt wird."
+
+msgid "Pick first January"
+msgstr "Wählen Sie den ersten Januar"
+
+msgid "Pick first July"
+msgstr "Pflücken Sie den ersten Juli"
+
+msgid "Mark entire year"
+msgstr "Markieren Sie das ganze Jahr"
+
+msgid "Skip the resource"
+msgstr "Überspringen Sie die Ressource"
+
+msgid "Center date"
+msgstr "Zentrales Datum"
+
+msgid "Set the default center date for the timeline. The format should be \"YYYY-MM-DD\". An empty value means \"now\", \"0000-00-00\" the earliest date, and \"9999-99-99\" the latest date."
+msgstr "Legen Sie das Standard-Mitteldatum für die Zeitleiste fest.Das Format sollte „JJJJ-MM-TT“ sein.Ein leerer Wert bedeutet „jetzt“, „0000-00-00“ das früheste Datum und „9999-99-99“ das späteste Datum."
+
+msgid "Thumbnail to use"
+msgstr "Miniaturansicht zur Verwendung"
+
+msgid "Square"
+msgstr "Quadrat"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Original (not recommended)"
+msgstr "Original (nicht empfohlen)"
+
+msgid "Use the specific thumbnail of the resource if any"
+msgstr "Verwenden Sie gegebenenfalls die spezifische Miniaturansicht der Ressource"
+
+msgid "Timeline viewer params"
+msgstr "Parameter des Timeline-Viewers"
+
+msgid "A well-formed url or a query is needed to get a timeline."
+msgstr "Um eine Zeitleiste zu erhalten, ist eine wohlgeformte URL oder eine Abfrage erforderlich."
+
+msgid "Block or resource not found"
+msgstr "Block oder Ressource nicht gefunden"
+
+msgid "Id %d is not a timeline."
+msgstr "ID %d ist keine Zeitleiste."
+
+msgid "Method Not Allowed"
+msgstr "Methode nicht zulässig"
+
+msgid "Timeline"
+msgstr "Zeitleiste"
+
+msgid "Timeline (Knightlab)"
+msgstr "Zeitleiste (Knightlab)"
+
+msgid "Timeline Exhibit"
+msgstr "Timeline-Ausstellung"
+
+msgid "A spreadsheet file path was set, but the Easy Admin is not enabled."
+msgstr "Ein Tabellendateipfad wurde festgelegt, aber Easy Admin ist nicht aktiviert."
+
+msgid "The spreadsheet file path cannot contains a double \".\" in its path for security."
+msgstr "Der Dateipfad der Tabellenkalkulation darf kein doppeltes „.“ enthalten.auf seinem Weg zur Sicherheit."
+
+msgid "The spreadsheet file path contains forbidden characters."
+msgstr "Der Pfad der Tabellendatei enthält verbotene Zeichen."
+
+msgid "The spreadsheet file is not readable."
+msgstr "Die Tabellenkalkulationsdatei ist nicht lesbar."
+
+msgid "The spreadsheet file is empty."
+msgstr "Die Tabellendatei ist leer."
+
+msgid "The config of the Timeline viewer is not a valid json object. Nevertheless, the data are saved and it will be passed as it."
+msgstr "Die Konfiguration des Timeline-Viewers ist kein gültiges JSON-Objekt.Die Daten werden jedoch gespeichert und so weitergegeben."
+
+msgid "Simile (use internal assets)"
+msgstr "Simile (interne Assets verwenden)"
+
+msgid "Simile online (use online js/css)"
+msgstr "Vergleich online (Online-JS/CSS verwenden)"
+
+msgid "Knightlab"
+msgstr "Knightlab"

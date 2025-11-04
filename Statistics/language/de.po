@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Omeka S\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Automated\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The module %1$s should be upgraded to version %2$s or later."
+msgstr "Das Modul %1$s sollte auf Version %2$s oder höher aktualisiert werden."
+
+msgid "To compute access to files, you must add a rule in file .htaccess at the root of Omeka. See %sreadme%s."
+msgstr "Um den Zugriff auf Dateien zu berechnen, müssen Sie eine Regel in der Datei .htaccess im Stammverzeichnis von Omeka hinzufügen.Siehe %sreadme%s."
+
+msgid "Analytics"
+msgstr "Analytik"
+
+msgid "[untitled]"
+msgstr "[ohne Titel]"
+
+msgid "Last year"
+msgstr "Letztes Jahr"
+
+msgid "Last month"
+msgstr "Letzten Monat"
+
+msgid "Last week"
+msgstr "Letzte Woche"
+
+msgid "Yesterday"
+msgstr "Gestern"
+
+msgid "This year"
+msgstr "Dieses Jahr"
+
+msgid "This month"
+msgstr "Diesen Monat"
+
+msgid "This week"
+msgstr "Diese Woche"
+
+msgid "This day"
+msgstr "Dieser Tag"
+
+msgid "Last 24 hours"
+msgstr "Letzte 24 Stunden"
+
+msgid "Last %s days"
+msgstr "Letzte %s Tage"
+
+msgid "Annotation"
+msgstr "Anmerkung"
+
+msgid "anonymous users"
+msgstr "anonyme Benutzer"
+
+msgid "identified users"
+msgstr "identifizierte Benutzer"
+
+msgid "all users"
+msgstr "alle Benutzer"
+
+msgid "None."
+msgstr "Keiner."
+
+msgid "%s (%d views)"
+msgstr "%s (%d Aufrufe)"
+
+msgid "By site"
+msgstr "Nach Standort"
+
+msgid "By page"
+msgstr "Nach Seite"
+
+msgid "By resource"
+msgstr "Nach Ressource"
+
+msgid "By download"
+msgstr "Per Download"
+
+msgid "By field"
+msgstr "Nach Feld"
+
+msgid "By item set"
+msgstr "Nach Artikelsatz"
+
+msgid "By value"
+msgstr "Nach Wert"
+
+msgid "No download"
+msgstr "Kein Download"
+
+msgid "No view"
+msgstr "Keine Aussicht"
+
+msgid "%s downloads: %s [%s]"
+msgstr "%s Downloads: %s [%s]"
+
+msgid "%s views: %s [%s]"
+msgstr "%s Aufrufe: %s [%s]"
+
+msgid "No specific resource"
+msgstr "Keine spezifische Ressource"
+
+msgid "Not downloaded"
+msgstr "Nicht heruntergeladen"
+
+msgid "Position: %s (%s downloads)"
+msgstr "Position: %s (%s Downloads)"
+
+msgid "Not viewed"
+msgstr "Nicht angesehen"
+
+msgid "Position: %s (%s views)"
+msgstr "Position: %s (%s Aufrufe)"
+
+msgid "Summary (%s total)"
+msgstr "Zusammenfassung (%s insgesamt)"
+
+msgid "Total Hits: %d [%d anonymous / %d identified]"
+msgstr "Gesamttreffer: %d [%d anonym / %d identifiziert]"
+
+msgid "Today: %d [%d / %d]"
+msgstr "Heute: %d [%d / %d]"
+
+msgid "History"
+msgstr "Geschichte"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "Rolling Period"
+msgstr "Rollperiode"
+
+msgid "Most viewed public pages"
+msgstr "Am häufigsten aufgerufene öffentliche Seiten"
+
+msgid "%s (%d views [%d / %d])"
+msgstr "%s (%d Aufrufe [%d / %d])"
+
+msgid "Most viewed public records"
+msgstr "Am häufigsten angesehene öffentliche Aufzeichnungen"
+
+msgid "Most viewed public collections"
+msgstr "Am häufigsten angesehene öffentliche Sammlungen"
+
+msgid "Most downloaded files"
+msgstr "Die meisten heruntergeladenen Dateien"
+
+msgid "%s (%d downloads [%d / %d])"
+msgstr "%s (%d Downloads [%d / %d])"
+
+msgid "Most frequent external referrers"
+msgstr "Die häufigsten externen Überweiser"
+
+msgid "Most frequent queries"
+msgstr "Die häufigsten Anfragen"
+
+msgid "Most frequent accepted languages"
+msgstr "Am häufigsten akzeptierte Sprachen"
+
+msgid "Most frequent languages"
+msgstr "Die häufigsten Sprachen"
+
+msgid "Most frequent browsers"
+msgstr "Die häufigsten Browser"
+
+msgid "Analytics (%s total)"
+msgstr "Analytics (%s insgesamt)"
+
+msgid "By %s (%s)"
+msgstr "Von %s (%s)"
+
+msgid "[%d filled values / %d total hits]"
+msgstr "[%d gefüllte Werte / %d Gesamttreffer]"
+
+msgid "Hits"
+msgstr "Treffer"
+
+msgid "Percent"
+msgstr "Prozent"
+
+msgid "There is no hit yet."
+msgstr "Es gibt noch keinen Treffer."
+
+msgid "The query searched %s hits and returned no results."
+msgstr "Die Abfrage hat %s Treffer durchsucht und keine Ergebnisse zurückgegeben."
+
+msgid "See all analytics."
+msgstr "Alle Analysen anzeigen."
+
+msgid "ODS"
+msgstr "ODS"
+
+msgid "TSV"
+msgstr "TSV"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "[no title]"
+msgstr "[kein Titel]"
+
+msgid "Omeka could not find any statistics."
+msgstr "Omeka konnte keine Statistiken finden."
+
+msgid "The query searched %s rows and returned no results."
+msgstr "Die Abfrage hat %s Zeilen durchsucht und keine Ergebnisse zurückgegeben."
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Identified"
+msgstr "Identifiziert"
+
+msgid "Dedicated resource"
+msgstr "Dedizierte Ressource"
+
+msgid "Last date"
+msgstr "Letzter Termin"
+
+msgid "Select a property to get analytics on it."
+msgstr "Wählen Sie eine Eigenschaft aus, um Analysen dazu zu erhalten."
+
+msgid "Check the form."
+msgstr "Überprüfen Sie das Formular."
+
+msgid "Total Hits: %d"
+msgstr "Gesamttreffer: %d"
+
+msgid "Today: %d"
+msgstr "Heute: %d"
+
+msgid "%s (%d downloads)"
+msgstr "%s (%d Downloads)"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "There is no resource yet."
+msgstr "Es ist noch keine Ressource vorhanden."
+
+msgid "The query searched %s resources and returned no results."
+msgstr "Die Abfrage hat %s Ressourcen durchsucht und keine Ergebnisse zurückgegeben."
+
+msgid "See all statistics."
+msgstr "Alle Statistiken anzeigen."
+
+msgid "Select a metadata to get statistics on it."
+msgstr "Wählen Sie Metadaten aus, um Statistiken dazu zu erhalten."
+
+msgid "Totals"
+msgstr "Summen"
+
+msgid "There is no resources yet."
+msgstr "Es sind noch keine Ressourcen vorhanden."
+
+msgid "Total ressources: %d [%d item sets / %d items / %d medias]"
+msgstr "Gesamtressourcen: %d [%d Artikelsätze / %d Artikel / %d Medien]"
+
+msgid "The module %1$sAdvanced Search%2$s is required to get many more statistics."
+msgstr "Um viele weitere Statistiken zu erhalten, ist das Modul %1$sErweiterte Suche%2$s erforderlich."
+
+msgid "Today: %d [%d / %d / %d]"
+msgstr "Heute: %d [%d / %d / %d]"
+
+msgid "To control access to files, you must add a rule in file .htaccess at the root of Omeka. See %sreadme%s."
+msgstr "Um den Zugriff auf Dateien zu steuern, müssen Sie eine Regel in der Datei .htaccess im Stammverzeichnis von Omeka hinzufügen.Siehe %sreadme%s."
+
+msgid "There are now analytics by period for properties."
+msgstr "Es gibt jetzt Analysen nach Zeitraum für Immobilien."
+
+msgid "There are now statistics about resources and values."
+msgstr "Es gibt jetzt Statistiken über Ressourcen und Werte."
+
+msgid "A new option allows to disable statistics on the admin dashboard. It is set by default."
+msgstr "Mit einer neuen Option können Statistiken im Admin-Dashboard deaktiviert werden.Es ist standardmäßig eingestellt."
+
+msgid "Views: %d (anonymous: %d / users: %d)"
+msgstr "Aufrufe: %d (anonym: %d / Benutzer: %d)"
+
+msgid "Position: %d (anonymous: %d / users: %d)"
+msgstr "Position: %d (anonym: %d / Benutzer: %d)"
+
+msgid "Most viewed public item"
+msgstr "Am häufigsten angesehenes öffentliches Element"
+
+msgid "Most viewed public item set"
+msgstr "Am häufigsten angesehenes öffentliches Objektset"
+
+msgid "Most downloaded file"
+msgstr "Am häufigsten heruntergeladene Datei"
+
+msgid "Most frequent fields"
+msgstr "Die häufigsten Felder"
+
+msgid "Referrer"
+msgstr "Referrer"
+
+msgid "User Agent"
+msgstr "Benutzeragent"
+
+msgid "To get statistics about files, you must add a rule in file .htaccess at the root of Omeka. See {link}readme{link_end}."
+msgstr "Um Statistiken über Dateien zu erhalten, müssen Sie eine Regel in der Datei .htaccess im Stammverzeichnis von Omeka hinzufügen.Siehe {link}readme{link_end}."
+
+msgid "Statistics: Index statistics (needed only after direct import)"
+msgstr "Statistiken: Indexstatistiken (nur nach direktem Import erforderlich)"
+
+msgid "Update of aggregated statistics: Start"
+msgstr "Aktualisierung der aggregierten Statistiken: Start"
+
+msgid "Update of aggregated statistics: Ended."
+msgstr "Aktualisierung der aggregierten Statistiken: Beendet."
+
+msgid "Exception when storing hit/stat: {message}"
+msgstr "Ausnahme beim Speichern von Treffer/Statistik: {message}"
+
+msgid "Large"
+msgstr "Groß"
+
+msgid "Square"
+msgstr "Quadrat"
+
+msgid "Resource query"
+msgstr "Ressourcenabfrage"
+
+msgid "Filter the resources"
+msgstr "Filtern Sie die Ressourcen"
+
+msgid "All years"
+msgstr "Alle Jahre"
+
+msgid "All monthes"
+msgstr "Alle Monate"
+
+msgid "Level of privacy for new hits"
+msgstr "Grad der Privatsphäre für neue Hits"
+
+msgid "Hashed IP"
+msgstr "Gehashte IP"
+
+msgid "Partial IP (first hex)"
+msgstr "Teilweise IP (erstes Hex)"
+
+msgid "Partial IP (first 2 hexs)"
+msgstr "Teilweise IP (erste 2 Hexfelder)"
+
+msgid "Partial IP (first 3 hexs)"
+msgstr "Teilweise IP (erste 3 Hexfelder)"
+
+msgid "Clear IP"
+msgstr "IP löschen"
+
+msgid "Include crawlers/bots"
+msgstr "Crawler/Bots einbeziehen"
+
+msgid "By checking this box, all hits which user agent contains the term \"bot\", \"crawler\", \"spider\", etc. will be included."
+msgstr "Durch Aktivieren dieses Kontrollkästchens werden alle Treffer berücksichtigt, bei denen der Benutzeragent die Begriffe „Bot“, „Crawler“, „Spider“ usw. enthält."
+
+msgid "User status for admin pages"
+msgstr "Benutzerstatus für Admin-Seiten"
+
+msgid "Total hits"
+msgstr "Gesamttreffer"
+
+msgid "Identified users"
+msgstr "Identifizierte Benutzer"
+
+msgid "User status for public pages"
+msgstr "Benutzerstatus für öffentliche Seiten"
+
+msgid "Disable statistics on admin dashboard"
+msgstr "Statistiken im Admin-Dashboard deaktivieren"
+
+msgid "Results per page (admin)"
+msgstr "Ergebnisse pro Seite (admin)"
+
+msgid "Results per page (public)"
+msgstr "Ergebnisse pro Seite (öffentlich)"
+
+msgid "Allow public to access statistics"
+msgstr "Ermöglichen Sie der Öffentlichkeit den Zugriff auf Statistiken"
+
+msgid "Allow public to access analytics summary"
+msgstr "Ermöglichen Sie der Öffentlichkeit den Zugriff auf die Analysezusammenfassung"
+
+msgid "Allow public to access detailled analytics"
+msgstr "Ermöglichen Sie der Öffentlichkeit den Zugriff auf detaillierte Analysen"
+
+msgid "By item"
+msgstr "Nach Artikel"
+
+msgid "By media"
+msgstr "Durch Medien"
+
+msgid "By year"
+msgstr "Nach Jahr"
+
+msgid "By month"
+msgstr "Monatlich"
+
+msgid "Resource types"
+msgstr "Ressourcentypen"
+
+msgid "Counts"
+msgstr "Zählt"
+
+msgid "Repartition"
+msgstr "Neupartitionierung"
+
+msgid "Evolution"
+msgstr "Evolution"
+
+msgid "Variation"
+msgstr "Variation"
+
+msgid "Has resource or page"
+msgstr "Hat eine Ressource oder Seite"
+
+msgid "Has no resource"
+msgstr "Hat keine Ressource"
+
+msgid "query"
+msgstr "Abfrage"
+
+msgid "User agent"
+msgstr "Benutzeragent"
+
+msgid "Accept language"
+msgstr "Sprache akzeptieren"
+
+msgid "It is not possible to query stats on all resources types at the same time for now."
+msgstr "Derzeit ist es nicht möglich, Statistiken zu allen Ressourcentypen gleichzeitig abzufragen."
+
+msgid "The stat requires a url."
+msgstr "Für die Statistik ist eine URL erforderlich."
+
+msgid "The stat requires a type."
+msgstr "Für die Statistik ist ein Typ erforderlich."
+
+msgid "The stat requires a type: \"page\", \"resource\", or \"download\"."
+msgstr "Die Statistik erfordert einen Typ: „Seite“, „Ressource“ oder „Download“."
+
+msgid "A stat must have a type (\"page\", \"resource\" or \"download\")."
+msgstr "Eine Statistik muss einen Typ haben („Seite“, „Ressource“ oder „Download“)."
+
+msgid "A stat must have a url."
+msgstr "Eine Statistik muss eine URL haben."
+
+msgid "The type should be unique for the url."
+msgstr "Der Typ sollte für die URL eindeutig sein."
+
+msgid "It is not possible to query hits on all resources types at the same time for now."
+msgstr "Es ist derzeit nicht möglich, Treffer für alle Ressourcentypen gleichzeitig abzufragen."
+
+msgid "api"
+msgstr "API"
+
+msgid "resource"
+msgstr "Ressource"
+
+msgid "download"
+msgstr "herunterladen"
+
+msgid "A property is required to get statistics."
+msgstr "Zum Abrufen von Statistiken ist eine Eigenschaft erforderlich."
+
+msgid "A year is required to get details by month."
+msgstr "Um Einzelheiten pro Monat zu erhalten, ist ein Jahr erforderlich."
+
+msgid "There is no results."
+msgstr "Es liegen keine Ergebnisse vor."
+
+msgid "The format \"{format}\" is not supported to export statistics."
+msgstr "Das Format „{format}“ wird zum Exportieren von Statistiken nicht unterstützt."
+
+msgid "There is no headers."
+msgstr "Es gibt keine Überschriften."
+
+msgid "[Removed site #%d]"
+msgstr "[Entfernte Site #%d]"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "External Referrers"
+msgstr "Externe Referenten"
+
+msgid "Queries"
+msgstr "Abfragen"
+
+msgid "Browsers"
+msgstr "Browser"
+
+msgid "Full Accepted Languages"
+msgstr "Vollständig akzeptierte Sprachen"
+
+msgid "Accepted Languages"
+msgstr "Akzeptierte Sprachen"
+
+msgid "[Removed item set #%d]"
+msgstr "[Entfernter Artikelsatz #%d]"
